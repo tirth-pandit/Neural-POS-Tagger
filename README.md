@@ -1,6 +1,6 @@
 # Neural-POS-Tagger-NLP
 
-Project Name: Create a Statistical or Neural POS Tagger<\br>
+Project Name: Create a Statistical or Neural POS Tagger<br />
 Details:
 POS tagging is a very basic task in NLP and Computational Linguistics. However, as many
 of you already know, the state of POS tagging for Indian Languages is quite a mess at the
@@ -20,8 +20,8 @@ Team Details:
 
 Overview:
 
-Baseline Model: <\br>
-	HMM:<\br>
+Baseline Model: <br />
+	HMM:<br />
 
 	CRF:
 
