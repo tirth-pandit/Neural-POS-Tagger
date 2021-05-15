@@ -1,0 +1,1000 @@
+GJSPD2001	ભારતના\N_NNP ટેસ્ટ\N_NN ઇતિહાસની\N_NN ઑસ્ટ્રેલિયા\N_NNP સામે\PSP વિકેટની\N_NN રીતે\N_NN સૌથી\JJ મોટી\JJ જીત\N_NN .\RD_PUNC
+GJSPD2002	ભારતનો\N_NNP ઑસ્ટ્રેલિયા\N_NNP સામે\PSP આઠ\QT_QTC વિકેટથી\N_NN ઐતિહાસિક\JJ વિજય\N_NN .\RD_PUNC
+GJSPD2003	ચેન્નાઈ\N_NNP તારીખ\N_NN ૨૬\QT_QTC કેપ્ટન\N_NN ધોનીની\N_NNP ૨૨૪\QT_QTC રનની\N_NN મેરેથોન\N_NN ઈનિંગની\N_NN મદદથી\N_NN ભારતે\N_NNP ઑસ્ટ્રેલિયા\N_NNP સામેની\PSP ચેન્નાઈમાં\N_NNP રમાયેલી\V_VAUX_VNP પ્રથમ\QT_QTO ટેસ્ટમાં\N_NN આઠ\QT_QTC વિકેટથી\N_NN ઐતિહાસિક\JJ વિજય\N_NN મેળવી\V_VAUX_VNP લીધો\V_VAUX હતો\V_VAUX .\RD_PUNC
+GJSPD2004	આજે\N_NST પાંચમા\QT_QTO અને\CC_CCD આખરી\JJ દિવસે\N_NN ઑસ્ટ્રેલિયાની\N_NNP બીજી\QT_QTO ઈનિંગ\N_NN ૨૪૧\QT_QTC રનમાં\N_NN સમેટાઈ\V_VM હતી\V_VAUX .\RD_PUNC
+GJSPD2005	જે\PR_PRL પછી\PSP ભારતે\N_NNP જીતવા\V_VAUX_VNP માટેના\PSP ૫૦\QT_QTC રનના\N_NN પડકારને\N_NN લંચની\N_NN ૪૦\QT_QTC મિનિટ\N_NN અગાઉ\PSP જ\RP_RPD ૧૧.૩\QT_QTC ઓવરમાં\N_NN બે\QT_QTC વિકેટ\N_NN ગુમાવીને\V_VAUX_VNP જીતી\V_VM લીધો\V_VAUX હતો\V_VAUX .\RD_PUNC
+GJSPD2006	ધોનીને\N_NNP મેન\N_NN ઓફ\PSP ધ\N_NN મેચ\N_NN જાહેર\JJ કરવામાં\V_VAUX_VNP આવ્યો\V_VAUX હતો\V_VAUX .\RD_PUNC
+GJSPD2007	ભારતે\N_NNP આ\DM_DMD સાથે\PSP ઑસ્ટ્રેલિયા\N_NNP સામેની\PSP ટેસ્ટ\N_NN મેચોના\N_NN ઇતિહાસનો\N_NN સૌથી\JJ મોટા\JJ અંતરનો\N_NN વિજય\N_NN મેળવ્યો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2008	અને\CC_CCD ચાર\QT_QTC ટેસ્ટની\N_NN શ્રેણીમાં\N_NN ૧-૦થી\QT_QTC સરસાઈ\N_NN પ્રાપ્ત\JJ કરી\V_VM હતી\V_VAUX .\RD_PUNC
+GJSPD2009	હવે\N_NST બીજી\JJ માર્ચથી\N_NN હૈદરાબાદમાં\N_NNP બીજી\QT_QTO ટેસ્ટનો\N_NN પ્રારંભ\N_NN થશે\V_VM .\RD_PUNC
+GJSPD2010	કેપ્ટન\N_NN ધોનીએ\N_NNP આ\DM_DMD સાથે\PSP ભારતીય\JJ ટેસ્ટ\N_NN ઇતિહાસના\N_NN સૌથી\JJ સફળ\JJ કેપ્ટન\N_NN તરીકે\PSP ગાંગુલીના\N_NNP રેકોર્ડની\N_NN બરોબરી\N_NN કરી\V_VM લીધી\V_VAUX હતી\V_VAUX .\RD_PUNC
+GJSPD2011	ગાંગુલીએ\N_NNP ૪૯\QT_QTC ટેસ્ટમાં\N_NN કેપ્ટન્સી\N_NN કરતાં\V_VAUX_VNP ભારતે\N_NNP ૨૧\QT_QTC વિજય\N_NN અપાવ્યા\V_VM હતા\V_VAUX .\RD_PUNC
+GJSPD2012	જ્યારે\N_NST ધોનીની\N_NNP આગેવાનીમાં\N_NN ભારત\N_NNP ૪૪\QT_QTC ટેસ્ટમાં\N_NN ૨૧\QT_QTC જીત\N_NN મેળવી\V_VM ચૂક્યું\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2013	ઑસ્ટ્રેલિયાના\N_NNP ૩૮૦ના\QT_QTC જવાબમાં\N_NN ભારતે\N_NNP ૫૭૨\QT_QTC રન\N_NN પ્રથમ\QT_QTO ઈનિંગમાં\N_NN નોંધાવ્યા\V_VM હતા\V_VAUX .\RD_PUNC
+GJSPD2014	જે\PR_PRL પછી\PSP ચોથા\QT_QTO દિવસના\N_NN અંતે\N_NN ઑસ્ટ્રેલિયાએ\N_NNP ૯\QT_QTC વિકેટે\N_NN ૨૩૨\QT_QTC રન\N_NN કરતાં\V_VAUX_VNP ભારતનો\N_NNP વિજય\N_NN નિશ્ચિત\JJ બની\V_VM ગયો\V_VAUX હતો\V_VAUX .\RD_PUNC
+GJSPD2015	ચાર\QT_QTC ટેસ્ટની\N_NN શ્રેણીમાં\N_NN ભારત\N_NN ૧-૦થી\QT_QTC આગળ\PSP તેંડુલકરે\N_NNP તેના\PR_PRP પ્રથમ\QT_QTO બે\QT_QTC બોલમાં\N_NN બે\QT_QTC છગ્ગા\QT_QTC ફટકાર્યા\V_VM .\RD_PUNC
+GJSPD2016	આજે\N_NST હેનરિક્સ\N_NNP અને\CC_CCD લીયોનની\N_NNP આખરી\JJ જોડીએ\N_NN વધુ\QT_QTF નવ\QT_QTC ઓવર\N_NN સંઘર્ષ\N_NN કરતાં\V_VAUX_VNP ગઈકાલના\N_NST સ્કોરમાં\N_NN વધુ\QT_QTC નવ\QT_QTC રન\N_NN ઉમેર્યા\V_VM હતા\V_VAUX .\RD_PUNC
+GJSPD2017	જાડેજાએ\N_NNP લિયોનને\N_NNP ૧૧\QT_QTC રને\N_NN વિજયના\N_NN હાથે\N_NN કેચઆઉટ\JJ કરાવતા\V_VAUX_VNP ઑસ્ટ્રેલિયાની\N_NNP બીજી\JJ ઈનિંગનો\N_NN ૨૪૧\QT_QTC રને\N_NN અંત\N_NN આવ્યો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2018	આ\DM_DMD સાથે\PSP ભારતને\N_NNP જીતવા\V_VAUX_VNP માટે\PSP ૫૦\QT_QTC રનનો\N_NN આસાન\JJ પડકાર\N_NN મળ્યો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2019	જોકે\CC_CCS આસાન\JJ પડકારને\N_NN ઝીલવામાં\V_VAUX_VNP ભારતની\N_NNP શરૂઆત\N_NN સારી\JJ રહી\V_VM ન\RP_NEG હતી\V_VAUX અને\CC_CCD વિજય\N_NNP માત્ર\RP_RPD ૬\QT_QTC રને\N_NN પેટીન્સનનો\N_NNP શિકાર\N_NN બન્યો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2020	જે\PR_PRL પછી\PSP સહેવાગ\N_NNP ૧૯\QT_QTC રને\N_NN લિયોનની\N_NNP બોલિંગમાં\N_NN ક્લાર્કના\N_NNP હાથે\N_NN કેચઆઉટ\JJ થયો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2021	જોકે\CC_CCS તેંડુલકરે\N_NNP આવતાની\V_VAUX_VNP સાથે\PSP સતત\JJ બે\QT_QTC છગ્ગા\QT_QTC ફટકારીને\V_VAUX_VNP પોતાનો\PR_PRF ઈરાદો\N_NN જાહેર\JJ કરી\V_VM દીધો\V_VAUX હતો\V_VAUX .\RD_PUNC
+GJSPD2022	તેની\PR_PRP અને\CC_CCD પૂજારાની\N_NNP જોડીએ\N_NN ભારતને\N_NNP વિજય\N_NN અપાવતા\V_VAUX_VNP જરૂરી\JJ ૧૪૧\QT_QTC રન\N_NN પોતાની\PR_PRF વિકેટ\N_NN બચાવી\V_VM રાખતાં\V_VAUX_VNP નોંધાવ્યા\V_VM હતા\V_VAUX .\RD_PUNC
+GJSPD2023	અશ્વિનનો\N_NNP દેખાવ\N_NN પણ\RP_RPD મેન\N_NN ઓફ\PSP ધ\PSP મેચને\N_NN લાયક\JJ જ\RP_RPD હતો\V_VAUX .\RD_PUNC
+GJSPD2024	અશ્વિને\N_NNP તેના\PR_PRP જ\RP_RPD હોમગ્રાઉન્ડ\N_NN પર\PSP ભારતને\N_NNP જે\PR_PRL રીતે\N_NN વિજય\N_NN અપાવ્યો\V_VM તેના\DM_DMD પરથી\PSP તેણે\PR_PRP તેની\PR_PRP અંગત\JJ કારકિર્દીની\N_NN આગવી\JJ પ્રતિભાની\N_NN ઝલક\N_NN તો\RP_RPD બતાવી\V_VM જ\RP_RPD છે\V_VAUX .\RD_PUNC
+GJSPD2025	પણ\CC_CCD ટીમ\N_NN માટે\PSP પણ\RP_RPD તેની\PR_PRP મહત્તા\N_NN પૂરવાર\JJ કરી\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2026	હજુ\N_NST ૧૩\QT_QTC ટેસ્ટની\N_NN જ\RP_RPD તેની\PR_PRP કારકિર્દીમાં\N_NN તે\PR_PRP ટીમનો\N_NN નિર્ણાયક\JJ ખેલાડી\N_NN બની\V_VM ગયો\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2027	અશ્વિનની\N_NNP સામે\PSP અવનવા\JJ પડકારો\N_NN હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2028	કે\CC_CCS તે\PR_PRP ત્રણે\QT_QTC ય\RP_RPD ફોરમેટનો\N_NN બોલર\N_NN છે\V_VAUX .\RD_PUNC
+GJSPD2029	જેમાં\PR_PRL જુદી\JJ જુદી\JJ રીતે\N_NN બોલિંગ\N_NN નાંખવી\V_VM પડે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2030	કેમકે\CC_CCS વનડેમાં\N_NN જે\PR_PRL શૈલીથી\N_NN બોલિંગ\N_NN નાંખવાની\V_VAUX_VNP હોય\V_VAUX તે\DM_DMD ટેસ્ટમાં\N_NN ના\RP_NEG ચાલે\V_VM .\RD_PUNC
+GJSPD2031	તે\DM_DMD રીતે\N_NN જોઈએ\V_VM તો\CC_CCD તેણે\PR_PRP પ્રત્યેક\JJ બોલમાં\N_NN વૈવિધ્ય\N_NN લાવવું\V_VAUX_VNP પડે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2032	વનડેમાં\N_NN કેરમ\N_NN બોલ\N_NN સ્લો\JJ રીલીઝ\JJ બોલ\N_NN ફેંકી\V_VM શકાય\V_VAUX .\RD_PUNC
+GJSPD2033	ટેસ્ટમાં\N_NN અશ્વિને\N_NNP વૈવિધ્યતા\N_NN સાથે\PSP ઓફ\PSP સ્પિન\N_NN બોલિંગ\N_NN પર\PSP જ\RP_RPD મદાર\N_NN રાખ્યો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2034	આ\DM_DMD માટે\PSP કોચે\N_NN જે\PR_PRL પાયાની\N_NN તાલીમ\N_NN આપી\V_VM હોય\V_VAUX તેને\DM_DMD જ\RP_RPD અનુસરવું\V_VAUX_VNP પડે\V_VAUX .\RD_PUNC
+GJSPD2035	ચેન્નાઈના\N_NNP જ\RP_RPD ભૂતપૂર્વ\JJ ઓફ\PSP સ્પિનર\N_NN વેંકટરાઘવનની\N_NNP જેમ\PSP જ\RP_RPD અશ્વિનને\N_NNP તેની\DM_DMD ઊંચાઈનો\N_NN ફાયદો\N_NN મળે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2036	તે\PR_PRP બોલને\N_NN ઉપરથી\N_NST નીચે\N_NST તરફ\PSP લાવે\V_VM ત્યારે\N_NST બેટ્સમેન\N_NN માટે\PSP મુસીબત\N_NN સર્જાય\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2037	અશ્વિન\N_NNP ઈચ્છે\V_VM ત્યાં\N_NST અને\CC_CCD ત્યારે\N_NST બોલની\N_NN પીચ\N_NN પાડી\V_VM શકે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2038	તે\DM_DMD વેધક\JJ પૂરવાર\JJ થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2039	આમ\PSP તેની\DM_DMD બોલિંગ\N_NN જૂની\JJ પરંપરાગત\JJ પદ્ધતિ\N_NN કહી\V_VM શકાય\V_VAUX .\RD_PUNC
+GJSPD2040	અશ્વિનને\N_NNP પણ\RP_RPD મેન\N_NN ઓફ\PSP ધ\PSP મેચ\N_NN ધોની\N_NNP બન્યો\V_VM તેનો\DM_DMD વાંધો\N_NN નહીં\RP_NEG હોય\V_VAUX .\RD_PUNC
+GJSPD2041	ધોનીની\N_NNP ઈનિંગ\N_NN `\RD_PUNC વન્સ\PSP ઈન\PSP લાઈફટાઈમ\N_NN `\RD_PUNC કહી\V_VM શકાય\V_VAUX .\RD_PUNC
+GJSPD2042	તે\PR_PRP આવી\JJ વધુ\QT_QTF ઈનિંગ્સ\N_NN રમવા\V_VAUX_VNP જોકે\CC_CCS સક્ષમ\JJ છે\V_VAUX જ\RP_RPD .\RD_PUNC
+GJSPD2043	હેનરિક્સ\N_NNP અને\CC_CCD લિયોનની\N_NNP જોડીએ\N_NN ભારતીય\JJ બોલરો\N_NN -\RD_PUNC ફિલ્ડરોને\N_NN હંફાવતા\V_VAUX_VNP આખરી\JJ વિકેટમાં\N_NN ૬૬\QT_QTC રનની\N_NN ભાગીદારી\N_NN નોંધાવી\V_VM હતી\V_VAUX .\RD_PUNC
+GJSPD2044	જોકે\CC_CCS તેઓ\PR_PRP આખરી\JJ દિવસે\N_NN પીચ\N_NN પર\PSP લાંબુ\JJ ટકી\V_VM શક્યા\V_VAUX નહતા\RP_NEG .\RD_PUNC
+GJSPD2045	જાડેજાએ\N_NNP ઑસ્ટ્રેલિયાની\N_NNP આખરી\JJ વિકેટના\N_NN રૂપમાં\N_NN લિયોનને\N_NNP આઉટ\JJ કરીને\V_VAUX_VNP ભારતની\N_NNP જીતને\N_NN આસાન\N_NN કરી\V_VM દીધી\V_VAUX હતી\V_VAUX .\RD_PUNC
+GJSPD2046	જાડેજાએ\N_NNP કુલ\JJ ત્રણ\QT_QTC વિકેટ\N_NN ઝડપી\V_VM હતી\V_VAUX .\RD_PUNC
+GJSPD2047	ચેન્નઈ\N_NNP તારીખ\N_NN ૨૬\QT_QTC હૈદરાબાદમાં\N_NNP ૨\QT_QTC માર્ચથી\N_NN શરૂ\JJ થતી\V_VAUX_VNP ઑસ્ટ્રેલિયા\N_NNP સામેની\PSP બીજી\JJ ટેસ્ટમાં\N_NN ભારતની\N_NNP ઈલેવનમાં\N_NN કોઈ\PR_PRI ફેરફાર\N_NN નહીં\RP_NEG કરવામાં\V_VAUX_VNP આવે\V_VAUX તેવા\JJ સંકેત\N_NN તેમણે\PR_PRP કેટલાક\QT_QTF ખેલાડીઓના\N_NN નામ\N_NN સાથે\PSP આપ્યા\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2048	સહેવાગ\N_NNP તે\DM_DMD એક\QT_QTC મહત્વનો\JJ બેટ્સમેન\N_NN છે\V_VAUX .\RD_PUNC
+GJSPD2049	તે\PR_PRP મોટી\JJ ઈનિંગ\N_NN રમે\V_VM તો\CC_CCD તમને\PR_PRP તેના\DM_DMD જેવો\JJ કોઈ\DM_DMI બેટ્સમેન\N_NN ના\RP_NEG લાગે\V_VM .\RD_PUNC
+GJSPD2050	પણ\CC_CCD જે\PR_PRL રીતે\N_NN આઉટ\JJ થાય\V_VM છે\V_VAUX તેનાથી\DM_DMD ઘણી\QT_QTF ટીકાઓ\N_NN પણ\RP_RPD મેળવે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2051	આ\DM_DMD જ\RP_RPD તેની\PR_PRP શૈલી\N_NN છે\V_VAUX .\RD_PUNC
+GJSPD2052	તેને\PR_PRP તે\DM_DMD રીતે\N_NN રમવા\V_VAUX_VNP દેવો\V_VAUX_VNP જોઈએ\V_VAUX .\RD_PUNC
+GJSPD2053	પ્રથમ\QT_QTO ઈનિંગમાં\N_NN કમનસીબથી\N_NN આઉટ\JJ થયો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2054	તેને\PR_PRP પડતો\V_VAUX_VNP ના\RP_NEG મૂકી\V_VM શકાય\V_VAUX .\RD_PUNC
+GJSPD2055	વિજય\N_NNP હજુ\N_NST પહેલી\QT_QTO ટેસ્ટમાં\N_NN જ\RP_RPD તે\PR_PRP નિષ્ફળ\JJ રહ્યો\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2056	તેને\PR_PRP આ\DM_DMD જ\RP_RPD ધોરણે\N_NN પડતો\V_VAUX_VNP મૂકવાનું\V_VAUX_VNP કોઈ\PR_PRI કારણ\N_NN હું\PR_PRP નથી\RP_NEG જોતો\V_VAUX_VNP .\RD_PUNC
+GJSPD2057	સહેવાગ\N_NNP વિજયની\N_NNP ઓપનિંગ\N_NN જોડી\N_NN બરાબર\PSP જ\RP_RPD છે\V_VAUX .\RD_PUNC
+GJSPD2058	જાડેજા\N_NNP ત્રીજા\QT_QTO સ્પિનર\N_NN તરીકે\PSP વિવિધતા\N_NN પૂરી\JJ પાડે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2059	ટેસ્ટ\N_NN ક્રિકેટમાં\N_NN તે\PR_PRP જ્યાં\N_NST સુધી\PSP સેટલ\JJ નહીં\RP_NEG થાય\V_VM ત્યાં\N_NST સુધી\PSP હું\PR_PRP છઠ્ઠા\QT_QTO ક્રમે\N_NN બેટિંગમાં\N_NN આવીશ\V_VM .\RD_PUNC
+GJSPD2060	તેના\PR_PRP સ્થાને\N_NN સ્પેશ્યલ\JJ સ્પિનર\N_NN લાવવાના\V_VAUX_VNP વિકલ્પને\N_NN તેણે\PR_PRP જ\RP_RPD આ\DM_DMD રીતે\N_NN ફગાવ્યો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2061	તેના\PR_PRP માટે\PSP આરામદેહ\N_NN વાતાવરણ\N_NN સર્જવા\V_VAUX_VNP માંગે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2062	હરભજન\N_NNP બીજી\QT_QTO ઈનિંગમાં\N_NN તેણે\PR_PRP ખરેખર\PSP સારી\JJ બોલિંગ\N_NN નાખી\V_VM હતી\V_VAUX .\RD_PUNC
+GJSPD2063	તેનો\PR_PRP આત્મવિશ્વાસ\N_NN વધારવો\V_VAUX_VNP પણ\RP_RPD જરૂરી\JJ છે\V_VAUX .\RD_PUNC
+GJSPD2064	ચાર\QT_QTC સ્પિનરો\N_NN ઑસ્ટ્રેલિયાના\N_NNP સ્પિનરો\N_NN સામે\PSP ઝૂકી\V_VM ગયું\V_VAUX એટલે\PSP ચાર\QT_QTC સ્પિનરો\N_NN રમાડવાનું\V_VAUX_VNP ઘણાને\QT_QTF પ્રલોભન\N_NN થાય\V_VM પણ\CC_CCD ચારમાંથી\QT_QTC કોઈ\PR_PRI એક\QT_QTC બોલરને\N_NN ઓછી\QT_QTF ઓવરો\N_NN નાંખવાની\V_VAUX_VNP આવી\V_VM .\RD_PUNC
+GJSPD2065	ચારને\QT_QTC ન્યાય\N_NN કરવામાં\V_VAUX_VNP પ્રભાવ\N_NN પણ\RP_RPD તૂટી\V_VM જઈ\V_VAUX શકે\V_VAUX .\RD_PUNC
+GJSPD2066	ત્રણ\QT_QTC સ્પિનરોનું\N_NN કોમ્બીનેશન\N_NN બરાબર\PSP છે\V_VAUX .\RD_PUNC
+GJSPD2067	પ્રજ્ઞાન\N_NNP ઓઝા\N_NNP બે\QT_QTC ઓફ\PSP સ્પિનર\N_NN અને\CC_CCD એક\QT_QTC ડાબોડી\JJ સ્પિનરનું\N_NN કોમ્બીનેશન\N_NN પ્રથમ\QT_QTO ટેસ્ટમાં\N_NN તો\RP_RPD બરાબર\PSP લાગ્યું\V_VM .\RD_PUNC
+GJSPD2068	૩૭\QT_QTC વર્ષ\N_NN બાદ\PSP ભારતીય\JJ સ્પિનરોએ\N_NN હરિફ\JJ ટીમની\N_NN ૨૦\QT_QTC વિકેટ\N_NN ઝડપી\V_VM .\RD_PUNC
+GJSPD2069	ચેન્નઈમાં\N_NNP ભારતે\N_NNP ઘરઆંગણે\N_NN સૌથી\JJ વધુ\QT_QTF ૧૩\QT_QTC વિજય\N_NN મેળવ્યા\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2070	ભારતને\N_NNP ૨૦-૨૦\N_NNP વર્લ્ડ\N_NNP કપ\N_NNP બાદ\PSP આઈસીસી\N_NNP વન\N_NNP ડે\N_NNP વર્લ્ડ\N_NNP કપમાં\N_NNP ઐતિહાસિક\JJ સફળતા\N_NN અપાવનારા\V_VAUX_VNP `\RD_PUNC કેપ્ટન\N_NN કૂલ\N_NN `\RD_PUNC ધોનીએ\N_NNP ભારતના\N_NNP લેજન્ડરી\JJ સુકાની\N_NN ગાંગુલીની\N_NNP બરોબરી\N_NN મેળવી\V_VM લીધી\V_VAUX હતી\V_VAUX .\RD_PUNC
+GJSPD2071	ધોનીની\N_NNP કેપ્ટન\N_NN તરીકેની\PSP કારકિર્દીની\N_NN આ\DM_DMD ૪૪મી\QT_QTO ટેસ્ટમાં\N_NN મેળવેલો\V_VAUX_VNP ૨૧મો\QT_QTO વિજય\N_NN હતો\V_VAUX .\RD_PUNC
+GJSPD2072	આ\DM_DMD સાથે\PSP ધોનીએ\N_NNP ભારતીય\JJ ટેસ્ટ\N_NN ઇતિહાસના\N_NN સૌથી\JJ સફળ\JJ કેપ્ટન\N_NN તરીકે\PSP ૨૧\QT_QTC વિજય\N_NN મેળવવાના\V_VAUX_VNP ગાંગુલીના\N_NNP રેકોર્ડની\N_NN બરોબરી\N_NN કરી\V_VM લીધી\V_VAUX હતી\V_VAUX .\RD_PUNC
+GJSPD2073	અઝહરૂદિન\N_NNP ૪૭\QT_QTC ટેસ્ટમાં\N_NN ભારતનું\N_NNP સુકાન\N_NN સંભાળતાં\V_VAUX_VNP ૧૪\QT_QTC વિજય\N_NN સાથે\PSP ત્રીજા\QT_QTO ક્રમે\N_NN છે\V_VAUX .\RD_PUNC
+GJSPD2074	ચેન્નઈમાં\N_NNP રમાયેલી\V_VAUX_VNP ઑસ્ટ્રેલિયાની\N_NNP સામેની\PSP પ્રથમ\QT_QTO ટેસ્ટમાં\N_NN ભારતીય\JJ સ્પિનરો\N_NN (\RD_SYM અશ્વિન\N_NNP ,\RD_PUNC હરભજન\N_NNP અને\CC_CCD જાડેજાએ\N_NNP તમામ\JJ ૨૦\QT_QTC વિકેટ\N_NN ઝડપવાની\V_VAUX_VNP અનોખી\JJ સિદ્ધિ\N_NN મેળવી\V_VAUX_VNP હતી\V_VAUX .\RD_PUNC
+GJSPD2075	આવી\JJ ઘટના\N_NN ૩૭\QT_QTC વર્ષ\N_NN બાદ\PSP ભારતીય\JJ ટેસ્ટ\N_NN ઇતિહાસમાં\N_NN નોંધાઈ\V_VAUX હતી\V_VAUX .\RD_PUNC
+GJSPD2076	ભારતીય\JJ ટેસ્ટ\N_NN ઇતિહાસમાં\N_NN ત્રણ\QT_QTC વખત\N_NN આ\DM_DMD પ્રકારની\N_NN ઘટના\N_NN નોંધાઈ\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2077	છેલ્લે\JJ ૧૯૭૬માં\QT_QTC ઓકલેન્ડમાં\N_NNP ભારતીય\JJ સ્પિનરોએ\N_NN ન્યુઝીલેન્ડ\N_NNP સામેની\N_NN ટેસ્ટમાં\N_NN તમામ\JJ ૨૦\QT_QTC વિકેટો\N_NN ઝડપી\V_VM હતી\V_VAUX .\RD_PUNC
+GJSPD2078	ટેસ્ટમાં\N_NN બધી\QT_QTF વિકેટ\N_NN સ્પિનરોને\N_NN મળી\V_VM હોય\V_VAUX તેવી\JJ ઘટના\N_NN પાકિસ્તાનના\N_NNP ટેસ્ટ\N_NN ઇતિહાસમાં\N_NN બે\QT_QTC વખત\N_NN અને\CC_CCD ઈંગ્લેન્ડના\N_NNP ટેસ્ટ\N_NN ઇતિહાસમાં\N_NN એક\QT_QTC વખત\N_NN નોંધાઈ\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2079	ચેન્નઈ\N_NNP ભારતનું\N_NNP ફેવરિટ\JJ હોમગ્રાઉન્ડ\N_NN છે\V_VAUX .\RD_PUNC
+GJSPD2080	ભારતે\N_NNP ઑસ્ટ્રેલિયા\N_NNP સામે\PSP મેળવેલ\V_VAUX_VNP વિજય\N_NN ચેન્નઈના\N_NNP ચેપોકસ્ટેડિયમ\N_NN પર\PSP ભારતે\N_NNP મેળવેલો\V_VAUX_VNP કુલ\JJ ૧૩મો\QT_QTO ટેસ્ટ\N_NN વિજય\N_NN હતો\V_VAUX .\RD_PUNC
+GJSPD2081	આ\DM_DMD સાથે\PSP ભારતે\N_NNP ઘરઆંગણે\N_NN સૌથી\JJ વધુ\QT_QTF વિજય\N_NN ચેન્નઈ\N_NNP ખાતે\PSP મેળવ્યો\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2082	જ્યારે\N_NST ચેન્નઈ\N_NNP પછી\PSP બીજું\JJ સ્થાન\N_NN દિલ્હીનું\N_NNP આવે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2083	જ્યાં\N_NST ભારત\N_NNP ૧૧\QT_QTC વિજય\N_NN મેળવી\V_VM ચૂક્યું\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2084	ચેન્નઈમાં\N_NNP રમાયેલી\V_VAUX_VNP ઑસ્ટ્રેલિયા\N_NNP સામેની\PSP છેલ્લી\JJ ચારમાંથી\QT_QTC ત્રણ\QT_QTC ટેસ્ટ\N_NN ભારત\N_NNP જીતી\V_VM ચૂક્યું\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2085	જ્યારે\N_NST ૨૦૦૪માં\QT_QTC અહીં\N_NST રમાયેલી\V_VAUX_VNP ટેસ્ટ\N_NN ડ્રો\JJ થઈ\V_VM હતી\V_VAUX .\RD_PUNC
+GJSPD2086	ચેન્નઈમાં\N_NNP ભારતને\N_NNP ઑસ્ટ્રેલિયા\N_NNP સામે\PSP છેલ્લે\JJ ૧૯૬૯માં\QT_QTC પરાજય\N_NN સહન\JJ કરવો\V_VAUX_VNP પડ્યો\V_VAUX હતો\V_VAUX .\RD_PUNC
+GJSPD2087	ભારે\JJ અનિશ્ચિતતા\N_NN બાદ\PSP ભારત\N_NNP અઝલાન\N_NNP શાહ\N_NNP કપ\N_NNP હોકીમાં\N_NN રમશે\V_VM .\RD_PUNC
+GJSPD2088	ભારે\JJ અનિશ્ચિતતા\N_NN અને\CC_CCD વિવાદના\N_NN વમળો\N_NN બાદ\PSP આખરે\JJ ભારતીય\JJ મેન્સ\N_NN હોકી\N_NN ટીમનો\N_NN મલેશિયામાં\N_NNP રમાનારી\V_VAUX_VNP અઝલાન\N_NNP શાહ\N_NNP કપ\N_NNP હોકી\N_NN ટુર્નામેન્ટમાં\N_NN ભાગ\N_NN લેવાનો\V_VAUX_VNP રસ્તો\N_NN સાફ\JJ થઈ\V_VM ગયો\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2089	અગાઉ\PSP સ્પોર્ટસ\N_NNP ઓથોરીટી\N_NNP ઓફ\N_NNP ઈન્ડિયાએ\N_NNP ભારતીય\JJ હોકી\N_NN ટીમના\N_NN અઝલાન\N_NNP શાહ\N_NNP કપ\N_NNP માટેના\PSP મલેશિયા\N_NNP પ્રવાસ\N_NN માટેના\PSP વિમાની\JJ ખર્ચને\N_NN મંજૂરી\N_NN ના\RP_NEG આપતા\V_VAUX_VNP વિવાદ\N_NN સર્જાયો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2090	એસએસાઈના\N_NNP નિર્ણયથી\N_NN ભારતને\N_NNP અઝલાન\N_NNP શાહ\N_NNP કપમાંથી\N_NNP ખસી\V_VM જવાની\V_VAUX_VNP સ્થિતિ\N_NN સર્જાઈ\V_VM હતી\V_VAUX .\RD_PUNC
+GJSPD2091	ભારતને\N_NNP આંતરરાષ્ટ્રીય\JJ સ્તરે\N_NN બદનામીભરી\JJ સ્થિતિનો\N_NN સામનો\N_NN કરવો\V_VAUX_VNP પડે\V_VAUX તે\DM_DMD પહેલા\N_NST જ\RP_RPD રમત\N_NN મંત્રાલયે\N_NN દરમિયાનગીરી\N_NN કરી\V_VM હતી\V_VAUX અને\CC_CCD હોકી\N_NN ટીમનો\N_NN વિમાની\JJ ખર્ચ\N_NN મંજૂર\JJ કર્યો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2092	મંત્રાલયે\N_NN આ\DM_DMD સાથે\PSP ભારતમાં\N_NNP હોકીનું\N_NN સંચાલન\N_NN કરનારી\V_VAUX_VNP સર્વોચ્ચ\JJ સંસ્થા\N_NN હોકી\N_NNP ઈન્ડિયાને\N_NNP ચેતવણી\N_NN આપી\V_VM હતી\V_VAUX કે\CC_CCS ,\RD_PUNC તેઓ\PR_PRP તેમના\PR_PRP બજેટને\N_NN યોગ્ય\JJ રીતે\N_NN તૈયાર\JJ કરે\V_VM અને\CC_CCD ખર્ચ\N_NN પર\PSP નિયંત્રણ\N_NN કરીને\V_VAUX_VNP ફળવાયેલા\V_VAUX_VNP નાણાનો\N_NN ખેલાડીઓના\N_NN હીતમાં\N_NN મહત્તમ\JJ ઉપયોગ\N_NN કરે\V_VM .\RD_PUNC
+GJSPD2093	મલેશિયાના\N_NNP ઈપોહ\N_NNP ખાતે\N_NN માર્ચની\N_NN ૯મીથી\QT_QTO ૧૭મી\QT_QTO સુધી\PSP સુલતાન\N_NNP અઝલાન\N_NNP શાહ\N_NNP કપ\N_NNP હોકી\N_NNP ટુર્નામેન્ટમાં\N_NNP ભારતની\N_NNP ટીમ\N_NN રમવાની\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJSPD2094	જોકે\CC_CCS સ્પોર્ટસ\N_NNP ઓથોરિટી\N_NNP ઓફ\N_NNP ઈન્ડિયાએ\N_NNP ટીમના\N_NN વિમાની\JJ ખર્ચને\N_NN આપવાનો\V_VAUX_VNP ઈનકાર\N_NN કરતાં\V_VAUX_VNP હોકી\N_NNP ઈન્ડિયાએ\N_NNP અઝલાન\N_NNP શાહ\N_NNP કપમાંથી\N_NNP ભારતીય\JJ ટીમને\N_NN પાછી\RB ખેંચી\V_VM લેવાનો\V_VAUX_VNP નિર્ણય\N_NN લીધો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2095	રમત\N_NN મંત્રાલયે\N_NN હોકીના\N_NN હિતમાં\N_NN વિમાની\JJ ખર્ચને\N_NN મંજૂરી\N_NN આપતાં\V_VAUX_VNP ભારતનો\N_NNP પ્રતિષ્ઠિત\JJ કપમાં\N_NN ભાગ\N_NN લેવાનો\V_VAUX_VNP રસ્તો\N_NN સાફ\JJ થયો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2096	સૌરાષ્ટ્રના\N_NNP ધુરંધર\JJ ચેતેશ્વર\N_NNP પુજારાના\N_NNP નોટઆઉટ\JJ ૧૬૨\QT_QTC અને\CC_CCD મુરલી\N_NNP વિજયના\N_NNP નોટઆઉટ\JJ ૧૨૯\QT_QTC રનની\N_NN મદદથી\N_NN ભારતે\N_NNP ઑસ્ટ્રેલિયા\N_NNP સામેની\PSP બીજી\QT_QTO ટેસ્ટમાં\N_NN પણ\RP_RPD મજબૂત\JJ સ્થિતિ\N_NN મેળવી\V_VM લીધી\V_VAUX હતી\V_VAUX .\RD_PUNC
+GJSPD2097	સહેવાગની\N_NNP વિકેટ\N_NN શરૂઆતમાં\N_NN સસ્તામાં\JJ ગુમાવ્યા\V_VM બાદ\PSP વિજય\N_NNP અને\CC_CCD પૂજારાએ\N_NNP ભારતીય\JJ ઈનિંગને\N_NN સ્થિરતા\N_NN આપી\V_VM હતી\V_VAUX અને\CC_CCD બંને\JJ નોટઆઉટ\JJ ૨૯૪\QT_QTC રનની\N_NN ભાગીદારી\N_NN નોંધાવી\V_VM હતી\V_VAUX .\RD_PUNC
+GJSPD2098	પૂજારાએ\N_NNP ૧૧\QT_QTC ટેસ્ટમાં\N_NN ત્રીજી\QT_QTO વખત\N_NN ૧૫૦થી\QT_QTC વધુનો\QT_QTF સ્કોર\N_NN નોંધાવ્યો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2099	જ્યારે\N_NST આ\DM_DMD તેની\DM_DMD ઓવરઓલ\JJ ટેસ્ટમાં\N_NN ચોથી\QT_QTO સદી\N_NN છે\V_VAUX .\RD_PUNC
+GJSPD2100	ઑસ્ટ્રેલિયાના\N_NNP ૨૩૭\QT_QTC રનના\N_NN સ્કોર\N_NN સામે\PSP ભારતના\N_NNP એક\QT_QTC વિકેટ\N_NN ૩૩૧\QT_QTC રન\N_NN .\RD_PUNC
+GJSPD2101	સૌરાષ્ટ્રના\N_NNP સ્ટાર\JJ બેટ્સમેન\N_NN ચેતેશ્વર\N_NNP પૂજારાની\N_NNP કારકિર્દીની\N_NN ૧૧મી\QT_QTO ટેસ્ટમાં\N_NN ચોથી\QT_QTO સદી\N_NN સાથેના\PSP નોટઆઉટ\JJ ૧૬૨\QT_QTC તેમજ\PSP ઓપન\JJ મુરલી\N_NNP વિજયની\N_NNP ૧૩મી\QT_QTO ટેસ્ટમાં\N_NN બીજી\QT_QTO સદી\N_NN સાથેના\PSP નોટઆઉટ\JJ ૧૨૯\QT_QTC રનની\N_NN મદદથી\N_NN ભારતે\N_NNP ઑસ્ટ્રેલિયા\N_NNP સામેની\PSP બીજી\QT_QTO ટેસ્ટમાં\N_NN વિજયનો\N_NN પાયો\N_NN નાખતી\V_VAUX_VNP બેટિંગ\N_NN કરી\V_VM હતી\V_VAUX .\RD_PUNC
+GJSPD2102	ઑસ્ટ્રેલિયાના\N_NNP ૨૩૭ના\QT_QTC સ્કોરના\N_NN જવાબમાં\N_NN ભારતે\N_NNP આજે\N_NST બીજા\JJ દિવસની\N_NN રમતના\N_NN અંતે\JJ પ્રથમ\QT_QTO ઈનિંગમાં\N_NN એક\QT_QTC વિકેટ\N_NN ૩૧૧\QT_QTC રન\N_NN નોંધાવ્યા\V_VM હતા\V_VAUX .\RD_PUNC
+GJSPD2103	આ\DM_DMD સાથે\PSP ભારતે\N_NNP ૭૪\QT_QTC રનની\N_NN સરસાઈ\N_NN મેળવી\V_VM લીધી\V_VAUX હતી\V_VAUX .\RD_PUNC
+GJSPD2104	પૂજારાએ\N_NNP અને\CC_CCD વિજયની\N_NNP જોડીએ\N_NN નોટઆઉટ\JJ ૨૯૪\QT_QTC રનની\N_NN મેરેથોન\N_NN ભાગીદારી\N_NN કરી\V_VM હતી\V_VAUX .\RD_PUNC
+GJSPD2105	હૈદરાબાદમાં\N_NNP ૩૫\QT_QTC ડીગ્રીએ\N_NN પહોંચેલા\V_VAUX_VNP ગરમીના\N_NN પારાની\N_NN સાથે\PSP પૂજારા\N_NNP અને\CC_CCD મુરલીવિજયની\N_NNP એકદમ\PSP `\RD_PUNC કૂલ\JJ માઈન્ડ\N_NN `\RD_PUNC ઈન્ગિસને\N_NN કારણે\PSP પણ\RP_RPD ઑસ્ટ્રેલિયન\N_NNP બોલરો\N_NN -\RD_PUNC ફિલ્ડરો\N_NN પરસેવે\N_NN રેબઝેબ\RB થઈ\V_VM ગયેલા\V_VAUX_VNP જોવા\V_VAUX_VNP મળતા\V_VAUX_VNP હતા\V_VAUX .\RD_PUNC
+GJSPD2106	આજે\N_NST ભારતે\N_NNP ૯૦\QT_QTC ઓવર\N_NN રમતમાં\N_NN ગઈકાલના\N_NST સ્કોરમાં\N_NN વધુ\QT_QTF ૩૦૬\QT_QTC રન\N_NN જોડ્યા\V_VM હતા\V_VAUX .\RD_PUNC
+GJSPD2107	અને\CC_CCD એકમાત્ર\PSP વિકેટ\N_NN ગુમાવી\V_VM હતી\V_VAUX .\RD_PUNC
+GJSPD2108	ગઈકાલે\N_NST ક્લાર્કે\N_NNP ૯\QT_QTC વિકેટ\N_NN ૨૩૭ના\QT_QTC સ્કોરે\N_NN ઈનિંગ\N_NN ડિકલેર\JJ કર્યા\V_VAUX_VNP બાદ\PSP ભારતને\N_NNP ૨૩૦ના\QT_QTC સ્કોર\N_NN પહેલા\N_NST ઓલઆઉટ\JJ કરવાની\V_VAUX_VNP બડાઈ\N_NN મીડિયાની\N_NN સામે\PSP હાંકી\V_VM હતી\V_VAUX .\RD_PUNC
+GJSPD2109	સવારે\N_NST સિડલે\N_NNP સેહવાગે\N_NNP માત્ર\RP_RPD ૬૨\QT_QTC રનના\N_NN વ્યક્તિગત\JJ સ્કોર\N_NN પર\PSP આઉટ\JJ કરીને\V_VAUX_VNP આત્મવિશ્વાસ\N_NN બતાવ્યો\V_VM હતો\V_VAUX પણ\CC_CCD ત્યારબાદ\PSP તેમના\PR_PRP અતિઆત્મવિશ્વાસ\N_NN ભરેલા\V_VAUX_VNP દાવાની\N_NN બધી\QT_QTF હવા\N_NN વિજય\N_NNP અને\CC_CCD પૂજારાની\N_NNP જોડીએ\N_NN કાઢી\V_VM નાંખી\V_VAUX હતી\V_VAUX .\RD_PUNC
+GJSPD2110	પૂજારાએ\N_NNP કારકિર્દીમાં\N_NN ત્રીજી\QT_QTO વખત\N_NN ૧૫૦થી\QT_QTC વધુનો\QT_QTF સ્કોર\N_NN કરતાં\V_VAUX_VNP ૨૫૧\QT_QTC બોલમાં\N_NN ૨૫\QT_QTC ચોગ્ગા\QT_QTC અને\CC_CCD ૧\QT_QTC છગ્ગા\QT_QTC સાથે\PSP નોટઆઉટ\JJ ૧૬૨\QT_QTC રન\N_NN ફટકાર્યા\V_VM હતા\V_VAUX .\RD_PUNC
+GJSPD2111	જ્યારે\N_NST વિજયે\N_NNP ૨૮૮\QT_QTC બોલમાં\N_NN ૧૭\QT_QTC ચોગ્ગા\QT_QTC અને\CC_CCD ૨\QT_QTC છગ્ગા\QT_QTC સાથે\PSP નોટઆઉટ\JJ ૧૨૯\QT_QTC રન\N_NN નોંધાવ્યા\V_VM હતા\V_VAUX .\RD_PUNC
+GJSPD2112	બંનેએ\JJ બીજી\QT_QTO વિકેટની\N_NN ભાગીદારીમાં\N_NN નોટઆઉટ\JJ ૨૯૪\QT_QTC રન\N_NN જોડ્યા\V_VM હતા\V_VAUX .\RD_PUNC
+GJSPD2113	વિજય\N_NNP અને\CC_CCD પૂજારાની\N_NNP ઈનિંગે\N_NN ઑસ્ટ્રેલિયાના\N_NNP બોલિંગ\N_NN આક્રમણને\N_NN સાવ\PSP ક્લબ\N_NN કક્ષાનું\N_NN સાબિત\JJ કર્યું\V_VM .\RD_PUNC
+GJSPD2114	સૌરાષ્ટ્રના\N_NNP યુવા\JJ બેટ્સમેન\N_NN પૂજારાએ\N_NNP ૧૮૮\QT_QTC બોલમાં\N_NN ૧૪\QT_QTC ચોગ્ગા\QT_QTC સાથે\PSP સદી\N_NN પૂરી\JJ કરી\V_VM હતી\V_VAUX .\RD_PUNC
+GJSPD2115	જ્યારે\N_NST તેના\DM_DMD ૧૫૦\QT_QTC રન\N_NN ૨૩૦\QT_QTC બોલમાં\N_NN નોંધાયા\V_VM હતા\V_VAUX .\RD_PUNC
+GJSPD2116	જેમાં\PR_PRL ૨૪\QT_QTC ચોગ્ગા\QT_QTC અને\CC_CCD ૧\QT_QTC છગ્ગો\QT_QTC સામેલ\JJ હતો\V_VAUX .\RD_PUNC
+GJSPD2117	પ્રથમ\QT_QTO સેશનમાં\N_NN ભારતીય\JJ બેટ્સમેનોએ\N_NN સંભાળભરી\JJ શરૂઆત\N_NN કરી\V_VM હતી\V_VAUX .\RD_PUNC
+GJSPD2118	સહેવાગની\N_NNP વિકેટ\N_NN ગુમાવ્યા\V_VM બાદ\PSP ભારતે\N_NNP પ્રથમ\QT_QTO સેશનમાં\N_NN ૨૭\QT_QTC ઓવરમાં\N_NN માત્ર\RP_RPD ૪૯\QT_QTC રન\N_NN ફટકાર્યા\V_VM હતા\V_VAUX .\RD_PUNC
+GJSPD2119	જોકે\CC_CCS ત્યારબાદ\PSP ભારતીય\JJ બેટ્સમેનોએ\N_NN ભારે\RB આત્મવિશ્વાસ\N_NN દર્શાવ્યો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2120	લંચ\N_NN બાદના\PSP ૩૩\QT_QTC ઓવરના\N_NN સેશનમાં\N_NN ભારતે\N_NNP ૧૦૬\QT_QTC રન\N_NN નોંધાવતા\V_VAUX_VNP ઑસ્ટ્રેલિયાને\N_NNP પરેશાન\JJ કરી\V_VM દીધું\V_VAUX હતું\V_VAUX .\RD_PUNC
+GJSPD2121	અગાઉ\JJ સહેવાગ\N_NNP ફરી\RB નિષ્ફળ\JJ રહ્યો\V_VM હતો\V_VAUX અને\CC_CCD તેને\PR_PRP સિડલેએ\N_NNP આઉટ\JJ કર્યા\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2122	ઑસ્ટ્રેલિયાના\N_NNP સરપ્રાઈઝ\JJ સાવ\PSP ફ્લોપ\JJ સાબિત\JJ થઈ\V_VM રહ્યા\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2123	ઑસ્ટ્રેલિયાના\N_NNP ટોચના\JJ બેટસમેનોનું\N_NN ફોર્મ\N_NN ખરેખર\PSP ચિંતા\N_NN જન્માવે\V_VM તેવું\JJ છે\V_VAUX .\RD_PUNC
+GJSPD2124	ઑસ્ટ્રેલિયાએ\N_NNP પોતાની\PR_PRF અસરકારક\JJ વ્યૂહરચના\N_NN અને\CC_CCD સરપ્રાઈઝ\JJ પેકેજ\N_NN તરીકે\PSP ટીમમાં\N_NN જે\PR_PRL પરિવર્તનો\N_NN કર્યા\V_VM હતા\V_VAUX .\RD_PUNC
+GJSPD2125	તે\DM_DMD બધા\QT_QTF નિષ્ફળ\JJ સાબિત\JJ થયા\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2126	ઑસ્ટ્રેલિયા\N_NNP માટે\PSP તેમના\PR_PRP ટોપ\N_NN ઓર્ડરની\N_NN નિષ્ફળતા\N_NN ચિંતાનો\N_NN વિષય\N_NN છે\V_VAUX .\RD_PUNC
+GJSPD2127	ક્લાર્ક\N_NNP અને\CC_CCD પસંદગીકારો\N_NN હૈદરાબાદમાં\N_NNP બે\QT_QTC સ્પિનરો\N_NN રમાડવાના\V_VAUX_VNP હતા\V_VAUX તેની\PR_PRP બધાને\QT_QTF અપેક્ષા\N_NN હતી\V_VAUX .\RD_PUNC
+GJSPD2128	ઉપખંડની\N_NN પીચો\N_NN સ્પિનરો\N_NN માટે\PSP જ\RP_RPD તૈયાર\JJ કરાય\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2129	ડોહેર્ટિ\N_NNP અને\CC_CCD મેક્સવેલને\N_NNP બે\QT_QTC સ્પિનરો\N_NN તરીકે\PSP પસંદ\JJ કરવામાં\V_VAUX_VNP આવ્યા\V_VAUX ત્યારે\N_NST બધાને\QT_QTF આશ્ચર્ય\N_NN થયું\V_VM હતું\V_VAUX .\RD_PUNC
+GJSPD2130	બંને\JJ ખેલાડીઓની\N_NN ઉચ્ચ\JJ સ્તરે\N_NN કોઈ\DM_DMI કસોટી\N_NN થઈ\V_VM નથી\RP_NEG અને\CC_CCD હવે\N_NST તેઓનો\PR_PRP દેખાવ\N_NN કેવો\DM_DMQ રહે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2131	ઑસ્ટ્રેલિયા\N_NNP માટે\PSP તો\RP_RPD હાલ\N_NST ટોપ\N_NN ઓર્ડરનું\N_NN ફોર્મ\N_NN સુધરે\V_VM તે\DM_DMD અત્યંત\JJ જરૂરી\JJ છે\V_VAUX .\RD_PUNC
+GJSPD2132	આ\DM_DMD ટેસ્ટના\N_NN પ્રારંભે\N_NN જણાવ્યા\V_VAUX_VNP પ્રમાણે\PSP ઑસ્ટ્રેલિયાને\N_NNP તે\DM_DMD બાબતની\N_NN જરૂર\N_NN હતી\V_VAUX કે\CC_CCS કોઈ\DM_DMI મીડલ\JJ ઓર્ડરમાં\N_NN માઈકલ\N_NNP ક્લાર્કની\N_NNP લાંબી\JJ ઈનિંગ\N_NN રમવામાં\V_VAUX_VNP મદદ\N_NN કરે\V_VM .\RD_PUNC
+GJSPD2133	ક્લાર્કનું\N_NNP ફોર્મ\N_NN તો\RP_RPD જોરદાર\JJ છે\V_VAUX જ\RP_RPD પણ\CC_CCD તેને\PR_PRP વોર્નર\N_NNP ,\RD_PUNC કોવન\N_NNP ,\RD_PUNC હ્યુજ\N_NNP અને\CC_CCD વોટસનની\N_NNP મદદની\N_NN જરૂર\N_NN છે\V_VAUX .\RD_PUNC
+GJSPD2134	આ\DM_DMD ખેલાડીઓ\N_NN ઘણા\QT_QTF સમયથી\N_NN ક્રિકેટ\N_NN રમી\V_VM રહ્યા\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2135	તેમણે\PR_PRP તો\RP_RPD ક્લાર્કને\N_NNP મોટી\JJ ઈનિંગ\N_NN રમવા\V_VAUX_VNP માટે\PSP પ્લેટફોર્મ\N_NN પુરું\JJ પાડવું\V_VAUX_VNP જોઈએ\V_VAUX .\RD_PUNC
+GJSPD2136	જોકે\CC_CCS તેઓ\PR_PRP ફરી\RB વખત\N_NN ફ્લોપ\N_NN રહ્યા\V_VM અને\CC_CCD આ\DM_DMD વખતે\N_NN ભુવનેશ્વરકુમારે\N_NNP તરખાટ\N_NN મચાવ્યો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2137	બીજા\QT_QTO દિવસે\N_NST ઑસ્ટ્રેલિયાને\N_NNP ઝડપથી\RB વિકેટ\N_NN પાડવાની\V_VAUX_VNP જરૂર\N_NN હતી\V_VAUX .\RD_PUNC
+GJSPD2138	ભારતના\N_NNP ધીરજભર્યા\JJ ટોપ\N_NN ઓર્ડરની\N_NN સામે\PSP ઑસ્ટ્રેલિયાની\N_NNP ઝડપથી\RB વિકેટ\N_NN પાડવાની\V_VAUX_VNP જરૂર\N_NN હતી\V_VAUX .\RD_PUNC
+GJSPD2139	ભારતના\N_NNP ધીરજભર્યા\JJ ટોપ\N_NN ઓર્ડરની\N_NN સામે\PSP ઑસ્ટ્રેલિયન\JJ બોલરોએ\N_NN તેમની\PR_PRP આક્રમકતા\N_NN દર્શાવવી\V_VAUX_VNP જરૂરી\JJ હતી\V_VAUX .\RD_PUNC
+GJSPD2140	જોકે\CC_CCS પૂજારા\N_NNP અને\CC_CCD વિજયની\N_NNP ઈનિંગને\N_NN કારણે\PSP ભારત\N_NNP મજબૂત\JJ સ્થિતિમાં\N_NN પહોંચી\V_VM ગયું\V_VAUX હતું\V_VAUX .\RD_PUNC
+GJSPD2141	ટેસ્ટમાંથી\N_NN હાર\N_NN વિના\PSP બહાર\N_NST નીકળવું\V_VAUX_VNP દુષ્કર\JJ બની\V_VM રહ્યું\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2142	ક્લાર્ક\N_NNP ઉત્કટતાથી\RB ઈચ્છતો\V_VAUX_VNP હશે\V_VAUX કે\CC_CCS બીજી\QT_QTO ઈનિંગમાં\N_NN તેના\PR_PRP ટોચના\N_NN ચાર\QT_QTC બેટ્સમેનો\N_NN જંગી\JJ સ્કોર\N_NN કરે\V_VM .\RD_PUNC
+GJSPD2143	જેના\PR_PRL કારણે\PSP બોલરોને\N_NN આક્રમણ\N_NN કરવાની\V_VAUX_VNP તક\N_NN મળી\V_VM શકે\V_VAUX .\RD_PUNC
+GJSPD2144	કેપ્ટને\N_NN તો\RP_RPD ભારતીય\JJ બોલિંગ\N_NN સામે\PSP આ\DM_DMD નિર્જીવ\JJ પીચ\N_NN પર\PSP કેમ\DM_DMQ રમવું\V_VAUX_VNP તે\DM_DMD બધાને\QT_QTF બતાવ્યું\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2145	પૂજારા\N_NNP અને\CC_CCD વિજયની\N_NNP મેરેથોન\N_NN ભાગીદારી\N_NN ,\RD_PUNC અમરનાથ\N_NNP -\RD_PUNC ગાવસ્કરનો\N_NNP રેકોર્ડ\N_NN તૂટ્યો\V_VM .\RD_PUNC
+GJSPD2146	ચેતેશ્વર\N_NNP પૂજારાએ\N_NNP અને\CC_CCD મુરલીવિજય\N_NNP વચ્ચેની\JJ નોટઆઉટ\JJ ૨૯૪\QT_QTC રનની\N_NN મેરેથોન\N_NN ભાગીદારીએ\N_NN ભારતને\N_NNP ઑસ્ટ્રેલિયા\N_NNP સામેની\PSP બીજી\JJ ટેસ્ટમાં\N_NN સંગીન\JJ સ્થિતિમાં\N_NN પહોંચાડવાની\V_VAUX_VNP સાથે\PSP નવા\JJ કીર્તિમાન\JJ પણ\RP_RPD સ્થાપિત\JJ કર્યા\V_VM હતા\V_VAUX .\RD_PUNC
+GJSPD2147	પૂજારા\N_NNP વિજયની\N_NNP આ\DM_DMD ભાગીદારીને\N_NN ઑસ્ટ્રેલિયા\N_NNP સામેની\PSP બીજી\QT_QTO વિકેટની\N_NN શ્રેષ્ઠ\JJ ભારતીય\JJ ભાગીદારી\N_NN તરીકે\PSP રેકોર્ડ\N_NN બુકમાં\N_NN સ્થાન\N_NN આપવામાં\V_VAUX_VNP આવ્યું\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2148	બંનેએ\JJ આ\DM_DMD સાથે\PSP મોહિન્દર\N_NNP અમરનાથ\N_NNP અને\CC_CCD સુનિલ\N_NNP ગાવસ્કર\N_NNP વચ્ચેના\JJ ૨૭\QT_QTC વર્ષ\N_NN જૂના\JJ રેકોર્ડ\N_NN તોડી\V_VM નાખ્યો\V_VAUX હતો\V_VAUX .\RD_PUNC
+GJSPD2149	અમરનાથ\N_NNP -\RD_PUNC ગાવસ્કરની\N_NNP જોડીએ\N_NN જાન્યુઆરી\N_NN ૧૯૮૬માં\QT_QTC સીડનીમાં\N_NNP રમાયેલી\V_VAUX_VNP ટેસ્ટમાં\N_NN ૨૨૪\QT_QTC રનની\N_NN ભાગીદારી\N_NN બીજી\QT_QTO વિકેટમાં\N_NN નોંધાવી\V_VM હતી\V_VAUX .\RD_PUNC
+GJSPD2150	ભારતીય\JJ ટેસ્ટ\N_NN ઇતિહાસમાં\N_NN આ\DM_DMD ભાગીદારી\N_NN બીજી\QT_QTO વિકેટની\N_NN ત્રીજા\QT_QTO ક્રમની\N_NN શ્રેષ્ઠ\JJ ભાગીદારી\N_NN બની\V_VM રહી\V_VAUX હતી\V_VAUX .\RD_PUNC
+GJSPD2151	બીજી\QT_QTO વિકેટની\N_NN શ્રેષ્ઠ\JJ ભાગીદારી\N_NN ૩૪૪\QT_QTC રનની\N_NN અણનમ\JJ .\RD_PUNC
+GJSPD2152	જે\PR_PRL ડિસેમ્બર\N_NN ,\RD_PUNC ૧૯૭૮માં\QT_QTO કોલકાતા\N_NNP ખાતે\PSP વિન્ડિઝ\N_NNP સામે\PSP ગાવસ્કર\N_NNP અને\CC_CCD વેંગસરકરની\N_NNP જોડીએ\N_NN નોંધાવી\V_VM હતી\V_VAUX .\RD_PUNC
+GJSPD2153	આ\DM_DMD પછી\PSP બીજો\QT_QTO ક્રમ\N_NN દ્રવિડ\N_NNP અને\CC_CCD ગંભીર\N_NNP વચ્ચે\N_NST ૨૦૦૮\QT_QTC ડિસેમ્બરમાં\N_NN મોહાલી\N_NNP ખાતે\N_NN ઈંગ્લેન્ડ\N_NNP સામે\PSP નોંધાયેલી\V_VAUX_VNP ૩૧૪\QT_QTC રનની\N_NN ભાગીદારીનો\N_NN છે\V_VAUX .\RD_PUNC
+GJSPD2154	હૈદરાબાદના\N_NNP ઉપ્પલ\N_NNP સ્ટેડિયમ\N_NNP ખાતે\PSP આ\DM_DMD ભાગીદારી\N_NN ટેસ્ટ\N_NN ઇતિહાસની\N_NN સર્વોચ્ચ\JJ ભાગીદારી\N_NN છે\V_VAUX .\RD_PUNC
+GJSPD2155	આ\DM_DMD અગાઉ\PSP ૨૦૧૦માં\QT_QTC નવેમ્બરમાં\N_NNP રમાયેલી\V_VAUX_VNP ન્યુઝીલેન્ડ\N_NNP સામેની\PSP ટેસ્ટમાં\N_NN સેહવાગ\N_NNP અને\CC_CCD ગંભીરની\N_NNP જોડીએ\N_NN ૧૬૦\QT_QTC રનની\N_NN ભાગીદારી\N_NN કરી\V_VM હતી\V_VAUX જે\PR_PRL અહીં\N_NST બેસ્ટ\JJ હતી\V_VAUX .\RD_PUNC
+GJSPD2156	પૂજારાએ\N_NNP હૈદરાબાદના\N_NNP ઉપ્પલ\N_NNP ગ્રાઉન્ડ\N_NNP ખાતે\PSP બે\QT_QTC ટેસ્ટની\N_NN બે\QT_QTC ઈનિંગમાં\N_NN ૩૨૧.૦૦ની\QT_QTC સરેરાશથી\N_NN કુલ\N_NN મળીને\V_VAUX_VNP ૩૨૧\QT_QTC રન\N_NN ફટકાર્યા\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2157	જે\PR_PRL ઉપ્પલમાં\N_NNP અન્ય\JJ બેટ્સમેનોએ\N_NN ફટકારેલા\V_VAUX_VNP રનમાં\N_NN સૌથી\JJ વધુ\QT_QTF છે\V_VAUX .\RD_PUNC
+GJSPD2158	તેના\DM_DMD પછી\PSP ન્યુઝીલેન્ડના\N_NNP બ્રેન્ડન\N_NNP મેકુલનો\N_NNP ક્રમ\N_NN આવે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2159	જેણે\PR_PRL ચાર\QT_QTC ઈનિંગમાં\N_NN ૭૩.૨૫ની\QT_QTC સરેરાશથી\N_NN ૨૯૩\QT_QTC રન\N_NN નોંધાવ્યા\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2160	પાકિસ્તાને\N_NNP સાઉથઆફ્રિકાને\N_NNP ૯૫\QT_QTC રનથી\N_NN કચડીને\V_VAUX_VNP ટી\N_NNP ૨૦\N_NNP શ્રેણી\N_NN જીતી\V_VM .\RD_PUNC
+GJSPD2161	સેન્ચુરિયન\JJ ,\RD_PUNC તારીખ\N_NN ૩\QT_QTC ગુલના\N_NNP ૨.૨-૦-૬\QT_QTC ૫ના\QT_QTC મેજિકલ\JJ સ્પેલને\N_NN સહારે\N_NN પાકિસ્તાને\N_NNP સાઉથઆફ્રિકાને\N_NNP બીજી\QT_QTO ટ્વેન્ટી\N_NN -\RD_PUNC ટ્વેન્ટીમાં\N_NN ૯૫રની\QT_QTC કચડીને\V_VAUX_VNP બે\QT_QTC મેચની\N_NN શ્રેણી\N_NN ૧-૦થી\QT_QTC જીતી\V_VM લીધી\V_VAUX હતી\V_VAUX .\RD_PUNC
+GJSPD2162	પ્રથમ\QT_QTO મેચ\N_NN વરસાદને\N_NN કારણે\PSP ધોવાઈ\V_VM ગઈ\V_VAUX હતી\V_VAUX .\RD_PUNC
+GJSPD2163	વિન્ડિઝે\N_NNP ઝિમ્બાબ્વેને\N_NNP બીજી\QT_QTO ટ્વેન્ટી\N_NN ટ્વેન્ટીમાં\N_NN આઠ\QT_QTC વિકેટથી\N_NN કચડીને\V_VAUX_VNP બે\QT_QTC ટ્વેન્ટી\N_NN ટ્વેન્ટીની\N_NN શ્રેણી\N_NN ૨-૦ની\QT_QTC ક્લિન\JJ સ્વિપ\N_NN કરી\V_VM હતી\V_VAUX .\RD_PUNC
+GJSPD2164	ભારત\N_NNP અને\CC_CCD ઑસ્ટ્રેલિયાના\N_NNP ખેલાડીઓએ\N_NN હૈદરાબાદના\N_NNP બોમ્બે\N_NNP વિસ્ફોટમાં\N_NN મૃત્યુ\N_NN પામેલા\V_VAUX_VNP લોકોને\N_NN શ્રદ્ધાંજલિ\N_NN આપતા\V_VAUX_VNP બે\QT_QTC મિનિટ\N_NN મૌન\N_NN પાળ્યું\V_VM હતું\V_VAUX .\RD_PUNC
+GJSPD2165	શ્રીલંકા\N_NNP ક્રિકેટમાં\N_NN બળવો\N_NN ,\RD_PUNC જયસૂર્યા\N_NNP ખેલાડીઓને\N_NN મળશે\V_VM .\RD_PUNC
+GJSPD2166	કોલંબો\N_NNP તારીખ\N_NN ૩\QT_QTC બાંગ્લાદેશ\N_NNP સામે\PSP ૮મી\QT_QTO માર્ચથી\N_NN શરૂ\JJ થઈ\V_VM રહેલી\V_VAUX_VNP પ્રથમ\QT_QTO ટેસ્ટ\N_NN અગાઉ\PSP શ્રીલંકન\N_NNP ક્રિકેટ\N_NNP બોર્ડ\N_NNP અને\CC_CCD શ્રીલંકાના\N_NNP ક્રિકેટરો\N_NN વચ્ચે\N_NST કોન્ટ્રાક્ટ\N_NN વિવાદ\N_NN શરૂ\JJ થયો\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2167	શ્રીલંકાના\N_NNP ટોચના\N_NN ૨૩\QT_QTC ખેલાડીઓએ\N_NN ચીમકી\N_NN આપી\V_VM છે\V_VAUX કે\CC_CCS જો\CC_CCD તેઓ\PR_PRP પર\PSP હાલના\N_NST કોન્ટ્રેક્ટ\N_NN પર\PSP સહી\N_NN કરવા\V_VAUX_VNP દબાણ\N_NN સર્જવામાં\V_VAUX_VNP આવશે\V_VAUX તો\CC_CCD તેઓ\PR_PRP દબાણ\N_NN સામે\PSP નહીં\RP_NEG ઝૂકે\V_VM અને\CC_CCD બાંગ્લાદેશ\N_NNP સામેની\PSP શ્રેણીનો\N_NN પણ\RP_RPD બહિષ્કાર\N_NN કરશે\V_VM .\RD_PUNC
+GJSPD2168	બોર્ડ\N_NN સામે\PSP બળવો\N_NN કરનાર\V_VAUX_VNP ખેલાડીઓને\N_NN સમજાવવા\V_VAUX_VNP માટે\PSP ભૂતપૂર્વ\JJ ક્રિકેટર\N_NN અને\CC_CCD ચીફ\JJ સિલેક્ટર\N_NN જયસૂર્યાને\N_NNP બોર્ડે\N_NN મેદાનમાં\N_NN ઉતાર્યો\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2169	કેપ્ટન\N_NN ધોનીના\N_NNP નેતૃત્વમાં\N_NN ભારતે\N_NNP ઑસ્ટ્રેલિયાને\N_NNP ધોળે\JJ દિવસે\N_NST તારા\N_NN દેખાડતાં\V_VAUX_VNP બીજી\QT_QTO ટેસ્ટમાં\N_NN એક\QT_QTC ઈનિંગ\N_NN અને\CC_CCD ૧૩૫\QT_QTO રનથી\N_NN ભવ્ય\JJ વિજય\N_NN મેળવતા\V_VAUX_VNP શ્રેણીમાં\N_NN ૨-૦થી\QT_QTC મહત્વની\JJ સરસાઈ\N_NN મેળવી\V_VM લીધી\V_VAUX હતી\V_VAUX .\RD_PUNC
+GJSPD2170	ભારતે\N_NNP મેચના\N_NN ચોથે\QT_QTO દિવસે\N_NST પ્રથમ\QT_QTO સેશનમાં\N_NN જ\RP_RPD ઑસ્ટ્રેલિયાની\N_NNP બીજી\QT_QTO ઈનિંગને\N_NN માત્ર\RP_RPD ૧૩૧\QT_QTC રનમાં\N_NN સમેટી\V_VM લઈને\V_VAUX_VNP ઇતિહાસ\N_NN રચ્યો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2171	આ\DM_DMD સાથે\PSP ધોની\N_NNP ભારતીય\JJ ટેસ્ટ\N_NN ઇતિહાસનો\N_NN સૌથી\JJ સફળ\JJ કેપ્ટન\N_NN બની\V_VM ગયો\V_VAUX હતો\V_VAUX .\RD_PUNC
+GJSPD2172	અશ્વિને\N_NNP બીજી\QT_QTO ઈનિંગમાં\N_NN કમાલ\N_NN કરતાં\V_VAUX_VNP પાંચ\QT_QTC વિકેટ\N_NN ઝડપી\V_VM હતી\V_VAUX .\RD_PUNC
+GJSPD2173	જ્યારે\N_NST જાડેજાએ\N_NNP ત્રણ\QT_QTC બેટ્સમેનોને\N_NN પેવેલિયન\N_NN ભેગા\JJ કર્યા\V_VM હતા\V_VAUX .\RD_PUNC
+GJSPD2174	ભારતીય\JJ સ્પિન\N_NN બોલિંગ\N_NN ઑસ્ટ્રેલિયાના\N_NNP બેટ્સમેનો\N_NN માટે\PSP પરીક્ષામાં\N_NN પૂછાતા\V_VAUX_VNP કોર્સ\N_NN બહારના\JJ પ્રશ્ન\N_NN જેવી\JJ સાબિત\JJ થઈ\V_VM હતી\V_VAUX અને\CC_CCD તેની\PR_PRP સામે\PSP તેમણે\PR_PRP ઘૂંટણ\N_NN ટેકવી\V_VM દીધા\V_VAUX હતા\V_VAUX .\RD_PUNC
+GJSPD2175	હૈદરાબાદમાં\N_NNP ભારતે\N_NNP ચોથા\QT_QTO દિવસે\N_NST પ્રથમ\QT_QTO સેશનમાં\N_NN જ\RP_RPD પ્રભાવશાળી\JJ વિજય\N_NN મેળવીને\V_VAUX_VNP કીર્તિમાનોની\N_NN હારમાળા\N_NN સર્જી\V_VM .\RD_PUNC
+GJSPD2176	ઑસ્ટ્રેલિયા\N_NNP સામે\PSP ભારતનો\N_NNP ૧૫\QT_QTC વર્ષમાં\N_NN સૌથી\JJ મોટો\JJ ટેસ્ટ\N_NN વિજય\N_NN .\RD_PUNC
+GJSPD2177	ચેતેશ્વર\N_NNP પૂજારાની\N_NNP બીજી\QT_QTO બેવડી\JJ સદી\N_NN સાથેના\PSP ૨૦૪\QT_QTC મુરલી\N_NNP વિજયના\N_NNP ૧૬૭\QT_QTC રન\N_NN તેમજ\CC_CCD બીજી\JJ ઈનિંગમાં\N_NN અશ્વિને\N_NNP ઝડપેલી\V_VAUX_VNP પાંચ\QT_QTC અને\CC_CCD રવિન્દ્ર\N_NNP જાડેજાની\N_NNP ત્રણ\QT_QTC વિકેટની\N_NN મદદથી\N_NN ભારતે\N_NNP ઑસ્ટ્રેલિયા\N_NNP સામેની\PSP બીજી\QT_QTO ટેસ્ટ\N_NN ચોથા\QT_QTO દિવસે\N_NST સવારના\N_NST પ્રથમ\QT_QTO સેશનમાં\N_NN જ\RP_RPD એક\QT_QTC ઈનિંગ\N_NN અને\CC_CCD ૧૩૫\QT_QTC રનથી\N_NN જીતી\V_VM લીધી\V_VAUX હતી\V_VAUX .\RD_PUNC
+GJSPD2178	ઑસ્ટ્રેલિયાના\N_NNP સાવ\PSP બિનઅનુભવી\JJ અને\CC_CCD સામાન્ય\JJ સ્તરના\N_NN લાગતા\V_VAUX_VNP બેટ્સમેનોએ\N_NN ભારતીય\JJ સ્પિનરો\N_NN સામે\PSP ઘુંટણ\N_NN ટેકવી\V_VM દીધા\V_VAUX હતા\V_VAUX .\RD_PUNC
+GJSPD2179	આ\DM_DMD સાથે\PSP ભારતે\N_NNP તેના\PR_PRP ટેસ્ટ\N_NN ઇતિહાસમાં\N_NN ઑસ્ટ્રેલિયા\N_NNP સામે\PSP છેલ્લા\JJ ૧૫\QT_QTC વર્ષનો\N_NN સૌથી\JJ મોટો\JJ વિજય\N_NN મેળવ્યો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2180	ભારતીય\JJ ક્રિકેટને\N_NN વિશ્વ\N_NN સ્તરે\N_NN સુપર\JJ પાવર\N_NN તરીકે\PSP પ્રસ્થાપિત\JJ કરનારા\V_VAUX_VNP આ\DM_DMD વિજયથી\N_NN ઑસ્ટ્રેલિયાના\N_NNP ક્રિકેટનું\N_NN દિગ્ગજોની\N_NN વિદાય\N_NN બાદ\PSP કેવું\DM_DMQ અધઃપતન\N_NN થયું\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2181	તેનું\DM_DMD પ્રતિબિંબ\N_NN જોવા\V_VAUX_VNP મળ્યું\V_VM હતું\V_VAUX .\RD_PUNC
+GJSPD2182	ઈનિંગની\N_NN હારથી\N_NN બચવા\V_VAUX_VNP માટે\PSP ઑસ્ટ્રેલિયાએ\N_NNP બીજી\QT_QTO ઈનિંગમાં\N_NN વધુ\QT_QTF ૧૯૨\QT_QTC રન\N_NN કરવાના\V_VAUX_VNP હતા\V_VAUX .\RD_PUNC
+GJSPD2183	તેની\DM_DMD આઠ\QT_QTC વિકેટ\N_NN સલામત\JJ હતી\V_VAUX ,\RD_PUNC છતાં\RP_RPD તેના\PR_PRP દિગ્ગજ\JJ બેટ્સમેનો\N_NN પણ\RP_RPD સુપર\JJ ફ્લોપ\JJ સાબિત\JJ થયા\V_VM હતા\V_VAUX અને\CC_CCD તેઓ\PR_PRP ગઈકાલના\N_NST ૭૪/૨ના\QT_QTC સ્કોરમાં\N_NN વધુ\QT_QTF ૬૭\QT_QTC રન\N_NN કરતાં\V_VAUX_VNP ઓલઆઉટ\JJ થયા\V_VM હતા\V_VAUX .\RD_PUNC
+GJSPD2184	ઑસ્ટ્રેલિયાના\N_NNP કુલ\JJ ૧૧માંથી\QT_QTC માત્ર\RP_RPD ચાર\QT_QTC જ\RP_RPD બેટ્સમેનો\N_NN ડબલ\JJ ફિગર\N_NN સુધી\PSP પહોંચી\V_VM શક્યા\V_VAUX હતા\V_VAUX .\RD_PUNC
+GJSPD2185	ઑસ્ટ્રેલિયાએ\N_NNP તેની\PR_PRP આખરી\JJ સાત\QT_QTC વિકેટ\N_NN તો\RP_RPD માત્ર\RP_RPD ૨૩\QT_QTC રનના\N_NN ગાળામાં\N_NN ગુમાવતા\V_VAUX_VNP જાણે\PSP ભારતને\N_NNP ઐતિહાસિક\JJ અને\CC_CCD સીમાચિહ્નરૂપ\N_NN વિજય\N_NN ભેટમાં\N_NN ધર્યો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2186	ભારતે\N_NNP ઑસ્ટ્રેલિયા\N_NNP સામેની\PSP ટેસ્ટ\N_NN મેચોના\N_NN ઇતિહાસમાં\N_NN છેલ્લા\JJ ૧૫\QT_QTC વર્ષનો\N_NN સૌથી\JJ મોટો\JJ વિજય\N_NN મેળવ્યો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2187	છેલ્લે\JJ માર્ચ\N_NN ,\RD_PUNC ૧૯૯૮માં\QT_QTC ભારતે\N_NNP કોલકત્તામાં\N_NNP રમાયેલી\V_VAUX_VNP ટેસ્ટમાં\N_NN ઑસ્ટ્રેલિયાને\N_NNP ઈનિંગ\N_NN અને\CC_CCD ૨૧૦\QT_QTC રનથી\N_NN હરાવ્યું\V_VM હતું\V_VAUX ,\RD_PUNC જે\PR_PRL પછીનો\PSP આ\DM_DMD સૌથી\JJ મોટો\JJ વિજય\N_NN છે\V_VAUX .\RD_PUNC
+GJSPD2188	ભારતીય\JJ કેપ્ટન\N_NN ધોનીએ\N_NNP ટ્વેન્ટી\N_NN -\RD_PUNC ટ્વેન્ટી\N_NN વર્લ્ડકપ\N_NN જીતીને\V_VAUX_VNP ક્રિકેટના\N_NN સૌથી\JJ ટૂંકા\JJ ફોર્મેટમાં\N_NN તેની\PR_PRP કુશળતા\N_NN સાબિત\JJ કરી\V_VM હતી\V_VAUX .\RD_PUNC
+GJSPD2189	જે\PR_PRL પછી\PSP તેણે\PR_PRP ૨૦૧૧માં\QT_QTC ભારતને\N_NNP ઘરઆંગણે\N_NN વર્લ્ડકપમાં\N_NN વિજય\N_NN અપાવીને\V_VAUX_VNP ઇતિહાસ\N_NN રચ્યો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2190	હવે\N_NST તેણે\PR_PRP ટેસ્ટ\N_NN ક્રિકેટમાં\N_NN છેલ્લી\JJ કેટલીક\QT_QTF નિષ્ફળતાઓમાંથી\N_NN ટીમને\N_NN ઉગારતા\V_VAUX_VNP ફરી\RB જીતની\N_NN રાહ\N_NN પર\PSP અગ્રેસર\JJ કરી\V_VM હતી\V_VAUX .\RD_PUNC
+GJSPD2191	આ\DM_DMD સાથે\PSP ધોનીએ\N_NNP ભારતીય\JJ ટેસ્ટ\N_NN ઇતિહાસના\N_NN સૌથી\JJ સફળ\JJ કેપ્ટન\N_NN તરીકે\PSP ગાંગુલીને\N_NNP પાછળ\PSP છોડી\V_VM દીધો\V_VAUX હતો\V_VAUX .\RD_PUNC
+GJSPD2192	આર.અશ્વિને\N_NNP ફરી\RB વખત\N_NN તેની\PR_PRP ટેસ્ટ\N_NN સ્પિનર\N_NN તરીકેની\PSP પ્રતિભાને\N_NN દર્શાવતા\V_VAUX_VNP ૬૩\QT_QTC રનમાં\N_NN પાંચ\QT_QTC વિકેટ\N_NN ઝડપી\V_VM હતી\V_VAUX .\RD_PUNC
+GJSPD2193	જ્યારે\N_NST રવીન્દ્ર\N_NNP જાડેજાને\N_NNP ત્રણ\QT_QTC વિકેટ\N_NN મળી\V_VM હતી\V_VAUX .\RD_PUNC
+GJSPD2194	આ\DM_DMD સાથે\PSP જાડેજાએ\N_NNP પણ\RP_RPD સ્પિનર\N_NN તરીકેની\PSP પોતાની\PR_PRF ઉપયોગીતા\N_NN અને\CC_CCD ટીમમાં\N_NN જરૂરિયાતની\N_NN સાબિતી\N_NN આપતાં\V_VAUX_VNP કુલ\JJ છ\QT_QTC વિકેટ\N_NN પોતાના\PR_PRF નામે\N_NN કરી\V_VM હતી\V_VAUX .\RD_PUNC
+GJSPD2195	મેક્ગ્રા\N_NNP ,\RD_PUNC વોર્ન\N_NNP ,\RD_PUNC હેડન\N_NNP ,\RD_PUNC ગિલક્રિસ્ટ\N_NNP જેવા\JJ દિગ્ગજોની\N_NN નિવૃત્તિને\N_NN કારણે\PSP ઑસ્ટ્રેલિયાની\N_NNP ટીમ\N_NN સાવ\PSP નબળી\JJ પડી\V_VM ગઈ\V_VAUX હતી\V_VAUX .\RD_PUNC
+GJSPD2196	તેમાંય\DM_DMD હવે\N_NST લેજન્ડરી\N_NN બેટ્સમેન\N_NN પોન્ટીંગ\N_NNP અને\CC_CCD માઈકલ\N_NNP હસીની\N_NNP નિવૃત્તિએ\N_NN તો\RP_RPD ઑસ્ટ્રેલિયન\JJ ક્રિકેટને\N_NN જાણે\PSP મરણતોલ\JJ ફટકો\N_NN લગાવ્યો\V_VM હોય\V_VAUX તેમ\PSP લાગી\V_VM રહ્યું\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2197	ભારત\N_NNP પ્રવાસમાં\N_NN સતત\JJ બીજી\QT_QTO ટેસ્ટમાં\N_NN હાર્યા\V_VAUX_VNP બાદ\PSP ઑસ્ટ્રેલિયા\N_NNP માટે\PSP હવે\N_NST આ\DM_DMD શ્રેણી\N_NN બચાવવી\V_VAUX_VNP લગભગ\PSP અશક્ય\JJ બની\V_VM ગઈ\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2198	ભારતીય\JJ બેટ્સમેનો\N_NN અને\CC_CCD બોલરો\N_NN જે\PR_PRL પ્રકારના\N_NN ફોર્મમાં\N_NN છે\V_VAUX ,\RD_PUNC તે\DM_DMD જોતા\V_VAUX_VNP લાગે\V_VM છે\V_VAUX કે\CC_CCS ભારતીય\JJ ટીમ\N_NN ઑસ્ટ્રેલિયાને\N_NNP ચાર\QT_QTC ટેસ્ટની\N_NN શ્રેણીમાં\N_NN આસાનીથી\RB ૪-૦થી\QT_QTC વ્હાઈટ\N_NN વોશ\N_NN કરતાં\V_VAUX_VNP અગાઉ\PSP ઑસ્ટ્રેલિયા\N_NNP પ્રવાસમાં\N_NN મળેલી\V_VAUX_VNP હારનો\N_NN બદલો\N_NN લેશે\V_VM .\RD_PUNC
+GJSPD2199	રવીન્દ્ર\N_NNP જાડેજાએ\N_NNP તેની\PR_PRP સ્પિનર\N_NN તરીકેની\PSP પ્રતિભા\N_NN દર્શાવતા\V_VAUX_VNP ટેસ્ટમાં\N_NN કુલ\JJ છ\QT_QTC વિકેટ\N_NN ઝડપીને\V_VAUX_VNP તેના\PR_PRP ટીકાકારોની\N_NN બોલતી\V_VAUX_VNP બંધ\JJ કરી\V_VM દીધી\V_VAUX હતી\V_VAUX .\RD_PUNC
+GJSPD2200	છેલ્લે\JJ ૧૯૯૮માં\QT_QTC ઓસ્ટ્રોલિયાને\N_NNP ઈનિંગ\N_NN ,\RD_PUNC ૨૧૯\QT_QTC રનથી\N_NN હરાવ્યું\V_VM હતું\V_VAUX .\RD_PUNC
+GJSPD2201	ભારતીય\JJ ટેસ્ટ\N_NN ઇતિહાસનો\N_NN છઠ્ઠા\QT_QTO ક્રમનો\N_NN સૌથી\JJ મોટા\JJ અંતરનો\N_NN વિજય\N_NN .\RD_PUNC
+GJSPD2202	ભારતે\N_NNP ઑસ્ટ્રેલિયાને\N_NNP હૈદરાબાદમાં\N_NNP રમાયેલી\V_VAUX_VNP બીજી\QT_QTO ટેસ્ટમાં\N_NN એક\QT_QTC ઈનિંગ\N_NN અને\CC_CCD ૧૩૫\QT_QTC રનથી\N_NN પરાજય\N_NN આપીને\V_VAUX_VNP ઇતિહાસ\N_NN રચી\V_VM દીધો\V_VAUX હતો\V_VAUX .\RD_PUNC
+GJSPD2203	આ\DM_DMD સાથે\PSP ભારતે\N_NNP તેના\PR_PRP ટેસ્ટ\N_NN ઇતિહાસમાં\N_NN સૌથી\JJ મોટા\JJ અંતરથી\N_NN મેળવેલા\V_VAUX_VNP ઈનિંગ્સના\N_NN વિજયમાં\N_NN આ\DM_DMD જીતને\N_NN છઠ્ઠો\QT_QTC ક્રમ\N_NN મળ્યો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2204	જ્યારે\N_NST ભારતનો\N_NNP ઑસ્ટ્રેલિયા\N_NNP સામેના\PSP ટેસ્ટ\N_NN ઇતિહાસનો\N_NN આ\DM_DMD બીજા\JJ ક્રમનો\N_NN સૌથી\JJ મોટો\JJ વિજય\N_NN હતો\V_VAUX .\RD_PUNC
+GJSPD2205	ભારતે\N_NNP આ\DM_DMD સાથે\PSP તેના\DM_DMD ટેસ્ટ\N_NN ઇતિહાસમાં\N_NN વધુ\QT_QTF એક\QT_QTC સફળતાનું\N_NN સિમાચિહ્ન\N_NN ઉમેર્યું\V_VM હતું\V_VAUX .\RD_PUNC
+GJSPD2206	ભારતના\N_NNP ટોપ\N_NN -\RD_PUNC ૧૦\QT_QTC વિજય\N_NN એશિયાની\N_NNP ધરતી\N_NN પરના\PSP જ\RP_RPD છે\V_VAUX .\RD_PUNC
+GJSPD2207	ઑસ્ટ્રેલિયાની\N_NNP નાલેશી\N_NN :\RD_PUNC પ્રથમ\QT_QTO ઈનિંગ\N_NN ડિકલેર\JJ કર્યા\V_VAUX_VNP બાદ\PSP ઈનિંગથી\N_NN હાર્યું\V_VM .\RD_PUNC
+GJSPD2208	ઑસ્ટ્રેલિયાને\N_NNP ભારતે\N_NNP ઈનિંગ\N_NN અને\CC_CCD ૧૩૫\QT_QTC રનથી\N_NN પરાજય\N_NN આપતાં\V_VAUX_VNP ટેસ્ટ\N_NN ક્રિકેટના\N_NN ઇતિહાસમાં\N_NN અવનવા\JJ અને\CC_CCD અનોખા\JJ રેકોર્ડ\N_NN સર્જાયા\V_VM હતા\V_VAUX .\RD_PUNC
+GJSPD2209	ઑસ્ટ્રેલિયાની\N_NNP ટીમ\N_NN ટેસ્ટ\N_NN ઇતિહાસની\N_NN એવી\JJ પ્રથમ\QT_QTO ટીમ\N_NN બની\V_VM હતી\V_VAUX કે\CC_CCS જેણે\PR_PRL પ્રથમ\QT_QTO ઈનિંગ\N_NN ડિકલેર\JJ કરી\V_VM હતી\V_VAUX .\RD_PUNC
+GJSPD2210	આખરે\JJ તેઓનો\PR_PRP ઈનિંગથી\N_NN જ\RP_RPD પરાજય\N_NN થયો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2211	પૂજારા\N_NNP વિદેશની\N_NN ભૂમિ\N_NN પર\PSP ઝળકવાનો\V_VAUX_VNP ઈંતેજાર\N_NN કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2212	પૂજારાને\N_NNP ધોનીની\N_NNP સલાહ\N_NN :\RD_PUNC વર્તમાન\JJ સફળતાની\N_NN મજા\N_NN માણવી\V_VAUX_VNP જોઈએ\V_VAUX .\RD_PUNC
+GJSPD2213	પૂજારાની\N_NNP કોમેન્ટ\N_NN ભારતના\N_NNP કેપ્ટન\N_NN ધોનીને\N_NNP બહુ\QT_QTF પસંદ\JJ ના\RP_NEG પડી\V_VM તેમ\PSP લાગ્યું\V_VM .\RD_PUNC
+GJSPD2214	પૂજારાએ\N_NNP બેવડી\JJ સદી\N_NN ફટકાર્યા\V_VAUX_VNP પછી\PSP મીડિયાને\N_NN એવું\JJ જણાવ્યું\V_VM હતું\V_VAUX કે\CC_CCS તેને\DM_DMD ખરી\JJ ખુશી\N_NN વિદેશની\N_NN ભૂમિ\N_NN પર\PSP એ\DM_DMD રીતે\N_NN રનની\N_NN હારમાળા\N_NN સર્જી\V_VM શકું\V_VAUX તો\RP_RPD થાય\V_VM .\RD_PUNC
+GJSPD2215	ઘરઆંગણે\N_NN મોટા\JJ સ્કોરથી\N_NN તે\DM_DMD એ\DM_DMD હદની\N_NN ખુશી\N_NN નથી\RP_NEG અનુભવતો\V_VAUX_VNP .\RD_PUNC
+GJSPD2216	ખરી\JJ કસોટી\N_NN અને\CC_CCD માપદંડ\N_NN વિદેશમાં\N_NN જ\RP_RPD થાય\V_VM તેમ\PSP તેનો\PR_PRP આશય\N_NN હતો\V_VAUX .\RD_PUNC
+GJSPD2217	આ\DM_DMD કોમેન્ટ\N_NN આડકતરી\JJ રીતે\N_NN કેપ્ટન\N_NN ધોની\N_NNP અને\CC_CCD ભારતીય\JJ ટીમના\N_NN વિજયને\N_NN ઝાંખી\JJ પાડતી\V_VAUX_VNP હતી\V_VAUX કેમકે\CC_CCS ધોનીની\N_NNP કેપ્ટનશીપ\N_NN હેઠળની\PSP ભારતીય\JJ ટીમ\N_NN ઈંગ્લેન્ડ\N_NNP અને\CC_CCD ઑસ્ટ્રેલિયામાં\N_NNP ૦-૪\QT_QTC ,\RD_PUNC ૦-૪થી\QT_QTC ભારે\JJ શરમજનક\JJ રીતે\N_NN હારી\V_VM હતી\V_VAUX .\RD_PUNC
+GJSPD2218	હવે\N_NST જ્યારે\N_NST ભારત\N_NNP ઘર\N_NN આંગણે\N_NN સિંહની\N_NN જેમ\PSP ગર્જના\N_NN કરે\V_VM છે\V_VAUX ત્યારે\N_NST ક્રિકેટ\N_NN ચાહકો\N_NN અને\CC_CCD વિવેચકોનો\N_NN એક\QT_QTC વર્ગ\N_NN કહે\V_VM છે\V_VAUX કે\CC_CCS ભારત\N_NNP વિદેશની\N_NN ભૂમિ\N_NN પર\PSP શ્રેણી\N_NN વિજયો\N_NN મેળવતું\V_VAUX_VNP રહે\V_VAUX તો\CC_CCD જ\RP_RPD શ્રેષ્ઠ\JJ ટીમ\N_NN કહેવાય\V_VM .\RD_PUNC
+GJSPD2219	હંમેશા\PSP યજમાન\N_NN ટીમ\N_NN જીતતી\V_VAUX_VNP જ\RP_RPD રહે\V_VM તેમાં\DM_DMD શું\PR_PRQ નવાઈ\N_NN .\RD_PUNC
+GJSPD2220	પૂજારાએ\N_NNP પણ\RP_RPD ચારેય\QT_QTC સદી\N_NN ઘરઆંગણે\N_NN જ\RP_RPD કરી\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2221	સાઉથઆફ્રિકામાં\N_NNP તે\PR_PRP બે\QT_QTC ટેસ્ટ\N_NN રમેલો\V_VAUX_VNP તેમાં\DM_DMD સફળ\JJ નહોતો\RP_NEG થયો\V_VM .\RD_PUNC
+GJSPD2222	ધોનીએ\N_NNP પૂજારાની\N_NNP કોમેન્ટના\N_NN સંદર્ભમાં\N_NN જવાબ\N_NN આપ્યો\V_VM હતો\V_VAUX કે\CC_CCS એ\DM_DMD બધા\QT_QTF જાણે\V_VM જ\RP_RPD છે\V_VAUX કે\CC_CCS પ્રવાસી\JJ ટીમને\N_NN હંમેશા\PSP મુશ્કેલ\JJ પડકાર\N_NN હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2223	પણ\CC_CCD ત્યારની\N_NST વાત\N_NN ત્યારે\N_NST અત્યારે\N_NST વર્તમાનમાં\N_NN તે\PR_PRP જ્યાં\N_NST પણ\RP_RPD છે\V_VAUX ત્યાં\N_NST સારુ\JJ રમ્યો\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2224	તેણે\PR_PRP તેની\DM_DMD મજા\N_NN માણવી\V_VAUX_VNP જોઈએ\V_VAUX .\RD_PUNC
+GJSPD2225	ઘરઆંગણે\N_NN સફળતા\N_NN મેળવવી\V_VAUX_VNP અને\CC_CCD તેમાં\DM_DMD યોગદાન\N_NN આપવું\V_VAUX_VNP જ\RP_RPD મહત્ત્વનું\JJ છે\V_VAUX .\RD_PUNC
+GJSPD2226	ઑસ્ટ્રેલિયાની\N_NNP આ\DM_DMD ટીમની\N_NN ભારત\N_NNP સાથે\PSP તુલના\N_NN થઈ\V_VM શકે\V_VAUX તેમ\PSP જ\RP_RPD નથી\RP_NEG .\RD_PUNC
+GJSPD2227	ભારતને\N_NNP બીજી\JJ ટેસ્ટમાં\N_NN પણ\RP_RPD વિજય\N_NN મેળવવા\V_VAUX_VNP જશ\N_NN આપવો\V_VAUX_VNP જ\RP_RPD પડે\V_VAUX .\RD_PUNC
+GJSPD2228	છેલ્લા\JJ બે\QT_QTC અઠવાડિયાથી\N_NN ભારતે\N_NNP જે\PR_PRL રીતે\N_NN રમત\N_NN બતાવી\V_VM છે\V_VAUX તે\PR_PRL જોતા\V_VAUX_VNP તેઓ\PR_PRP તેના\DM_DMD હકદાર\JJ છે\V_VAUX .\RD_PUNC
+GJSPD2229	ઑસ્ટ્રેલિયાનું\N_NNP ક્રિકેટ\N_NN જે\PR_PRL રીતે\N_NN ઉંચો\JJ માપદંડ\N_NN રાખે\V_VM છે\V_VAUX તે\DM_DMD જોતા\V_VAUX_VNP ત્યાંનું\N_NST મિડીયા\N_NN ઉગ્ર\JJ શબ્દોમાં\N_NN ઝાટકણી\N_NN કાઢશે\V_VM .\RD_PUNC
+GJSPD2230	બે\QT_QTC ટેસ્ટમાં\N_NN આ\DM_DMD રીતે\N_NN હારવું\V_VAUX_VNP તે\DM_DMD વધુ\QT_QTF ચિંતા\N_NN અને\CC_CCD શરમજનક\JJ બાબત\N_NN છે\V_VAUX .\RD_PUNC
+GJSPD2231	આમ\PSP તો\RP_RPD ભારત\N_NNP સામે\PSP ઑસ્ટ્રેલિયાની\N_NNP કોઈ\DM_DMI તુલના\N_NN જ\RP_RPD થઈ\V_VM શકે\V_VAUX તેમ\PSP નથી\RP_NEG તે\DM_DMD જોતા\V_VAUX_VNP ઓસ્ટ્રોલિયાને\N_NNP અફસોસ\N_NN કરવાનો\V_VAUX_VNP કોઈ\DM_DMI અર્થ\N_NN નથી\RP_NEG રહેતો\V_VAUX_VNP .\RD_PUNC
+GJSPD2232	હવે\N_NST મોહાલીમાં\N_NNP રમાનારી\V_VAUX_VNP ત્રીજી\QT_QTO ટેસ્ટ\N_NN પૂર્વે\N_NST ઑસ્ટ્રેલિયાએ\N_NNP આત્મનિરીક્ષણ\N_NN કરવાની\V_VAUX_VNP જરૂર\N_NN છે\V_VAUX .\RD_PUNC
+GJSPD2233	ઑસ્ટ્રેલિયાની\N_NNP ટીમ\N_NN કેપ્ટન\N_NN ક્લાર્ક\N_NNP પર\PSP ખૂબ\QT_QTF જ\RP_RPD આધાર\N_NN રાખે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2234	અન્ય\JJ બેટ્સમેનોએ\N_NN ભારે\JJ નિરાશ\JJ કર્યા\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2235	હવે\N_NST બેટ્સમેનોએ\N_NN પૂરવાર\JJ કરવાનું\V_VAUX_VNP છે\V_VAUX કે\CC_CCS તેઓ\PR_PRP ટીમમાં\N_NN સ્થાન\N_NN મેળવવાને\V_VAUX_VNP લાયક\JJ જ\RP_RPD છે\V_VAUX .\RD_PUNC
+GJSPD2236	ઓસ્ટ્રોલિયાએ\N_NNP એ\DM_DMD ના\RP_NEG ભૂલવું\V_VAUX_VNP જોઈએ\V_VAUX કે\CC_CCS વોર્ન\N_NNP જેવો\JJ સ્પિનર\N_NN યુગમાં\N_NN એકાદ\PSP વખત\N_NN જ\RP_RPD થતો\V_VAUX_VNP હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2237	તેની\DM_DMD પછીના\PSP સ્પીનરો\N_NN પાસે\PSP વોર્ન\N_NNP જેવી\JJ આશા\N_NN ના\RP_NEG રખાય\V_VM .\RD_PUNC
+GJSPD2238	હવે\N_NST ઓસ્ટ્રોલિયાએ\N_NNP આગળ\PSP તરફ\PSP જોવું\V_VAUX_VNP પડશે\V_VAUX .\RD_PUNC
+GJSPD2239	પેન્ટિન્સન\N_NNP ,\RD_PUNC હેનરિક્સ\N_NNP ,\RD_PUNC ક્લાર્ક\N_NNP અને\CC_CCD વેડનો\N_NNP દેખાવ\N_NN પ્રમાણમાં\N_NN સારો\JJ રહ્યો\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2240	સાવ\PSP એક\QT_QTC તરફી\PSP મુકાબલો\N_NN ના\RP_NEG થાય\V_VM તેમ\PSP ઑસ્ટ્રેલિયાએ\N_NNP જુસ્સો\N_NN જાળવીને\V_VAUX_VNP રમવું\V_VAUX_VNP જોઈએ\V_VAUX .\RD_PUNC
+GJSPD2241	જો\CC_CCD શ્રેષ્ઠ\JJ ટીમ\N_NN બનવું\V_VAUX_VNP હોય\V_VAUX તો\CC_CCD દરેક\JJ કંડીશનમાં\N_NN જીતવું\V_VAUX_VNP પડે\V_VAUX .\RD_PUNC
+GJSPD2242	ભારત\N_NNP સામેની\PSP બીજી\QT_QTO ટેસ્ટની\N_NN બીજી\QT_QTO ઈનિંગમાં\N_NN ઑસ્ટ્રેલિયન\JJ બેટ્સમેનોના\N_NN નાલેશીભર્યા\JJ ધબડકાની\N_NN ઉગ્ર\JJ ઝાટકણી\N_NN ઑસ્ટ્રેલિયન\JJ મીડિયાએ\N_NN કાઢી\V_VM હતી\V_VAUX .\RD_PUNC
+GJSPD2243	ઓપનરોને\N_NN બાદ\PSP કરતાં\V_VAUX_VNP ઑસ્ટ્રેલિયાના\N_NNP બાકીના\JJ નવ\QT_QTC બેટ્સમેનમાંથી\N_NN માત્ર\RP_RPD બે\QT_QTC જ\RP_RPD બેટ્સમેનો\N_NN ડબલ\JJ ફિગર\N_NN સુધી\JJ પહોંચી\V_VM શક્યા\V_VAUX હતા\V_VAUX .\RD_PUNC
+GJSPD2244	ઓલરાઉન્ડરો\N_NN હેનરિક્સ\N_NNP અને\CC_CCD મેક્સવેલ\N_NNP પણ\RP_RPD સાવ\PSP ફ્લોપ\JJ રહ્યા\V_VM હતા\V_VAUX .\RD_PUNC
+GJSPD2245	કબડ્ડી\N_NN રમતનું\N_NN ઉદભવસ્થાન\N_NN મહારાષ્ટ્ર\N_NNP અને\CC_CCD ગુજરાત\N_NNP છે\V_VAUX .\RD_PUNC
+GJSPD2246	ભારતીય\JJ રમતોમાં\N_NN લોકપ્રિય\JJ અને\CC_CCD વિકાસ\N_NN પામેલી\V_VAUX_VNP રમતોમાં\N_NN કબડ્ડી\N_NN અગ્રસ્થાને\N_NN હોવા\V_VAUX_VNP સાથે\PSP આપણી\PR_PRP લોકપ્રિય\JJ રમત\N_NN છે\V_VAUX .\RD_PUNC
+GJSPD2247	ખાસ\JJ કરીને\V_VAUX_VNP ગુજરાત\N_NNP ,\RD_PUNC મહારાષ્ટ્ર\N_NNP ,\RD_PUNC આંધ્રપ્રદેશ\N_NNP ,\RD_PUNC તમિલનાડુ\N_NNP ,\RD_PUNC બંગાળ\N_NNP ,\RD_PUNC પંજાબ\N_NNP અને\CC_CCD મધ્યપ્રદેશમાં\N_NNP આ\DM_DMD રમત\N_NN સવિશેષ\JJ રમાય\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2248	ભારતમાં\N_NNP શરૂઆતના\N_NN સમયમાં\N_NN આ\DM_DMD રમત\N_NN ઉત્તર\N_NNP ભારતમાં\N_NNP `\RD_PUNC કબડ્ડી\N_NN `\RD_PUNC ,\RD_PUNC તમિલનાડુ\N_NNP તરફ\PSP `\RD_PUNC ચેડુગડુ\N_NN `\RD_PUNC ,\RD_PUNC બંગાળમાં\N_NNP `\RD_PUNC દો-દો\N_NN `\RD_PUNC ,\RD_PUNC ગુજરાતમાં\N_NNP -\RD_PUNC મહારાષ્ટ્રમાં\N_NNP હતુતુતુના\N_NN નામથી\N_NN રમાતી\V_VAUX_VNP .\RD_PUNC
+GJSPD2249	હાલ\N_NST સમગ્ર\JJ ભારતમાં\N_NNP `\RD_PUNC કબડ્ડીના\N_NN `\RD_PUNC નામથી\N_NN આ\DM_DMD રમત\N_NN રમાય\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2250	ઈ.સ.\N_NN ૧૯૧૮માં\QT_QTC સતારા\N_NNP મુકામે\N_NN યોજાયેલી\V_VAUX_VNP સ્પર્ધામાં\N_NN આ\DM_DMD રમતને\N_NN વ્યવસ્થિત\JJ સ્વરૂપ\N_NN આપવામાં\V_VAUX_VNP આવ્યું\V_VAUX .\RD_PUNC
+GJSPD2251	ઈ.સ.\N_NN ૧૯૩૮માં\QT_QTC નેશનલ\JJ ગેઈમ્સમાં\N_NN આ\DM_DMD રમતનો\N_NN સમાવેશ\N_NN થયો\V_VM .\RD_PUNC
+GJSPD2252	ઈ.સ.\N_NN ૧૯૫૨માં\QT_QTC કબડ્ડી\N_NNP ફેડરેશન\N_NNP ઑફ\N_NNP ઈન્ડિયાની\N_NNP સ્થાપના\N_NN સાથે\PSP ભારતની\N_NNP રાષ્ટ્રીય\JJ કબડ્ડી\N_NN ચેમ્પિયનશિપની\N_NN શરૂઆત\N_NN થઈ\V_VM .\RD_PUNC બહેનો\N_NN માટે\PSP ઈ.સ.\N_NN ૧૯૫૫થી\QT_QTC રાષ્ટ્ર\N_NN કક્ષાએ\N_NN સ્પર્ધા\N_NN શરૂ\JJ થઈ\V_VM .\RD_PUNC
+GJSPD2253	હરીફને\N_NN ચપળતાથી\RB પકડી\V_VM લેવાના\V_VAUX_VNP અને\CC_CCD તેની\PR_PRP પકડમાંથી\N_NN છટકી\V_VM જવાના\V_VAUX_VNP કૌશલ્ય\N_NN આધારિત\JJ આ\DM_DMD રમતમાં\N_NN બળ\N_NN ,\RD_PUNC ચપળતા\N_NN ,\RD_PUNC હિંમત\N_NN વગેરે\PSP જેવા\JJ ગુણો\N_NN જરૂરી\JJ છે\V_VAUX .\RD_PUNC
+GJSPD2254	બિનખર્ચાળ\JJ ,\RD_PUNC જોશીલી\JJ ,\RD_PUNC આરોગ્યવર્ધક\JJ ,\RD_PUNC ખુલ્લા\JJ મેદાનમાં\N_NN રમાતી\V_VAUX_VNP આ\DM_DMD લોકપ્રિય\JJ રમત\N_NN છે\V_VAUX .\RD_PUNC
+GJSPD2255	કબડ્ડીની\N_NN રમતમાં\N_NN ૨૦\QT_QTC મિનિટનો\N_NN એક\QT_QTC દાવ\N_NN અને\CC_CCD ૨૦\QT_QTC મિનિટનો\N_NN બીજો\JJ દાવ\N_NN એમ\PSP બે\QT_QTC દાવ\N_NN હોય\V_VAUX છે\V_VAUX અને\CC_CCD બે\QT_QTC દાવ\N_NN વચ્ચે\N_NST ૫\QT_QTC મિનિટનો\N_NN વિરામ\N_NN હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2256	બહેનોની\N_NN કબડ્ડીની\N_NN રમતમાં\N_NN ૧૫\QT_QTC મિનિટનો\N_NN એક\QT_QTC દાવ\N_NN અને\CC_CCD ૧૫\QT_QTC મિનિટનો\N_NN બીજો\QT_QTO દાવ\N_NN એમ\PSP બે\QT_QTC દાવ\N_NN હોય\V_VAUX છે\V_VAUX અને\CC_CCD બે\QT_QTC દાવ\N_NN વચ્ચે\N_NST ૫\QT_QTC મિનિટનો\N_NN વિરામ\N_NN હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2257	ચઢાઈ\N_NN કરનાર\V_VAUX_VNP પક્ષનાં\N_NN કૌશલ્યો\N_NN :\RD_PUNC પગ\N_NN વડે\PSP સ્પર્શ\N_NN કરવો\V_VAUX_VNP ,\RD_PUNC ઘેરો\JJ તોડવો\V_VAUX_VNP અને\CC_CCD છાપો\N_NN મારવો\V_VAUX_VNP .\RD_PUNC
+GJSPD2258	પગ\N_NN વડે\PSP સ્પર્શ\N_NN કરવો\V_VAUX_VNP :\RD_PUNC
+GJSPD2259	આ\DM_DMD ક્રિયા\N_NN ખૂબ\QT_QTF ઝડપથી\RB થાય\V_VM તે\DM_DMD જરૂરી\JJ છે\V_VAUX .\RD_PUNC
+GJSPD2260	આ\DM_DMD કૌશલ્યોમાં\N_NN ચઢાઈ\N_NN કરનાર\V_VAUX_VNP ખેલાડીને\N_NN જુદી\JJ જુદી\JJ રીતોથી\N_NN ઘેરી\V_VM લેવા\V_VAUX_VNP માટે\PSP બચાવ\N_NN પક્ષના\N_NN ખેલાડીઓ\N_NN તૈયાર\JJ હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2261	છાપો\N_NN મારવો\V_VAUX_VNP :\RD_PUNC પોતાના\PR_PRF પ્રાંગણમાં\N_NN પાછો\RB ફરતો\V_VAUX_VNP ખેલાડી\N_NN પોતાની\PR_PRF પીઠ\N_NN સામા\JJ પક્ષના\N_NN પ્રાંગણ\N_NN તરફ\PSP રાખીને\V_VAUX_VNP મધ્યરેખા\N_NN ઓળંગતો\V_VAUX_VNP હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2262	આ\DM_DMD કૌશલ્ય\N_NN માટે\PSP ખેલાડીમાં\N_NN ઝડપ\N_NN ,\RD_PUNC ઉછાળશક્તિ\N_NN તથા\CC_CCD ઝડપી\JJ ગતિને\N_NN મર્યાદિત\JJ કરવાની\V_VAUX_VNP કે\CC_CCS અટકાવવાની\V_VAUX_VNP શક્તિ\N_NN હોવી\V_VAUX_VNP જરૂરી\JJ છે\V_VAUX .\RD_PUNC
+GJSPD2263	બચાવ\N_NN પક્ષનાં\N_NN કૌશલ્યો\N_NN :\RD_PUNC
+GJSPD2264	પરિણામે\PSP ચઢાઈ\N_NN કરનાર\V_VAUX_VNP ખેલાડી\N_NN પોતાનું\PR_PRF સમતોલન\N_NN ગુમાવે\V_VM .\RD_PUNC
+GJSPD2265	સાંકળ\N_NN ઘેરો\N_NN :\RD_PUNC બચાવ\N_NN પક્ષના\N_NN ખેલાડી\N_NN ચઢાઈ\N_NN કરનાર\V_VAUX_VNP ખેલાડીને\N_NN પકડવા\V_VAUX_VNP એકબીજાના\PR_PRC હાથ\N_NN પકડીને\V_VAUX_VNP વિવિધ\JJ પ્રકારની\N_NN સાંકળો\N_NN બનાવે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2266	આજે\N_NST બાસ્કેટબૉલ\N_NN રમતની\N_NN ગણના\N_NN દુનિયાની\N_NN ઝડપી\JJ રમતોમાં\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2267	આ\DM_DMD રમત\N_NN ભાઈઓ\N_NN તેમજ\CC_CCD બહેનો\N_NN ખૂબ\QT_QTF જ\RP_RPD ઉત્સાહથી\N_NN રમે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2268	આ\DM_DMD રમતની\N_NN એક\QT_QTC વિશેષતા\N_NN એ\DM_DMD પણ\RP_RPD છે\V_VAUX કે\CC_CCS ,\RD_PUNC આ\DM_DMD રમત\N_NN ખુલ્લા\JJ મેદાનમાં\N_NN તેમજ\CC_CCD જિમ્નેશિયમની\N_NN અંદર\N_NST પણ\RP_RPD મેદાન\N_NN બનાવીને\V_VAUX_VNP રમી\V_VM શકાય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2269	ઈ.સ.\N_NN ૧૮૫૧માં\QT_QTC બાસ્કેટબૉલ\N_NN રમતની\N_NN શરૂઆત\N_NN અમેરિકાના\N_NNP ડૉ.\N_NN જેમ્સ\N_NNP નેયસ્મીથે\N_NNP કરી\V_VM હતી\V_VAUX .\RD_PUNC
+GJSPD2270	ડૉ.\N_NN નેયસ્મીથ\N_NNP અમેરિકાના\N_NNP મેસાચ્યુસેટસ\N_NNP રાજ્યની\N_NN સ્પ્રિંગફિલ્ડ\N_NNP શારીરિક\N_NNP શિક્ષણ\N_NNP તાલીમી\N_NNP કૉલેજમાં\N_NNP અધ્યાપક\N_NN હતા\V_VAUX .\RD_PUNC
+GJSPD2271	યુવા\N_NN વર્ગ\N_NN પોતાના\PR_PRF ફાજલ\JJ સમયમાં\N_NN ઈન્ડોર\N_NN તેમજ\CC_CCD આઉટડોર\JJ રમી\V_VM શકે\V_VAUX તેવી\JJ રમતની\N_NN શોધના\N_NN પરિણામે\PSP ડૉ.\N_NN સ્મીથે\N_NNP આ\DM_DMD રમતની\N_NN શોધ\N_NN કરી\V_VM .\RD_PUNC
+GJSPD2272	અદ્ધર\JJ રાખેલ\V_VAUX_VNP બાસ્કેટની\N_NN અંદર\N_NST દડા\N_NN નાખીને\V_VAUX_VNP રમાતી\V_VAUX_VNP રમત\N_NN હોવાને\V_VAUX_VNP કારણે\PSP આ\DM_DMD રમતનું\N_NN નામ\N_NN `\RD_PUNC બાસ્કેટબૉલ\N_NN `\RD_PUNC પાડવામાં\V_VAUX_VNP આવ્યું\V_VAUX .\RD_PUNC
+GJSPD2273	૧૮૯૪માં\QT_QTC આંતરરાષ્ટ્રીય\JJ રમત\N_NN તરીકે\PSP એના\DM_DMD નિયમો\N_NN બહાર\N_NST પાડવામાં\V_VAUX_VNP આવ્યા\V_VAUX .\RD_PUNC
+GJSPD2274	શરૂઆતમાં\N_NN મેદાનનું\N_NN માપ\N_NN નક્કી\JJ ન\RP_NEG હોવાથી\V_VAUX_VNP દરેક\JJ ટુકડીમાં\N_NN ૫\QT_QTC ,\RD_PUNC ૭\QT_QTC અને\CC_CCD ૯\QT_QTC ખેલાડીઓ\N_NN પણ\RP_RPD રાખવામાં\V_VAUX_VNP આવતા\V_VAUX ,\RD_PUNC પરંતુ\CC_CCD નિયમો\N_NN ઘડતાં\V_VAUX_VNP દરેક\JJ ટીમમાં\N_NN પાંચ\QT_QTC ખેલાડીઓ\N_NN નક્કી\JJ કરવામાં\V_VAUX_VNP આવ્યા\V_VAUX અને\CC_CCD આજે\N_NST પણ\RP_RPD ટુકડીમાં\N_NN પાંચ\QT_QTC ખેલાડીઓ\N_NN જ\RP_RPD રમે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2275	પુરુષો\N_NN માટે\PSP ૧૯૩૬માં\QT_QTC બર્લિનમાં\N_NNP યોજાયેલ\V_VAUX_VNP `\RD_PUNC ઑલિમ્પિક\N_NNP રમતોત્સ્વમાં\N_NN `\RD_PUNC આ\DM_DMD રમતને\N_NN સૌ\JJ પ્રથમ\QT_QTO સ્થાન\N_NN મળ્યું\V_VM .\RD_PUNC
+GJSPD2276	૧૯૫૧માં\QT_QTC એશિયન\N_NNP રમતોત્સવમાં\N_NNP આ\DM_DMD રમતની\N_NN શરૂઆત\N_NN થઈ\V_VM .\RD_PUNC
+GJSPD2277	ભારતમાં\N_NNP લગભગ\PSP ૧૯૦૦માં\QT_QTC આ\DM_DMD રમત\N_NN ચાર્લ્સ\N_NNP પીટરસન\N_NNP દ્વારા\PSP કોલકાતામાં\N_NNP શરૂ\JJ કરવામાં\V_VAUX_VNP આવી\V_VAUX .\RD_PUNC
+GJSPD2278	આ\DM_DMD રમતનું\N_NN રાષ્ટ્રીય\JJ કક્ષાએ\N_NN સંકલન\N_NN કરવા\V_VAUX_VNP માટે\PSP `\RD_PUNC બાસ્કેટબૉલ\N_NNP ફેડરેશન\N_NNP ઑફ\N_NNP ઈન્ડિયાની\N_NNP `\RD_PUNC સ્થાપના\N_NN ઈ.સ.\N_NN ૧૯૫૦માં\QT_QTC કરવામાં\V_VAUX_VNP આવી\V_VAUX .\RD_PUNC
+GJSPD2279	બાસ્કેટબૉલમાં\N_NN પોતાની\PR_PRF પાસે\PSP રહેલા\V_VAUX_VNP દડાને\N_NN પોતાના\PR_PRF પક્ષના\N_NN ખેલાડી\N_NN તરફ\PSP મોકલવાના\V_VAUX_VNP કૌશલ્યને\N_NN `\RD_PUNC પાસિંગ\N_NN `\RD_PUNC કહેવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2280	દડાને\N_NN કપાળની\N_NN સામે\PSP લઈ\V_VM જશે\V_VAUX .\RD_PUNC
+GJSPD2281	કોણી\N_NN બાજુ\N_NST પર\PSP રહે\V_VM એમ\PSP બંને\JJ હાથ\N_NN વાળેલા\V_VAUX_VNP રાખશે\V_VAUX .\RD_PUNC
+GJSPD2282	કાંડાને\N_NN નીચેની\JJ તરફ\PSP લઈ\V_VM જશે\V_VAUX .\RD_PUNC
+GJSPD2283	આગળના\JJ પગને\N_NN આગળની\JJ તરફ\PSP મૂકતાં\V_VAUX_VNP જ\RP_RPD હાથને\N_NN માથાની\N_NN સામે\PSP જ\RP_RPD આગળ\PSP તરફ\PSP લંબાવશે\V_VM .\RD_PUNC
+GJSPD2284	આ\DM_DMD પાસમાં\N_NN દડો\N_NN સીધો\JJ મોકલવાને\V_VAUX_VNP બદલે\PSP જમીન\N_NN સાથે\PSP અથડાઈને\V_VAUX_VNP મોકલવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2285	જેથી\PSP દડો\N_NN જમીન\N_NN સાથે\PSP અથડાઈને\V_VAUX_VNP તેટલા\JJ જ\RP_RPD અંશને\N_NN ખૂણે\N_NN વચ્ચેના\JJ અંતરને\N_NN ખ્યાલમાં\N_NN રાખી\V_VM દડો\N_NN પછાડવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2286	ખેલાડી\N_NN પ્રાથમિક\JJ સ્થિતિમાં\N_NN દડાને\N_NN પકડશે\V_VM .\RD_PUNC
+GJSPD2287	દડાને\N_NN જમણા\JJ ઘૂંટણ\N_NN પાસે\PSP લાવશે\V_VM .\RD_PUNC
+GJSPD2288	કોણીઓ\N_NN શરીરની\N_NN નજીક\JJ રાખશે\V_VM .\RD_PUNC
+GJSPD2289	જમણો\JJ હાથ\N_NN સીધો\JJ અને\CC_CCD જમણી\JJ હથેળી\N_NN ફેંકવાની\V_VAUX_VNP દિશા\N_NN તરફ\PSP રાખશે\V_VM .\RD_PUNC
+GJSPD2290	દડાને\N_NN રક્ષણ\N_NN અને\CC_CCD ટેકો\N_NN આપવા\V_VAUX_VNP માટે\PSP ડાબા\JJ હાથને\N_NN આગળની\JJ તરફ\PSP રાખવામાં\V_VAUX_VNP આવશે\V_VAUX .\RD_PUNC
+GJSPD2291	ડાબા\JJ પગને\N_NN આગળ\PSP લઈ\V_VM જવાની\V_VAUX_VNP ક્રિયા\N_NN સાથે\PSP જ\RP_RPD દડાને\N_NN આગળની\N_NST તરફ\PSP જમણા\JJ હાથના\N_NN આગળની\JJ તરફના\PSP ઝોલા\N_NN સાથે\PSP લઈ\V_VM જવામાં\V_VAUX_VNP આવશે\V_VAUX .\RD_PUNC
+GJSPD2292	દડો\N_NN ખભાની\N_NN સપાટી\N_NN નજીક\JJ આવતાં\V_VAUX_VNP જ\RP_RPD દડાને\N_NN આંગળીઓના\N_NN ધક્કાથી\N_NN છોડવામાં\V_VAUX_VNP આવશે\V_VAUX .\RD_PUNC
+GJSPD2293	બાસ્કેટબૉલમાં\N_NN એક\QT_QTC હાથે\N_NN દડાને\N_NN જમીન\N_NN ઉપર\PSP વારંવાર\N_NN ટપારવાના\V_VAUX_VNP કૌશલ્યને\N_NN ડ્રિબલિંગ\N_NN કહેવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2294	આ\DM_DMD કૌશલ્યથી\N_NN ખેલાડી\N_NN દડા\N_NN સાથે\PSP આગળ\PSP વધી\V_VM શકે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2295	એક\QT_QTC વખત\N_NN ડ્રિબલિંગ\N_NN કર્યા\V_VAUX_VNP પછી\PSP દડાને\N_NN પકડી\V_VM શકાય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2296	ડ્રિબલિંગ\N_NN એક\QT_QTC હાથ\N_NN વડે\PSP જ\RP_RPD કરી\V_VM શકાય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2297	ડ્રિબલિંગ\N_NN કરતી\V_VAUX_VNP વખતે\N_NN નજર\N_NN આગળ\PSP રાખવાની\V_VAUX_VNP હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2298	બાસ્કેટબૉલની\N_NN રમત\N_NN દરમિયાન\PSP દડાને\N_NN જુદી\JJ જુદી\JJ જગ્યાએથી\N_NN રિંગમાં\N_NN ફેંકવાના\V_VAUX_VNP કૌશલ્યને\N_NN `\RD_PUNC શૂટિંગ\N_NN `\RD_PUNC કહેવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2299	આ\DM_DMD રમતનો\N_NN આધાર\N_NN ગોલ\N_NN થવા\V_VAUX_VNP ઉપર\PSP અને\CC_CCD ગોલનો\N_NN આધાર\N_NN ખેલાડીઓના\N_NN સારા\JJ અને\CC_CCD ચોક્સાઈભર્યા\JJ શૂટિંગ\N_NN ઉપર\PSP રહેલો\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJSPD2300	શૂટિંગ\N_NN બે\QT_QTC રીતે\N_NN કરવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2301	બાસ્કેટબૉલની\N_NN રમતમાં\N_NN એક\QT_QTC મુખ્ય\JJ પંચ\N_NN ,\RD_PUNC એક\QT_QTC સમય\N_NN પંચ\N_NN ,\RD_PUNC એક\QT_QTC ગુણ\N_NN નોંધનાર\V_VAUX_VNP પંચ\N_NN અને\CC_CCD ૨૪\QT_QTC સેકન્ડ\N_NN ઑપરેશનનો\N_NN સમાવેશ\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2302	ખો-ખો\N_NN આપણી\PR_PRP લોકપ્રિય\JJ રમત\N_NN છે\V_VAUX .\RD_PUNC
+GJSPD2303	આ\DM_DMD રમત\N_NN ગુજરાત\N_NNP ,\RD_PUNC મધ્યપ્રદેશ\N_NNP તેમજ\CC_CCD મહારાષ્ટ્રમાં\N_NNP અત્યંત\JJ પ્રચલિત\JJ છે\V_VAUX .\RD_PUNC
+GJSPD2304	માત્ર\RP_RPD બે\QT_QTC ખૂંટ\N_NN જેવા\JJ નજીવાં\JJ સાધનોથી\N_NN રમાતી\V_VAUX_VNP હોવાને\V_VAUX_VNP કારણે\PSP આર્થિક\JJ રીતે\N_NN પણ\RP_RPD પોસાય\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2305	આ\DM_DMD પહેલાં\N_NST શરૂઆતમાં\N_NN રમાતી\V_VAUX_VNP હતી\V_VAUX તે\DM_DMD વખતે\N_NN ઘણા\QT_QTF ઓછા\QT_QTF નિયમો\N_NN હતા\V_VAUX .\RD_PUNC
+GJSPD2306	આ\DM_DMD મુશ્કેલીઓને\N_NN નિવારવા\V_VAUX_VNP માટે\PSP ઈ.સ.\N_NN ૧૯૧૪માં\QT_QTC પૂણેમાં\N_NNP દક્ષિણ\N_NST જિમખાનાએ\N_NN ખો-ખોની\N_NN સ્પર્ધા\N_NN યોજી\V_VM ,\RD_PUNC તેને\DM_DMD લગતા\V_VAUX_VNP નિયમો\N_NN ઘડી\V_VAUX_VNP બહાર\N_NST પાડ્યા\V_VM .\RD_PUNC
+GJSPD2307	આ\DM_DMD રમતને\N_NN વધુ\QT_QTF આકર્ષક\JJ અને\CC_CCD રસદાયક\JJ બનાવનારનું\V_VAUX_VNP શ્રેય\N_NN આ\DM_DMD જિમખાનાને\N_NN છે\V_VAUX .\RD_PUNC
+GJSPD2308	આ\DM_DMD જિમખાનાએ\N_NN ઈ.સ.\N_NN ૧૯૧૯\QT_QTC અને\CC_CCD ૧૯૨૮માં\QT_QTC ફરીથી\RB નિયમોમાં\N_NN સુધારા\N_NN કરી\V_VM બહાર\N_NST પાડ્યા\V_VM હતા\V_VAUX .\RD_PUNC
+GJSPD2309	ગુજરાત\N_NNP ખાતે\PSP આ\DM_DMD રમતમાં\N_NN વડોદરા\N_NNP ,\RD_PUNC ખેડા\N_NNP અને\CC_CCD કચ્છના\N_NNP ખેલાડીઓએ\N_NN સારું\JJ એવું\JJ પ્રભુત્વ\N_NN મેળવેલ\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJSPD2310	ખો\N_NN આપવી\V_VAUX_VNP :\RD_PUNC પકડનાર\V_VAUX_VNP ખેલાડીએ\N_NN બેઠેલા\V_VAUX_VNP માર\N_NN કરનાર\V_VAUX_VNP ખેલાડીને\N_NN પીઠ\N_NN પાછળ\PSP હાથ\N_NN વડે\PSP અડકીને\V_VAUX_VNP `\RD_PUNC ખો\N_NN `\RD_PUNC શબ્દ\N_NN મોટેથી\RB બોલીને\V_VAUX_VNP ખો\N_NN આપવાની\V_VAUX_VNP હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2311	જજમૅન્ટ\N_NN ખો\N_NN :\RD_PUNC ખૂંટ\N_NN નજીકની\JJ બારીએ\N_NN રમનારને\V_VAUX_VNP ખૂંટ\N_NN છોડાવવા\V_VAUX_VNP ચતુરાઈથી\N_NN અપાતી\V_VAUX_VNP ખોને\N_NN જજમેન્ટ\N_NN ખો\N_NN કહેવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2312	આમાં\DM_DMD પકડનાર\V_VAUX_VNP ખેલાડી\N_NN પોતાના\PR_PRF શરીરની\N_NN વિશિષ્ટ\JJ ક્રિયા\N_NN ,\RD_PUNC ગતિ\N_NN કે\CC_CCS હલન\N_NN -\RD_PUNC ચલનથી\N_NN એવી\JJ રીતે\N_NN ખો\N_NN આપે\V_VM છે\V_VAUX કે\CC_CCS રમનાર\V_VAUX_VNP ખેલાડી\N_NN ખૂંટ\N_NN છોડી\V_VM દે\V_VAUX .\RD_PUNC
+GJSPD2313	૪૫\QT_QTC અંશના\N_NN ખૂણે\N_NN માર\N_NN મારવો\V_VAUX_VNP .\RD_PUNC
+GJSPD2314	ખૂંટ\N_NN નજીકની\JJ બારી\N_NN ઉપર\PSP બેઠેલા\V_VAUX_VNP ખેલાડીને\N_NN ખો\N_NN મળે\V_VM કે\CC_CCS તરત\PSP જ\RP_RPD વીજળી\N_NN વેગે\PSP તે\DM_DMD ખૂંટરેખા\N_NN અને\CC_CCD પોતાની\PR_PRF આડી\JJ પાટી\N_NN વચ્ચે\N_NST ૪૫\QT_QTC અંશના\N_NN ખૂણે\N_NN દોડશે\V_VM .\RD_PUNC
+GJSPD2315	ડૂક\N_NN મારવી\V_VAUX_VNP :\RD_PUNC ખો-ખોની\N_NN રમતમાં\N_NN આ\DM_DMD કૌશલ્ય\N_NN ખૂબ\QT_QTF જ\RP_RPD ઉપયોગી\JJ છે\V_VAUX .\RD_PUNC
+GJSPD2316	સારી\JJ ટુકડીઓમાં\N_NN ઘણા\QT_QTF ખેલાડીઓ\N_NN તેનો\DM_DMD ઉપયોગ\N_NN કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2317	આને\DM_DMD ખૂંટમાં\N_NN હાથ\N_NN નાખવો\V_VAUX_VNP પણ\RP_RPD કહેવાય\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2318	ગતિમેળ\N_NN હોય\V_VAUX તોજ\RP_RPD થઈ\V_VM શકે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2319	મારનાર\V_VAUX_VNP ખેલાડી\N_NN ઝડપથી\RB ખૂંટ\N_NN તરફ\PSP આવી\V_VM ખૂંટની\N_NN નજીક\JJ મધ્યસપાટીને\N_NN સ્પર્શ\N_NN ન\RP_NEG થાય\V_VM તે\DM_DMD રીતે\N_NN પગ\N_NN મૂકી\V_VAUX_VNP વિરુદ્ધ\JJ હાથે\N_NN ખૂંટ\N_NN પકડી\V_VAUX_VNP ,\RD_PUNC શરીરને\N_NN કમરમાંથી\N_NN મધ્યસપાટી\N_NN ઓળંગી\N_NN બીજી\QT_QTO બાજુ\N_NN લંબાવતા\V_VAUX_VNP તે\DM_DMD બાજુના\N_NST હાથને\N_NN શક્ય\JJ તેટલો\N_NN દૂર\JJ ફેલાવી\V_VM રમનારને\V_VAUX_VNP અડકવાનો\V_VAUX_VNP પ્રયત્ન\N_NN કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2320	રમનાર\V_VAUX_VNP ખેલાડી\N_NN દોડતો\V_VAUX_VNP હોય\V_VAUX અને\CC_CCD મારનારે\V_VAUX_VNP તેનો\DM_DMD પીછો\N_NN પકડ્યો\V_VM હોય\V_VAUX ત્યારે\N_NST તે\DM_DMD રમનારની\V_VAUX_VNP બહુ\QT_QTF જ\RP_RPD નજીક\JJ આવતાં\V_VAUX_VNP સીધો\JJ જ\RP_RPD તેના\DM_DMD પર\PSP ડાઈવ\N_NN મારે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2321	આ\DM_DMD વખતે\N_NN પોતાના\PR_PRF બંને\JJ હાથ\N_NN આગળ\PSP લંબાવી\V_VM છાતીના\N_NN સહારે\N_NN જમીન\N_NN ઉપર\PSP પડી\V_VM રમનારના\V_VAUX_VNP પગને\N_NN અડકવા\V_VAUX_VNP પ્રયત્ન\N_NN કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2322	દાવ\N_NN લેનાર\V_VAUX_VNP ખેલાડી\N_NN બારી\N_NN પાસેથી\PSP પસાર\JJ થતો\V_VAUX_VNP હોય\V_VAUX તે\DM_DMD વખતે\N_NN ખો\N_NN મળ્યા\V_VAUX_VNP પછી\PSP બેઠેલો\V_VAUX_VNP ખેલાડી\N_NN સીધો\JJ જ\RP_RPD રમનાર\V_VAUX_VNP ખેલાડી\N_NN ઉપર\PSP ડાઈવ\N_NN મારી\V_VM તેના\DM_DMD પગને\N_NN અડકવા\V_VAUX_VNP પ્રયત્ન\N_NN કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2323	સર્પાકૃતિ\N_NN રમત\N_NN :\RD_PUNC દાવ\N_NN લેનાર\V_VAUX_VNP બેઠેલા\V_VAUX_VNP દરેક\JJ ખેલાડીની\N_NN પીઠ\N_NN પાછળથી\PSP પાછળ\PSP જોતો\V_VAUX_VNP સર્પાકારે\N_NN એક\QT_QTC ખૂંટથી\N_NN બીજા\QT_QTO ખૂંટ\N_NN તરફ\PSP દોડે\V_VM તેને\DM_DMD સિંગલ\JJ ચેઈન\N_NN કહેવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2324	આમાં\DM_DMD દાવ\N_NN લેનાર\V_VAUX_VNP ખેલાડી\N_NN પકડનાર\V_VAUX_VNP ખેલાડી\N_NN કરતાં\V_VAUX_VNP એક\QT_QTC બારી\N_NN આગળ\PSP રહે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2325	રમનાર\N_NN ખેલાડી\N_NN મધ્યપાટીથી\N_NN ઉપરથી\N_NST હાથ\N_NN લંબાવીને\V_VAUX_VNP પકડનાર\V_VAUX_VNP ખેલાડી\N_NN તેને\DM_DMD માર\N_NN કરી\V_VM શકે\V_VAUX નહીં\RP_NEG .\RD_PUNC
+GJSPD2326	બે\QT_QTC ગાળાની\N_NN રમત\N_NN :\RD_PUNC સિંગલ\JJ ચેઈન\N_NN કૌશલ્યમાં\N_NN રમનાર\V_VAUX_VNP ખેલાડી\N_NN દરેક\JJ ખેલાડીની\N_NN પીઠ\N_NN પાછળથી\PSP પસાર\JJ થઈને\V_VAUX_VNP આગળ\PSP વધે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2327	ડબલ\JJ ચેઈનમાં\N_NN પણ\RP_RPD બેઠેલા\V_VAUX_VNP ખેલાડીઓની\N_NN પીઠ\N_NN પાછળથી\PSP જ\RP_RPD પસાર\JJ થવાનું\V_VAUX_VNP હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2328	આગળની\JJ બારી\N_NN ઉપર\PSP ખો\N_NN આપ્યા\V_VAUX_VNP પછી\PSP જ\RP_RPD મધ્યપાટી\N_NN ઓળંગી\V_VAUX_VNP બીજી\QT_QTO બાજુ\N_NST જવાનું\V_VAUX_VNP હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2329	આ\DM_DMD કૌશલ્ય\N_NN રમત\N_NN રમનાર\V_VAUX_VNP માટે\PSP ખૂબ\QT_QTF સલામત\JJ છે\V_VAUX .\RD_PUNC
+GJSPD2330	રમનાર\V_VAUX_VNP બધા\QT_QTF જ\RP_RPD ખેલાડીઓને\N_NN આ\DM_DMD કૌશલ્ય\N_NN આવડતું\V_VAUX_VNP હોવું\V_VAUX_VNP જોઈએ\V_VAUX .\RD_PUNC
+GJSPD2331	પલટી\N_NN મારવી\V_VAUX_VNP :\RD_PUNC આ\DM_DMD કૌશલ્યનો\N_NN ઉપયોગ\N_NN કરનાર\V_VAUX_VNP ખેલાડી\N_NN દોડતાં\V_VAUX_VNP દોડતાં\V_VAUX_VNP પકડનારાના\V_VAUX_VNP હાથમાંથી\N_NN પલટી\N_NN મારીને\V_VAUX_VNP છટકી\V_VM જવા\V_VAUX_VNP માટે\PSP પ્રયત્ન\N_NN કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2332	પીઠની\N_NN પલટી\N_NN :\RD_PUNC ડબલ\JJ ચેઈન\N_NN દ્વારા\PSP રમત\V_VAUX_VNP રમતા\N_NN ખેલાડીને\N_NN માટે\PSP આ\DM_DMD ઉપયોગ\N_NN કૌશલ્ય\N_NN છે\V_VAUX .\RD_PUNC
+GJSPD2333	આમાં\DM_DMD રમનાર\V_VAUX_VNP ખેલાડીની\N_NN પીઠ\N_NN જ્યારે\N_NST પકડનાર\V_VAUX_VNP તરફ\PSP હોય\V_VAUX છે\V_VAUX ,\RD_PUNC ત્યારે\N_NST રમનાર\V_VAUX_VNP એકાએક\PSP પગ\N_NN ઉપર\PSP દબાણ\N_NN આપી\V_VM પલટી\N_NN મારી\V_VAUX_VNP બીજી\QT_QTO દિશામાં\N_NN છટકી\V_VM જાય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2334	મોં\N_NN સામેની\PSP પલટી\N_NN :\RD_PUNC સાચી\JJ દિશામાંથી\N_NN આવતાં\V_VAUX_VNP મારનાર\V_VAUX_VNP ખેલાડીના\N_NN હાથમાંથી\N_NN છટકવા\V_VAUX_VNP માટે\PSP રમનાર\V_VAUX_VNP એકાએક\PSP પગ\N_NN ઉપર\PSP દબાણ\N_NN આપી\V_VM પલટી\N_NN મારી\V_VAUX_VNP બીજી\QT_QTO દિશામાં\N_NN છટકી\V_VM જાય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2335	આ\DM_DMD ક્રિયા\N_NN માટે\PSP ખેલાડીમાં\N_NN ચપળતા\N_NN અને\CC_CCD સ્ફૂર્તિ\N_NN વધારે\QT_QTF જરૂરી\JJ છે\V_VAUX .\RD_PUNC
+GJSPD2336	સિક્કા\N_NN ઉછાળમાં\N_NN વિજેતા\N_NN બનનાર\V_VAUX_VNP પક્ષ\N_NN રમનાર\V_VAUX_VNP કે\CC_CCS મારનારની\V_VAUX_VNP પસંદગી\N_NN કરશે\V_VM .\RD_PUNC
+GJSPD2337	મારનાર\V_VAUX_VNP પક્ષના\N_NN આઠ\QT_QTC ખેલાડીઓ\N_NN મધ્યસપાટી\N_NN ઉપરના\PSP આઠ\QT_QTC ચોરસ\N_NN ઉપર\PSP ઊલટા\JJ -\RD_PUNC સૂલટી\JJ મોં\N_NN રાખી\V_VAUX_VNP બેસશે\V_VM .\RD_PUNC
+GJSPD2338	ખૂંટની\N_NN પાસે\PSP એક\QT_QTC ખેલાડી\N_NN પકડનાર\V_VAUX_VNP તરીકે\PSP ઊભો\V_VM રહેશે\V_VAUX .\RD_PUNC
+GJSPD2339	રમનાર\V_VAUX_VNP પક્ષના\N_NN નવ\QT_QTC ખેલાડીઓ\N_NN મેદાનની\N_NN બહાર\N_NST દાવ\N_NN લેવાના\V_VAUX_VNP ક્રમમાં\N_NN બેસશે\V_VM .\RD_PUNC
+GJSPD2340	પકડવા\V_VAUX_VNP જનાર\V_VAUX_VNP ખેલાડી\N_NN શરીરનો\N_NN કોઈ\DM_DMI પણ\RP_RPD ભાગ\N_NN મધ્યસપાટીમાં\N_NN જમીનને\N_NN અથવા\CC_CCD મધ્યપાટી\N_NN ઓળંગી\V_VM સામેની\PSP જમીનને\N_NN અડકી\V_VM શકશે\V_VAUX નહિ\RP_NEG .\RD_PUNC
+GJSPD2341	મારનાર\V_VAUX_VNP પક્ષની\N_NN ભૂલ\N_NN થતાં\V_VAUX_VNP પંચ\N_NN તરત\PSP ટૂંકી\JJ વ્હીસલ\N_NN વગાડશે\V_VM અને\CC_CCD ભૂલ\N_NN સુધારવા\V_VAUX_VNP વિરુદ્ધ\JJ દિશામાં\N_NN મોકલશે\V_VM .\RD_PUNC
+GJSPD2342	પકડનાર\V_VAUX_VNP ખેલાડીએ\N_NN ખો\N_NN આપ્યા\V_VAUX_VNP પછી\PSP તરત\PSP જ\RP_RPD ખો\N_NN મેળવનારની\V_VAUX_VNP જગ્યાએ\N_NN બેસી\V_VM જવું\V_VAUX_VNP જોઈએ\V_VAUX .\RD_PUNC
+GJSPD2343	ખો\N_NN મેળવનાર\V_VAUX_VNP ખેલાડીએ\N_NN ઊભા\V_VM થઈ\V_VAUX_VNP પ્રથમ\QT_QTO જે\PR_PRL દિશામાં\N_NN મોં\N_NN ફેરવે\V_VM તે\PR_PRL દિશામાં\N_NN જવું\V_VAUX_VNP જોઈએ\V_VAUX .\RD_PUNC
+GJSPD2344	બેઠેલા\V_VAUX_VNP ખેલાડીઓએ\N_NN રમનારને\V_VAUX_VNP હરકત\N_NN ન\RP_NEG થાય\V_VM તે\DM_DMD રીતે\N_NN બેસવાનું\V_VAUX_VNP રહેશે\V_VAUX .\RD_PUNC
+GJSPD2345	ફૂટબૉલ\N_NN રમતની\N_NN શરૂઆત\N_NN ૧૮થી\QT_QTC ૧૯મી\QT_QTC સદીમાં\N_NN ઈંગ્લેન્ડમાં\N_NNP થઈ\V_VM હતી\V_VAUX .\RD_PUNC
+GJSPD2346	તેથી\PSP જ\RP_RPD ઈંગ્લેન્ડને\N_NNP આ\DM_DMD રમતનું\N_NN જન્મસ્થળ\N_NN ગણાવવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2347	લગભગ\PSP સાડાચાર\QT_QTC હજાર\N_NN વર્ષ\N_NN પહેલાથી\N_NST ચીનમાં\N_NNP `\RD_PUNC ચૂકી\N_NN `\RD_PUNC નામની\N_NN રમત\N_NN રમાતી\V_VAUX_VNP હતી\V_VAUX .\RD_PUNC
+GJSPD2348	જેમાં\PR_PRL ખેલાડી\N_NN પગથી\N_NN ધક્કો\N_NN મારીને\V_VAUX_VNP દડાને\N_NN આગળ\PSP લઈ\V_VM જતો\V_VAUX_VNP હતો\V_VAUX .\RD_PUNC
+GJSPD2349	જે\PR_PRL આજની\JJ ફૂટબૉલની\N_NN રમત\N_NN સાથે\PSP થોડી\QT_QTF મળતી\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2350	ગ્રીસ\N_NNP દેશમાં\N_NNP બે\QT_QTC રમતો\N_NN `\RD_PUNC ઈનિસ\N_NN કીરોસ\N_NN `\RD_PUNC અને\CC_CCD `\RD_PUNC હારપસ્ટન\N_NN `\RD_PUNC નામની\N_NN રમત\N_NN રમાતી\V_VAUX_VNP હતી\V_VAUX ,\RD_PUNC જે\PR_PRL ફૂટબૉલને\N_NN મળતી\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2351	આજે\N_NST વિશ્વના\N_NN મોટા\JJ ભાગના\N_NN દેશો\N_NN ફૂટબૉલ\N_NN રમે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2352	હાલમાં\N_NST ૧૦૫\QT_QTC દેશો\N_NN આંતરરાષ્ટ્રીય\N_NNP ફૂટબૉલ\N_NNP સંગઠન\N_NNP (\RD_SYM FIFAના\RD_RDF )\RD_SYM સભ્યો\N_NN છે\V_VAUX .\RD_PUNC
+GJSPD2353	પ્રતિ\PSP ચાર\QT_QTC વર્ષે\N_NN વર્લ્ડ\N_NN કપ\N_NN ફૂટબૉલની\N_NN સ્પર્ધા\N_NN યોજાય\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2354	વિશ્વ\N_NN ઓલિમ્પિકમાં\N_NNP ફૂટબૉલની\N_NN સ્પર્ધા\N_NN રસાકસી\N_NN ભરેલી\V_VAUX_VNP અને\CC_CCD પરિણામની\N_NN ઈંતેજારી\N_NN ઊભી\V_VM કરે\V_VM તેવી\JJ રીતે\N_NN રમાય\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2355	પાસિંગ\N_NN :\RD_PUNC રમત\N_NN દરમિયાન\PSP લાંબા\JJ સમય\N_NN સુધી\PSP દડો\N_NN પોતાની\PR_PRF પાસે\PSP રાખી\V_VM રમવા\V_VAUX_VNP પ્રયત્ન\N_NN કરે\V_VM તો\CC_CCD જોખમકારક\JJ છે\V_VAUX .\RD_PUNC
+GJSPD2356	દડો\N_NN જે\PR_PRL ખેલાડી\N_NN પાસે\PSP આવે\V_VM તેની\PR_PRP ઉપર\PSP પ્રતિસ્પર્ધીનું\N_NN આક્રમણ\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2357	દૂરથી\JJ આવતા\V_VAUX_VNP દડાને\N_NN કાબૂમાં\N_NN લેવા\V_VAUX_VNP આ\DM_DMD કૌશલ્ય\N_NN ઉપયોગમાં\N_NN આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2358	ટ્રેપિંગ\N_NN એટલે\PSP દડા\N_NN ઉપર\PSP કાબૂ\N_NN મેળવવો\V_VAUX_VNP .\RD_PUNC
+GJSPD2359	હવામાં\N_NN અથવા\CC_CCD ગ્રાઉન્ડ\N_NN પર\PSP માથું\N_NN ,\RD_PUNC છાતી\N_NN ,\RD_PUNC જાંઘ\N_NN તથા\CC_CCD ઘૂટણના\N_NN નીચેના\JJ ભાગથી\N_NN ખેલાડી\N_NN ટ્રેપિંગ\N_NN કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2360	દડાની\N_NN ઊંચાઈને\N_NN લક્ષમાં\N_NN રાખી\V_VAUX_VNP શરીરના\N_NN યોગ્ય\JJ ભાગનો\N_NN ઉપયોગ\N_NN કરી\V_VAUX_VNP ટ્રેપિંગ\N_NN કરવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2361	છાતી\N_NN જેટલી\JJ ઊંચાઈએ\N_NN આવતા\V_VAUX_VNP દડાને\N_NN રોકવા\V_VAUX_VNP માટે\PSP સહેજ\QT_QTF શરીર\N_NN પાછળ\PSP નમાવી\V_VM તેમજ\CC_CCD ઉપરથી\N_NST આવતા\V_VAUX_VNP દડાની\N_NN રેખામાં\N_NN આવી\V_VM શરીરને\N_NN નીચેની\N_NST તરફ\PSP નમાવી\V_VM દડો\N_NN છાતી\N_NN ઉપર\PSP રોકવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2362	કમર\N_NN જેટલી\JJ ઊંચાઈ\N_NN આવતા\V_VAUX_VNP દડાને\N_NN સહેજ\QT_QTF પગ\N_NN ઘૂંટણમાંથી\N_NN વાળીને\V_VAUX_VNP પગના\N_NN સાથળ\N_NN ઉપર\PSP રોકવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2363	પગની\N_NN અંદરના\JJ ભાગથી\N_NN રોકવા\V_VAUX_VNP માટે\PSP પગને\N_NN ઘૂંટણમાંથી\N_NN વાળી\V_VM દડાની\N_NN દિશા\N_NN તરફ\PSP પગનો\N_NN પંજો\N_NN રહે\V_VAUX તે\DM_DMD રીતે\N_NN સ્થિતિ\N_NN લેવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2364	સીધા\JJ આવતા\V_VAUX_VNP કે\CC_CCS જમીનની\N_NN પર\PSP અથડાઈને\V_VAUX_VNP ઊંચે\N_NST આવતા\V_VAUX_VNP દડાને\N_NN પગના\N_NN પંજાનો\N_NN ભાગ\N_NN કે\CC_CCS ઘૂંટણના\N_NN અંદરના\JJ ભાગથી\N_NN રોકાય\V_VM તે\DM_DMD રીતે\N_NN રોકવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2365	હેડિંગ\N_NN ફૂટબૉલ\N_NN રમત\N_NN માટેનું\PSP અગત્યનું\JJ કૌશલ્ય\N_NN છે\V_VAUX .\RD_PUNC
+GJSPD2366	ભાગ્યે\PSP કોઈ\PR_PRI દડાની\N_NN રમતમાં\N_NN દડાને\N_NN માથા\N_NN વડે\PSP મારીને\V_VAUX_VNP રમવામાં\V_VAUX_VNP આવતો\V_VAUX_VNP હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2367	રમતમાં\N_NN ગોલ\N_NN રોકવાની\V_VAUX_VNP ક્રિયા\N_NN જેટલી\JJ અગત્યની\JJ છે\V_VAUX ,\RD_PUNC તેના\DM_DMD કરતાં\V_VAUX_VNP વધુ\QT_QTF અગત્યની\JJ બાબત\N_NN ગોલ\N_NN કરવાની\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJSPD2368	ગોલની\N_NN સફળતા\N_NN ઉપર\PSP રમતની\N_NN હાર\N_NN -\RD_PUNC જીત\N_NN નક્કી\JJ થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2369	દરેક\JJ કૌશલ્યોનું\N_NN અંતિમ\JJ ધ્યેય\N_NN દડાને\N_NN ગોલ\N_NN કરવા\V_VAUX_VNP તરફ\PSP જ\RP_RPD છે\V_VAUX .\RD_PUNC
+GJSPD2370	જ્યારે\N_NST ખેલાડી\N_NN દડો\N_NN લઈને\V_VAUX_VNP આગળ\PSP વધતો\V_VAUX_VNP હોય\V_VAUX અથવા\CC_CCD પસાર\JJ કરતો\V_VAUX_VNP હોય\V_VAUX ,\RD_PUNC ત્યારે\N_NST પ્રતિસ્પર્ધી\N_NN દડાને\N_NN લેવા\V_VAUX_VNP માટે\PSP પ્રયત્ન\N_NN કરતો\V_VAUX_VNP હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2371	પ્રતિસ્પર્ધીના\N_NN આ\DM_DMD પ્રયાસને\N_NN નિષ્ફળ\JJ બનાવવા\V_VAUX_VNP અને\CC_CCD દડો\N_NN પોતાના\PR_PRF કાબૂમાં\N_NN જ\RP_RPD રાખવા\V_VAUX_VNP માટે\PSP તે\PR_PRP દડાની\N_NN ગતિ\N_NN સાથે\PSP શરીરની\N_NN હલન\N_NN -\RD_PUNC ચલનની\N_NN ગતિ\N_NN ,\RD_PUNC પગની\N_NN ગતિ\N_NN ,\RD_PUNC નજર\N_NN ફેરવવાની\V_VAUX_VNP ક્રિયા\N_NN તેમજ\CC_CCD પોતાની\PR_PRF ગતિને\N_NN તરત\PSP જ\RP_RPD રોકી\V_VM પ્રતિસ્પર્ધીને\N_NN ચૂકવી\V_VAUX_VNP દે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2372	રમતના\N_NN મેદાનની\N_NN બાજુરેખા\N_NN ઉપરથી\PSP દડો\N_NN બહાર\N_NST જતો\V_VAUX_VNP રહે\V_VAUX ,\RD_PUNC ત્યારે\N_NST દડાને\N_NN રમતમાં\N_NN મૂકવાની\V_VAUX_VNP ક્રિયાને\N_NN થ્રો\N_NN ઈન\PSP કહે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2373	જ્યારે\N_NST દડો\N_NN બાજુરેખા\N_NN ઉપરથી\N_NST પૂરેપૂરો\JJ જમીન\N_NN પર\PSP ગબડવાનો\V_VAUX_VNP કે\CC_CCS હવામાં\N_NN ઊછળતો\V_VAUX_VNP પસાર\JJ થશે\V_VM તો\CC_CCD જે\PR_PRL જગ્યાએથી\N_NN બહાર\N_NST ગયો\V_VM હશે\V_VAUX તે\DM_DMD જગ્યાએથી\N_NN વિરુદ્ધ\PSP પક્ષને\N_NN થ્રો\N_NN ઈન\PSP કરવાનું\V_VAUX_VNP રહેશે\V_VM .\RD_PUNC
+GJSPD2374	સામેની\PSP ટુકડી\N_NN ગોલ\N_NN ન\RP_NEG કરી\V_VM જાય\V_VAUX તે\DM_DMD માટે\PSP ગોલકીપરે\N_NN સતત\JJ જાગૃત\JJ રહેવું\V_VAUX_VNP પડે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2375	ગોલનું\N_NN રક્ષણ\N_NN કરવા\V_VAUX_VNP માટે\PSP પોતાના\PR_PRF પેનલ્ટીપ્રદેશ\N_NN સુધી\PSP દડાને\N_NN હાથ\N_NN વડે\PSP રમવાની\V_VAUX_VNP નિયમ\N_NN પ્રમાણે\PSP છૂટ\N_NN આપવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2376	એટલેકે\CC_CCS ગોલકીપર\N_NN ગમે\PSP તે\DM_DMD ભાગથી\N_NN પેનલ્ટીપ્રદેશની\N_NN અંદર\N_NST રમી\V_VM શકે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2377	ગોલકીપર\N_NN પાસે\PSP અન્ય\JJ ખેલાડી\N_NN કરતાં\V_VAUX_VNP વિશેષ\JJ કૌશલ્યની\N_NN અપેક્ષા\N_NN રાખવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2378	ગોલકીપરે\N_NN ગોલની\N_NN વચ્ચે\N_NST દીવાલ\N_NN જેવા\JJ અડીખમ\JJ રહેવાનું\V_VAUX_VNP હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2379	ગોલ\N_NN રક્ષણ\N_NN કરતી\V_VAUX_VNP વખતે\N_NN ખેલાડીનું\N_NN શરીર\N_NN દડા\N_NN અને\CC_CCD ગોલની\N_NN વચ્ચે\N_NST રહેવું\V_VAUX_VNP જોઈએ\V_VAUX .\RD_PUNC
+GJSPD2380	ગોલકીપરની\N_NN અગાઉથી\PSP ધારવાની\V_VAUX_VNP શક્તિ\N_NN સારી\JJ હોય\V_VAUX તેટલા\JJ અંશે\N_NN ગોલનો\N_NN સારો\JJ બચાવ\N_NN કરી\V_VM શકે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2381	ગોલકીપરે\N_NN ગોલ\N_NN પ્રદેશ\N_NN તેમજ\CC_CCD પેનલ્ટીપ્રદેશમાં\N_NN દડાને\N_NN પકડ્યા\V_VAUX_VNP પછી\PSP ૬\QT_QTC સેકંડની\N_NN અંદર\N_NST ગોલપ્રદેશની\N_NN બહાર\N_NST મોકલવાનો\V_VAUX_VNP હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2382	આ\DM_DMD બાબતની\N_NN પણ\RP_RPD જાણકારી\N_NN હોવી\V_VAUX_VNP તે\DM_DMD ગોલકીપિંગ\N_NN કૌશલ્યની\N_NN સજ્જનતાનો\N_NN ભાગ\N_NN છે\V_VAUX .\RD_PUNC
+GJSPD2383	એક\QT_QTC ટુકડીમાં\N_NN ૧૧\QT_QTC ખેલાડીઓ\N_NN ૫\QT_QTC અવેજી\N_NN ખેલાડીઓ\N_NN રહેશે\V_VAUX .\RD_PUNC
+GJSPD2384	રમત\N_NN સમય\N_NN ૪૫\QT_QTC મિનિટનો\N_NN એક\QT_QTC એવા\JJ બે\QT_QTC અર્ધ\JJ સમયનો\N_NN હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2385	બે\QT_QTC અર્ધ\JJ સમય\N_NN વચ્ચે\N_NST ૫\QT_QTC મિનિટનો\N_NN વિરામ\N_NN હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2386	બે\QT_QTC ટુકડીના\N_NN નાયકો\N_NN વચ્ચે\N_NST સિક્કો\N_NN ઉછાળી\V_VAUX_VNP મેદાન\N_NN અથવા\CC_CCD કીક\N_NN ઑફની\PSP પસંદગી\N_NN નક્કી\JJ કરવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2387	દડો\N_NN જમીન\N_NN પરથી\PSP હવામાં\N_NN પૂરેપૂરો\JJ ગોલરેખા\N_NN અથવા\CC_CCD ટચલાઈનની\N_NN બહાર\N_NST જતો\V_VAUX_VNP રહે\V_VAUX ત્યારે\N_NST દડો\N_NN બહાર\N_NST ગણાય\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2388	રમત\N_NN દરમિયાન\PSP દડો\N_NN ગોલપોસ્ટ\N_NN ક્રૉસબાર\N_NN અથવા\CC_CCD કૉર્નર\N_NN ફલૅગ\N_NN સાથે\PSP અથડાઈને\V_VAUX_VNP પાછો\RB મેદાનમાં\N_NN જ\RP_RPD રહે\V_VAUX તો\CC_CCD દડો\N_NN રમતમાં\N_NN ગણાય\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2389	કોઈ\DM_DMI પણ\RP_RPD પ્રકારનો\N_NN નિયમભંગ\N_NN થયો\V_VM હોય\V_VAUX ,\RD_PUNC પરંતુ\CC_CCD જ્યાં\N_NST સુધી\PSP વ્હિસલ\N_NN વગાડી\V_VM નિર્ણય\N_NN ન\RP_NEG આપે\V_VM ત્યાં\N_NST સુધી\PSP દડો\N_NN રમતમાં\N_NN ગણાય\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2390	રમત\N_NN દરમિયાન\PSP જો\CC_CCD મુખ્ય\JJ પંચ\N_NN કે\CC_CCS રેખાપંચ\N_NN મેદાનમાં\N_NN હોય\V_VAUX તે\DM_DMD વખતે\N_NN તેમને\PR_PRP દડો\N_NN અથડાઈને\V_VAUX_VNP મેદાનમાં\N_NN જ\RP_RPD રહે\V_VM ત્યારે\N_NST દડો\N_NN રમતમાં\N_NN ગણાય\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2391	રમત\N_NN દરમિયાન\PSP દડો\N_NN પૂરેપૂરો\JJ (\RD_SYM પોતાના\PR_PRF ઘેરાવો\N_NN જેટલો\JJ )\RD_SYM હવામાં\N_NN અથવા\CC_CCD જમીન\N_NN પરથી\PSP ગોલસ્તંભ\N_NN વચ્ચેથી\N_NST પસાર\JJ થાય\V_VM ત્યારે\N_NST ગોલ\N_NN થયો\V_VM ગણાય\V_VM .\RD_PUNC
+GJSPD2392	જ્યારે\N_NST આક્રમક\JJ ખેલાડી\N_NN ,\RD_PUNC દડા\N_NN કરતાં\V_VAUX_VNP પ્રતિસ્પર્ધી\JJ ખેલાડીની\N_NN ગોલરેખાની\N_NN નજીક\JJ હોય\V_VAUX ત્યારે\N_NST ઑફ\PSP સાઈડ\N_NN ગણાય\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2393	કોઈ\DM_DMI ખેલાડી\N_NN પ્રતિસ્પર્ધીને\N_NN લાત\N_NN મારવાનો\V_VAUX_VNP પ્રયત્ન\N_NN કરી\V_VAUX_VNP શકતો\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJSPD2394	પગની\N_NN આંટી\N_NN મારી\V_VM ગબડાવવાનો\V_VAUX_VNP પ્રયત્ન\N_NN કરી\V_VM શકતો\V_VAUX નથી\RP_NEG .\RD_PUNC
+GJSPD2395	પ્રતિસ્પર્ધી\JJ ખેલાડી\N_NN ઉપર\PSP કૂદી\V_VM શકતો\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJSPD2396	હિંસાત્મક\JJ કે\CC_CCS ખતરનાક\JJ રીતે\N_NN હુમલો\N_NN કરી\V_VM શકતો\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJSPD2397	પાછળથી\PSP આક્રમણ\N_NN કરી\V_VM શકતો\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJSPD2398	પ્રતિસ્પર્ધી\JJ ખેલાડીનો\N_NN હાથ\N_NN પકડી\V_VM શકતો\V_VAUX નથી\RP_NEG .\RD_PUNC
+GJSPD2399	ધક્કો\N_NN મારી\V_VM શકતો\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJSPD2400	દડો\N_NN પકડીને\V_VAUX_VNP દોડી\V_VM શકતો\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJSPD2401	હાથ\N_NN વડે\PSP રમી\V_VM શકતો\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJSPD2402	જો\CC_CCD ઉપર\PSP જણાવેલ\V_VAUX_VNP ગેરવર્તણૂક\N_NN કરે\V_VM અને\CC_CCD ભૂલ\N_NN થઈ\V_VM હશે\V_VAUX ,\RD_PUNC ત્યાંથી\N_NST પ્રતિસ્પર્ધીને\N_NN ડાયરેક્ટ\JJ ફ્રી\JJ કીક\N_NN આપવામાં\V_VAUX_VNP આવશે\V_VAUX .\RD_PUNC
+GJSPD2403	જો\CC_CCD આવી\JJ ભૂલ\N_NN પ્રતિસ્પર્ધી\N_NN ગોલ\N_NN ઍરિયામાં\N_NN થઈ\V_VM હશે\V_VAUX ,\RD_PUNC તો\CC_CCD તે\DM_DMD ગોલ\N_NN ઍરિયાના\N_NN અર્ધ\JJ ભાગમાં\N_NN ગમે\PSP ત્યાંથી\N_NST ફ્રી\JJ કીક\N_NN આપવામાં\V_VAUX_VNP આવશે\V_VAUX .\RD_PUNC
+GJSPD2404	કોઈ\DM_DMI ખેલાડી\N_NN રમતના\N_NN નિયમોનો\N_NN વારંવાર\PSP ભંગ\N_NN કરે\V_VM ,\RD_PUNC મુખ્ય\JJ નિર્ણયો\N_NN સામે\PSP ટીકાત્મક\JJ વર્તન\N_NN કરે\V_VM ,\RD_PUNC તો\CC_CCD ખેલાડીને\N_NN ચેતવણી\N_NN આપવામાં\V_VAUX_VNP આવશે\V_VAUX તથા\CC_CCD પ્રતિસ્પર્ધીને\N_NN ઈનડાયરેક્ટ\JJ ફ્રી\JJ કીક\N_NN આપવામાં\V_VAUX_VNP આવશે\V_VAUX .\RD_PUNC
+GJSPD2405	ડાયરેક્ટ\JJ ફ્રી\JJ કીક\N_NN એટલે\PSP ખેલાડી\N_NN સીધો\JJ ગોલ\N_NN કરી\V_VM શકે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2406	ઈનડાયરેક્ટ\JJ ફ્રી\JJ કીક\N_NN એટલે\PSP ખેલાડી\N_NN સીધો\JJ ગોલ\N_NN કરી\V_VM શકતો\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJSPD2407	પૅનલ્ટી\N_NN કીક\N_NN વખતે\N_NN પૅનલ્ટી\N_NN કીક\N_NN લેનાર\V_VAUX_VNP ખેલાડી\N_NN સિવાયના\PSP તમામ\JJ ખેલાડીઓ\N_NN (\RD_SYM ગોલકીપર\N_NN સિવાય\PSP )\RD_SYM પૅનલ્ટી\N_NN ઍરિયાની\N_NN બહાર\N_NST અને\CC_CCD ઓછામાં\QT_QTF ઓછા\QT_QTF પૅનલ્ટી\N_NN સ્પોટથી\N_NN ૧૦\QT_QTC વાર\N_NN દૂર\JJ રહેવા\V_VAUX_VNP જોઈએ\V_VAUX .\RD_PUNC
+GJSPD2408	આક્રમણ\N_NN પક્ષના\N_NN ખેલાડી\N_NN દ્વારા\PSP ગોલલાઈન\N_NN પરથી\PSP અથવા\CC_CCD હવામાં\N_NN દડો\N_NN ગોલલાઈન\N_NN પસાર\JJ કરી\V_VM બહાર\N_NST જાય\V_VAUX ત્યારે\N_NST બચાવ\N_NN પક્ષને\N_NN ગોલકીક\N_NN આપવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2409	આ\DM_DMD સમયે\N_NN પ્રતિસ્પર્ધી\JJ ટુકડીના\N_NN તમામ\JJ ખેલાડીઓ\N_NN પૅનલ્ટી\N_NN ઍરિયા\N_NN બહાર\N_NST હોવા\V_VAUX_VNP જોઈએ\V_VAUX .\RD_PUNC
+GJSPD2410	બચાવ\N_NN પક્ષના\N_NN ખેલાડી\N_NN દ્વારા\PSP દડો\N_NN પોતાની\PR_PRF ગોલરેખા\N_NN પરથી\PSP હવામાં\N_NN ગોલરેખા\N_NN બહાર\N_NST જાય\V_VM ત્યારે\N_NST આક્રમણ\N_NN કરનારને\V_VAUX_VNP આપવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2411	બ્રિટિશ\JJ લોકો\N_NN ક્રિકેટને\N_NN બધી\QT_QTF રમતોના\N_NN રાજા\N_NN તરીકે\PSP વર્ણવે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2412	ક્રિકેટની\N_NN રમત\N_NN ફૂટબૉલની\N_NN રમત\N_NN જેટલી\JJ જ\RP_RPD બ્રિટિશ\JJ લોકોમાં\N_NN પ્રિય\JJ છે\V_VAUX .\RD_PUNC
+GJSPD2413	ક્રિકેટની\N_NN શરૂઆત\N_NN ક્યારે\N_NST થઈ\V_VM તેનું\DM_DMD ચોક્કસ\N_NN વર્ષ\N_NN મેળવી\V_VM શકાય\V_VAUX તેમ\PSP નથી\RP_NEG .\RD_PUNC
+GJSPD2414	પરંતુ\CC_CCD ઑક્સફર્ડમાં\N_NNP આવેલ\V_VAUX_VNP બોદલીઅન\N_NNP પુસ્તકાલયમાં\N_NNP ઈ.સ.\N_NN પૂર્વે\N_NST ૧૩૪૪ની\QT_QTC એક\QT_QTC હસ્તપ્રતમાં\N_NN મળતા\V_VAUX_VNP અહેવાલ\N_NN પ્રમાણે\PSP પાદરી\N_NN લોકો\N_NN `\RD_PUNC CRECKETT\RD_RDF `\RD_PUNC નામની\N_NN રમત\N_NN રમતા\V_VAUX_VNP હતા\V_VAUX .\RD_PUNC
+GJSPD2415	આ\DM_DMD ઉપરાંત\PSP અન્ય\JJ સ્થળેથી\N_NN મળતી\V_VAUX_VNP માહિતી\N_NN ઉપરથી\PSP ૧૬મી\QT_QTC સદીમાં\N_NN `\RD_PUNC ગિલ્ડફોર્ડ\N_NNP ગ્રામર\N_NNP સ્કૂલના\N_NNP `\RD_PUNC વિદ્યાર્થીઓ\N_NN આ\DM_DMD રમત\N_NN રમતા\V_VAUX_VNP હતા\V_VAUX .\RD_PUNC
+GJSPD2416	ઈ.સ.\N_NN ૧૭૦૦ની\QT_QTC સાલની\N_NN આસપાસ\N_NST ક્રિકેટ\N_NN રમવાની\V_VAUX_VNP પદ્ધતિસર\JJ શરૂઆત\N_NN થઈ\V_VM .\RD_PUNC
+GJSPD2417	ઈ.સ.\N_NN ૧૭૪૪ની\QT_QTC સાલમાં\N_NN ક્રિકેટની\N_NN રમત\N_NN માટે\PSP નિયમો\N_NN તૈયાર\JJ કરવામાં\V_VAUX_VNP આવ્યા\V_VAUX અને\CC_CCD આ\DM_DMD રમત\N_NN રમતી\V_VAUX_VNP સંસ્થાઓએ\N_NN સ્વીકાર્યા\V_VM .\RD_PUNC
+GJSPD2418	ક્રિકેટની\N_NN રમત\N_NN માટે\PSP પહેલાં\N_NST આજની\N_NST જેમ\PSP ત્રણ\QT_QTC સ્ટમ્પની\N_NN વિકેટ\N_NN ન\RP_NEG હતી\V_VAUX ,\RD_PUNC પરંતુ\CC_CCD બાવીસ\QT_QTC ઈંચ\N_NN ઊંચાઈની\N_NN અને\CC_CCD છ\QT_QTC ઈંચ\N_NN પહોળી\JJ એવી\JJ બે\QT_QTC ઘોડી\N_NN ઉપર\PSP વાંસ\N_NN મૂકવામાં\V_VAUX_VNP આવતો\V_VAUX_VNP .\RD_PUNC
+GJSPD2419	ઈ.સ.\N_NN ૧૭૫૦ની\QT_QTC સાલમાં\N_NN હેમ્પશાયરના\N_NNP હેમ્બલડન\N_NNP નામના\N_NN ગામમાં\N_NN ક્રિકેટ\N_NN ક્લબની\N_NN સ્થાપના\N_NN કરવામાં\V_VAUX_VNP આવી\V_VAUX .\RD_PUNC
+GJSPD2420	૧૭૭૫ની\QT_QTC સાલમાં\N_NN હેમ્બલડન\N_NNP ક્લબ\N_NNP કેન્ટની\N_NNP સામે\PSP લંડનના\N_NNP આર્ટિલરી\N_NNP મેદાનમાં\N_NNP પાંચ\QT_QTC ખેલાડી\N_NN વિરુદ્ધ\PSP પાંચ\QT_QTC ખેલાડીની\N_NN ક્રિકેટ\N_NN -\RD_PUNC મેચ\N_NN રમેલી\V_VAUX_VNP .\RD_PUNC
+GJSPD2421	હેમ્બલ્ડન\N_NNP ક્રિકેટ\N_NNP ક્લબ\N_NNP ધીરેધીરે\RB આ\DM_DMD રમતનો\N_NN વિકાસ\N_NN સાધતી\V_VAUX_VNP રહે\V_VAUX અને\CC_CCD છેવટે\JJ તેમાંથી\DM_DMD `\RD_PUNC મેરીલબોન\N_NNP ક્રિકેટ\N_NNP ક્લબ\N_NNP `\RD_PUNC (\RD_SYM એમ.સી.સી.\N_NNP )\RD_SYM અસ્તિત્વમાં\N_NN આવી\V_VM .\RD_PUNC
+GJSPD2422	ઈ.સ.\N_NN ૧૭૯૧માં\QT_QTC હેમ્બલડન\N_NNP ક્રિકેટ\N_NNP ક્લબ\N_NNP બંધ\JJ કરવામાં\V_VAUX_VNP આવી\V_VAUX અને\CC_CCD એમ.સી.સી.એ\N_NNP પોતાનું\PR_PRF વર્ચસ્વ\N_NN જમાવ્યું\V_VM .\RD_PUNC
+GJSPD2423	થોમસ\N_NNP લૉર્ડની\N_NNP મદદથી\N_NN રીજન્ટ\N_NNP પાર્કની\N_NNP નજીક\JJ સેન્ટ\N_NNP જૉન\N_NNP વુડ\N_NNP ખાતે\PSP આજે\N_NST ખ્યાતનામ\JJ બનેલ\V_VAUX_VNP છે\V_VAUX તે\DM_DMD મેદાન\N_NN શોધી\V_VM કાઢ્યું\V_VAUX .\RD_PUNC
+GJSPD2424	એમ.સી.સી.એ.\N_NNP ૧૮૧૪માં\QT_QTC આ\DM_DMD નવા\JJ મેદાન\N_NN ખાતે\PSP પોતાનું\PR_PRF મથક\N_NN ફેરવી\V_VAUX_VNP નાખ્યું\V_VAUX .\RD_PUNC
+GJSPD2425	આ\DM_DMD મેદાન\N_NN પર\PSP ટેસ્ટમેચ\N_NN રમાય\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2426	સને\N_NN ૧૮૧૪ની\N_NNP ૨૨મી\N_NNP જૂને\N_NNP આ\DM_DMD ક્લબ\N_NN પોતાની\PR_PRF પહેલી\QT_QTO ક્રિકેટ\N_NN મેચ\N_NN હર્ટફોર્ડશાયરની\N_NNP સામે\PSP રમેલી\V_VAUX_VNP .\RD_PUNC
+GJSPD2427	આ\DM_DMD મેચમાં\N_NN ચાર્લ્સ\N_NNP લેનેક્સે\N_NNP પણ\RP_RPD ભાગ\N_NN લીધેલો\V_VAUX_VNP .\RD_PUNC
+GJSPD2428	સો\QT_QTC વર્ષ\N_NN બાદ\PSP એમ.સી.સી.\N_NNP હર્ટફોર્ડશાયર\N_NNP સામે\PSP ૧૯૧૪માં\QT_QTC ફરી\RB મેચ\N_NN રમેલી\V_VAUX_VNP .\RD_PUNC
+GJSPD2429	આ\DM_DMD મેચ\N_NN એમ.સી.સી.ની\N_NNP શતાબ્દી\N_NN નિમિત્તે\PSP યોજવામાં\V_VAUX_VNP આવેલી\V_VAUX_VNP .\RD_PUNC
+GJSPD2430	એમ.સી.સી.એ\N_NNP ખાનગી\JJ સંસ્થા\N_NN છે\V_VAUX .\RD_PUNC
+GJSPD2431	આ\DM_DMD સંસ્થાનું\N_NN સભ્યપદ\N_NN સહેલાઈથી\RB મેળવી\V_VAUX_VNP શકાતું\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJSPD2432	સભ્યપદ\N_NN માટે\PSP સાતેક\QT_QTC હજાર\N_NN નામોનું\N_NN `\RD_PUNC વેઈટિંગ\N_NN લિસ્ટ\N_NN `\RD_PUNC રાખવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2433	જ્યાં\N_NST સુધી\PSP સ્ટેડિયમ\N_NN ખાતે\PSP નવા\JJ સભ્ય\N_NN માટે\PSP મેચ\N_NN જોવાની\V_VAUX_VNP જગ્યાની\N_NN વ્યવસ્થા\N_NN કરી\V_VM શકાય\V_VAUX નહીં\RP_NEG ત્યાં\N_NST સુધી\PSP નવા\JJ સભ્યો\N_NN ન\RP_NEG બનાવવા\V_VAUX_VNP તેવો\JJ એમ.સી.સી.નો\N_NNP આગ્રહ\N_NN છે\V_VAUX .\RD_PUNC
+GJSPD2434	એમ.સી.સી.\N_NNP સંસ્થાને\N_NN ક્રિકેટની\N_NN રમત\N_NN માટે\PSP સર્વમાન્ય\JJ સંસ્થા\N_NN ગણવામાં\V_VAUX_VNP આવી\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2435	આજે\N_NST પણ\RP_RPD ક્રિકેટ\N_NN એમ.સી.સી.ના\N_NNP નિયમો\N_NN પ્રમાણે\PSP જ\RP_RPD રમાય\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2436	સને\N_NN ૧૯૦૯માં\QT_QTC `\RD_PUNC ઈમ્પીરીયલ\N_NNP ક્રિકેટ\N_NNP કાઉન્સિસલની\N_NNP `\RD_PUNC સ્થાપના\N_NN કરવામાં\V_VAUX_VNP આવી\V_VAUX હતી\V_VAUX .\RD_PUNC
+GJSPD2437	આજે\N_NST હવે\N_NST રાષ્ટ્રસમૂહના\N_NN બધા\QT_QTF દેશો\N_NN સ્વતંત્ર\JJ બન્યા\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2438	તેથી\PSP `\RD_PUNC ઈમ્પીરિયલ\N_NNP ક્રિકેટ\N_NNP કાઉન્સિલ\N_NNP `\RD_PUNC નામ\N_NN બદલીને\V_VAUX_VNP `\RD_PUNC ઈન્ટરનેશન\N_NNP ક્રિકેટ\N_NNP કોન્ફરન્સ\N_NNP `\RD_PUNC એવું\JJ નામ\N_NN રાખવામાં\V_VAUX_VNP આવ્યું\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2439	દર\PSP વર્ષે\N_NN એક\QT_QTC વાર\N_NN તેના\DM_DMD સભ્ય\N_NN દેશોના\N_NN પ્રતિનિધિઓ\N_NN લંડનમાં\N_NNP મળે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2440	તે\DM_DMD વખતે\N_NN ક્રિકેટના\N_NN નિયમો\N_NN વગેરેની\PSP ચર્ચા\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2441	આશરે\PSP દોઢસો\QT_QTC વર્ષ\N_NN પહેલા\N_NST બ્રિટિશ\JJ લશ્કરી\JJ અધિકારીઓએ\N_NN ભારતમાં\N_NNP ક્રિકેટની\N_NN રમત\N_NN રમવાની\V_VAUX_VNP શરૂઆત\N_NN કરી\V_VM .\RD_PUNC
+GJSPD2442	ઓલ્ડ\N_NNP ઈટોનીઅન્સ\N_NNP અને\CC_CCD પારસી\N_NN વચ્ચે\N_NST સને\N_NN ૧૭૮૪માં\QT_QTC પહેલી\QT_QTO ક્રિકેટ\N_NN -\RD_PUNC મેચ\N_NN રમાયેલ\V_VAUX_VNP તેવી\JJ હકીકત\N_NN ઇતિહાસમાંથી\N_NN મળે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2443	ગ્રેટ\N_NNP બ્રિટન\N_NNP સિવાય\PSP ક્રિકેટ\N_NN -\RD_PUNC ક્લબ\N_NN સ્થાપવાનો\V_VAUX_VNP યશ\N_NN ભારતમાં\N_NNP કલકત્તાને\N_NNP ફાળે\N_NN જાય\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2444	આ\DM_DMD ક્લબની\N_NN સ્થાપના\N_NN સને\N_NN ૧૭૯૨માં\QT_QTC કરવામાં\V_VAUX_VNP આવેલી\V_VAUX_VNP .\RD_PUNC
+GJSPD2445	સને\N_NN ૧૭૯૨\QT_QTC ,\RD_PUNC ફેબ્રુઆરીના\N_NN મદ્રાસ\N_NNP `\RD_PUNC કુરીઅરમાં\N_NNP `\RD_PUNC બતાવ્યા\V_VM પ્રમાણે\PSP કલકત્તા\N_NNP ક્રિકેટ\N_NNP ક્લબ\N_NNP અને\CC_CCD બરાકપુર\N_NNP વચ્ચે\N_NST તથા\CC_CCD કલકત્તા\N_NNP ક્રિકેટ\N_NNP ક્લબ\N_NNP અને\CC_CCD ડમડમ\N_NNP વચ્ચે\N_NST મેચ\N_NN રમાતી\V_VAUX_VNP હતી\V_VAUX .\RD_PUNC
+GJSPD2446	ભારતના\N_NNP ક્રિકેટના\N_NN ઇતિહાસમાં\N_NN પારસીઓએ\N_NN અગત્યનો\JJ ભાગ\N_NN ભજવ્યો\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2447	સને\N_NN ૧૮૬૬માં\QT_QTC `\RD_PUNC બૉમ્બે\N_NNP યુનિયન\N_NNP હિન્દુ\N_NNP ક્લબની\N_NNP `\RD_PUNC અને\CC_CCD સને\N_NN ૧૮૮૩માં\QT_QTC `\RD_PUNC મોહમેડન\N_NNP ક્રિકેટ\N_NNP ક્લબની\N_NNP `\RD_PUNC સ્થાપના\N_NN થઈ\V_VM .\RD_PUNC
+GJSPD2448	સને\N_NN ૧૮૬૬માં\QT_QTC પારસી\N_NN ટીમે\N_NN ઈંગ્લેન્ડની\N_NNP મુલાકાત\N_NN લીધી\V_VM .\RD_PUNC
+GJSPD2449	સને\N_NN ૧૮૮૯\QT_QTC -\RD_PUNC ૯૦માં\QT_QTC ઈંગ્લેન્ડની\N_NNP ટીમ\N_NN ભારતની\N_NNP મુલાકાતે\N_NN આવી\V_VM અને\CC_CCD વીસેક\QT_QTC વર્ષની\N_NN અંદર\N_NST ભારતમાં\N_NNP ક્રિકેટની\N_NN રમત\N_NN લોકપ્રિય\JJ બની\V_VM .\RD_PUNC
+GJSPD2450	ક્રિકેટની\N_NN રમત\N_NN ધીરેધીરે\RB ભારતના\N_NNP રાજવીઓમાં\N_NN શોખનો\N_NN વિષય\N_NN બની\V_VM અને\CC_CCD તેનો\DM_DMD પ્રચાર\N_NN વધતો\V_VAUX_VNP ગયો\V_VAUX .\RD_PUNC
+GJSPD2451	ભારતના\N_NNP રાજવીઓમાં\N_NN એક\QT_QTC હતા\V_VAUX જામનગરના\N_NNP સ્વ.\JJ મહારાજા\N_NN રણજિતસિંહ\N_NNP ,\RD_PUNC જેઓ\PR_PRL `\RD_PUNC રણજી\N_NNP `\RD_PUNC તરીકે\PSP ક્રિકેટના\N_NN ઇતિહાસમાં\N_NN અમર\JJ થઈ\V_VM ગયેલ\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJSPD2452	ક્રિકેટ\N_NN સામાન્ય\JJ રીતે\N_NN રાષ્ટ્રસમૂહના\N_NN દેશોમાં\N_NN તથા\CC_CCD દક્ષિણઆફ્રિકામાં\N_NNP પ્રચલિત\JJ છે\V_VAUX .\RD_PUNC
+GJSPD2453	ભારતમાં\N_NNP રમતગમતના\N_NN શોખીનોએ\N_NN આ\DM_DMD રમત\N_NN અપનાવી\V_VAUX_VNP અને\CC_CCD તેને\DM_DMD લોકપ્રિય\JJ બનાવી\V_VM .\RD_PUNC
+GJSPD2454	`\RD_PUNC બોર્ડ\N_NNP ઑફ\N_NNP કન્ટ્રોલ\N_NNP ફોર\N_NNP ક્રિકેટ\N_NNP ઈન\N_NNP ઈન્ડિયાની\N_NNP `\RD_PUNC સ્થાપના\N_NN ૧૯૨૬માં\QT_QTC કરવામાં\V_VAUX_VNP આવી\V_VAUX .\RD_PUNC
+GJSPD2455	ભારતમાં\N_NNP પ્રથમ\QT_QTO સત્તાવાર\JJ ક્રિકેટમેચ\N_NN સને\N_NN ૧૮૮૪માં\QT_QTC બોમ્બે\N_NNP જિમખાના\N_NNP અને\CC_CCD પૂના\N_NNP જિમખાના\N_NNP વચ્ચે\N_NST રમાયેલ\V_VAUX_VNP .\RD_PUNC
+GJSPD2456	આ\DM_DMD બંને\JJ સંસ્થાઓએ\N_NN આપસઆપસમાં\PR_PRC આઠ\QT_QTC વર્ષ\N_NN સુધી\PSP ક્રિકેટ\N_NN -\RD_PUNC મેચ\N_NN ગોઠવેલ\V_VAUX_VNP .\RD_PUNC
+GJSPD2457	સર\N_NN ચુનીલાલ\N_NNP મહેતાના\N_NNP પ્રયત્નથી\N_NN સને\N_NN ૧૯૦૭માં\QT_QTC હિન્દુઓએ\N_NN પોતાની\PR_PRF ટીમ\N_NN બનાવી\V_VM અને\CC_CCD પ્રેસિડન્સી\N_NN મેચને\N_NN બદલે\PSP ટ્રાર્યુંગ્યુલર\N_NN મેચની\N_NN શરૂઆત\N_NN થઈ\V_VM .\RD_PUNC
+GJSPD2458	સને\N_NN ૧૯૧૨માં\QT_QTC મુસ્લિમોએ\N_NN પણ\RP_RPD પોતાની\PR_PRF ટીમ\N_NN બનાવી\V_VM અને\CC_CCD ક્વોડ્રેંગ્યુલર\N_NN (\RD_SYM ચતુરંગી\N_NN )\RD_SYM મેચની\N_NN શરૂઆત\N_NN થઈ\V_VM .\RD_PUNC
+GJSPD2459	આ\DM_DMD ક્વોડ્રેંગ્યુલર\N_NN મેચથી\N_NN સારા\JJ ભારતની\N_NNP જનતા\N_NN આકર્ષાઈ\V_VM અને\CC_CCD ક્રિકેટની\N_NN રમત\N_NN ભારતમાં\N_NNP વધુને\QT_QTF વધુ\QT_QTF પ્રચલિત\JJ થવા\V_VAUX_VNP લાગી\V_VM .\RD_PUNC
+GJSPD2460	આજે\N_NST ભારતમાં\N_NNP જો\CC_CCD કોઈ\DM_DMI દેશવ્યાપી\JJ ટુર્નામેન્ટ\N_NN હોય\V_VAUX ,\RD_PUNC તો\DM_DMD તે\DM_DMD રણજી\N_NNP ટ્રોફી\N_NNP અને\CC_CCD દુલિપ\N_NNP ટ્રોફી\N_NNP છે\V_VAUX .\RD_PUNC
+GJSPD2461	૧૯૩૪માં\QT_QTC સિમલા\N_NNP ખાતે\PSP મળેલ\V_VAUX_VNP `\RD_PUNC બોર્ડ\N_NNP ઑફ\N_NNP કન્ટ્રોલ\N_NNP ફોર\N_NNP ક્રિકેટની\N_NNP `\RD_PUNC બેઠકમાં\N_NN સ્વ.\JJ એન્થની\N_NNP ડી`મેલોએ\N_NNP ભારતમાં\N_NNP આંતર\JJ -\RD_PUNC રાજ્ય\N_NN અને\CC_CCD આંતર\JJ -\RD_PUNC પ્રાંતીય\N_NN ટુર્નામેન્ટ\N_NN શરૂ\JJ કરવાનો\V_VAUX_VNP અને\CC_CCD તેને\DM_DMD વિશ્વવિખ્યાત\JJ ક્રિકેટ\N_NN ખેલાડી\N_NN સ્વ.\JJ રણજીની\N_NNP સ્મૃતિમાં\N_NN `\RD_PUNC રણજી\N_NNP ટ્રોફી\N_NNP `\RD_PUNC નામ\N_NN આપવું\V_VAUX_VNP તેવો\JJ પ્રસ્તાવ\N_NN મૂક્યો\V_VM ,\RD_PUNC જેને\PR_PRL સર્વાનુમતે\N_NN સ્વીકારવામાં\V_VAUX_VNP આવેલો\V_VAUX_VNP .\RD_PUNC
+GJSPD2462	રણજી\N_NNP ટ્રોફીની\N_NNP પહેલી\QT_QTO મેચ\N_NN ૧૯૩૪\N_NNP નવેમ્બરની\N_NNP ૪થી\N_NNP તારીખે\N_NN મદ્રાસ\N_NNP અને\CC_CCD મૈસૂર\N_NNP વચ્ચે\N_NST રમાયેલી\V_VAUX_VNP અને\CC_CCD તે\DM_DMD માત્ર\RP_RPD એક\QT_QTC જ\RP_RPD દિવસમાં\N_NN પૂરી\JJ થયેલી\V_VAUX_VNP !\RD_PUNC
+GJSPD2463	ઈંગ્લેન્ડમાં\N_NNP ફાઉન્ટી\N_NNP ચેમ્પિયનશિપ\N_NNP ,\RD_PUNC ઑસ્ટ્રેલિયામાં\N_NNP શેફિલ્ડ\N_NNP શીલ્ડ\N_NNP ,\RD_PUNC વેસ્ટ\N_NNP ઈંડીઝમાં\N_NNP શેલ\N_NNP શીલ્ડ\N_NNP ,\RD_PUNC પાકિસ્તાનમાં\N_NNP કાયદેઆઝમ\N_NNP ટ્રોફી\N_NNP ,\RD_PUNC દક્ષિણ\N_NN આફ્રિકામાં\N_NNP કરી\N_NNP કપ\N_NNP અને\CC_CCD ન્યુઝીલેન્ડમાં\N_NNP પ્લકેટ\N_NNP શીલ્ડ\N_NNP રમાય\V_VM છે\V_VAUX ,\RD_PUNC તેમ\PSP ભારતમાં\N_NNP ક્રિકેટની\N_NN રમતમાં\N_NN રાષ્ટ્રીય\JJ ચેમ્પિયનશિપ\N_NN માટે\PSP રણજી\N_NNP ટ્રોફી\N_NNP રમાય\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2464	શ્રી\N_NN ઝેડ.\N_NNP આર.\N_NNP ઈરાની\N_NNP વરસો\N_NN સુધી\PSP ક્રિકેટ\N_NN કન્ટ્રોલ\N_NN બોર્ડના\N_NN માનાર્હ\JJ કોષાધ્યક્ષ\N_NN હતા\V_VAUX .\RD_PUNC
+GJSPD2465	ત્યારપછી\PSP એ\PR_PRP બોર્ડના\N_NN સિનિયર\N_NN ઉપપ્રમુખ\N_NN હતા\V_VAUX અને\CC_CCD છેલ્લે\JJ પ્રમુખ\N_NN પણ\RP_RPD બન્યા\V_VM હતા\V_VAUX .\RD_PUNC
+GJSPD2466	એમણે\PR_PRP ભારતીય\JJ ક્રિકેટની\N_NN જે\PR_PRL સેવા\N_NN કરી\V_VM તેની\DM_DMD કદરરૂપે\N_NN મેસર્સ\N_NNP સ્પેન્સર્સ\N_NNP લિમિટિડે\N_NNP બે\QT_QTC હજાર\N_NN રૂપિયા\N_NN બોર્ડને\N_NN સોંપ્યા\V_VM અને\CC_CCD ઈરાની\N_NNP ટ્રોફીનું\N_NNP આયોજન\N_NN સને\N_NN ૧૯૫૯થી\QT_QTC થયું\V_VM .\RD_PUNC
+GJSPD2467	ઈરાની\N_NNP ટ્રોફી\N_NNP માટેની\PSP મેચ\N_NN રણજી\N_NNP ટ્રોફી\N_NNP ચેમ્પિયન\N_NNP ટીમ\N_NNP અને\CC_CCD `\RD_PUNC રેસ્ટ\N_NNP ઑફ\N_NNP ઈન્ડિયા\N_NNP `\RD_PUNC ટીમ\N_NN વચ્ચે\N_NST દર\PSP વર્ષે\N_NN રમાય\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2468	`\RD_PUNC રેસ્ટ\N_NNP ઑફ\N_NNP ઈન્ડિયા\N_NNP `\RD_PUNC ટીમમાં\N_NN ભારતના\N_NNP વિવિધ\JJ વિભાગોમાંથી\N_NN ચુનંદા\JJ અને\CC_CCD યુવાન\JJ ખેલાડીઓની\N_NN પસંદગી\N_NN કરવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2469	સપ્ટેમ્બર\N_NN ૧૯૬૦માં\QT_QTC મદ્રાસ\N_NNP ખાતે\PSP મળેલી\V_VAUX_VNP ક્રિકેટ\N_NN કન્ટ્રોલ\N_NN બોર્ડની\N_NN વાર્ષિક\JJ સામાન્ય\JJ સભામાં\N_NN જામ\N_NN રણજીના\N_NNP ભત્રીજા\N_NN અને\CC_CCD પ્રખ્યાત\JJ ક્રિકેટર\N_NN દુલિપસિંહજીના\N_NNP સ્મરણાર્થે\N_NN એક\QT_QTC ક્રિકેટ\N_NN ટુર્નામેન્ટ\N_NN યોજવાનું\V_VAUX_VNP નક્કી\JJ થયું\V_VM .\RD_PUNC
+GJSPD2470	દુલિપ\N_NNP ટ્રોફી\N_NNP માટે\PSP બોર્ડે\N_NN રૂપિયા\N_NN પાંચ\QT_QTC હજાર\N_NN આપ્યા\V_VM .\RD_PUNC
+GJSPD2471	સને\N_NN ૧૯૬૧\QT_QTC -\RD_PUNC ૬૨થી\QT_QTC આ\DM_DMD ટુર્નામેન્ટ\N_NN શરૂ\JJ થઈ\V_VM .\RD_PUNC
+GJSPD2472	ભારતમાં\N_NNP રણજી\N_NNP ટ્રોફી\N_NNP ટુર્નામેન્ટ\N_NNP માટે\PSP પાડવામાં\V_VAUX_VNP આવેલા\V_VAUX_VNP પાંચ\QT_QTC વિભાગની\N_NN ક્રિકેટ\N_NN ટીમો\N_NN વચ્ચે\N_NST આ\DM_DMD ટુર્નામેન્ટ\N_NN રમાય\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2473	આ\DM_DMD ટુર્નામેન્ટની\N_NN પહેલી\QT_QTO મેચ\N_NN મદ્રાસ\N_NNP ખાતે\PSP ૧૯૬૧ના\N_NNP સપ્ટેમ્બરની\N_NNP ૩૦મીએ\N_NNP દક્ષિણ\N_NST અને\CC_CCD ઉત્તર\N_NST વિભાગ\N_NN વચ્ચે\N_NST રમાઈ\V_VM હતી\V_VAUX .\RD_PUNC
+GJSPD2474	૧૯૭૫માં\QT_QTC ઈંગ્લેન્ડ\N_NNP ખાતે\PSP પહેલી\QT_QTO ક્રિકેટ\N_NN વર્લ્ડકપ\N_NNP સ્પર્ધા\N_NN યોજાઈ\V_VM ગઈ\V_VAUX .\RD_PUNC
+GJSPD2475	આ\DM_DMD જાતની\N_NN એક\QT_QTC દિવસની\N_NN મર્યાદિત\JJ ઓવરની\N_NN ક્રિકેટમેચ\N_NN માટે\PSP ભારતીય\JJ ખેલાડીઓ\N_NN તૈયાર\JJ થઈ\V_VM શકે\V_VAUX તે\DM_DMD આશયથી\N_NN ભારતીય\N_NNP ક્રિકેટ\N_NNP કન્ટ્રોલ\N_NNP બોર્ડે\N_NNP ૧૯૭૩\QT_QTC -\RD_PUNC ૭૪ની\QT_QTC સીઝનથી\N_NN એક\QT_QTC દિવસની\N_NN ક્રિકેટમેચવાળી\JJ દેવધર\N_NNP ટ્રોફીનું\N_NNP આયોજન\N_NN કર્યું\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2476	મહારાષ્ટ્રના\N_NNP સુવિખ્યાત\JJ ક્રિકેટર\N_NN શ્રી\N_NN ડી.બી.દેવધરના\N_NNP માનમાં\N_NN આ\DM_DMD ટ્રોફીનું\N_NN આયોજન\N_NN થયું\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2477	ગુજરાત\N_NNP -\RD_PUNC સૌરાષ્ટ્ર\N_NNP ગ્રુપમાં\N_NN આવેલી\V_VAUX_VNP કૉલેજોમાં\N_NN ક્રિકેટમાં\N_NN વિજેતા\N_NN થનારને\V_VAUX_VNP વિજયપહ્મ\N_NN આપવા\V_VAUX_VNP માટે\PSP આ\DM_DMD કપ\N_NN મુંબઈ\N_NNP યુનિવર્સિટીને\N_NNP આપવામાં\V_VAUX_VNP આવેલ\V_VAUX_VNP .\RD_PUNC
+GJSPD2478	પરંતુ\CC_CCD ૧૯૫૨માં\QT_QTC ગુજરાત\N_NNP યુનિવર્સિટી\N_NNP જુદી\JJ થતાં\V_VAUX_VNP તે\DM_DMD કપ\N_NN ગુજરાત\N_NNP યુનિવર્સિટીને\N_NNP સુપરત\JJ કરવામાં\V_VAUX_VNP આવેલ\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJSPD2479	ગુજરાત\N_NNP યુનિવર્સિટી\N_NNP સાથે\PSP સંલગ્ન\JJ કૉલેજોમાં\N_NN ક્રિકેટ\N_NN -\RD_PUNC ચેમ્પિયન\N_NN થાય\V_VM તેને\DM_DMD આ\DM_DMD કપ\N_NN એનાયત\JJ કરવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2480	ગુજરાત\N_NNP યુનિવર્સિટીના\N_NNP સૌરાષ્ટ્ર\N_NNP -\RD_PUNC કચ્છ\N_NNP વિભાગ\N_NN આવેલી\V_VAUX_VNP કૉલેજમાં\N_NN જે\PR_PRL કૉલેજ\N_NN ક્રિકેટમાં\N_NN ચેમ્પિયન\N_NN થતી\V_VAUX_VNP તેને\DM_DMD આ\DM_DMD ટ્રોફી\N_NN એનાયત\JJ કરવામાં\V_VAUX_VNP આવતી\V_VAUX_VNP .\RD_PUNC
+GJSPD2481	સૌરાષ્ટ્ર\N_NNP યુનિવર્સિટી\N_NNP અસ્તિત્વમાં\N_NN આવતાં\V_VAUX_VNP આ\DM_DMD ટ્રોફી\N_NN તેને\DM_DMD સુપરત\JJ કરેલ\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJSPD2482	સૌરાષ્ટ્ર\N_NNP યુનિવર્સિટી\N_NNP સાથે\PSP સંલગ્ન\JJ જે\PR_PRL કૉલેજ\N_NN ક્રિકેટ\N_NN -\RD_PUNC ચેમ્પિયન\N_NN થાય\V_VM તેને\DM_DMD આ\DM_DMD ટ્રોફી\N_NN એનાયત\JJ કરવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2483	સને\N_NN ૧૮૮૦ની\QT_QTC સાલમાં\N_NN સુરત\N_NNP જિલ્લાના\N_NNP રાંદેર\N_NNP ગામમાં\N_NNP ગુજરાતમાં\N_NNP સૌ\JJ પ્રથમ\QT_QTO ક્રિકેટ\N_NN રમવાની\V_VAUX_VNP શરૂઆત\N_NN થઈ\V_VM .\RD_PUNC
+GJSPD2484	સ્થાનિક\JJ દાતાઓની\N_NN સખાવતથી\N_NN ૧૯૦૬માં\QT_QTC રાંદેર\N_NNP ઈસ્લામ\N_NNP જિમખાના\N_NNP અસ્તિત્વમાં\N_NN આવ્યું\V_VAUX .\RD_PUNC
+GJSPD2485	૧૯૧૪થી\QT_QTC ૧૯૧૯\QT_QTC સુધીમાં\PSP તો\RP_RPD આ\DM_DMD જિમખાના\N_NN ક્રિકેટની\N_NN રમત\N_NN માટે\PSP ભારતભરમાં\N_NNP મશહૂર\JJ થયું\V_VM .\RD_PUNC
+GJSPD2486	આ\DM_DMD જિમખાનાની\N_NN ક્રિકેટ\N_NN ઈલેવન\N_NN બહાર\N_NST રમવા\V_VAUX_VNP જતી\JJ અને\CC_CCD બહારની\JJ ટીમો\N_NN અહીં\N_NST રમવા\V_VAUX_VNP આવતી\V_VAUX_VNP .\RD_PUNC
+GJSPD2487	સને\N_NN ૧૯૧૯\QT_QTC પહેલાં\N_NST અમદાવાદમાં\N_NNP ક્રિકેટની\N_NN રમતને\N_NN ખાસ\JJ સ્થાન\N_NN ન\RP_NEG હતું\V_VAUX .\RD_PUNC
+GJSPD2488	ગુજરાત\N_NNP કૉલેજને\N_NNP આંગણે\N_NN નૉર્થકોટ\N_NNP શીલ્ડની\N_NNP મેચ\N_NN રમાય\V_VM અગર\PSP તો\RP_RPD સ્થાનિક\JJ હિન્દુ\N_NNP જિમખાના\N_NNP કોઈ\DM_DMI સ્થાનિક\JJ અગર\PSP બહારની\JJ ક્લબ\N_NN સાથે\PSP મેચ\N_NN રમે\V_VM ત્યારે\N_NST જ\RP_RPD સારી\JJ ક્રિકેટમેચ\N_NN જોવા\V_VAUX_VNP મળતી\V_VAUX_VNP .\RD_PUNC
+GJSPD2489	હિન્દુ\N_NNP જિમખાનાની\N_NNP ઈલેવનમાં\N_NN માત્ર\RP_RPD હિન્દુને\N_NN જ\RP_RPD સ્થાન\N_NN મળતું\V_VAUX_VNP ,\RD_PUNC જ્યારે\N_NST ગુજરાત\N_NNP કૉલેજ\N_NNP ઈલેવનમાં\N_NNP માત્ર\RP_RPD કૉલેજના\N_NN વિદ્યાર્થી\N_NN જ\RP_RPD રમી\V_VM શકતા\V_VAUX .\RD_PUNC
+GJSPD2490	આવા\JJ સંજોગોમાં\N_NN આ\DM_DMD રમતના\N_NN ઉત્કર્ષ\N_NN માટે\PSP સાર્વજનિક\JJ સંસ્થાની\N_NN જરૂર\N_NN હતી\V_VAUX .\RD_PUNC
+GJSPD2491	સને\N_NN ૧૯૧૯માં\QT_QTC એ\DM_DMD વખતના\N_NN જાણીતા\JJ ક્રિકેટર\N_NN શ્રી\N_NN રમણીકલાલ\N_NNP પટેલે\N_NNP ક્રિકેટની\N_NN રમત\N_NN વધુ\QT_QTF લોકપ્રિય\JJ બનાવેલા\V_VAUX_VNP પોતાના\PR_PRF ભાઈ\N_NN ગોરધનદાસ\N_NNP પટેલના\N_NNP સ્મરણાર્થે\N_NN `\RD_PUNC ગોરધનદાસ\N_NNP કપ\N_NNP `\RD_PUNC એનાયત\JJ કર્યો\V_VM .\RD_PUNC
+GJSPD2492	ગોરધનદાસ\N_NNP કપ\N_NNP ટુર્નામેન્ટમાં\N_NNP અમદાવાદની\N_NNP સ્થાનિક\JJ કોઈ\DM_DMI પણ\RP_RPD ટીમ\N_NN ભાગ\N_NN લઈ\V_VM શકે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2493	સેન્ટ્ર્લ\N_NNP બોર્ડ\N_NNP ઑફ\N_NNP ક્રિકેટ\N_NNP ,\RD_PUNC અમદાવાદ\N_NNP તરફથી\PSP માઈનોર\JJ ગ્રુપની\N_NN ટીમ\N_NN માટે\PSP બીજા\JJ કંપની\N_NN માંગણી\N_NN થતાં\V_VAUX_VNP તેમના\PR_PRP પુત્રના\N_NN સ્મરણાર્થે\N_NN `\RD_PUNC દિલીપ\N_NNP કપ\N_NNP `\RD_PUNC એનાયત\JJ કરેલ\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2494	સને\N_NN ૧૯૨૦માં\QT_QTC સર\N_NN ચીનુભાઈ\N_NNP બૅરોનેટ\N_NNP તરફથી\PSP ક્વોડ્રેંગ્યુલર\N_NN  મેચ\N_NN માટે\PSP શીલ્ડ\N_NN એનાયત\JJ કરવામાં\V_VAUX_VNP આવેલ\V_VAUX_VNP .\RD_PUNC
+GJSPD2495	શરૂઆતમાં\N_NN અમદાવાદમાં\N_NNP ક્રિકેટ\N_NN રમવા\V_VAUX_VNP માટે\PSP માત્ર\RP_RPD ગુજરાત\N_NNP કૉલેજનું\N_NNP ગ્રાઉન્ડ\N_NN હતું\V_VAUX .\RD_PUNC
+GJSPD2496	આજે\N_NST તો\RP_RPD અમદાવાદની\N_NNP અનેક\JJ કૉલેજોને\N_NN પોતાનાં\PR_PRF મેદાન\N_NN છે\V_VAUX .\RD_PUNC
+GJSPD2497	ઉપરાંત\PSP અમદાવાદ\N_NNP કૉર્પોરેશન\N_NNP તરફથી\PSP `\RD_PUNC વલ્લભભાઈ\N_NNP પટેલ\N_NNP સ્ટેડિયમ\N_NNP `\RD_PUNC તૈયાર\JJ કરવામાં\V_VAUX_VNP આવ્યું\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2498	સૌરાષ્ટ્રમાં\N_NNP સને\N_NN ૧૮૮૦\QT_QTC સુધી\PSP ક્રિકેટની\N_NN રમત\N_NN પ્રચલિત\JJ ન\RP_NEG હતી\V_VAUX .\RD_PUNC
+GJSPD2499	રાજકોટની\N_NNP રાજકુમાર\N_NNP કૉલેજના\N_NNP એ\DM_DMD વખતના\N_NN પ્રિન્સિપાલ\N_NN મેકનોટન\N_NNP અવારનવાર\JJ ક્રિકેટમેચ\N_NN ગોઠવતા\V_VAUX_VNP અને\CC_CCD સ્થાનિક\JJ યુરોપિયન\JJ અધિકારીઓ\N_NN આ\DM_DMD રમત\N_NN રમતા\V_VAUX_VNP .\RD_PUNC
+GJSPD2500	પાછળથી\PSP ગઢેચી\N_NN ટીમ\N_NN ,\RD_PUNC ઝાલાવાડ\N_NNP ટીમ\N_NNP અને\CC_CCD ઑલ્ફ્રે\N_NNP હાઈસ્કૂલ\N_NNP ટીમ\N_NN અસ્તિત્વમાં\N_NN આવી\V_VM .\RD_PUNC
+GJSPD2501	છ\QT_QTC વર્ષમાં\N_NN તો\RP_RPD સૌરાષ્ટ્રમાં\N_NNP તેનો\DM_DMD ખૂબ\QT_QTF પ્રચાર\N_NN થયો\V_VM .\RD_PUNC
+GJSPD2502	સૌરાષ્ટ્ર\N_NNP રાજ્ય\N_NNP અસ્તિત્વમાં\N_NN આવતાં\V_VAUX_VNP ઉપર\PSP બતાવેલ\V_VAUX_VNP W.I.S.C.A.નું\RD_RDF નામ\N_NN `\RD_PUNC સૌરાષ્ટ્ર\N_NNP ક્રિકેટ\N_NNP એસોસીએશન\N_NNP `\RD_PUNC રાખવામાં\V_VAUX_VNP આવ્યું\V_VAUX .\RD_PUNC
+GJSPD2503	હાલ\N_NST પણ\RP_RPD આ\DM_DMD જ\RP_RPD સંસ્થા\N_NN અસ્તિત્વમાં\N_NN છે\V_VAUX .\RD_PUNC
+GJSPD2504	સૌરાષ્ટ્રમાં\N_NNP રણજી\N_NNP ટ્રોફી\N_NNP ,\RD_PUNC પરીખ\N_NNP ટ્રોફી\N_NNP અને\CC_CCD કૂચબિહાર\N_NNP ટ્રોફીનું\N_NNP સંચાલન\N_NN આ\DM_DMD સંસ્થા\N_NN દ્વારા\PSP થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2505	સને\N_NN ૧૯૩૪માં\QT_QTC રણજી\N_NNP ટ્રોફી\N_NNP ટુર્નામેન્ટ\N_NNP શરૂ\JJ થઈ\V_VM તે\DM_DMD વર્ષથી\N_NN જ\RP_RPD ગુજરાત\N_NNP ક્રિકેટ\N_NNP એસોસીએશનની\N_NNP સ્થાપના\N_NN થઈ\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2506	૧૯૫૦\QT_QTC -\RD_PUNC ૫૧ની\QT_QTC ગુજરાતની\N_NNP ટીમે\N_NN રણજી\N_NNP ટ્રોફી\N_NNP ચેમ્પિયનશિપ\N_NNP મેળવી\V_VM હતી\V_VAUX .\RD_PUNC
+GJSPD2507	મુખ્યત્વે\JJ અમદાવાદમાં\N_NNP ક્રિકેટને\N_NN ઉત્તેજન\N_NN મળતું\V_VAUX_VNP હોવાથી\V_VAUX_VNP સર્વશ્રી\JJ લાલા\N_NNP અમરનાથ\N_NNP ,\RD_PUNC વિનુ\N_NNP માંકડ\N_NNP ,\RD_PUNC પોલી\N_NNP ઉમરીગર\N_NNP અને\CC_CCD સલીમ\N_NNP દુરાની\N_NNP જેવા\JJ ખ્યાતનામ\JJ ક્રિકેટરો\N_NN ગુજરાત\N_NNP તરફથી\PSP અમુક\PSP સમય\N_NN માટે\PSP રણજી\N_NNP ટ્રોફી\N_NNP રમેલા\V_VAUX_VNP .\RD_PUNC
+GJSPD2508	ગુજરાતના\N_NNP શ્રી\N_NN રતિલાલ\N_NNP ખુશાલદાસ\N_NNP પટેલ\N_NNP ૧૯૫૮\QT_QTC -\RD_PUNC ૫૯ના\QT_QTC વર્ષ\N_NN માટે\PSP ભારતીય\N_NNP ક્રિકેટ\N_NNP કન્ટ્રોલ\N_NNP બોર્ડના\N_NNP પ્રમુખ\N_NN તરીકે\PSP વરણી\N_NN પામ્યા\V_VM હતા\V_VAUX .\RD_PUNC
+GJSPD2509	વડોદરા\N_NNP ક્રિકેટ\N_NNP એસોસીએશન\N_NNP ૧૯૩૭થી\QT_QTC અસ્તિત્વમાં\N_NN આવ્યું\V_VM અને\CC_CCD ત્યારથી\N_NST માંડીને\V_VAUX_VNP આજ\N_NST સુધી\PSP રણજી\N_NNP ટ્રોફી\N_NNP ટુર્નામેન્ટમાં\N_NNP ભાગ\N_NN લે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2510	શક્તિશાળી\JJ ખેલાડીઓને\N_NN વિકસવાની\V_VAUX_VNP તક\N_NN મળે\V_VM તે\DM_DMD માટે\PSP પોરબંદરના\N_NNP મહારાણાસાહેબ\N_NNP સર\N_NN નટવરસિંહ\N_NNP ,\RD_PUNC જેઓ\PR_PRL એક\QT_QTC ઉચ્ચ\JJ કક્ષાના\N_NN સ્પૉર્ટસમૅન\N_NN છે\V_VAUX ,\RD_PUNC તેમને\PR_PRP એક\QT_QTC સુંદર\JJ વ્યવસ્થા\N_NN ઊભી\V_VM કરવાનો\V_VAUX_VNP વિચાર\N_NN આવતાં\V_VAUX_VNP ૧૯૪૭માં\QT_QTC નીચે\N_NST મુજબ\PSP તૈયારી\N_NN શરૂ\JJ કરી\V_VM .\RD_PUNC
+GJSPD2511	દુલિપ\N_NNP સ્કૂલ\N_NNP ઑફ\N_NNP ક્રિકેટમાં\N_NNP બૅટિંગ\N_NN ,\RD_PUNC બોલિંગ\N_NN ,\RD_PUNC ફીલ્ડિંગ\N_NN ,\RD_PUNC સ્ટ્રોક\N_NN Correct\RD_RDF Standing\RD_RDF position\RD_RDF વગેરે\PSP જુદી\JJ જુદી\JJ શાખાઓની\N_NN તાલીમ\N_NN માટે\PSP પોતાની\PR_PRF દેખરેખ\N_NN નીચે\N_NST સુંદર\JJ વ્યવસ્થા\N_NN તૈયાર\JJ કરાવી\V_VM .\RD_PUNC
+GJSPD2512	ખેલાડીઓ\N_NN અને\CC_CCD મુલાકાતીઓ\N_NN માટે\PSP સગવડવાળું\JJ વિજય\N_NNP પેવિલિયન\N_NNP તૈયાર\JJ કરાવ્યું\V_VM .\RD_PUNC
+GJSPD2513	હંમેશા\PSP પોરબંદર\N_NNP હાઈસ્કૂલ\N_NNP તરફથી\PSP ટુકડીવાર\N_NN ક્રિકેટની\N_NN રમતના\N_NN શોખીન\JJ વિદ્યાર્થીઓને\N_NN દુલિપ\N_NNP સ્કૂલમાં\N_NNP મોકલવામાં\V_VAUX_VNP આવતા\V_VAUX_VNP અને\CC_CCD તેમાં\DM_DMD દરેકની\JJ વિવિધ\JJ પ્રકારની\N_NN કસોટી\N_NN કરી\V_VM કયો\PR_PRQ વિદ્યાર્થી\N_NN તાલીમ\N_NN લેવાથી\V_VAUX_VNP સારો\JJ ખેલાડી\N_NN થઈ\V_VM શકે\V_VAUX તેમ\PSP છે\V_VAUX ,\RD_PUNC તેની\DM_DMD ચકાસણી\N_NN થતી\V_VAUX_VNP અને\CC_CCD તેમને\PR_PRP માટે\PSP ખાસ\JJ તાલીમની\N_NN વ્યવસ્થા\N_NN કરવામાં\V_VAUX_VNP આવતી\V_VAUX .\RD_PUNC
+GJSPD2514	દુલિપ\N_NNP સ્કૂલ\N_NNP તથા\CC_CCD વિજય\N_NNP મર્ચન્ટ\N_NNP પેવિલિયનનું\N_NNP ઉદઘાટન\N_NN સ્વ.\JJ મહારાજા\N_NN શ્રી\N_NN દુલિપસિંહ\N_NNP તથા\CC_CCD વિજય\N_NNP મરચન્ટના\N_NNP હસ્તે\N_NN અનુક્રમે\JJ થયેલું\V_VAUX_VNP .\RD_PUNC
+GJSPD2515	સારા\JJ બૅટ્સમૅન\N_NN થવા\V_VAUX_VNP માટે\PSP ઊગતા\V_VAUX_VNP ખેલાડીએ\N_NN શું\PR_PRQ કરવું\V_VAUX_VNP જોઈએ\V_VAUX .\RD_PUNC
+GJSPD2516	ખેલાડીનો\N_NN અંગત\JJ રસ\N_NN ,\RD_PUNC સમજણપૂર્વકનો\JJ મહાવરો\N_NN ,\RD_PUNC એકાગ્રતા\N_NN અને\CC_CCD સારા\JJ બૅટ્સમૅનની\N_NN રમતનું\N_NN નિરીક્ષણ\N_NN જરૂર\N_NN ફાયદાકારક\JJ બને\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2517	બોલર\N_NN બધા\QT_QTF દડા\N_NN એકસરખા\JJ ભાગ્યે\PSP જ\RP_RPD ફેંકતો\V_VAUX_VNP હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2518	તેથી\CC_CCS એક\PSP જ\RP_RPD સ્થિતિમાં\N_NN ઊભા\V_VM રહીને\V_VAUX_VNP બૅટ્સમૅને\N_NN રમવું\V_VAUX_VNP હિતાવહ\JJ નથી\RP_NEG .\RD_PUNC
+GJSPD2519	બોલરે\N_NN કઈ\DM_DMI રીતે\N_NN દડો\N_NN પકડેલ\V_VAUX_VNP છે\V_VAUX અને\CC_CCD તે\DM_DMD દડાનો\N_NN સામનો\N_NN કરવા\V_VAUX_VNP બૅટનો\N_NN કેવી\DM_DMQ રીતે\N_NN ઉપયોગ\N_NN કરવો\V_VAUX_VNP તે\DM_DMD ખ્યાલમાં\N_NN રાખવું\V_VAUX_VNP જરૂરી\JJ બને\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2520	બૅટનો\N_NN સહેલાઈથી\RB ઉપયોગ\N_NN કરવા\V_VAUX_VNP માટે\PSP બૅટની\N_NN પકડ\N_NN પણ\RP_RPD અગત્યનો\JJ ભાગ\N_NN ભજવે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2521	ડાબોડીનો\JJ જમણો\JJ હાથ\N_NN ઉપર\PSP ,\RD_PUNC ડાબો\JJ હાથ\N_NN નીચે\N_NST ,\RD_PUNC જમણેરીનો\JJ ડાબો\JJ હાથ\N_NN ઉપર\PSP અને\CC_CCD જમણો\JJ હાથ\N_NN નીચે\N_NST ,\RD_PUNC બંને\JJ હાથ\N_NN પાસે\PSP -\RD_PUNC પાસે\PSP રાખીને\V_VAUX_VNP બૅટની\N_NN પકડ\N_NN રાખવી\V_VAUX_VNP .\RD_PUNC
+GJSPD2522	બૅટ્સમૅનનું\N_NN સઘળું\JJ વજન\N_NN બૅટ\N_NN ઉપર\PSP ન\RP_NEG હોવું\V_VAUX_VNP જોઈએ\V_VAUX ,\RD_PUNC પરંતુ\CC_CCD શરીરના\N_NN બંને\JJ પગ\N_NN વચ્ચે\N_NST લગભગ\PSP છ\QT_QTC ઈંચનું\N_NN અંતર\N_NN રાખી\V_VM સમતુલા\N_NN રાખીને\V_VM ઊભવું\V_VM જોઈએ\V_VAUX .\RD_PUNC
+GJSPD2523	ઊભા\V_VM રહેતી\V_VAUX_VNP વખતે\N_NN પૉપિંગ\N_NN ક્રીઝ\N_NN છોડવી\V_VAUX_VNP નહીં\RP_NEG .\RD_PUNC
+GJSPD2524	બૅટ\N_NN પકડીને\V_VAUX_VNP ઊભા\V_VM રહેવાની\V_VAUX_VNP રીતને\N_NN `\RD_PUNC સ્ટાન્સ\N_NN કહે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2525	બૅટ\N_NN પકડીને\V_VAUX_VNP વિકેટ\N_NN સામે\PSP ઊભા\V_VM રહેવાની\V_VAUX_VNP રીત\N_NN પણ\RP_RPD જુદા\JJ જુદા\JJ ખેલાડીની\N_NN જુદી\JJ જુદી\JJ હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2526	સામાન્ય\JJ રીતે\N_NN બૅટિંગ\N_NN કરનારે\V_VAUX_VNP એવી\JJ રીતે\N_NN ઊભા\V_VM રહેવું\V_VAUX_VNP જોઈએ\V_VAUX કે\CC_CCS જેથી\PSP બંને\JJ પગ\N_NN વચ્ચે\N_NST થોડું\QT_QTF અંતર\N_NN રહે\V_VM તથા\CC_CCD બંને\JJ પગ\N_NN ઉપર\PSP સરખું\JJ વજન\N_NN રહે\V_VM .\RD_PUNC
+GJSPD2527	જો\CC_CCD બંને\JJ પગ\N_NN એકબીજાને\PR_PRC અડાડીને\V_VAUX_VNP રાખે\V_VM તો\CC_CCD બેટ્સમેનને\N_NN રમતમાં\N_NN ઘણી\QT_QTF તકલીફ\N_NN પડે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2528	વળી\PSP જો\CC_CCD બંને\JJ પગ\N_NN વચ્ચે\N_NST વધુ\QT_QTF પડતી\V_VAUX_VNP જગ્યા\N_NN રાખવામાં\V_VAUX_VNP આવે\V_VAUX તો\CC_CCD ખેલાડીનું\N_NN શરીર\N_NN ફટકો\N_NN મારતી\V_VAUX_VNP વખતે\N_NN ઝૂકી\V_VM જાય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2529	બેટિંગ\N_NN કરતી\V_VAUX_VNP વખતે\N_NN ઊભા\V_VM રહો\V_VAUX ત્યારે\N_NST પણ\RP_RPD ઘૂંટણમાંથી\N_NN સહેજ\QT_QTF વાંકા\JJ વાળી\V_VM રાખવા\V_VAUX_VNP જોઈએ\V_VAUX અને\CC_CCD શરીરને\N_NN કાટખૂણે\N_NN વળાંક\N_NN આપી\V_VAUX_VNP ઊભા\V_VM રહેવું\V_VAUX_VNP જોઈએ\V_VAUX .\RD_PUNC
+GJSPD2530	માથું\N_NN ટટાર\JJ અને\CC_CCD સ્થિર\JJ રાખવું\V_VAUX_VNP જોઈએ\V_VAUX .\RD_PUNC
+GJSPD2531	નજર\N_NN બોલરના\N_NN હાથમાં\N_NN પકડાયેલા\V_VAUX_VNP બોલ\N_NN તરફ\PSP રાખવી\V_VAUX_VNP જોઈએ\V_VAUX .\RD_PUNC
+GJSPD2532	બેટને\N_NN હાથથી\N_NN પકડવાની\V_VAUX_VNP ક્રિયાને\N_NN `\RD_PUNC ગ્રિપ\N_NN `\RD_PUNC કહે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2533	દરેક\JJ બૅટ્સમેનની\N_NN `\RD_PUNC ગ્રિપ\N_NN `\RD_PUNC આગવી\JJ હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2534	શરીરની\N_NN ઊંચાઈ\N_NN ,\RD_PUNC હાથનું\N_NN કદ\N_NN ,\RD_PUNC રમવાની\V_VAUX_VNP રીત\N_NN -\RD_PUNC આ\DM_DMD બધી\QT_QTF બાબતોની\N_NN અસર\N_NN બેટ\N_NN પકડવાની\V_VAUX_VNP રીત\N_NN ઉપર\PSP થશે\V_VM .\RD_PUNC
+GJSPD2535	દડાને\N_NN ફટકારવા\V_VAUX_VNP માટે\PSP બેટને\N_NN ઊંચકવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX તે\DM_DMD ક્રિયાને\N_NN `\RD_PUNC લિફ્ટ\N_NN `\RD_PUNC કહે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2536	આગળ\PSP વધીને\V_VAUX_VNP અગર\PSP પાછળ\PSP રહીને\V_VAUX_VNP રક્ષણાત્મક\JJ રમત\N_NN રમી\V_VM શકાય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2537	ઝાઝામાં\JJ ઝાઝો\JJ વખત\N_NN તદ્દન\PSP શાંતિથી\RB રમી\V_VM વિકેટ\N_NN ઉપર\PSP રહેવાનો\V_VAUX_VNP પ્રયત્ન\N_NN કરવો\V_VAUX_VNP અને\CC_CCD ઈનિંગ્ઝ\N_NN જીતવાની\V_VAUX_VNP કે\CC_CCS રન\N_NN ઝડપથી\RB વધારી\V_VM દેવાની\V_VAUX_VNP આશા\N_NN કે\CC_CCS અધીરતા\N_NN વગર\PSP બેટિંગ\N_NN કરવું\V_VAUX_VNP તે\DM_DMD સંરક્ષણાત્મક\JJ (\RD_SYM Defencive\RD_RDF )\RD_SYM બેટિંગ\N_NN છે\V_VAUX .\RD_PUNC
+GJSPD2538	ફોરવર્ડ\N_NN સ્ટ્રોક\N_NN માત્ર\RP_RPD સંરક્ષાણાત્મક\JJ છે\V_VAUX એટલું\JJ જ\RP_RPD નહીં\RP_NEG પરંતુ\CC_CCD તમામ\JJ ડ્રાઈવ\N_NN માટે\PSP તે\DM_DMD અગત્યની\JJ ટેકનિક\N_NN છે\V_VAUX .\RD_PUNC
+GJSPD2539	દડાનો\N_NN જ્યાં\N_NST ટપો\N_NN પડે\V_VM તેની\DM_DMD નજીકથી\JJ જ\RP_RPD તેને\DM_DMD રમવો\V_VAUX_VNP .\RD_PUNC
+GJSPD2540	ડ્રાઈવની\N_NN ટેકનિક\N_NN ફોરવર્ડ\N_NN સ્ટ્રોક\N_NN જેવી\JJ જ\RP_RPD છે\V_VAUX .\RD_PUNC
+GJSPD2541	ડ્રાઈવની\N_NN બૅટ\N_NN જરા\QT_QTF વધારે\QT_QTF ઊંચું\JJ ઉપાડવું\V_VAUX_VNP પડે\V_VAUX છે\V_VAUX અને\CC_CCD ડાબા\JJ પગના\N_NN પંજા\N_NN પાસેથી\PSP બૉલને\N_NN ફટકારવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2542	ક્રિકેટની\N_NN રમતમાં\N_NN જો\CC_CCD કોઈ\DM_DMI પણ\RP_RPD ફટકા\N_NN વધુમાં\QT_QTF વધુ\QT_QTF ઉપયોગી\JJ ,\RD_PUNC આકર્ષક\JJ અને\CC_CCD રનભંડોળ\N_NN વધારનારા\V_VAUX_VNP હોય\V_VAUX તો\CC_CCD હૂક\N_NN અને\CC_CCD પૂલના\N_NN ફટકા\N_NN છે\V_VAUX .\RD_PUNC
+GJSPD2543	હૂક\N_NN અને\CC_CCD પૂલ\N_NN બંને\JJ તદ્દન\PSP જુદી\JJ જાતના\N_NN અને\CC_CCD જુદા\JJ જુદા\JJ દડા\N_NN પ્રમાણે\PSP યોજાતા\V_VAUX_VNP ફટકાઓ\N_NN છે\V_VAUX .\RD_PUNC
+GJSPD2544	હૂક\N_NN ફટકા\N_NN માટે\PSP દડો\N_NN ટૂંકી\JJ પીચનો\N_NN હોવો\V_VAUX_VNP જોઈએ\V_VAUX અને\CC_CCD વિકેટ\N_NN નજીક\JJ કે\CC_CCS ઓફમાં\N_NN પડેલો\V_VAUX_VNP હોવો\V_VAUX_VNP જોઈએ\V_VAUX .\RD_PUNC
+GJSPD2545	બોલર\N_NN ઝડપી\RB હોય\V_VAUX ,\RD_PUNC મધ્યમ\JJ હોય\V_VAUX કે\CC_CCS ધીમો\JJ ,\RD_PUNC પણ\CC_CCD તે\PR_PRP ટૂંકો\JJ દડો\N_NN ફેંકે\V_VM તો\CC_CCD તેને\DM_DMD હૂક\N_NN કરી\V_VM શકાય\V_VAUX .\RD_PUNC
+GJSPD2546	અહીં\N_NST વિકેટ\N_NN ધીમી\RB ગતિની\N_NN હોવી\V_VAUX_VNP જોઈએ\V_VAUX .\RD_PUNC
+GJSPD2547	પૂલ\N_NN ફટકો\N_NN ઝડપી\RB અને\CC_CCD કડક\JJ વિકેટ\N_NN માટે\PSP વધુ\QT_QTF અનુકૂળ\JJ છે\V_VAUX .\RD_PUNC
+GJSPD2548	હૂક\N_NN કરતી\V_VAUX_VNP વખતે\N_NN દડો\N_NN ટૂંકો\JJ જોઈએ\V_VAUX જ્યારે\N_NST પૂલ\N_NN કરતી\V_VAUX_VNP વખતે\N_NN દડો\N_NN હાફ\JJ વોલી\N_NN કે\CC_CCS ઓવર\JJ પીચ\N_NN અને\CC_CCD તે\DM_DMD પણ\RP_RPD ઓફ\PSP સ્ટમ્પની\N_NN બહાર\N_NST પડવો\V_VAUX_VNP જોઈએ\V_VAUX .\RD_PUNC
+GJSPD2549	જો\CC_CCD ખેલાડી\N_NN મનમાં\N_NN નિશ્ચય\N_NN કરે\V_VM અને\CC_CCD નિયમિત\JJ બુદ્ધિપૂર્વક\JJ ગોલંદાજીનો\N_NN મહાવરો\N_NN રાખે\V_VM તો\CC_CCD જરૂર\PSP તે\PR_PRP સારો\JJ ગોલંદાજ\N_NN થઈ\V_VM શકે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2550	સ્વસ્થ\JJ સુદૃઢ\JJ શરીર\N_NN અને\CC_CCD હાથની\N_NN લાંબી\JJ આંગળીઓ\N_NN સારા\JJ બોલર\N_NN માટે\PSP આવશ્યક\JJ છે\V_VAUX .\RD_PUNC
+GJSPD2551	સારા\JJ બોલર\N_NN થવા\V_VAUX_VNP માટે\PSP દડાની\N_NN લાંબી\JJ ટપ\N_NN અને\CC_CCD દિશાની\N_NN ચોક્સાઈ\N_NN અગત્યનાં\JJ છે\V_VAUX .\RD_PUNC
+GJSPD2552	દડાની\N_NN પકડ\N_NN હંમેશા\PSP આંગળીઓનાં\N_NN ટેરવાંથી\N_NN થવી\V_VAUX_VNP જોઈએ\V_VAUX .\RD_PUNC
+GJSPD2553	દડાને\N_NN હથેળીથી\N_NN પકડ\N_NN લેવી\V_VAUX_VNP નહીં\RP_NEG .\RD_PUNC
+GJSPD2554	બોલરે\N_NN કેટલાં\QT_QTF પગલાં\N_NN દોડવું\V_VAUX_VNP તે\DM_DMD મહાવરાથી\N_NN નક્કી\JJ કરી\V_VM શકાય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2555	દોડીને\V_VAUX_VNP દડો\N_NN ફેંકતી\V_VAUX_VNP વખતે\N_NN શરીર\N_NN ઢીલું\JJ કરી\V_VM નાખવું\V_VAUX_VNP જોઈએ\V_VAUX .\RD_PUNC
+GJSPD2556	શરીરનું\N_NN સમતોલપણું\N_NN જાળવવું\V_VAUX_VNP જોઈએ\V_VAUX .\RD_PUNC
+GJSPD2557	શરીર\N_NN આગળ\PSP ઝૂકતું\V_VAUX_VNP ને\CC_CCD માથું\N_NN સમતોલ\JJ રાખવું\V_VAUX_VNP .\RD_PUNC
+GJSPD2558	દડો\N_NN ફેંકતા\V_VAUX_VNP પહેલા\N_NST ગોલંદાજે\N_NN દડો\N_NN ક્યાં\N_NST ફેકવો\V_VM છે\V_VAUX ,\RD_PUNC કયા\DM_DMQ પ્રકારનો\N_NN ફેંકવો\V_VAUX_VNP છે\V_VAUX તે\DM_DMD ચિત્ર\N_NN નજર\N_NN સમક્ષ\PSP રાખવું\V_VAUX_VNP જોઈએ\V_VAUX .\RD_PUNC
+GJSPD2559	આંખ\N_NN જે\PR_PRL જગ્યાએ\N_NN દડો\N_NN ફેંકવો\V_VAUX_VNP હોય\V_VAUX તેના\DM_DMD ઉપર\PSP ચોંટેલી\V_VAUX_VNP હોવી\V_VAUX_VNP જોઈએ\V_VAUX .\RD_PUNC
+GJSPD2560	ચિત્તની\N_NN એકાગ્રતા\N_NN અત્યંત\JJ જરૂરી\JJ ગણાય\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2561	બાઉન્સર\N_NN એ\DM_DMD ઝડપી\JJ ગોલંદાજનો\N_NN ખતરો\N_NN બોલ\N_NN ગણાય\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2562	ઝડપી\JJ બોલર\N_NN માટે\PSP વિકેટ\N_NN લેવાનું\V_VAUX_VNP આ\DM_DMD એક\QT_QTC શસ્ત્ર\N_NN છે\V_VAUX .\RD_PUNC
+GJSPD2563	પરંતુ\CC_CCD તેનો\DM_DMD વારંવાર\PSP ઉપયોગ\N_NN કરવો\V_VAUX_VNP હિતકારક\JJ નથી\RP_NEG .\RD_PUNC
+GJSPD2564	બાઉન્સર\N_NN બોલ\N_NN ટૂંકી\JJ પીચ\N_NN ઉપરથી\PSP ઊછળીને\V_VAUX_VNP છાતી\N_NN સુધી\PSP કે\CC_CCS માથા\N_NN સુધી\PSP આવતો\V_VAUX_VNP હોવાથી\V_VAUX_VNP બેટસમેન\N_NN ઉતાવળો\JJ ફટકો\N_NN મારતાં\V_VAUX_VNP ભૂલ\N_NN કરી\V_VM બેસે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2565	બાઉન્સર\N_NN બોલ\N_NN સ્ટમ્પ્સની\N_NN લાઈનમાં\N_NN જ\RP_RPD ઊછળતો\V_VAUX_VNP હોવો\V_VAUX જોઈએ\V_VAUX .\RD_PUNC
+GJSPD2566	દડાને\N_NN અટકાવવો\V_VAUX_VNP ,\RD_PUNC પકડવો\V_VAUX_VNP કે\CC_CCS ઘા\N_NN કરવો\V_VAUX_VNP એ\DM_DMD ક્રિકેટની\N_NN સહેલામાં\JJ સહેલી\JJ રમત\N_NN છે\V_VAUX .\RD_PUNC
+GJSPD2567	જે\PR_PRL ખેલાડી\N_NN ફીલ્ડિંગમાં\N_NN ખંતથી\N_NN મહેનત\N_NN કરે\V_VM નહીં\RP_NEG અને\CC_CCD બેદરકારી\N_NN બતાવે\V_VM એ\DM_DMD સાચો\JJ ક્રિકેટર\N_NN થઈ\V_VM શકે\V_VAUX નહીં\RP_NEG .\RD_PUNC
+GJSPD2568	દડાના\N_NN માર્ગમાં\N_NN વહેલા\JJ પહોંચો\V_VM .\RD_PUNC
+GJSPD2569	માથું\N_NN સ્થિર\JJ અને\CC_CCD શરીર\N_NN સમતોલ\JJ રાખો\V_VM .\RD_PUNC
+GJSPD2570	દડાને\N_NN બરોબર\PSP નીરખીને\V_VAUX_VNP જુઓ\V_VM .\RD_PUNC
+GJSPD2571	હાથ\N_NN અને\CC_CCD આંગળીઓ\N_NN ખુલ્લી\JJ રાખી\V_VM તેની\DM_DMD જાળ\N_NN બનાવો\V_VM ,\RD_PUNC જેમાં\PR_PRL દડો\N_NN ફસાઈ\V_VM શકે\V_VAUX .\RD_PUNC
+GJSPD2572	દડો\N_NN આંખની\N_NN સપાટીએ\N_NN ત્યારે\N_NST જ\RP_RPD પકડવા\V_VAUX_VNP પ્રયત્ન\N_NN કરો\V_VM .\RD_PUNC
+GJSPD2573	આંખથી\N_NN નીચે\N_NST આવતા\V_VAUX_VNP દડાને\N_NN પકડવામાં\V_VAUX_VNP બેવડી\JJ નજર\N_NN થઈ\V_VM જવાનો\V_VAUX_VNP ભય\N_NN રહેશે\V_VAUX .\RD_PUNC
+GJSPD2574	દડાનો\N_NN ઝડપી\JJ અને\CC_CCD ચોક્સાઈવાળો\JJ ઘા\N_NN એ\DM_DMD સારી\JJ ફીલ્ડિંગ\N_NN માટેની\N_NN અગત્યની\JJ ટેકનિક\N_NN છે\V_VAUX .\RD_PUNC
+GJSPD2575	સારો\JJ ઘા\N_NN કરવા\V_VAUX_VNP માટે\PSP કાંડામાં\N_NN ,\RD_PUNC કોણીમાં\N_NN અને\CC_CCD ખભામાં\N_NN નરમાશ\N_NN હોવી\V_VAUX_VNP જોઈએ\V_VAUX .\RD_PUNC
+GJSPD2576	ઘા\N_NN કરવા\V_VAUX_VNP માટે\PSP શરીરને\N_NN સમતોલ\N_NN રાખી\V_VM ,\RD_PUNC આખા\JJ શરીરને\N_NN ગતિમય\JJ કરી\V_VM ઘા\N_NN કરવો\V_VAUX_VNP જોઈએ\V_VAUX .\RD_PUNC
+GJSPD2577	વિકેટકીપરે\N_NN એક\QT_QTC પણ\RP_RPD કેચ\N_NN જવા\V_VAUX_VNP દેવો\V_VAUX_VNP ન\RP_NEG જોઈએ\V_VAUX .\RD_PUNC
+GJSPD2578	વિકેટકીપરમાં\N_NN દ્રષ્ટિની\N_NN ચકોરતા\N_NN અને\CC_CCD શરીરની\N_NN ચપળતાના\N_NN ગુણો\N_NN હોવા\V_VAUX_VNP જરૂરી\JJ છે\V_VAUX .\RD_PUNC
+GJSPD2579	બીજા\JJ કોઈ\PR_PRI પણ\RP_RPD ફીલ્ડર\N_NN કરતાં\V_VAUX_VNP વિકેટકીપરની\N_NN કામગીરી\N_NN વધુ\QT_QTF એકાગ્રતા\N_NN માગનારી\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJSPD2580	એ\DM_DMD બેટ્સમેનની\N_NN સૌથી\JJ વધુ\QT_QTF નજીક\JJ હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2581	આથી\PSP એ\DM_DMD બેટ્સમેનની\N_NN નબળાઈ\N_NN ઓળખીને\V_VAUX_VNP બોલરને\N_NN તેની\DM_DMD જાણ\N_NN કરી\V_VM શકે\V_VAUX .\RD_PUNC
+GJSPD2582	વળી\PSP ,\RD_PUNC દરેક\JJ દડો\N_NN ફેંકાય\V_VM ત્યારે\N_NST ફટકો\N_NN ન\RP_NEG લાગે\V_VM તો\CC_CCD વિકેટકીપરે\N_NN દડો\N_NN ઝીલવાનો\V_VAUX_VNP હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2583	આથી\PSP તેનું\PR_PRP શરીર\N_NN સ્ફૂર્તિવાળું\JJ ,\RD_PUNC કસરતી\JJ અને\CC_CCD મજબુત\JJ હોવું\V_VAUX_VNP જોઈએ\V_VAUX .\RD_PUNC
+GJSPD2584	કોઈ\PR_PRI ફીલ્ડરે\N_NN વધારે\QT_QTF ઊંચો\JJ ઘા\N_NN કર્યો\V_VM હોય\V_VAUX કે\CC_CCS સહેજ\QT_QTF આડો\JJ ઘા\N_NN કર્યો\V_VM હોય\V_VAUX ,\RD_PUNC ત્યારે\N_NST બાજી\N_NN સંભાળી\V_VM લેવાનું\V_VAUX_VNP વિકેટ\N_NN કીપરને\N_NN શિરે\N_NN આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2585	જમૈકાના\N_NNP યુસેન\N_NNP બોલ્ટનું\N_NNP નામ\N_NN સાંભળ્યું\V_VM ન\RP_NEG હોય\V_VAUX તો\CC_CCD વાંધો\N_NN નથી\RP_NEG .\RD_PUNC
+GJSPD2586	રેકોર્ડ\N_NN સાથે\PSP મતલબ\N_NN રાખો\V_VM .\RD_PUNC
+GJSPD2587	ધરતી\N_NN પરના\PSP ૭\QT_QTC અબજ\N_NN મનુષ્યોમાં\N_NN તેના\DM_DMD જેટલો\JJ વેગવાન\JJ દોડવીર\N_NN બીજો\JJ એકેય\QT_QTC નથી\RP_NEG .\RD_PUNC
+GJSPD2588	ઓલિમ્પિક\N_NNP જેવી\JJ વર્લ્ડ\N_NN ચેમ્પિયનશીપ\N_NN સ્પર્ધામાં\N_NN ૧૦૦\QT_QTC મીટરની\N_NN રેસ\N_NN વખતે\N_NN એ\DM_DMD બીજાનો\JJ તો\RP_RPD ઠીક\PSP ,\RD_PUNC ખુદ\PSP પોતાના\PR_PRF રેકોર્ડઝને\N_NN ચકનાચૂર\JJ કરતો\V_VAUX_VNP આવ્યો\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2589	આ\DM_DMD સ્પર્ધામાં\N_NN પરિપૂર્ણ\JJ સેકન્ડનું\N_NN મહત્વ\N_NN રહ્યું\V_VM નથી\RP_NEG .\RD_PUNC
+GJSPD2590	સેકન્ડનો\N_NN આંખના\N_NN પલકારા\N_NN જેવો\JJ અપૂર્ણાંક\N_NN સમયગાળો\N_NN પર\PSP ગોલ્ડ\N_NN મેડલ\N_NN અને\CC_CCD સિલ્વર\N_NN મેડલ\N_NN જેટલો\JJ ફરક\N_NN પાડી\V_VM દે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2591	વિક્રમ\N_NN સ્થપાયા\N_NN બાદ\PSP સેકન્ડનો\N_NN કેવો\DM_DMQ સૂક્ષ્મ\JJ સમયગાળો\N_NN તેને\DM_DMD આઉટડેટેડ\JJ કરી\V_VM નાખે\V_VAUX તેના\DM_DMD દાખલા\N_NN ઘણાં\QT_QTF છે\V_VAUX .\RD_PUNC
+GJSPD2592	બોલ્ટે\N_NN એ\DM_DMD જ\RP_RPD વર્ષે\N_NN ૯.૬૯\QT_QTC સેકન્ડમાં\N_NN ૧૦૦\QT_QTC મીટર\N_NN દોડીને\V_VAUX_VNP ઝડપનું\N_NN નવું\JJ સીમાચિહ્ન\N_NN આંક્યું\V_VM .\RD_PUNC
+GJSPD2593	૨૦૦૯માં\QT_QTC તો\RP_RPD તેણે\PR_PRP માત્ર\RP_RPD ૯.૫૮\QT_QTC સેકન્ડ\N_NN લીધી\V_VM ,\RD_PUNC જે\PR_PRL અત્યારે\N_NST વર્લ્ડ\N_NN રેકોર્ડ\N_NN છે\V_VAUX .\RD_PUNC
+GJSPD2594	નિષ્ણાતોના\N_NN અભિપ્રાય\N_NN મુજબ\PSP યુસેન\N_NNP બોલ્ટ\N_NNP ૧૦૦\QT_QTC મીટર\N_NN દોટના\N_NN સમયને\N_NN ઓર\PSP સંકોચી\V_VM ૯.૫૫\QT_QTC સેકન્ડનો\N_NN કરી\V_VM શકે\V_VAUX તેમ\PSP છે\V_VAUX .\RD_PUNC
+GJSPD2595	આના\DM_DMD માટે\PSP તેણે\PR_PRP વધારે\QT_QTF ઝડપે\N_NN દોડવાની\V_VAUX_VNP પણ\RP_RPD જરૂર\N_NN નથી\RP_NEG .\RD_PUNC
+GJSPD2596	બોલ્ટે\N_NNP ફક્ત\PSP પોતાનો\PR_PRF રિએક્શન\N_NN ટાઈમ\N_NN ઘટાડવાનો\V_VAUX_VNP રહે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2597	એક\QT_QTC તરફ\PSP દોટ\N_NN શરૂ\JJ કરવાનું\V_VAUX_VNP સિગ્નલ\N_NN આપતી\V_VAUX_VNP પિસ્તોલ\N_NN ફૂટે\V_VM અને\CC_CCD બીજી\JJ તરફ\PSP સ્પર્ધક\N_NN દોટ\N_NN શરૂ\JJ કરે\V_VM તેની\DM_DMD વચ્ચેના\JJ સમયગાળાને\N_NN રિએક્શન\N_NN ટાઈમ\N_NN કહે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2598	યુસેન\N_NNP બોલ્ટ\N_NNP જો\CC_CCD પોતાનો\PR_PRF રિએક્શન\N_NN ટાઈમ\N_NN ઘટાડીને\V_VAUX_VNP ૦.૧૨૦\QT_QTC સેકન્ડનો\N_NN કરી\V_VM નાખે\V_VAUX તો\CC_CCD ૧૦૦\QT_QTC મીટરનું\N_NN અંતર\N_NN તે\PR_PRP ૯.૫૮\QT_QTC સેકન્ડને\N_NN બદલે\PSP ૯.૫૫\QT_QTC સેકન્ડમાં\N_NN કાપી\V_VM શકે\V_VAUX તેમ\PSP છે\V_VAUX .\RD_PUNC
+GJSPD2599	આ\DM_DMD માટે\PSP દોડવાનો\V_VAUX_VNP વેગ\N_NN તેણે\PR_PRP વધારવાની\V_VAUX_VNP એટલેકે\CC_CCS વધુ\QT_QTF પરિશ્રમ\N_NN કરવાની\V_VAUX_VNP જરૂર\N_NN નથી\RP_NEG .\RD_PUNC
+GJSPD2600	હૉકીની\N_NN રમતની\N_NN શરૂઆત\N_NN ક્યાં\N_NST અને\CC_CCD કેવી\DM_DMQ રીતે\N_NN થઈ\V_VM તે\DM_DMD અંગે\JJ કંઈ\DM_DMI ચોક્કસ\JJ જાણવા\V_VAUX_VNP મળતું\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJSPD2601	આ\DM_DMD અંગે\PSP વિદ્વાનોમાં\N_NN અનેક\JJ મતભેદો\N_NN પ્રવર્તે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2602	જોકે\CC_CCS ગેડી\N_NN અને\CC_CCD દડાની\N_NN રમત\N_NN ખૂબ\QT_QTF જ\RP_RPD જૂની\JJ છે\V_VAUX અને\CC_CCD મનુષ્યના\N_NN ઉદ્દભવની\N_NN સાથે\PSP આ\DM_DMD રમત\N_NN જન્મી\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2603	જૂના\JJ સમયનાં\N_NN લખાણો\N_NN અને\CC_CCD દીવાલો\N_NN ઉપરનાં\JJ ચિત્રો\N_NN તેની\DM_DMD સાબિતી\N_NN આપે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2604	પરંતુ\CC_CCD પ્રાચીન\JJ યુગના\N_NN પુરાવાઓ\N_NN કહે\V_VM છે\V_VAUX કે\CC_CCS પર્શિયામાં\N_NN વાંકી\JJ લાકડી\N_NN અને\CC_CCD દડાની\N_NN રમત\N_NN પ્રચલિત\JJ હતી\V_VAUX .\RD_PUNC
+GJSPD2605	ત્યાંથી\N_NST આ\DM_DMD રમત\N_NN ગ્રીસમાં\N_NNP અને\CC_CCD પછી\PSP રોમમાં\N_NN પ્રવેશી\V_VM .\RD_PUNC
+GJSPD2606	રોમ\N_NNP પાસેથી\PSP આ\DM_DMD રમત\N_NN ફ્રાંસમાં\N_NNP આવી\V_VM જ્યાં\N_NST તેને\DM_DMD શરૂઆતમાં\N_NN ભરવાડની\N_NN લાકડી\N_NN તરીકે\PSP ઓળખવામાં\V_VAUX_VNP આવતી\V_VAUX_VNP .\RD_PUNC
+GJSPD2607	ભારતમાં\N_NNP આ\DM_DMD રમત\N_NN ખૂબ\QT_QTF જ\RP_RPD પુરાણકાળથી\N_NN એક\JJ યા\PSP બીજા\JJ સ્વરૂપે\N_NN રમાતી\V_VAUX_VNP હતી\V_VAUX .\RD_PUNC
+GJSPD2608	મહાભારતકાળમાં\N_NNP આ\DM_DMD રમત\N_NN ગેડી\N_NN -\RD_PUNC દડાના\N_NN સ્વરૂપે\N_NN પ્રચલિત\JJ હતી\V_VAUX .\RD_PUNC
+GJSPD2609	પરંતુ\CC_CCD આધુનિક\JJ હૉકી\N_NN ભારતમાં\N_NNP અંગ્રેજો\N_NN ૧૯મી\QT_QTO સદીમાં\N_NN લાવ્યા\V_VM .\RD_PUNC
+GJSPD2610	૧૯૨૫માં\QT_QTC રાષ્ટ્રીય\N_NNP હૉકી\N_NNP ફેડરેશનની\N_NNP સ્થાપના\N_NN થઈ\V_VM ત્યારથી\N_NST દર\PSP બે\QT_QTC વર્ષે\N_NN પ્રાંતો\N_NN વચ્ચે\N_NST ચેમ્પિયનશિપ\N_NN ૧૯૪૪\QT_QTC સુધી\PSP યોજાઈ\V_VM .\RD_PUNC
+GJSPD2611	૧૯૪૫થી\QT_QTC રાષ્ટ્રીય\JJ ચેમ્પિયનશિપ\N_NN દર\PSP વર્ષે\N_NN યોજાય\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2612	૧૯૨૮થી\QT_QTC ભારત\N_NNP પોતાની\PR_PRF ટુકડી\N_NN ઓલિમ્પિક\N_NNP રમતોત્સવમાં\N_NNP ભાગ\N_NN લેવા\V_VAUX_VNP મોકલે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2613	બહેનોએ\N_NN પણ\RP_RPD ૧૯મી\QT_QTO સદીથી\N_NN આ\DM_DMD રમત\N_NN રમવાની\V_VAUX_VNP શરૂઆત\N_NN કરેલી\V_VAUX_VNP છે\V_VAUX  .\RD_PUNC
+GJSPD2614	૧૯૪૯માં\QT_QTC બહેનો\N_NN માટે\PSP રાષ્ટ્રીય\N_NN ફેડરેશન\N_NN સ્થપાયું\V_VM અને\CC_CCD ૧૯૫૧થી\QT_QTC બહેનો\N_NN માટે\PSP રાષ્ટ્રીય\JJ ચેમ્પિયનશિપ\N_NN નિયમિત\JJ યોજાય\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2615	ચેમ્પિયન\N_NN ટુકડી\N_NN લેડી\N_NN રતન\N_NNP તાતા\N_NNP ટ્રોફી\N_NN એનાયત\JJ કરવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2616	જુનિયર\N_NN માટે\PSP પણ\RP_RPD જવાહરલાલ\N_NNP નેહરુ\N_NNP હોકી\N_NNP કંપની\N_NNP સ્પર્ધા\N_NNP યોજાય\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2617	હૉકીની\N_NN રમતનું\N_NN વિશ્વકક્ષાએ\N_NN સંચાલન\N_NN આંતરરાષ્ટ્રીય\N_NNP હૉકી\N_NNP ફેડરેશન\N_NNP (\RD_SYM FIHA\RD_RDF )\RD_SYM કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2618	જેની\PR_PRL ઑફિસ\N_NN બેલ્જિયમમાં\N_NNP છે\V_VAUX .\RD_PUNC
+GJSPD2619	રમત\N_NN દરમિયાન\PSP લાંબા\JJ અંતરે\N_NN દડો\N_NN મોકલવા\V_VAUX_VNP માટે\PSP અથવા\CC_CCD સ્ટ્રાઈકિંગ\N_NN સર્કલમાં\N_NN ગયેલા\V_VAUX_VNP દડાને\N_NN ગોલને\N_NN ફટકારવા\V_VAUX_VNP માટે\PSP આ\DM_DMD પ્રકારનાં\N_NN કૌશલ્યોનો\N_NN ઉપયોગ\N_NN કરવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2620	ઘણી\QT_QTF જ\RP_RPD ઝડપે\N_NN દડો\N_NN આગળ\PSP વધતો\V_VAUX_VNP હોવાથી\V_VAUX_VNP દૂર\JJ ઊભેલો\V_VAUX_VNP આપણો\PR_PRP ખેલાડી\N_NN ચોકસાઈથી\RB રોકી\V_VM શકે\V_VAUX તો\CC_CCD આ\DM_DMD રીત\N_NN મોકલાવેલા\V_VAUX_VNP દડાનો\N_NN સારો\JJ લાભ\N_NN લઈ\V_VM શકાય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2621	આ\DM_DMD પ્રકારના\N_NN ફટકામાં\N_NN સ્ટિકને\N_NN ડાબા\JJ હાથથી\N_NN ઉપરના\JJ છેડેથી\N_NN ૪``\QT_QTC નીચે\N_NST અને\CC_CCD જમણા\JJ હાથે\N_NN ડાબા\JJ હાથની\N_NN નીચે\N_NST મજબૂત\JJ પકડવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2622	દડો\N_NN ખેલાડીની\N_NN આગળ\PSP ૧૨``થી\QT_QTC ૧૮``\QT_QTC દૂર\JJ રાખવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2623	જે\PR_PRL દિશામાં\N_NN દડો\N_NN મોકલવો\V_VAUX_VNP હોય\V_VAUX તે\PR_PRL દિશા\N_NN તરફ\PSP ડાબા\JJ પગનો\N_NN પંજો\N_NN રાખી\V_VM ખેલાડી\N_NN સ્થિતિ\N_NN લે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2624	આ\DM_DMD સ્થિતિમાં\N_NN શરીરનું\N_NN વજન\N_NN બંને\JJ પગ\N_NN ઉપર\PSP હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2625	ફટકારવાની\V_VAUX_VNP ક્રિયા\N_NN વખતે\N_NN સ્ટિકને\N_NN પાછળ\PSP ખભાથી\N_NN ઉપર\PSP ન\RP_NEG જાય\V_VAUX તે\DM_DMD રીતે\N_NN પાછળનો\JJ ઝોલો\N_NN આપી\V_VM બંને\JJ હાથે\N_NN સ્ટિકને\N_NN મજબૂત\JJ પકડી\V_VM આગળના\JJ દડા\N_NN તરફ\PSP ઝોલો\N_NN આપવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2626	ફટકો\N_NN વાગ્યા\V_VAUX_VNP પછી\PSP સ્ટિક\N_NN ખભાની\N_NN ઉપર\PSP ન\RP_NEG જાય\V_VAUX તેમ\PSP ડાબા\JJ પગ\N_NN તરફ\PSP ઝડપથી\RB વાળી\V_VM લેવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2627	અને\CC_CCD સમતોલન\N_NN જાળવવા\V_VAUX_VNP અંતમાં\N_NN જમણો\JJ પગ\N_NN આગળ\PSP લાવવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2628	સામેથી\PSP આવતા\V_VAUX_VNP દડાને\N_NN રોકવા\V_VAUX_VNP માટે\PSP ડાબા\JJ હાથ\N_NN વડે\PSP સ્ટિકને\N_NN ઉપરના\JJ છેડે\N_NN પકડવી\V_VAUX_VNP અને\CC_CCD જમણા\JJ હાથે\N_NN સ્ટિકને\N_NN મધ્યમાંથી\N_NN પકડવી\V_VAUX_VNP .\RD_PUNC
+GJSPD2629	સ્ટિકનો\N_NN સપાટ\JJ ભાગ\N_NN આગળ\PSP સામેની\PSP બાજુએથી\N_NST આવતા\V_VAUX_VNP દડા\N_NN તરફ\PSP રાખવો\V_VAUX_VNP .\RD_PUNC
+GJSPD2630	શરીરનું\N_NN વજન\N_NN બંને\JJ પગ\N_NN ઉપર\PSP સરખું\JJ રહે\V_VM તેમ\PSP પગને\N_NN કુદરતી\JJ રીતે\N_NN ખુલ્લા\JJ રાખવા\V_VAUX_VNP .\RD_PUNC
+GJSPD2631	શરીર\N_NN કમરમાંથી\N_NN આગળ\N_NST તરફ\PSP ઝૂકેલું\V_VAUX_VNP .\RD_PUNC
+GJSPD2632	ડાબા\JJ હાથની\N_NN કોણી\N_NN દડા\N_NN તરફ\PSP રહે\V_VM તે\DM_DMD રીતે\N_NN ,\RD_PUNC જમણો\JJ ઘૂંટણ\N_NN વચ્ચે\N_NST સહેજ\QT_QTF આગળ\PSP તરફ\PSP રાખવો\V_VAUX_VNP .\RD_PUNC
+GJSPD2633	દડો\N_NN નજીક\JJ સામેથી\PSP આવતા\V_VAUX_VNP દડા\N_NN તરફ\PSP રાખવો\V_VAUX_VNP .\RD_PUNC
+GJSPD2634	દડો\N_NN નજીક\JJ આવે\V_VM ત્યારે\N_NST બંને\JJ પગના\N_NN પંજા\N_NN આગળ\PSP ,\RD_PUNC સ્ટિકનો\N_NN સપાટ\N_NN ભાગ\N_NN દડા\N_NN તરફ\PSP રહે\V_VM અને\CC_CCD સ્ટિક\N_NN ઉપરથી\N_NST આગળ\N_NST તરફથી\PSP સહેજ\QT_QTF ઝૂકેલી\V_VAUX_VNP રહે\V_VM તે\DM_DMD સ્ટિકના\N_NN સપાટ\JJ ભાગ\N_NN વડે\PSP દડો\N_NN રોકવો\V_VAUX_VNP .\RD_PUNC
+GJSPD2635	જેથી\PSP દડો\N_NN સ્ટિકને\N_NN અથડાઈને\V_VAUX_VNP નજીક\JJ જ\RP_RPD અટકી\V_VM જાય\V_VAUX .\RD_PUNC
+GJSPD2636	નજીકના\JJ ખેલાડી\N_NN તરફ\PSP દડો\N_NN મોકલવો\V_VAUX_VNP હોય\V_VAUX ત્યારે\N_NST આ\DM_DMD કૌશલ્યનો\N_NN ઉપયોગ\N_NN કરવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2637	ચોક્ક્સ\JJ દિશામાં\N_NN આ\DM_DMD રીતે\N_NN મોકલવામાં\V_VAUX_VNP આવેલા\V_VAUX_VNP દડાને\N_NN આપણો\PR_PRP ખેલાડી\N_NN સરળતાથી\RB કાબૂમાં\N_NN લઈ\V_VM શકે\V_VAUX એટલે\PSP રમત\N_NN દરમિયાન\PSP વધારે\QT_QTF ઉપયોગી\JJ નીવડે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2638	રમત\N_NN દરમિયાન\PSP ખેલાડી\N_NN પાસે\PSP દડો\N_NN આવતાં\V_VAUX_VNP ખેલાડી\N_NN જો\CC_CCD સરળતાથી\RB દડો\N_NN લઈ\V_VM આગળ\PSP વધી\V_VM શકે\V_VAUX તેવી\JJ પરિસ્થિતિમાં\N_NN હોય\V_VAUX તો\CC_CCD આ\DM_DMD કૌશલ્યનો\N_NN ઉપયોગ\N_NN કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2639	આ\DM_DMD ક્રિયામાં\N_NN ખેલાડી\N_NN દડાને\N_NN આગળ\PSP રાખી\V_VAUX_VNP હૉકીના\N_NN સપાટ\JJ ભાગથી\N_NN દડાને\N_NN જમણી\JJ તેમજ\CC_CCD ડાબી\JJ બાજુએ\N_NST હળવા\JJ ફટકાથી\N_NN આગળ\PSP ગબડાવતો\V_VAUX_VNP લઈ\V_VM જાય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2640	દડા\N_NN ઉપર\PSP સતત\JJ સ્ટિક\N_NN રહેવાથી\V_VAUX_VNP તેના\DM_DMD ઉપર\PSP કાબૂ\N_NN સારો\JJ રાખી\V_VM શકાય\N_NN છે\V_VAUX .\RD_PUNC
+GJSPD2641	આ\DM_DMD કૌશલ્ય\N_NN માટે\PSP સ્ટિકને\N_NN ડાબા\JJ હાથથી\N_NN ઉપરના\PSP છેડેથી\N_NN મજબૂત\JJ પકડવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2642	જમણા\JJ હાથની\N_NN પકડ\N_NN ડાબાથી\JJ ૩થી\QT_QTC ૪\QT_QTC ઈંચ\N_NN નીચે\N_NST ઢીલી\JJ રાખવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2643	દડો\N_NN પગથી\N_NN લગભગ\PSP એકવાર\PSP આગળ\PSP રાખી\V_VAUX_VNP ડ્રીબ્લિંગ\N_NN ક્રિયા\N_NN કરવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2644	સ્ટિકનો\N_NN સપાટ\JJ ભાગ\N_NN હમેશાં\PSP દડાની\N_NN ઉપર\PSP રહે\V_VM તે\DM_DMD રીતે\N_NN ડાબા\JJ હાથના\N_NN કાંડાથી\N_NN સ્ટિકને\N_NN દડાની\N_NN જમણી\JJ અને\CC_CCD ડાબી\JJ બાજુએ\N_NST લાવી\V_VM દડા\N_NN આગળ\PSP ગતિ\N_NN કરે\V_VM તે\DM_DMD રીતે\N_NN હળવા\JJ ફટકા\N_NN મારવાની\V_VAUX_VNP ક્રિયાનો\N_NN સમાવેશ\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2645	દડાને\N_NN સામા\JJ પક્ષના\N_NN ખેલાડીની\N_NN સ્ટિક\N_NN ઉપરથી\PSP થઈને\V_VAUX_VNP એવી\JJ રીતે\N_NN ઉછાળીને\V_VAUX_VNP ફેંકવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX કે\CC_CCS દડો\N_NN જમીન\N_NN પર\PSP પડ્યા\V_VAUX_VNP પછી\PSP ગબડતો\V_VAUX_VNP રહે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2646	સામાન્ય\JJ રીતે\N_NN આ\DM_DMD ક્રિયામાં\N_NN દડાને\N_NN ઘૂંટણથી\N_NN છાતી\N_NN જેટલી\JJ ઊંચાઈએ\N_NN ઉછાળવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2647	આ\DM_DMD ક્રિયાને\N_NN ક્લિક\JJ કહેવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2648	સ્ટિકનો\N_NN સપાટ\JJ ભાગ\N_NN જે\PR_PRL તરફ\PSP દડો\N_NN મોકલવાનો\V_VAUX_VNP હોય\V_VAUX તે\PR_PRL દિશામાં\N_NN રાખવો\V_VAUX_VNP .\RD_PUNC
+GJSPD2649	જે\PR_PRL દિશામાં\N_NN દડો\N_NN ક્લિક\JJ કરવાનો\V_VAUX_VNP હોય\V_VAUX તે\PR_PRL તરફ\PSP પંજો\N_NN રહે\V_VM તે\DM_DMD રીતે\N_NN ડાબો\JJ પગ\N_NN આગળ\PSP મૂકવો\V_VAUX_VNP .\RD_PUNC
+GJSPD2650	જમણો\JJ પગ\N_NN ડાબા\JJ પગ\N_NN પાછળ\PSP દોઢ\QT_QTC ફૂટથી\N_NN બે\QT_QTC ફૂટ\N_NN જેટલા\JJ અંતરે\N_NN મૂકવો\V_VAUX_VNP .\RD_PUNC
+GJSPD2651	શરીરનું\N_NN વજન\N_NN ૩/૪\QT_QTC ભાગ\N_NN ડાબા\JJ ઉપર\PSP ,\RD_PUNC ૧/૪\QT_QTC ભાગ\N_NN જમણા\JJ પગ\N_NN ઉપર\PSP રહેશે\V_VM .\RD_PUNC
+GJSPD2652	શરીર\N_NN કમરમાંથી\N_NN આગળ\PSP તરફ\PSP ઝૂકેલું\V_VAUX_VNP રાખવું\V_VAUX_VNP અને\CC_CCD નજર\N_NN દડા\N_NN તરફ\PSP રાખવી\V_VAUX_VNP .\RD_PUNC
+GJSPD2653	દડો\N_NN ડાબા\JJ પગની\N_NN સહેજ\QT_QTF આગળની\JJ બાજુએ\N_NN ૧૮\QT_QTC ઈંચથી\N_NN ૨૪\QT_QTC ઈંચ\N_NN જેટલો\JJ બાજુમાં\N_NST દૂર\JJ મૂકવો\V_VAUX_VNP .\RD_PUNC
+GJSPD2654	સ્ટિકને\N_NN દડાની\N_NN પાછળ\PSP ,\RD_PUNC સપાટ\JJ ભાગ\N_NN દડા\N_NN નીચે\N_NST ત્રાંસો\N_NST રહે\V_VM તેમ\PSP મૂકવી\V_VAUX_VNP .\RD_PUNC
+GJSPD2655	ડાબા\JJ હાથ\N_NN વડે\PSP સ્ટિકને\N_NN નીચે\N_NST તરફ\PSP ધકેલવી\V_VAUX_VNP .\RD_PUNC
+GJSPD2656	તે\DM_DMD જ\RP_RPD સમયે\N_NN જમણા\JJ હાથ\N_NN વડે\PSP સ્ટિકને\N_NN ઉપરની\JJ બાજુએ\N_NST ખેંચવી\V_VAUX_VNP .\RD_PUNC
+GJSPD2657	દડો\N_NN જે\PR_PRL દિશામાં\N_NN જાય\V_VM તે\PR_PRL તરફ\PSP સ્ટિકને\N_NN લંબાવવી\V_VAUX_VNP ,\RD_PUNC જેથી\PSP દડાની\N_NN દિશા\N_NN બદલાય\V_VM નહિ\RP_NEG .\RD_PUNC
+GJSPD2658	દડાને\N_NN સામા\JJ પક્ષના\N_NN ખેલાડીના\N_NN માથા\N_NN કરતાં\V_VAUX_VNP વધારે\QT_QTF ઊંચો\JJ ઉછાળી\V_VM દૂર\JJ પોતાના\PR_PRF ભિલ્લુ\N_NN તરફ\PSP હવામાં\N_NN દડો\N_NN મોકલી\V_VM આપવાની\V_VAUX_VNP ક્રિયાને\N_NN સ્કૂપ\N_NN કહેવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2659	સામાન્ય\JJ રીતે\N_NN પુશ\N_NN કે\CC_CCS હીટ\N_NN દ્વારા\PSP પોતાના\PR_PRF ભિલ્લુ\N_NN તરફ\PSP દડો\N_NN મોકલી\V_VM ન\RP_NEG શકાય\V_VAUX તેમ\PSP હોય\V_VAUX ત્યારે\N_NST આ\DM_DMD કૌશલ્યનો\N_NN ઉપયોગ\N_NN કરવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2660	પોતાના\PR_PRF ભિલ્લુને\N_NN વિવિધ\JJ પ્રકારની\N_NN રીતો\N_NN દ્વારા\PSP દડો\N_NN પાસ\JJ કરવાની\V_VAUX_VNP ક્રિયાને\N_NN પાસિંગ\N_NN કહેવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2661	એક\QT_QTC ખેલાડી\N_NN પાસે\PSP દડો\N_NN આવે\V_VM એટલે\PSP એણે\PR_PRP  સૂઝ\N_NN સાથે\PSP દડો\N_NN બીજા\JJ ખેલાડી\N_NN પાસે\PSP મોકલવાનો\V_VAUX_VNP હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2662	આ\DM_DMD કૌશલ્યમાં\N_NN સામેના\PSP ખેલાડી\N_NN પાસેથી\PSP દડો\N_NN પડાવવા\V_VAUX_VNP વિવિધ\JJ યુક્તિઓ\N_NN અપનાવવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2663	કોઈ\DM_DMI સંજોગોમાં\N_NN દડો\N_NN પડાવી\V_VM શકાય\V_VAUX તેમ\PSP ન\RP_NEG હોય\V_VAUX ત્યારે\N_NST સામા\JJ પક્ષના\N_NN દડો\N_NN લઈને\V_VAUX_VNP આગળ\PSP વધતા\V_VAUX_VNP ખેલાડીની\N_NN ગતિને\N_NN અવરોધવા\V_VAUX_VNP પ્રયત્ન\N_NN કરવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2664	શેડો\N_NN ટેકલિંગમાં\N_NN બચાવ\N_NN પક્ષનો\N_NN ખેલાડી\N_NN આક્રમણ\N_NN કરનાર\V_VAUX_VNP ખેલાડીની\N_NN સાથે\PSP સાથે\PSP દોડશે\V_VM અને\CC_CCD જ્યારે\N_NST તક\N_NN મળશે\V_VM ત્યારે\N_NST દડો\N_NN પડાવી\V_VM લેશે\V_VAUX .\RD_PUNC
+GJSPD2665	જ્યારે\N_NST બચાવ\N_NN પક્ષના\N_NN ખેલાડી\N_NN તરીકે\PSP ટેકલિંગ\N_NN કરવાનું\V_VAUX_VNP હોય\V_VAUX ત્યારે\N_NST સામેના\JJ ખેલાડીને\N_NN દડો\N_NN લઈ\V_VM આગળ\PSP વધવાની\V_VAUX_VNP ઝડપ\N_NN ઘટાડવાની\V_VAUX_VNP ફરજ\N_NN પડે\V_VM તે\DM_DMD રીતે\N_NN તેની\DM_DMD સામે\N_NN દડો\N_NN મેળવવાનો\V_VAUX_VNP પ્રયત્ન\N_NN કરતો\V_VAUX_VNP હોય\V_VAUX તે\DM_DMD પ્રમાણે\PSP પાછળ\PSP હઠતો\V_VAUX_VNP જશે\V_VAUX .\RD_PUNC
+GJSPD2666	દડા\N_NN ઉપર\PSP કાબૂ\N_NN મેળવવા\V_VAUX_VNP ખેલાડી\N_NN દડા\N_NN સાથે\PSP આગળ\PSP વધતો\V_VAUX_VNP હોય\V_VAUX ત્યારે\N_NST તેની\DM_DMD પાસેથી\PSP દડો\N_NN મેળવવા\V_VAUX_VNP પ્રતિસ્પર્ધીઓ\N_NN હુમલો\N_NN કરતા\V_VAUX_VNP હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2667	આ\DM_DMD સમયે\N_NN દડાને\N_NN ચપળતાથી\RB કાબૂમાં\N_NN રાખી\V_VM સામેના\JJ ખેલાડીઓને\N_NN ચૂકવવાની\V_VAUX_VNP ક્રિયાને\N_NN સમાવેશ\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2668	આ\DM_DMD ક્રિયામાં\N_NN ખેલાડીનું\N_NN સ્ટિકવર્ક\N_NN મહત્ત્વનું\JJ છે\V_VAUX .\RD_PUNC
+GJSPD2669	ખેલાડી\N_NN ચપળતાથી\RB દડાને\N_NN આગળ\PSP ,\RD_PUNC પાછળ\PSP કે\CC_CCS બાજુ\N_NST પર\PSP પરિસ્થિતિ\N_NN પ્રમાણે\PSP ફેરવી\V_VAUX_VNP પ્રતિસ્પર્ધીના\N_NN ઘેરાવામાંથી\N_NN છટકી\V_VM જાય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2670	આ\DM_DMD કૌશલ્ય\N_NN ઉપર\PSP પ્રભુત્વ\N_NN મેળવવા\V_VAUX_VNP માટે\PSP દડા\N_NN ઉપરનો\JJ કાબૂ\N_NN ,\RD_PUNC સુંદર\JJ સ્ટિકવર્ક\N_NN અને\CC_CCD ચપળ\JJ દ્રષ્ટિ\N_NN આવશ્યક\JJ બની\V_VM રહે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2671	સામા\JJ પક્ષના\N_NN એક\QT_QTC ખેલાડીને\N_NN છેતરીને\V_VAUX_VNP તેની\DM_DMD ડાબી\JJ બાજુ\N_NST થઈ\V_VM ,\RD_PUNC દડો\N_NN લઈ\V_VAUX_VNP આગળ\PSP વધવું\V_VAUX_VNP .\RD_PUNC
+GJSPD2672	જ્યારે\N_NST સામા\JJ પક્ષનો\N_NN ખેલાડી\N_NN સામે\PSP આવે\V_VM ત્યારે\N_NST દડો\N_NN લઈ\V_VAUX_VNP જનાર\V_VAUX_VNP ખેલાડી\N_NN પોતાની\PR_PRF ડાબી\JJ તરફ\PSP જવાનો\V_VAUX_VNP દેખાવ\N_NN કરશે\V_VM .\RD_PUNC
+GJSPD2673	આથી\PSP સામેનો\PSP ખેલાડી\N_NN તે\DM_DMD તરફ\PSP દોરવાશે\V_VM .\RD_PUNC
+GJSPD2674	આ\DM_DMD વખતે\N_NN અચાનક\PSP તે\DM_DMD દડાને\N_NN પોતાની\PR_PRF જમણી\JJ બાજુએ\N_NST સ્ટિકને\N_NN રીવર્સ\N_NN કરી\V_VAUX_VNP ,\RD_PUNC ટપારી\V_VAUX_VNP ,\RD_PUNC શરીરનું\N_NN વજન\N_NN અને\CC_CCD ઝોક\N_NN જમણી\JJ બાજુ\N_NST આપી\V_VM ,\RD_PUNC સામેના\PSP ખેલાડી\N_NN ડાબી\JJ બાજુ\N_NST થઈને\V_VAUX_VNP ઝડપથી\RB આગળ\PSP નીકળી\V_VM જશે\V_VAUX .\RD_PUNC
+GJSPD2675	એ\DM_DMD જ\RP_RPD પ્રમાણે\PSP બે\QT_QTC ખેલાડી\N_NN હોય\V_VAUX તો\CC_CCD દડાને\N_NN બે\QT_QTC વાર\N_NN જમણી\JJ બાજુ\N_NST ટપારી\V_VAUX_VNP તેમને\PR_PRP છેતરીને\V_VAUX_VNP આગળ\PSP વધશે\V_VM .\RD_PUNC
+GJSPD2676	આ\DM_DMD કૌશલ્યમાં\N_NN સામસામા\JJ પક્ષના\N_NN બે\QT_QTC ખેલાડીઓ\N_NN એકબીજાથી\PR_PRC સામે\PSP ઊભા\V_VM રહી\V_VAUX વચ્ચે\N_NST દડાને\N_NN મૂકે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2677	પ્રથમ\QT_QTO દડાની\N_NN બંને\JJ બાજુ\N_NST પોતપોતાની\PR_PRF સ્ટિકનો\N_NN જમીનને\N_NN સ્પર્શ\N_NN કરાવે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2678	ત્યારબાદ\PSP હવામાં\N_NN દડા\N_NN ઉપર\PSP બંને\JJ સ્ટિકના\N_NN સપાટ\JJ ભાગ\N_NN સામસામે\PSP રહે\V_VM તે\DM_DMD રીતે\N_NN સ્પર્શ\N_NN કરાવે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2679	આ\DM_DMD પ્રમાણેની\PSP ક્રિયા\N_NN ત્રણ\QT_QTC વાર\N_NN કરાવવામાં\V_VAUX_VNP આવ્યા\V_VAUX_VNP બાદ\PSP જેને\PR_PRL તક\N_NN મળે\V_VM તે\DM_DMD ખેલાડી\N_NN દડાને\N_NN રમવા\V_VAUX_VNP પ્રયત્ન\N_NN કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2680	ત્રણ\QT_QTC વાર\N_NN જમીન\N_NN ઉપર\PSP અને\CC_CCD હવામાં\N_NN સ્ટિકનો\N_NN સ્પર્શ\N_NN કરાવ્યા\V_VAUX_VNP બાદ\PSP દડા\N_NN ઉપર\PSP પ્રભુત્વ\N_NN મેળવવા\V_VAUX_VNP ખેલાડી\N_NN રીવર્સ\JJ સ્ટિક\N_NN વડે\PSP પુશ\JJ કરીને\V_VAUX_VNP પોતાના\PR_PRF ખેલાડીને\N_NN બૉલ\N_NN પાસ\JJ કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2681	સ્ટ્રાઈકિંગ\N_NN વૃત્તના\N_NN વિસ્તારમાં\N_NN ગોલકીપરને\N_NN વિશેષ\JJ હકો\N_NN આપવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2682	સામાન્ય\JJ રીતે\N_NN ગોલકીપરે\N_NN દડો\N_NN અટકાવ્યા\V_VAUX_VNP બાદ\PSP મેદાનમાં\N_NN ખાલી\JJ જગ્યા\N_NN હોય\V_VAUX તે\DM_DMD તરફ\PSP અગર\N_NN જે\PR_PRL તરફ\PSP પોતાનો\PR_PRF ભિલ્લુ\N_NN ઊભો\V_VM હોય\V_VAUX તે\DM_DMD તરફ\PSP દડો\N_NN મોકલવો\V_VAUX_VNP જોઈએ\V_VAUX .\RD_PUNC
+GJSPD2683	ગોલકીપિંગ\N_NN માટે\PSP હિંમત\N_NN ,\RD_PUNC સજાગતા\N_NN ,\RD_PUNC ત્વરિત\JJ નિર્ણયશક્તિ\N_NN ,\RD_PUNC વિશ્વસનિયતા\N_NN જેવા\JJ ગુણો\N_NN ખૂબ\QT_QTF જ\RP_RPD જરૂરી\JJ છે\V_VAUX .\RD_PUNC
+GJSPD2684	પ્રત્યેક\JJ ટુકડીમાં\N_NN ૧૧\QT_QTC ખેલાડીઓથી\N_NN વધારે\QT_QTF ન\RP_NEG હોય\V_VAUX તેવી\JJ બે\QT_QTC ટુકડીઓથી\N_NN રમત\N_NN રમવામાં\V_VAUX_VNP આવશે\V_VAUX .\RD_PUNC
+GJSPD2685	દરેક\JJ ટુકડીમાં\N_NN મેદાનની\N_NN અંદર\N_NST એક\QT_QTC કરતાં\V_VAUX_VNP વધારે\QT_QTF ગોલકીપર\N_NN રહેશે\V_VM નહિ\RP_NEG .\RD_PUNC
+GJSPD2686	રમત\N_NN દરમિયાન\PSP બે\QT_QTC ખેલાડીઓનું\N_NN અવેજીકરણ\N_NN શકાશે\V_VAUX .\RD_PUNC
+GJSPD2687	જે\PR_PRL ખેલાડી\N_NN અવેજી\N_NN તરીકે\PSP બહાર\N_NST જાય\V_VM તે\PR_PRL ફરીથી\RB તે\PR_PRL જ\RP_RPD રમતમાં\N_NN ભાગ\N_NN લઈ\V_VM શકશે\V_VAUX નહિ\RP_NEG .\RD_PUNC
+GJSPD2688	થોડા\QT_QTF સમય\N_NN માટે\PSP રમતમાંથી\N_NN બાકાત\JJ થયેલ\V_VAUX_VNP ખેલાડીનું\N_NN અવેજીકરણ\N_NN થઈ\V_VM શકશે\V_VAUX નહિ\RP_NEG .\RD_PUNC
+GJSPD2689	કોઈ\DM_DMI પણ\RP_RPD કારણસર\JJ રમત\N_NN બંધ\JJ થાય\V_VM ત્યારે\N_NST પંચોની\N_NN પરવાનગીથી\N_NN જ\RP_RPD અવેજીકરણ\N_NN થઈ\V_VM શકશે\V_VAUX .\RD_PUNC
+GJSPD2690	મેચ\N_NN પહેલાં\N_NST બંને\JJ ટુકડીના\N_NN કૅપ્ટનો\N_NN અન્યથા\PSP અરસપરસ\PR_PRC સંમત\JJ ન\RP_NEG થયા\V_VM હોય\V_VAUX તો\CC_CCD પ્રત્યેક\JJ ૩૫\QT_QTC મિનિટનો\N_NN એવા\JJ બે\QT_QTC અર્ધ\JJ સમયની\N_NN રમત\N_NN રહેશે\V_VAUX .\RD_PUNC
+GJSPD2691	અર્ધ\JJ સમયે\N_NN બંને\JJ ટુકડીઓ\N_NN બાજુ\N_NST બદલશે\V_VM અને\CC_CCD અન્યથા\PSP અરસપરસ\PR_PRC સંમત\JJ ન\RP_NEG થયા\V_VM હોય\V_VAUX તો\CC_CCD વિરામનો\N_NN સમય\N_NN ૫\QT_QTC મિનિટથી\N_NN વધારે\QT_QTC ન\RP_NEG હોવો\V_VAUX_VNP જોઈએ\V_VAUX .\RD_PUNC
+GJSPD2692	પરંતુ\CC_CCD તે\DM_DMD કોઈ\DM_DMI પણ\RP_RPD સંજોગોમાં\N_NN ૧૦\QT_QTC મિનિટથી\N_NN વધારે\QT_QTF તો\RP_RPD ન\RP_NEG જ\RP_RPD હોવો\V_VAUX_VNP જોઈએ\V_VAUX .\RD_PUNC
+GJSPD2693	રમતની\N_NN શરૂઆત\N_NN કરાવવા\V_VAUX_VNP પંચ\N_NN વ્હીસલ\N_NN વગાડે\V_VM એટલે\PSP રમત\N_NN શરૂ\JJ થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2694	રમતની\N_NN શરૂઆત\N_NN માટે\PSP સિક્કા\N_NN ઉછાળ\N_NN કરશે\V_VM .\RD_PUNC
+GJSPD2695	સિક્કા\N_NN ઉછાળમાં\N_NN વિજયી\JJ કૅપ્ટન\N_NN પ્રથમ\QT_QTO અર્ધસમયમાં\N_NN આક્રમણ\N_NN કરવાનું\V_VAUX_VNP પસંદ\JJ કરશે\V_VM .\RD_PUNC
+GJSPD2696	રમતની\N_NN શરૂઆત\N_NN વખતે\N_NN દડાને\N_NN પોતાના\PR_PRF કાબૂમાં\N_NN રાખવાનું\V_VAUX_VNP પસંદ\JJ કરશે\V_VM .\RD_PUNC
+GJSPD2697	સિક્કા\N_NN ઉછાળમાં\N_NN વિજેતા\N_NN જે\PR_PRL પસંદગી\N_NN કરશે\V_VM તેનાથી\DM_DMD વિરુદ્ધ\PSP પસંદગી\N_NN વિરુદ્ધ\PSP ટુકડીની\N_NN રહેશે\V_VAUX .\RD_PUNC
+GJSPD2698	જે\PR_PRL ટુકડી\N_NN રમતની\N_NN શરૂઆત\N_NN દડાથી\N_NN કરશે\V_VM તેનાથી\DM_DMD વિરુદ્ધ\PSP ટુકડી\N_NN અર્ધ\JJ સમય\N_NN પછી\PSP રમતની\N_NN શરૂઆત\N_NN કરશે\V_VM .\RD_PUNC
+GJSPD2699	રમતની\N_NN વ્યવસ્થા\N_NN અને\CC_CCD સંચાલન\N_NN માટે\PSP બે\QT_QTC પંચો\N_NN રહેશે\V_VAUX .\RD_PUNC
+GJSPD2700	વાજબી\JJ અને\CC_CCD ગેરવાજબી\JJ વર્તન\N_NN માટે\PSP તેઓ\PR_PRP સંપૂર્ણ\JJ જવાબદાર\JJ રહેશે\V_VAUX .\RD_PUNC
+GJSPD2701	પંચો\N_NN નક્કી\JJ ન\RP_NEG હોય\V_VAUX ,\RD_PUNC તો\CC_CCD દરેક\JJ ટીમની\N_NN એક\QT_QTC પંચ\N_NN પૂરાં\JJ પાડવાની\V_VAUX_VNP જવાબદારી\N_NN રહેશે\V_VAUX .\RD_PUNC
+GJSPD2702	દરેક\JJ અમ્પાયર\N_NN મેદાનના\N_NN પોતાના\PR_PRF ભાગમાં\N_NN નિર્ણયો\N_NN આપશે\V_VM અને\CC_CCD સંપૂર્ણ\JJ રમત\N_NN દરમિયાન\PSP છેડા\N_NN બદલશે\V_VM નહિ\RP_NEG .\RD_PUNC
+GJSPD2703	પોતાની\PR_PRF નજીકની\JJ બાજુરેખા\N_NN પરનાં\N_NN પુશ\N_NN ઈન\PSP માટેના\PSP નિર્ણયની\N_NN સંપૂર્ણ\JJ જવાબદારી\N_NN રહેશે\V_VAUX .\RD_PUNC
+GJSPD2704	અમ્પાયર\N_NN નક્કી\JJ કરેલ\V_VAUX_VNP કે\CC_CCS પૂરો\JJ સમય\N_NN રમત\N_NN ચાલુ\JJ રાખશે\V_VM અને\CC_CCD થયેલા\V_VAUX_VNP ગોલની\N_NN નોંધ\N_NN રાખશે\V_VM .\RD_PUNC
+GJSPD2705	અનિવાર્ય\JJ સંજોગોને\N_NN લીધે\PSP રમત\N_NN બંધ\JJ થાય\V_VM ,\RD_PUNC તો\CC_CCD તેટલો\JJ સમય\N_NN વધુ\QT_QTF રમત\N_NN માટે\PSP આપશે\V_VM .\RD_PUNC
+GJSPD2706	પેનલ્ટી\N_NN સ્ટ્રોક\N_NN પૂરો\JJ કરવા\V_VAUX_VNP જરૂર\N_NN પડે\V_VM વધારાનો\JJ સમય\N_NN આપશે\V_VM .\RD_PUNC
+GJSPD2707	આવો\JJ સમય\N_NN જે\PR_PRL તે\PR_PRL અર્ધ\JJ સમયમાં\N_NN ઉમેરશે\V_VM .\RD_PUNC
+GJSPD2708	રમત\N_NN દરમિયાન\PSP કે\CC_CCS વિરામ\N_NN સમયે\N_NN કોચીંગ\N_NN અપાતું\V_VAUX_VNP અટકાવશે\V_VM .\RD_PUNC
+GJSPD2709	મેદાનની\N_NN બધી\QT_QTF રેખાઓ\N_NN ૭\QT_QTC સેમી.\N_NN જાડી\JJ દોરવામાં\V_VAUX_VNP આવશે\V_VAUX .\RD_PUNC
+GJSPD2710	ગોલલાઈન\N_NN અને\CC_CCD બાજુરેખા\N_NN મેદાનમાં\N_NN ગણાશે\V_VM .\RD_PUNC
+GJSPD2711	મેદાન\N_NN ૧૦૦\QT_QTC વાર\N_NN લાંબુ\JJ અને\CC_CCD ૬૦\QT_QTC વાર\N_NN પહોળું\JJ લંબચોરસ\N_NN રહેશે\V_VAUX .\RD_PUNC
+GJSPD2712	રેખાઓ\N_NN સ્વચ્છ\JJ રીતે\N_NN દોરવામાં\V_VAUX_VNP આવશે\V_VAUX .\RD_PUNC
+GJSPD2713	લાંબી\JJ રેખાને\N_NN બાજુરેખા\N_NN અને\CC_CCD ટૂંકી\JJ રેખાને\N_NN ગોલરેખા\N_NN કહે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2714	બંને\JJ બાજુ\N_NST રેખાઓને\N_NN મધ્યમાંથી\N_NN જોડતી\V_VAUX_VNP ૬૦\QT_QTC વાર\N_NN લંબાઈની\N_NN એક\QT_QTC રેખા\N_NN દોરવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX ,\RD_PUNC જે\PR_PRL મધ્યરેખા\N_NN તરીકે\PSP ઓળખાય\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2715	જ્યારે\N_NST પ્રત્યેક\JJ અર્ધભાગમાં\N_NN ગોલરેખાથી\N_NN સમાંતર\JJ ૨૫\QT_QTC વાર\N_NN દૂર\JJ બંને\JJ બાજુરેખાની\N_NN જોડતી\V_VAUX_VNP તૂટકરેખાઓ\N_NN દોરવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2716	આંતરરાષ્ટ્રીય\JJ લોનટેનિસમાં\N_NN ભારતને\N_NNP આજે\N_NST જે\PR_PRL માન\N_NN -\RD_PUNC સન્માન\N_NN મળ્યું\V_VM છે\V_VAUX તેનો\DM_DMD ખરો\JJ યશ\N_NN ટેનિસના\N_NN ભારતીય\JJ મહારથી\N_NN રામનાથન\N_NNP કૃષ્ણને\N_NNP ફાળે\N_NN જાય\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2717	૧૯૫૪માં\QT_QTC રામનાથન\N_NNP કૃષ્ણને\N_NNP વિમ્બલડનની\N_NNP જુનિયર\JJ ચેમ્પિયનશીપ\N_NN જીતી\V_VM હતી\V_VAUX .\RD_PUNC
+GJSPD2718	૨૬મી\N_NNP જૂન\N_NNP ૧૯૬૦નો\N_NNP દિવસ\N_NN ભારતીય\JJ લોન\N_NN ટેનિસના\N_NN ઇતિહાસનો\N_NN સુવર્ણ\JJ દિવસ\N_NN તરીકે\PSP ઓળખાય\V_VM છે.\N_NN
+GJSPD2719	રામનાથન\N_NNP કૃષ્ણન\N_NNP સિવાય\PSP કોઈ\PR_PRI ભારતીય\JJ ખેલાડી\N_NN વિમ્બલડન\N_NNP સેમિ\N_NN ફાઈનલમાં\N_NN પહોંચ્યો\V_VM નથી\RP_NEG .\RD_PUNC
+GJSPD2720	આમ\PSP તો\RP_RPD રામનાથન\N_NNP કૃષ્ણન\N_NNP તેની\PR_PRP કારકિર્દીમાં\N_NN કયારેક\N_NST તો\RP_RPD વિશ્વના\N_NN તેના\PR_PRP સમકાલીન\JJ ટોચના\N_NN બધા\QT_QTF જ\RP_RPD ખેલાડીને\N_NN હરાવી\V_VM ચૂક્યો\V_VAUX હતો\V_VAUX પરંતુ\CC_CCD વિમ્બલડનમાં\N_NNP નસીબે\N_NN યારી\N_NN આપી\V_VM નહોતી\RP_NEG .\RD_PUNC
+GJSPD2721	ડેવીસ\N_NNP કપના\N_NNP ઇતિહાસમાં\N_NN પણ\RP_RPD ચેલેન્જ\N_NN રાઉન્ડનું\N_NN મોટું\JJ મહત્ત્વ\N_NN છે\V_VAUX .\RD_PUNC
+GJSPD2722	ભારતને\N_NNP પણ\RP_RPD રામનાથન\N_NNP કૃષ્ણનના\N_NNP જમાનામાં\N_NN ચેલેન્જ\N_NN રાઉન્ડમાં\N_NN પહોંચવાનું\V_VAUX_VNP સૌભાગ્ય\N_NN પ્રાપ્ત\JJ થયું\V_VAUX હતું\V_VAUX .\RD_PUNC
+GJSPD2723	રામનાથન\N_NNP કૃષ્ણન\N_NNP પોતે\PR_PRF પોતાની\PR_PRF કારકિર્દીની\N_NN શ્રેષ્ઠ\JJ પળોની\N_NN ચર્ચા\N_NN કરતા\V_VAUX_VNP કહે\V_VM છે\V_VAUX કે\CC_CCS ,\RD_PUNC `\RD_PUNC ૧૯૬૬માં\QT_QTC આંતર\JJ -\RD_PUNC ક્ષેત્રીય\JJ ડેવીસ\N_NNP કપની\N_NNP ફાઈનલમાં\N_NN બ્રાઝિલને\N_NNP હરાવી\V_VM ભારતીય\JJ ટીમ\N_NN ચેલેન્જ\N_NN રાઉન્ડમાં\N_NN પ્રવેશી\V_VM એ\DM_DMD ઘટનાને\N_NN હું\PR_PRP મારી\PR_PRP તેમજ\CC_CCD મારા\PR_PRP દેશની\N_NN ગૌરવપૂર્ણ\JJ ઘટના\N_NN ગણું\V_VM છું\V_VAUX .\RD_PUNC `\RD_PUNC
+GJSPD2724	કૃષ્ણન\N_NNP એ\DM_DMD દિવસને\N_NN યાદ\V_VM કરતા\V_VAUX_VNP કહે\V_VM છે\V_VAUX કે\CC_CCS ,\RD_PUNC એ\DM_DMD દિવસે\N_NST હું\PR_PRP કેટલો\QT_QTF ખુશ\JJ હતો\V_VAUX તેની\DM_DMD કોઈ\DM_DMI કલ્પના\N_NN કરી\V_VM શકે\V_VAUX તેમ\PSP નથી\RP_NEG .\RD_PUNC
+GJSPD2725	તેમનું\PR_PRP કહેવું\V_VAUX_VNP છે\V_VAUX કે\CC_CCS વ્યક્તિગત\JJ મેચ\N_NN જીતવાને\V_VAUX_VNP બદલે\PSP અથવા\CC_CCD તો\RP_RPD વ્યક્તિગત\JJ પ્રતિષ્ઠા\N_NN હાંસલ\JJ કરવા\V_VAUX_VNP કરતાં\V_VAUX_VNP દેશની\N_NN પ્રતિષ્ઠા\N_NN વધારવાનો\V_VAUX_VNP આનંદ\N_NN કંઈક\DM_DMI ઓર\PSP જ\RP_RPD છે\V_VAUX .\RD_PUNC
+GJSPD2726	રામનાથન\N_NNP કૃષ્ણનનો\N_NNP જન્મ\N_NN ૧૧મી\N_NNP એપ્રિલ\N_NNP ૧૯૨૬ના\N_NNP રોજ\N_NST મદ્રાસના\N_NNP એક\QT_QTC સુખી\JJ પરિવારમાં\N_NN થયો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2727	મદ્રાસની\N_NNP લોયેલા\N_NNP કૉલેજમાં\N_NNP તેમણે\PR_PRP અભ્યાસ\N_NN કર્યો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2728	રામનાથન\N_NNP કૃષ્ણનના\N_NNP પિતા\N_NNP પણ\RP_RPD ટેનિસના\N_NN ખેલાડી\N_NN હતા\V_VAUX .\RD_PUNC
+GJSPD2729	રામનાથન\N_NNP કૃષ્ણનના\N_NNP પિતા\N_NN પોતાના\PR_PRF પુત્રને\N_NN મશહૂર\JJ ટેનિસ\N_NN ખેલાડી\N_NN તરીકે\PSP જોવાની\V_VAUX_VNP ઝંખના\N_NN સેવતા\V_VAUX_VNP હતા\V_VAUX .\RD_PUNC
+GJSPD2730	રામનાથન\N_NNP પોતે\PR_PRF કબૂલે\V_VM છે\V_VAUX કે\CC_CCS ,\RD_PUNC હું\PR_PRP મારી\PR_PRP જાતને\N_NN મોટો\JJ ભાગ્યશાળી\JJ માનુ\V_VM છું\V_VAUX .\RD_PUNC
+GJSPD2731	રામનાથનના\N_NNP પિતાએ\N_NN તેના\PR_PRP માટે\PSP ઘરને\N_NN અડીને\V_VAUX_VNP જ\RP_RPD ટેનિસ\N_NN કોર્ટની\N_NN વ્યવસ્થા\N_NN કરાવી\V_VM દીધી\V_VAUX હતી\V_VAUX .\RD_PUNC
+GJSPD2732	જેથી\PSP રામનાથન\N_NNP કૃષ્ણન\N_NNP ટેનિસની\N_NN પૂરતી\V_VAUX_VNP પ્રેકટિસ\N_NN કરી\V_VM શકે\V_VAUX .\RD_PUNC
+GJSPD2733	રામનાથન\N_NNP કૃષ્ણનને\N_NNP તેના\PR_PRP પિતા\N_NN હંમેશા\PSP કહેતા\V_VAUX_VNP ,\RD_PUNC બેટા\N_NN ,\RD_PUNC તું\PR_PRP ત્યાંથી\N_NST ટેનિસની\N_NN શરૂઆત\N_NN કરી\V_VM રહ્યો\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2734	જ્યાંથી\N_NST મેં\PR_PRP ટેનિસ\N_NN છોડ્યું\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2735	મને\PR_PRP પૂરેપૂરો\JJ વિશ્વાસ\N_NN છે\V_VAUX કે\CC_CCS તું\PR_PRP મારાથી\PR_PRP આગળ\PSP વધીશ\V_VM અને\CC_CCD પોતાનું\PR_PRF તેમજ\CC_CCD દેશનું\N_NN નામ\N_NN રોશન\JJ કરીશ\V_VM .\RD_PUNC
+GJSPD2736	રામનાથન\N_NNP કૃષ્ણનની\N_NNP ઉંમર\N_NN માત્ર\RP_RPD ૧૩\QT_QTC વર્ષની\N_NN હતી\V_VAUX ત્યારથી\N_NST તેમણે\PR_PRP આંતર\JJ કૉલેજ\N_NN સ્પર્ધાઓમાં\N_NN ભાગ\N_NN લેવાની\V_VAUX_VNP શરૂઆત\N_NN કરી\V_VM અને\CC_CCD ૧૯૫૦માં\QT_QTC તો\RP_RPD આંતર\N_NN -\RD_PUNC કૉલેજ\N_NN સ્પર્ધામાં\N_NN વિજય\N_NN પણ\RP_RPD હાંસલ\JJ કરી\V_VM લીધો\PSP .\RD_PUNC
+GJSPD2737	૧૯૫૨માં\QT_QTC રામનાથન\N_NNP કૃષ્ણન\N_NNP પહેલી\QT_QTO વાર\N_NN જુનિયર\JJ વિમ્બલડન\N_NNP ચેમ્પિયનશીપમાં\N_NNP ભાગ\N_NN લેવા\V_VAUX_VNP માટે\PSP વિદેશ\N_NN ગયો\V_VM .\RD_PUNC
+GJSPD2738	૧૯૫૩માં\QT_QTC કલક્તામાં\N_NNP રાષ્ટ્રીય\JJ ચેમ્પિયનશીપ\N_NN જીતી\N_NN રામનાથન\N_NNP કૃષ્ણને\N_NNP સનસનાટી\N_NN મચાવી\V_VM દીધી\V_VAUX હતી\V_VAUX .\RD_PUNC
+GJSPD2739	કલકત્તામાં\N_NNP રાષ્ટ્રીય\JJ ચેમ્પિયનશીપમાં\N_NN રામનાથન\N_NNP કૃષ્ણને\N_NNP ઝંપલાવ્યું\V_VM ત્યારે\N_NST કોઈને\DM_DMI સ્વપ્ને\N_NN ય\RP_RPD ખ્યાલ\N_NN નહોતો\RP_INTF કે\CC_CCS ૧૬\QT_QTC વર્ષનો\N_NN આ\DM_DMD માસુમ\JJ છોકરો\N_NN દેશના\N_NN ટોચના\N_NN ખેલાડીઓના\N_NN છક્કા\N_NN છોડાવી\V_VM દેશે\V_VAUX .\RD_PUNC
+GJSPD2740	૧૯૫૪માં\QT_QTC રામનાથન\N_NNP કૃષ્ણને\N_NNP વિમ્બલડનની\N_NNP જુનિયર્સ\N_NN ચેમ્પિયનશીપ\N_NN જીતી\V_VM .\RD_PUNC
+GJSPD2741	વિમ્બલડનના\N_NNP આ\DM_DMD વિજય\N_NN સાથે\PSP રામનાથન\N_NNP કૃષ્ણનની\N_NNP જીગર\N_NN ખૂલી\V_VM ગઈ\V_VAUX .\RD_PUNC
+GJSPD2742	૧૯૫૬માં\QT_QTC જ્યારે\N_NST રામનાથન\N_NNP કૃષ્ણનને\N_NNP એ\DM_DMD જમાનાના\N_NN મહારથી\N_NN ડ્રાબનીને\N_NNP હરાવ્યો\V_VM ત્યારે\N_NST જવાહરલાલ\N_NNP નહેરુએ\N_NNP કૃષ્ણનને\N_NN અભિનંદન\N_NN આપતો\V_VAUX_VNP સંદેશો\N_NN પાઠવ્યો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2743	૧૯૫૯માં\QT_QTC રામનાથન\N_NNP કૃષ્ણનને\N_NNP વિમ્બલડન\N_NNP સ્પર્ધામાં\N_NNP ત્રીજા\QT_QTO સ્થાને\N_NN રાખવામાં\V_VAUX_VNP આવ્યો\V_VAUX હતો\V_VAUX .\RD_PUNC
+GJSPD2744	પહેલા\N_NST સ્થાને\N_NN નીલ\N_NNP ફેઝર\N_NNP અને\CC_CCD બીજા\JJ સ્થાન\N_NN પર\PSP આલમેંડર\N_NNP હતો\V_VAUX .\RD_PUNC
+GJSPD2745	કૃષ્ણનની\N_NNP ટેનિસ\N_NN કારકિર્દીનું\N_NN આ\DM_DMD સુવર્ણ\JJ વર્ષ\N_NN હતું\V_VAUX .\RD_PUNC
+GJSPD2746	આ\DM_DMD વર્ષે\N_NN કૃષ્ણને\N_NNP ઘણા\QT_QTF મહારથીઓને\N_NN પછાડ્યા\V_VM તેમજ\CC_CCD રાષ્ટ્રીય\JJ ચેમ્પિયન\N_NN પણ\RP_RPD બન્યો\V_VM .\RD_PUNC
+GJSPD2747	૧૯૬૦થી\QT_QTC ૧૯૬૩ના\QT_QTC અન્ત\N_NN સુધીમાં\PSP રામનાથન\N_NNP કૃષ્ણને\N_NNP જુદી\JJ જુદી\JJ સ્પર્ધાઓમાં\N_NN વિશ્વના\N_NN બધા\QT_QTF જ\RP_RPD ટોચના\N_NN ખેલાડીઓને\N_NN હરાવ્યા\V_VM હતા\V_VAUX .\RD_PUNC
+GJSPD2748	પરંતુ\CC_CCD કમનસીબી\N_NN એવી\JJ રહી\V_VAUX કે\CC_CCS રામનાથન\N_NNP કૃષ્ણન\N_NNP વિમ્બલડન\N_NNP ચેમ્પિયનશીપ\N_NN જીતી\V_VM શક્યો\V_VAUX નહિ\RP_NEG .\RD_PUNC
+GJSPD2749	૧૯૬૧માં\QT_QTC વિમ્બલડન\N_NNP ચેમ્પિયનશીપમાં\N_NN કૃષ્ણન\N_NNP ફરી\RB સેમિ\N_NN ફાઈનલમાં\N_NN પ્રવેશી\V_VM રોડ\N_NNP લેવર\N_NNP સામે\PSP હારી\V_VM ગયો\V_VAUX .\RD_PUNC
+GJSPD2750	આ\DM_DMD વખતે\N_NN તો\RP_RPD રોય\N_NNP ઈજર્સન\N_NNP જેવા\JJ ધરખમ\JJ ખેલાડીને\N_NN હરાવી\V_VM રામનાથ\N_NNP કૃષ્ણનન\N_NNP સેમિ\N_NN ફાઈનલમાં\N_NN પ્રવેશ્યો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2751	૧૯૬૧માં\QT_QTC નવીદિલ્હીમાં\N_NNP યોજાયેલી\V_VAUX_VNP એક\QT_QTC મેચમાં\N_NN તેણે\PR_PRP એક\QT_QTC મેકેન્લીને\N_NNP પણ\RP_RPD પછાડ્યો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2752	૧૯૬૨માં\QT_QTC પૂરા\JJ આત્મવિશ્વાસ\N_NN સાથે\PSP રામનાથન\N_NNP કૃષ્ણન\N_NNP વિમ્બલડનમાં\N_NNP પહોંચ્યો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2753	આ\DM_DMD વખતે\N_NN સીડેડ\N_NNP ખેલાડીઓમાં\N_NN રામનાથન\N_NNP કૃષ્ણન\N_NNP ચોથા\QT_QTC સ્થાને\N_NN હતો\V_VAUX .\RD_PUNC
+GJSPD2754	ફરી\RB એકવાર\PSP કિસ્મતે\N_NN દગો\N_NN દીધો\V_VM .\RD_PUNC
+GJSPD2755	ત્રીજા\QT_QTO રાઉન્ડમાં\N_NN જોન\N_NNP ફેઝર\N_NNP સામે\PSP મેચ\N_NN રમતી\V_VAUX_VNP વખતે\N_NN તેણે\PR_PRP અધવચ્ચે\JJ કોર્ટ\N_NN છોડીને\V_VAUX_VNP જવું\V_VAUX_VNP પડ્યું\V_VAUX .\RD_PUNC
+GJSPD2756	બન્યું\V_VM હતું\V_VAUX એવું\JJ કે\CC_CCS એક\QT_QTC દિવસ\N_NN પહેલાં\N_NST ડબલ્સની\N_NN મેચમાં\N_NN રામનાથનને\N_NNP વાગ્યું\V_VM હતું\V_VAUX અને\CC_CCD પગ\N_NN મચકોડાઈ\V_VM ગયો\V_VAUX હતો\V_VAUX .\RD_PUNC
+GJSPD2757	પરંતુ\CC_CCD ટેનિસનો\N_NN આ\DM_DMD જવામર્દ\N_NN એમ\PSP પાછાં\RB ડગલાં\N_NN માંડે\V_VM તેવા\JJ મિજાજનો\N_NN નહોતો\RP_NEG અને\CC_CCD એટલે\PSP જ\RP_RPD મચકોડાયેલા\V_VAUX_VNP પગે\N_NN તે\DM_DMD વિમ્બલડનના\N_NNP ત્રીજા\QT_QTO રાઉન્ડમાં\N_NN ઊતર્યો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2758	મેચમાં\N_NN અધવચ્ચે\JJ નીકળી\V_VM જવું\V_VAUX_VNP પડયું\V_VAUX ત્યારપછી\PSP ઘણાં\QT_QTF પત્રકારો\N_NN રામનાથનને\N_NNP આ\DM_DMD અંગે\PSP પ્રશ્ન\N_NN કરતા\V_VAUX_VNP .\RD_PUNC
+GJSPD2759	તેણે\PR_PRP સ્વસ્થતાપૂર્વક\RB જણાવ્યું\V_VM હતું\V_VAUX કે\CC_CCS ,\RD_PUNC રમતમાં\N_NN ભાગ\N_NN લેવા\V_VAUX_VNP ન\RP_NEG ઊતરવું\V_VAUX_VNP એ\DM_DMD મને\PR_PRP મારા\PR_PRP માટે\PSP શોભાસ્પદ\JJ લાગતું\V_VAUX_VNP નહોતું\RP_NEG .\RD_PUNC
+GJSPD2760	રમતમાં\N_NN આવું\JJ તો\RP_RPD બન્યા\V_VM જ\RP_RPD કરવાનું\V_VAUX_VNP .\RD_PUNC
+GJSPD2761	મોટી\JJ રાષ્ટ્રીય\JJ અને\CC_CCD આંતરરાષ્ટ્રીય\JJ ટુર્નામેન્ટ્સમાંથી\N_NN રામનાથન\N_NNP કૃષ્ણને\N_NNP નિવૃત્તિ\N_NN લઈ\V_VM લીધી\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2762	પરંતુ\CC_CCD આજે\N_NST ય\RP_RPD તેની\PR_PRP ટેનિસની\N_NN લત\N_NN ગઈ\V_VM નથી\RP_NEG .\RD_PUNC
+GJSPD2763	અમેરિકામાં\N_NNP પોતાના\PR_PRF પુત્ર\N_NN સાથેના\PSP રોકાણ\N_NN દરમિયાન\PSP રામનાથન\N_NNP કૃષ્ણન\N_NNP ,\RD_PUNC ત્યાં\N_NST યોજાતી\V_VAUX_VNP વેટરન્સની\N_NN સ્પર્ધાઓમાં\N_NN રમતો\V_VAUX_VNP રહે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2764	૧૯૬૬માં\QT_QTC રામનાથન\N_NNP કૃષ્ણન\N_NNP `\RD_PUNC પદમભૂષણથી\N_NNP `\RD_PUNC સન્માનિત\JJ કરાયા\V_VM હતા\V_VAUX .\RD_PUNC
+GJSPD2765	રામનાથનને\N_NNP હેલ્મસ\N_NNP પુરસ્કાર\N_NNP પણ\RP_RPD એનાયત\JJ કરાયો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2766	જે\PR_PRL વિશ્વના\N_NN સર્વશ્રેષ્ઠ\JJ ખેલાડીઓને\N_NN એનાયત\JJ કરાય\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2767	રામનાથન\N_NNP કૃષ્ણનની\N_NNP રમતમાં\N_NN સૌથી\JJ મોટા\JJ જમા\JJ પાસાંની\N_NN ચર્ચા\N_NN કરતા\V_VAUX_VNP રોડ\N_NNP લેવર\N_NNP કહે\V_VM છે\V_VAUX કે\CC_CCS બેઝલાઈન\N_NN પર\PSP ઊભેલા\V_VAUX_VNP રામનાથન\N_NNP કૃષ્ણનને\N_NNP વીંધી\V_VM જાય\V_VAUX તેવો\JJ ફટકો\N_NN મારવો\V_VAUX_VNP મુશ્કેલ\JJ છે\V_VAUX .\RD_PUNC
+GJSPD2768	રામનાથન\N_NNP એકવાર\PSP `\RD_PUNC રેલી\N_NN `\RD_PUNC શરૂ\JJ થઈ\V_VM ગયા\V_VAUX બાદ\PSP સામે\PSP ખેલાડીને\N_NN ફાવવા\V_VAUX_VNP દેતો\V_VAUX_VNP નહોતો\RP_NEG .\RD_PUNC
+GJSPD2769	કારણકે\CC_CCS હરીફ\N_NN ક્યાં\N_NST ફટકો\N_NN મારશે\V_VM તેની\DM_DMD તેને\PR_PRP અદ્દભુત\JJ રીતે\N_NN અગાઉથી\PSP જાણ\N_NN થઈ\V_VM જતી\V_VAUX_VNP હતી\V_VAUX .\RD_PUNC
+GJSPD2770	ટેનિસમાં\N_NN જેને\PR_PRL `\RD_PUNC એન્ટીસિપેશન\N_NN `\RD_PUNC કહે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2771	રામનાથનની\N_NNP નબળાઈ\N_NN હોય\V_VAUX તો\CC_CCD તેની\PR_PRP સર્વિસ\N_NN .\RD_PUNC
+GJSPD2772	માત્ર\RP_RPD સર્વિસને\N_NN કારણે\PSP રામનાથનને\N_NNP ધારી\JJ સિદ્ધિ\N_NN મળી\V_VM ન\RP_NEG શકી\V_VAUX એમ\PSP કહેવામાં\V_VAUX_VNP કંઈ\DM_DMI ખોટું\JJ નથી\RP_NEG .\RD_PUNC
+GJSPD2773	ભારતીય\JJ ટેનિસનું\N_NN વિશ્વ\N_NN કક્ષાએ\N_NN નામ\N_NN રોશન\N_NN કરનારા\V_VAUX_VNP ખેલાડી\N_NN તરીકે\PSP રામનાથન\N_NNP કૃષ્ણન\N_NNP પછી\PSP બીજા\QT_QTO સ્થાને\N_NN વિજય\N_NNP અમૃતરાજનું\N_NNP નામ\N_NN આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2774	૧૯૬૯થી\QT_QTC ભારત\N_NNP તરફથી\PSP ડેવીસ\N_NNP કપમાં\N_NNP દેશનું\N_NN પ્રતિનિધિત્વ\N_NN કરતો\V_VAUX_VNP રહેલો\V_VAUX_VNP વિજય\N_NNP અમૃતરાજ\N_NNP ડેવીસ\N_NNP કપમાં\N_NNP બે\QT_QTC વાર\N_NN ભારતીય\JJ ટીમને\N_NN ફાઈનલ\JJ સુધી\PSP પહોંચવાનું\V_VAUX_VNP સન્માન\N_NN અપાવી\V_VM ચૂક્યો\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2775	૧૯૭૪માં\QT_QTC વિજય\N_NNP અમૃતરાજને\N_NNP નિર્ણાયક\N_NN મેચ\N_NN જીતી\V_VM ભારતને\N_NNP ડેવીસ\N_NNP કપ\N_NNP ફાઈનલમાં\N_NN પ્રવેશ\N_NN અપાવ્યો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2776	પરંતુ\CC_CCD ફાઈનલમાં\N_NN દક્ષિણ\N_NNP આફ્રિકા\N_NNP સામે\PSP રમવું\V_VAUX_VNP એ\DM_DMD ભારત\N_NNP સરકારની\N_NNP નીતિ\N_NN વિરૂદ્ધ\PSP હોઈ\V_VAUX ભારતે\N_NNP ફાઈનલમાં\N_NN દક્ષિણ\N_NNP આફ્રિકા\N_NNP સામે\PSP રમવાની\V_VAUX_VNP ના\RP_NEG પાડી\V_VAUX દીધી\V_VAUX હતી\V_VAUX .\RD_PUNC
+GJSPD2777	૧૯૮૭માં\QT_QTC ઑસ્ટ્રેલિયાને\N_NNP તેની\DM_DMD ધરતી\N_NN પર\PSP ડેવીસ\N_NNP કપમાં\N_NNP પછાડનાર\V_VAUX_VNP ત્રીજા\QT_QTO દેશ\N_NN તરીકેનું\PSP ભારતને\N_NNP આગવું\JJ સ્થાન\N_NN અપાવનાર\V_VAUX_VNP ટેનિસ\N_NN ટુકડીનું\N_NN સુકાન\N_NN સંભાળનાર\V_VAUX_VNP પણ\RP_RPD વિજય\N_NNP અમૃતરાજ\N_NNP છે\V_VAUX .\RD_PUNC
+GJSPD2778	ભારતીય\JJ ટેનિસના\N_NN ઉત્કર્ષ\N_NN માટે\PSP વિજય\N_NNP અમૃતરાજે\N_NNP ટેનિસ\N_NN અકાદમીની\N_NN સ્થાપના\N_NN કરી\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2779	બ્રિટાનિયાએ\N_NNP આ\DM_DMD અકાદમી\N_NN સ્પોન્સર\N_NN કરી\V_VM હોઈ\V_VAUX `\RD_PUNC બ્રિટાનિયા\N_NNP અમૃતરાજ\N_NNP ટ્રસ્ટ\N_NNP `\RD_PUNC તરીકે\PSP ઓળખાતી\V_VAUX_VNP આ\DM_DMD સંસ્થામાં\N_NN ભારતના\N_NNP ઉગતા\N_NN ટેનિસ\N_NN ખેલાડીઓને\N_NN કોચિંગ\N_NN અપાય\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2780	આ\DM_DMD ઉપરાંત\PSP આશાસ્પદ\JJ ઉપલબ્ધ\JJ છે\V_VAUX .\RD_PUNC
+GJSPD2781	વિજય\N_NNP અમૃતરાજ\N_NNP અને\CC_CCD તેના\PR_PRP ભાઈ\N_NN આનંદે\N_NNP ભારતની\N_NNP ટેનિસ\N_NN ક્ષેત્રે\N_NN ઘણી\QT_QTF સેવા\N_NN કરી\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2782	પરંતુ\CC_CCD ટેનિસ\N_NN ક્ષેત્રમાંથી\N_NN તેઓ\PR_PRP વિદાય\N_NN લે\V_VM તે\DM_DMD પહેલાં\N_NST જ\RP_RPD ભારતીય\JJ ટેનિસની\N_NN બાગડોર\N_NN કોઈના\PR_PRI સલામત\JJ હાથમાં\N_NN સોંપાય\V_VM એવી\JJ અમૃતરાજ\N_NNP -\RD_PUNC કુટુંબની\N_NN ઈચ્છા\N_NN છે\V_VAUX .\RD_PUNC
+GJSPD2783	અત્યારે\N_NST ભારતના\N_NNP ઊગતા\V_VAUX_VNP ખેલાડીઓ\N_NN માટેની\PSP આ\DM_DMD સંસ્થાની\N_NN દેખરેખ\N_NN અમૃતરાજના\N_NNP માતુશ્રી\N_NN સંભાળે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2784	૧૯૮૪માં\QT_QTC વિજય\N_NNP અમૃતરાજનું\N_NNP `\RD_PUNC પદ્મશ્રીથી\N_NNP `\RD_PUNC સન્માન\N_NN કરાયું\V_VM હતું\V_VAUX .\RD_PUNC
+GJSPD2785	ટેનિસ\N_NN ક્ષેત્રે\N_NN આમ\PSP તો\RP_RPD વિજયે\N_NNP તેના\DM_DMD સમયગાળાના\N_NN ધરખમ\JJ ટેનિસ\N_NN ખેલાડીઓને\N_NN કોઈને\DM_DMI કોઈ\DM_DMI સ્થળે\N_NN હરાવ્યા\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2786	પરંતુ\CC_CCD ૧૯૭૩માં\QT_QTC ન્યુ\N_NNP હેમ્પશાયરમાં\N_NNP અમૃતરાજે\N_NNP વોલ્વો\N_NNP ઈન્ટરનેશનલ\N_NNP સ્પર્ધા\N_NNP જીતવા\V_VAUX_VNP જીમી\N_NNP કોનોર્સ\N_NNP અને\CC_CCD રોડ\N_NNP લેવરને\N_NNP ઉપરાઉપરી\RB હરાવ્યા\V_VM હતા\V_VAUX .\RD_PUNC
+GJSPD2787	ભારતીય\JJ ટેનિસના\N_NN શિરમોર\JJ રામનાથન\N_NNP કૃષ્ણનના\N_NNP પુત્ર\N_NN રમેશ\N_NNP કૃષ્ણને\N_NNP ૧૯૮૭ની\QT_QTC ડેવિસ\N_NNP કપ\N_NNP સ્પર્ધામાં\N_NNP ભારતને\N_NNP ફાઈનલમાં\N_NN પહોંચાડવા\V_VAUX_VNP નિર્ણાયક\JJ મેચમાં\N_NN ઑસ્ટ્રેલિયાના\N_NNP મસૂરને\N_NNP હરાવ્યો\V_VM એ\DM_DMD સમયે\N_NN તેના\DM_DMD પિતા\N_NN અને\CC_CCD દાદા\N_NN ટી.કે.રામનાથનની\N_NNP આંખમાં\N_NN હર્ષનાં\N_NN આંસું\N_NN ઉભરાઈ\V_VM આવ્યાં\V_VAUX હતાં\V_VAUX .\RD_PUNC
+GJSPD2788	મદ્રાસમાં\N_NNP પોતાના\PR_PRF ઘરમાં\N_NN ટેલિવિઝન\N_NN પર\PSP પુત્રની\N_NN રમત\N_NN જોઈ\V_VM રહેલા\V_VAUX_VNP રામનાથન\N_NNP કૃષ્ણને\N_NNP આજથી\N_NST ૨૧\QT_QTC વર્ષ\N_NN ,\RD_PUNC પહેલાં\N_NST કલકત્તા\N_NNP ,\RD_PUNC બ્રાઝિલના\N_NNP થોમસ\N_NNP કોચને\N_NNP હરાવીને\V_VAUX_VNP ભારતને\N_NNP પહેલી\QT_QTO જ\RP_RPD વાર\N_NN ડેવીસ\N_NNP કપ\N_NNP ચેલેન્જ\N_NN રાઉન્ડમાં\N_NN પ્રવેશ\N_NN અપાવ્યો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2789	રામનાથન\N_NNP કૃષ્ણન\N_NNP તેના\PR_PRP પુત્ર\N_NN રમેશની\N_NNP આ\DM_DMD સિદ્ધિને\N_NN `\RD_PUNC ભારતીય\JJ ટેનિસ\N_NN માટે\PSP સૌથી\JJ વધુ\QT_QTF ગૌરવભરી\JJ `\RD_PUNC ગણાવે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2790	૧૯૮૭માં\QT_QTC યુ.એસ.\N_NNP ઓપનમાં\N_NNP પણ\RP_RPD રમેશ\N_NNP કૃષ્ણન\N_NNP ક્વાર્ટર\N_NN ફાઈનલ\N_NN સુધી\PSP પહોંચ્યો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2791	આમ\PSP તો\RP_RPD વિજય\N_NNP અમૃતરાજની\N_NNP જેમ\PSP રમેશ\N_NNP કૃષ્ણન\N_NNP પણ\RP_RPD પોતાની\PR_PRF સાથેના\PSP વિશ્વના\N_NN ટોચના\N_NN ખેલાડીઓને\N_NN ક્યારેક\N_NST ક્યારેક\N_NST હરાવી\V_VM સનસનાટી\N_NN મચાવતો\V_VAUX_VNP રહ્યો\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2792	૧૯૮૬માં\QT_QTC હોંગકોંગમાં\N_NNP રમેશ\N_NNP કૃષ્ણને\N_NNP ટોપસિડેડ\JJ જીમી\N_NNP કૉનોર્સ\N_NNP ,\RD_PUNC ઝંઝાવાતી\JJ ઑસ્ટ્રેલિયન\JJ ખેલાડી\N_NN પેટ\N_NNP કેશ\N_NNP તેમજ\CC_CCD ગત\JJ વર્ષનો\N_NN હોંગકોંગ\N_NNP ઓપનના\N_NN ચેમ્પિયન\N_NN ઈકવાડોરના\N_NNP આન્ટ્રેઝ\N_NNP ગોમેઝને\N_NNP હરાવીને\V_VAUX_VNP ચાલીસ\QT_QTC હજાર\N_NN ડૉલરનો\N_NN ચેમ્પિયન\N_NN તરીકેનો\PSP ચેક\N_NN મેળવ્યો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2793	રમેશ\N_NNP કૃષ્ણને\N_NNP તેના\PR_PRP પિતાની\N_NN જેમ\PSP જ\RP_RPD વિમ્બલડન\N_NNP જુનિયર\JJ ચેમ્પિયનશીપ\N_NN જીતી\V_VM હતી\V_VAUX .\RD_PUNC
+GJSPD2794	રમેશ\N_NNP કૃષ્ણનની\N_NNP રમતમાં\N_NN કેટલીક\QT_QTF ખામીઓ\N_NN છે\V_VAUX .\RD_PUNC
+GJSPD2795	રમેશ\N_NNP કૃષ્ણન\N_NNP વિશે\PSP ઘણા\QT_QTF મજાકમાં\N_NN કહે\V_VM કે\CC_CCS સ્ટેફી\N_NNP ગ્રાફની\N_NNP સર્વિસ\N_NN પણ\RP_RPD તેના\PR_PRP કરતા\V_VAUX_VNP ઝડપી\JJ હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2796	આજકાલ\N_NST આક્રમક\JJ ટેનિસ\N_NN અને\CC_CCD તાકાત\N_NN સાથેના\PSP ટેનિસ\N_NN સ્ટ્રોક્સનો\N_NN મહિમા\N_NN છે\V_VAUX .\RD_PUNC
+GJSPD2797	ત્યારે\N_NST રમેશ\N_NNP કૃષ્ણનની\N_NNP રમતમાં\N_NN ક્યારેય\N_NST આક્રમણનો\N_NN ભાવ\N_NN તેના\PR_PRP ચહેરા\N_NN પર\PSP આવતો\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJSPD2798	પિતાની\N_NN જેમ\PSP જ\RP_RPD ધીર\JJ ગંભીર\JJ ટેનિસ\N_NN રમતા\V_VAUX_VNP રમેશ\N_NNP કૃષ્ણનની\N_NNP સૌથી\JJ મોટી\JJ ખૂબી\N_NN એ\DM_DMD છે\V_VAUX કે\CC_CCS તે\DM_DMD શરૂઆતથી\N_NN જ\RP_RPD પોતાની\PR_PRF ધૈર્યપૂર્ણ\JJ રમત\N_NN દ્વારા\PSP હરીફને\N_NN પૂરેપૂરો\JJ માપી\V_VM લે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2799	રમેશ\N_NNP કૃષ્ણન\N_NNP પાસે\PSP ખાસ\JJ કરીને\V_VAUX_VNP નેટ\N_NN -\RD_PUNC ગેઈમનો\N_NN અભાવ\N_NN છે\V_VAUX .\RD_PUNC
+GJSPD2800	પરંતુ\CC_CCD તેની\PR_PRP સામે\PSP રમેશ\N_NNP કૃષ્ણનના\N_NNP બેકહેન્ડ\N_NN ડ્રાઈવ્સને\N_NN ટેનિસ\N_NN આલમમાં\N_NN લોકો\N_NN કેન\N_NN રોસવેલની\N_NN યાદ\N_NN તાજી\JJ કરાવી\V_VM આપે\V_VAUX તેવા\JJ ગણે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2801	છેલ્લા\JJ બે\QT_QTC એક\QT_QTC વર્ષે\N_NN તેણે\PR_PRP પોતાનો\PR_PRF મોટા\N_NN ભાગનો\N_NN સમય\N_NN ટેનિસ\N_NN આલમમાં\N_NN અજોડ\JJ ગણાતા\V_VAUX_VNP એવા\JJ ટોચની\N_NN કક્ષાના\N_NN કોચ\N_NN હેરી\N_NNP હોપમેન\N_NNP પાસે\PSP ગાળ્યો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2802	હેરી\N_NNP હોપમેન\N_NNP રામનાથન\N_NNP કૃષ્ણનની\N_NNP રમતના\N_NN આશિક\JJ હતા\V_VAUX અને\CC_CCD હોપમેને\N_NNP કૃષ્ણનને\N_NNP પોતાના\PR_PRF પુત્ર\N_NN સમાન\JJ ગણી\V_VM તાલીમ\N_NN આપી\V_VM હતી\V_VAUX .\RD_PUNC
+GJSPD2803	હોપમેને\N_NNP રમેશ\N_NNP કૃષ્ણનને\N_NNP સખત\JJ મહેનત\N_NN કરાવી\V_VM તેના\PR_PRP શરીર\N_NN પરથી\PSP ચરબી\N_NN ઉતારી\V_VM  .\RD_PUNC
+GJSPD2804	રમેશ\N_NNP નાની\JJ વયે\N_NN ભારતીય\JJ ટુનામેન્ટસ\N_NN જીતતો\V_VAUX_VNP રહ્યો\V_VAUX હતો\V_VAUX ,\RD_PUNC ત્યારબાદ\PSP તેણે\PR_PRP એશિયા\N_NNP તેમજ\CC_CCD વિશ્વની\N_NN ઘણી\QT_QTF નાની\JJ મોટી\JJ ટુનામેન્ટસમાં\N_NN વિજય\N_NN મેળવ્યા\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2805	ડેવીસ\N_NNP કપમાં\N_NNP છેલ્લે\JJ ઑસ્ટ્રેલિયાને\N_NNP તેની\DM_DMD ભૂમિ\N_NN પર\PSP હરાવી\V_VM ફાઈનલમાં\N_NN ભારતને\N_NNP પહોંચાડી\V_VM તેણે\PR_PRP પિતાનું\N_NN મોટું\JJ ઋણ\N_NN અદા\N_NN કર્યું\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2806	નવલોહિયા\JJ ખેલાડીઓમાં\N_NN ઝિશાન\N_NNP અલીનું\N_NNP નામ\N_NN મોખરે\JJ આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2807	ઝિશાન\N_NNP અલી\N_NNP ભૂતપૂર્વ\JJ રાષ્ટ્રીય\JJ કોચ\N_NN અખ્તર\N_NNP અલીનો\N_NNP પુત્ર\N_NN છે\V_VAUX અને\CC_CCD છેલ્લા\JJ બે\QT_QTC વર્ષમાં\N_NN ઝિશાને\N_NNP નોંધપાત્ર\JJ પ્રગતિ\N_NN કરી\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2808	ભારતમાં\N_NNP તો\RP_RPD તેણે\PR_PRP તેના\PR_PRP વય\N_NN -\RD_PUNC જૂથની\N_NN લગભગ\PSP દરેક\JJ ટુનામેન્ટ\N_NN જીતી\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2809	આ\DM_DMD ઉપરાંત\PSP વિદેશમાં\N_NN પણ\RP_RPD તેણે\PR_PRP જુનિયર\JJ ખેલાડીઓ\N_NN માટેની\PSP ટુર્નામેન્ટસમાં\N_NN નોંધપાત્ર\JJ વિજય\N_NN મેળવ્યા\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2810	જાપાન\N_NNP જુનિયર\N_NNP ટુર્નામેન્ટમાં\N_NNP ટોકિયો\N_NNP ખાતે\PSP ૧૬\QT_QTC વર્ષની\N_NN વયે\N_NN ઝિશાન\N_NNP અલી\N_NNP ચેમ્પિયન\N_NN બન્યો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2811	ઝિશાન\N_NNP અલી\N_NNP ૧૯૮૬માં\QT_QTC જુનિયર\N_NNP વિમ્બલડન\N_NNP ચેમ્પિયનશીપમાં\N_NNP સેમિફાઈનલમાં\N_NN પહોંચ્યો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2812	ઝિશાન\N_NNP અલીએ\N_NNP કલકત્તામાં\N_NNP રાષ્ટ્રીય\JJ ચેમ્પિયનશીપ\N_NN જીતી\V_VM હતી\V_VAUX .\RD_PUNC
+GJSPD2813	ઝિશાન\N_NNP અલીની\N_NNP આ\DM_DMD ઝડપી\JJ પ્રગતિને\N_NN જોઈ\V_VM ઑસ્ટ્રેલિયા\N_NNP સામે\PSP સેમિ\N_NN ફાઈનલમાં\N_NN રમનારી\V_VAUX_VNP ભારતીય\JJ ડેવીસ\N_NNP કપ\N_NNP ટુકડીમાં\N_NN તેનો\PR_PRP સમાવેશ\N_NN કરાયો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2814	ઝિશાન\N_NNP અલીના\N_NNP પિતા\N_NN અખ્તર\N_NNP અલી\N_NNP પણ\RP_RPD ડેવીસ\N_NNP કપમાં\N_NNP ભારતીય\JJ ટુકડીનું\N_NN પ્રતિનિધિત્વ\N_NN કરી\V_VM ચૂક્યા\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2815	જાપાનમાં\N_NNP યોજાતી\V_VAUX_VNP જાલ\N_NNP કપ\N_NNP ટૂર્નામેન્ટ\N_NNP આંતરરાષ્ટ્રીય\JJ કક્ષાએ\N_NN પ્રથમ\QT_QTO કક્ષાની\N_NN ટુર્નામેન્ટ\N_NN ગણાય\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2816	૧૬\QT_QTC વર્ષની\N_NN ઉંમરના\N_NN ઝિશાન\N_NNP અલીએ\N_NNP ફાઈનલમાં\N_NN કેનેડાના\N_NNP હ્યુબટ\N_NNP કૈરાશને\N_NNP હરાવ્યો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2817	હ્યુબટ\N_NNP કૈરાશની\N_NNP ગણના\N_NN વિશ્વના\N_NN ટોચના\N_NN દસ\QT_QTC ખેલાડીઓમાં\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2818	એશિયાઈ\N_NNP જુનિયર\N_NNP ચેમ્પિયનનો\N_NNP તાજ\N_NN જીતીને\V_VAUX_VNP ઝિશાને\N_NNP એશિયાના\N_NNP સર્વશ્રેષ્ઠ\JJ ખેલાડી\N_NN તરીકેનું\PSP સ્થાન\N_NN મેળવ્યું\V_VM .\RD_PUNC
+GJSPD2819	સાથેસાથે\PSP ત્યાં\N_NST તેને\PR_PRP ત્રણસો\QT_QTC ગુણ\N_NN મળ્યા\V_VM જે\PR_PRL કૉમ્પ્યુટર\N_NN રેંકિંગમાં\N_NN તેના\PR_PRP માટે\PSP ફાયદાકારક\JJ બનશે\V_VM .\RD_PUNC
+GJSPD2820	ઝિશાને\N_NNP તેર\QT_QTC વર્ષની\N_NN ઉંમરે\N_NN બંગાળની\N_NNP પુરુષોની\N_NN સિંગલ્સ\N_NN અને\CC_CCD ડબલ્સ\N_NN જીતીને\V_VAUX_VNP બેવડી\JJ સફળતા\N_NN મેળવી\V_VM હતી\V_VAUX .\RD_PUNC
+GJSPD2821	આટલી\JJ નાની\JJ વયે\N_NN આવી\JJ સફળતા\N_NN બીજા\JJ કોઈ\PR_PRI ખેલાડીએ\N_NN આજ\N_NST સુધી\PSP મેળવી\V_VM નથી\RP_NEG .\RD_PUNC
+GJSPD2822	૧૪\QT_QTC વર્ષની\N_NN વયે\N_NN ભારતીય\JJ હાર્ડ\N_NN કોર્ડ\N_NN ટેનિસ\N_NN ચેમ્પિયનશીપમાં\N_NN ઝિશાને\N_NNP બેવડી\JJ સફળતા\N_NN મેળવી\V_VM હતી\V_VAUX .\RD_PUNC
+GJSPD2823	૧૯૮૪માં\QT_QTC માર્ક\N_NNP ફરેરા\N_NNP સાથે\PSP જોડી\N_NN બનાવીને\V_VAUX_VNP ઝિશાન\N_NNP અલીએ\N_NNP રાષ્ટ્રીય\JJ ડબલ્સનો\N_NN તાજ\N_NN જીતી\V_VM લોકોને\N_NN આશ્ચર્યચકિત\JJ કરી\V_VM દીધા\V_VAUX .\RD_PUNC
+GJSPD2824	સૌથી\JJ નાની\JJ વયે\N_NN તેણે\PR_PRP આ\DM_DMD તાજ\N_NN હાંસલ\JJ કર્યો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2825	૧૪\QT_QTC વર્ષથી\N_NN ઓછી\QT_QTF વયના\N_NN ખેલાડીઓ\N_NN માટેની\PSP વિશ્વ\N_NNP ટેનિસ\N_NNP ચેમ્પિયનશીપમાં\N_NNP પણ\RP_RPD ઝિશાને\N_NNP ભાગ\N_NN લીધો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2826	અને\CC_CCD ફ્લોરિડામાં\N_NNP યોજાયેલી\V_VAUX_VNP આ\DM_DMD ચેમ્પિયનશીપમાં\N_NN તે\DM_DMD ક્વાર્ટર\N_NN ફાઈનલ\N_NN સુધી\PSP પહોંચ્યો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2827	આ\DM_DMD વખતે\N_NN તેને\PR_PRP આનાથી\DM_DMD મોટી\JJ સફળતા\N_NN તો\RP_RPD એ\DM_DMD મળી\V_VM કે\CC_CCS ભૂતપૂર્વ\JJ વિમ્બલડન\N_NNP ચેમ્પિયન\N_NN સ્ટાન\N_NNP સ્મિથે\N_NNP તેને\PR_PRP શ્રેષ્ઠ\JJ ખેલાડીનું\N_NN ઈનામ\N_NN આપ્યું\V_VM !\RD_PUNC
+GJSPD2828	અખ્તર\N_NNP અલી\N_NNP ઝિશાનને\N_NNP આંતરરાષ્ટ્રીય\JJ રમાડવા\V_VAUX_VNP લઈ\V_VM ગયા\V_VAUX હતા\V_VAUX .\RD_PUNC
+GJSPD2829	બેંગકોંકમાં\N_NNP એશિયન\N_NNP જુનિયર\N_NNP સરકિટમાં\N_NNP ઝિશાને\N_NNP ૧૬\QT_QTC વર્ષથી\N_NN નીચેની\JJ વય\N_NN -\RD_PUNC જૂથમાં\N_NN વિજેતાપદ\N_NN હાંસલ\JJ કર્યું\V_VM .\RD_PUNC
+GJSPD2830	૧૮\QT_QTC વર્ષથી\N_NN નીચેની\JJ વય\N_NN -\RD_PUNC જૂથની\N_NN સ્પર્ધામાં\N_NN તે\PR_PRP ફાઈનલમાં\N_NN પહોંચ્યો\V_VM .\RD_PUNC
+GJSPD2831	હોંગકાંગમાં\N_NNP સિંગ્લસમાં\N_NN ફાઈનલમાં\N_NN પહોંચ્યો\V_VM ,\RD_PUNC અને\CC_CCD મનિર્લામાં\N_NNP સેમિ\N_NN ફાઈનલ\N_NN સુધી\PSP .\RD_PUNC
+GJSPD2832	આ\DM_DMD દરમિયાન\PSP બેલ્જિયમના\N_NNP આમંત્રણમાં\N_NN ઝિશાન\N_NNP અલીએ\N_NNP ટુર્નામેન્ટસ\N_NN જીતી\V_VM અને\CC_CCD પાંચસો\QT_QTC ડૉલર\N_NN કમાયો\V_VM .\RD_PUNC
+GJSPD2833	ઝિશાન\N_NNP અલીએ\N_NNP જીતેલી\V_VAUX_VNP એ\DM_DMD સૌથી\JJ મોટી\JJ રકમ\N_NN હતી\V_VAUX .\RD_PUNC
+GJSPD2834	કુશ્તીમાં\N_NN ભવ્ય\JJ પ્રદર્શન\N_NN કરતા\V_VAUX_VNP ખાશાબાએ\N_NNP ખાસ્સી\JJ લોકપ્રિયતા\N_NN મેળવી\V_VM હતી\V_VAUX .\RD_PUNC
+GJSPD2835	દક્ષિણ\N_NN મહારાષ્ટ્રમાં\N_NNP ખાશાબાએ\N_NNP સારી\JJ નામના\N_NN મેળવી\V_VM હતી\V_VAUX .\RD_PUNC
+GJSPD2836	૧૯૪૮માં\QT_QTC કોલ્હાપુરની\N_NNP રાજારામ\N_NNP કૉલેજમાં\N_NNP તેમણે\PR_PRP પ્રવેશ\N_NN મેળવ્યો\V_VM .\RD_PUNC
+GJSPD2837	એ\DM_DMD જ\RP_RPD વર્ષે\N_NN લખનૌમાં\N_NNP યોજાયેલ\V_VAUX_VNP રાષ્ટ્રીય\JJ ચેમ્પિયન\N_NN નિરંજનદાસ\N_NNP સાથે\PSP જંગ\N_NN ખેલ્યો\V_VM .\RD_PUNC
+GJSPD2838	ખાશાબાએ\N_NNP તો\RP_RPD અખાડામાં\N_NN સૌના\JJ આશ્ચર્ય\N_NN વચ્ચે\N_NST રાષ્ટ્રીય\JJ ચૅમ્પિયન\N_NN નિરંજનદાસને\N_NNP ક્ષણભરમાં\N_NN ઊંચકીને\V_VAUX_VNP જમીન\N_NN પર\PSP પછાડી\V_VM દેતા\V_VAUX_VNP ખાશાબા\N_NNP જાદવ\N_NNP -\RD_PUNC સૌ\JJ પ્રથમ\QT_QTO વાર\N_NN -\RD_PUNC રાષ્ટ્રીય\JJ ચેમ્પિયન\N_NN બન્યા\V_VM .\RD_PUNC
+GJSPD2839	ખાશાબાનું\N_NNP આ\DM_DMD અદ્દભુત\JJ પ્રદર્શન\N_NN જોતાં\V_VAUX_VNP તેમની\PR_PRP પસંદગી\N_NN ૧૯૪૮માં\QT_QTC લંડન\N_NNP ખાતે\PSP યોજાનાર\N_NN ચૌદમા\QT_QTO ઓલિમ્પિક\N_NNP રમતોત્સવ\N_NNP માટે\PSP કરવામાં\V_VAUX_VNP આવી\V_VAUX .\RD_PUNC
+GJSPD2840	લંડન\N_NNP ખાતે\PSP તેમને\PR_PRP માટીના\N_NN અખાડાના\N_NN બદલે\PSP મેટ્ટસના\N_NN ગાદલા\N_NN પર\PSP સ્ટેડિયમમાં\N_NN કુશ્તી\N_NN લડવાની\V_VAUX_VNP હતી\V_VAUX .\RD_PUNC
+GJSPD2841	જે\PR_PRL તેમના\PR_PRP માટે\PSP પરિસ્થિતિ\N_NN જરા\QT_QTC જુદી\JJ હતી\V_VAUX .\RD_PUNC
+GJSPD2842	ભારતીય\JJ પહેલવાનોને\N_NN એ\DM_DMD સમયે\N_NN લાઈટવેટ\N_NN વિશ્વ\N_NN ચેમ્પિયન\N_NN ઈંગ્લેન્ડના\N_NNP રીમગાર્ડનર\N_NNP પ્રશિક્ષણ\N_NN આપતા\V_VAUX_VNP હતા\V_VAUX .\RD_PUNC
+GJSPD2843	ખાશાબાની\N_NNP પ્રથમ\QT_QTO કુશ્તી\N_NN ઑસ્ટ્રેલિયાના\N_NNP પહેલવાન\N_NN સાથે\PSP હતી\V_VAUX .\RD_PUNC
+GJSPD2844	ખાશાબાએ\N_NNP ભારતીય\JJ શૈલીથી\N_NN કુશ્તીનો\N_NN આરંભ\N_NN કર્યો\V_VM .\RD_PUNC
+GJSPD2845	પ્રથમ\QT_QTO છ\QT_QTC મિનિટમાં\N_NN તેના\PR_PRP પ્રતિસ્પર્ધીને\N_NN ઉઠાવી\V_VM ૩૦\QT_QTC વખત\N_NN રગદોળ્યો\V_VM હતો\V_VAUX !\RD_PUNC
+GJSPD2846	આઠ\QT_QTC મિનિટ\N_NN પછી\PSP ઑસ્ટ્રેલિયન\JJ પહેલવાને\N_NN સ્ટ્રેચરમાં\N_NN નાખીને\V_VAUX_VNP લઈ\V_VM જવો\V_VAUX_VNP પડે\V_VAUX તેવી\JJ સ્થિતિ\N_NN ભારતના\N_NNP પહેલવાન\N_NN ખાશાબાએ\N_NNP કરી\V_VM નાખી\V_VAUX હતી\V_VAUX .\RD_PUNC
+GJSPD2847	પ્રથમ\QT_QTO રાઉન્ડમાં\N_NN વિજેતા\N_NN થતાં\V_VAUX_VNP ખાશાબાનો\N_NNP વિશ્વાસ\N_NN વધી\V_VM ગયો\V_VAUX .\RD_PUNC
+GJSPD2848	ઑલિમ્પિક\N_NNP રમતોત્સવમાં\N_NNP ભારત\N_NNP તરફથી\PSP સૌ\JJ પ્રથમ\QT_QTO વ્યકિતગત\JJ ઑલિમ્પિક\N_NNP ચંદ્રક\N_NNP મેળવવાનું\V_VAUX_VNP ગૌરવ\N_NN પહેલવાન\N_NN ખાશાબા\N_NNP જાધવ\N_NNP -\RD_PUNC યાને\PSP કે.ડી.જાધવ\N_NNP ધરાવે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2849	૧૯૫૨માં\QT_QTC હેલસિન્કી\N_NN ખાતે\PSP યોજાયેલ\V_VAUX_VNP પંદરમા\QT_QTO રમતોત્સવમાં\N_NN કુશ્તીની\N_NN ફ્રી\N_NN સ્ટાઈલ\N_NN -\RD_PUNC બેન્ટમ\N_NN વેઈટ\N_NN વિભાગમાં\N_NN કાંસ્યચંદ્રક\N_NN મેળવનાર\V_VAUX_VNP ખાશાબાનો\N_NNP જન્મ\N_NN એક\QT_QTC કુશ્તીપ્રેમી\JJ પરિવારમાં\N_NN થયો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2850	ખાશાબાના\N_NNP પિતાશ્રી\N_NN અને\CC_CCD દાદાશ્રી\N_NN તેમના\PR_PRP સમયના\N_NN શ્રેષ્ઠ\JJ પહેલવાનો\N_NN હતા\V_VAUX .\RD_PUNC
+GJSPD2851	ખાશાબા\N_NNP ,\RD_PUNC કરાડની\N_NN તિલક\N_NN હાઈસ્કૂલમાં\N_NN અભ્યાસ\N_NN કરવા\V_VAUX_VNP રોજ\N_NST ચાર\QT_QTC માઈલ\N_NN ચાલીને\V_VAUX_VNP જતા\V_VAUX_VNP હતા\V_VAUX .\RD_PUNC
+GJSPD2852	આથી\PSP ખાશાબા\N_NNP નાનપણથી\N_NN જ\RP_RPD કસાયેલા\V_VAUX_VNP ,\RD_PUNC વ્યાયામપ્રેમી\JJ અને\CC_CCD સંઘર્ષવીર\JJ હતા\V_VAUX .\RD_PUNC
+GJSPD2853	નાનપણથી\N_NN જ\RP_RPD તેમને\PR_PRP કુશ્તી\N_NN પ્રત્યે\N_NN ખૂબ\QT_QTF લગાવ\N_NN હતો\V_VAUX .\RD_PUNC
+GJSPD2854	શાળાઓની\N_NN કુશ્તીસ્પર્ધામાં\N_NN તેઓ\PR_PRP હંમેશા\PSP અવ્વલ\JJ નંબરે\N_NN રહેલા\V_VAUX_VNP .\RD_PUNC
+GJSPD2855	આ\DM_DMD જંગમાં\N_NN તેઓ\PR_PRP પહેલવાન\N_NN સામે\PSP નહિ\RP_NEG પણ\CC_CCD નિયમોની\N_NN અજ્ઞાનતાના\N_NN કારણે\PSP પરાજિત\JJ થયા\V_VM !!\N_NN
+GJSPD2856	મુકાબલા\N_NN દરમ્યાન\PSP તેઓ\PR_PRP રોલિંગ\N_NN ફાઉલથી\N_NN બહાર\N_NST ચાલ્યા\V_VM જતાં\V_VAUX_VNP નિર્ણાયકોએ\N_NN તેમને\PR_PRP અયોગ્ય\JJ જાહેર\JJ કર્યા\V_VM .\RD_PUNC
+GJSPD2857	કુલ\JJ પર\QT_QTC પહેલવાનો\N_NN વચ્ચે\N_NST તેમણે\PR_PRP છઠ્ઠું\QT_QTO સ્થાન\N_NN મેળવ્યું\V_VM હતું\V_VAUX .\RD_PUNC
+GJSPD2858	આખરે\JJ મિત્રોની\N_NN મદદથી\N_NN અને\CC_CCD તેમની\PR_PRP સલાહથી\N_NN તેમણે\PR_PRP પતિયાળાના\N_NNP મહારાજને\N_NN તમામ\JJ વિગત\N_NN ચિઠ્ઠી\N_NN દ્વારા\PSP જણાવી\V_VM .\RD_PUNC
+GJSPD2859	એ\DM_DMD સમયે\N_NN રમતપ્રેમી\JJ પતિયાળાના\N_NNP મહારાજનું\N_NN ખાસ્સું\JJ વજન\N_NN પડતું\V_VAUX_VNP હતું\V_VAUX .\RD_PUNC
+GJSPD2860	તેમને\PR_PRP સૌ\JJ આદર\N_NN -\RD_PUNC માન\N_NN -\RD_PUNC પાન\N_NN આપતા\V_VAUX_VNP હતા\V_VAUX .\RD_PUNC
+GJSPD2861	આખરે\JJ તેમની\PR_PRP પસંદગી\N_NN કરવામાં\V_VAUX_VNP આવી\V_VAUX .\RD_PUNC
+GJSPD2862	પસંદગી\N_NN માટે\PSP યોજાયેલ\V_VAUX_VNP જંગમાં\N_NN તેમણે\PR_PRP દરેક\JJ પહેલવાનોને\N_NN ધૂળ\N_NN ચાટતા\V_VAUX_VNP કરી\V_VM દીધા\V_VAUX હતા\V_VAUX અને\CC_CCD પોતાની\PR_PRF પસંદગીને\N_NN યથાર્થ\JJ ઠરાવી\V_VM હતી\V_VAUX .\RD_PUNC
+GJSPD2863	૧૯૫૨માં\QT_QTC હેલસિન્કી\N_NNP ખાતે\PSP ,\RD_PUNC તેમના\PR_PRP પ્રથમ\QT_QTO પાંચ\QT_QTC રાઉન્ડમાં\N_NN યુરોપીય\JJ ,\RD_PUNC અને\CC_CCD ખાડી\N_NN દેશોના\N_NN પહેલવાનો\N_NN સાથે\PSP મુકાબલો\N_NN થયો\V_VM .\RD_PUNC
+GJSPD2864	ખાશાબાએ\N_NNP માત્ર\RP_RPD બેથી\QT_QTC પાંચ\QT_QTC મિનિટના\N_NN કશ્મકશ\N_NN જંગ\N_NN વડે\PSP જ\RP_RPD સફળતાઓ\N_NN મેળવી\V_VM લીધી\V_VAUX હતી\V_VAUX .\RD_PUNC
+GJSPD2865	સફળતા\N_NN પાછળનું\PSP કારણ\N_NN તેમણે\PR_PRP સેવેલું\V_VAUX_VNP સ્વપ્ન\N_NN સાકાર\JJ કરવાનું\V_VAUX_VNP હતું\V_VAUX .\RD_PUNC
+GJSPD2866	આખરે\JJ ચંદ્રક\N_NN મેળવવા\V_VAUX_VNP તેમને\PR_PRP જાપાનના\N_NNP ઈર્શી\N_NNP તથા\CC_CCD રસાના\N_NNP બેકોલ\N_NNP નામના\N_NN પહેલવાનો\N_NN સાથે\PSP લડવાનું\V_VAUX_VNP હતું\V_VAUX .\RD_PUNC
+GJSPD2867	પ્રથમ\QT_QTO જંગ\N_NN જાપાનના\N_NNP ઈર્શી\N_NNP નામના\N_NN પહેલવાન\N_NN સાથે\PSP ખેલાયો\V_VM જેમાં\PR_PRL ખાશાબાએ\N_NNP કેટલીય\QT_QTF વખત\N_NN ઈર્શીને\N_NNP પછાડવાનો\V_VAUX_VNP પ્રયત્ન\N_NN કર્યો\V_VM .\RD_PUNC
+GJSPD2868	પરંતુ\CC_CCD તે\DM_DMD દરેક\JJ વખતે\N_NN ફાઈલ\N_NN કરી\V_VM દેતો\V_VAUX_VNP હતો\V_VAUX .\RD_PUNC
+GJSPD2869	આ\DM_DMD જંગ\N_NN ૧૫\QT_QTC મિનિટ\N_NN સુધી\PSP ચાલ્યો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2870	આખરે\JJ ૧૫\QT_QTC મિનિટ\N_NN પછી\PSP ઈર્શીને\N_NNP એક\QT_QTC પોઈન્ટ\N_NN વધારે\QT_QTF આપીને\V_VAUX_VNP નિર્ણાયકોએ\N_NN તેને\DM_DMD વિજેતા\N_NN જાહેર\JJ કર્યો\V_VM .\RD_PUNC
+GJSPD2871	આ\DM_DMD પછી\PSP બીજો\JJ જંગ\N_NN રશિયન\JJ પહેલવાન\N_NN બેકોલ\N_NNP સાથે\PSP ખેલવામાં\V_VAUX_VNP આવ્યો\V_VAUX .\RD_PUNC
+GJSPD2872	જેમાં\PR_PRL તેણે\PR_PRP ચંદ્રક\N_NN માટે\PSP આખરી\JJ તક\N_NN ગણી\V_VM બરોબર\PSP સંઘર્ષપૂર્ણ\JJ જંગ\N_NN ખેલ્યો\V_VM .\RD_PUNC
+GJSPD2873	રશિયન\JJ પહેલવાનને\N_NN થોડીવારમાં\QT_QTF ધૂળ\N_NN ચાટતો\V_VAUX_VNP કરી\V_VM દીધો\N_NN !!\N_NN
+GJSPD2874	અને\CC_CCD ઑલિમ્પિક\N_NNP કાંસ્યચંદ્રક\N_NNP ભારતના\N_NNP ધુરંધર\JJ પહેલવાન\N_NN ખાશાબાના\N_NNP ગળામાં\N_NN આવી\V_VM પડ્યો\V_VAUX .\RD_PUNC
+GJSPD2875	સુવર્ણચંદ્રક\N_NN જાપાનના\N_NNP સોહાચી\N_NNP ઈશિ\N_NNP અને\CC_CCD રજતચંદ્રક\N_NN રશિયાના\N_NNP રશિદ\N_NNP મામેડલેકોષે\N_NNP મેળવ્યો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2876	વર્ષો\N_NN જૂનું\JJ સ્વપ્ન\N_NN સાકાર\JJ થતાં\V_VAUX_VNP તેઓ\PR_PRP ખુશીથી\N_NN ઝૂમી\V_VM ઊઠ્યા\V_VAUX હતા\V_VAUX .\RD_PUNC
+GJSPD2877	તેને\PR_PRP સૌથી\JJ વધુ\QT_QTF આનંદ\N_NN ભારતને\N_NNP પ્રથમ\QT_QTO વાર\N_NN ઑલિમ્પિકનો\N_NNP ચંદ્રક\N_NN અપાવવાનું\V_VAUX_VNP ગૌરવ\N_NN મેળવવાને\V_VAUX_VNP થયો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2878	આજે\N_NST તેઓ\PR_PRP આ\DM_DMD દુનિયામાં\N_NN નથી\RP_NEG .\RD_PUNC
+GJSPD2879	પણ\CC_CCD ભારતીય\JJ રમતજગતમાં\N_NN તેઓ\PR_PRP અમર\JJ થઈ\V_VM ગયા\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2880	શતાબ્દી\N_NN ઑલિમ્પિક\N_NNP રમતોત્સવમાં\N_NNP ભારતનો\N_NNP ત્રિરંગો\N_NNP લહેરાવનાર\V_VAUX_VNP લિયેન્ડર\N_NNP પેસ\N_NNP ભારતીય\JJ ટેનિસ\N_NN જગતનો\N_NN ઝળહળતો\V_VAUX_VNP સિતારો\N_NN છે\V_VAUX .\RD_PUNC
+GJSPD2881	શતાબ્દી\N_NN ઑલિમ્પિક\N_NNP રમતોત્સવ\N_NNP ૧૯૯૬માં\QT_QTC અમેરિકાના\N_NNP એટલાન્ટા\N_NNP શહેરમાં\N_NN યોજાયો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2882	આ\DM_DMD ઐતિહાસિક\JJ રમતોત્સવના\N_NN મેડલ્સ\N_NN ટેલીમાં\N_NN ભારતનું\N_NNP નામ\N_NN રોશન\JJ કરનાર\V_VAUX_VNP લિયેન્ડર\N_NNP પેસ\N_NNP ૨૩\QT_QTC વર્ષના\N_NN થનગનતા\V_VAUX_VNP ઉત્સાહી\JJ અને\CC_CCD આત્મવિશ્વાસુ\JJ ખેલાડી\N_NN છે\V_VAUX .\RD_PUNC
+GJSPD2883	એથ્લેટ\N_NN જેવી\JJ અગાધ\JJ તાકાત\N_NN અને\CC_CCD સિદ્ધિઓનાં\N_NN શિખરો\N_NN સર\JJ કરવાની\V_VAUX_VNP મહત્ત્વાકાંક્ષાઓ\N_NN ધરાવતો\V_VAUX_VNP લિયેન્ડર\N_NNP પેસ\N_NNP એ\DM_DMD ઑલિમ્પિક\N_NNP કાંસ્યચંદ્રક\N_NNP વિજેતા\N_NN ડૉ.\N_NN વેસનો\N_NNP ગૌરવશાળી\JJ સુપુત્ર\N_NN છે\V_VAUX .\RD_PUNC
+GJSPD2884	વિશ્વમાં\N_NN ૧૨૬માં\QT_QTC ક્રમ\N_NN ધરાવતા\V_VAUX_VNP લિયેન્ડર\N_NNP પેસે\N_NNP આ\DM_DMD રમતોત્સવમાં\N_NN ભવ્ય\JJ દેખાવ\N_NN કરી\V_VM ભવ્ય\JJ સિદ્ધિ\N_NN પ્રાપ્ત\JJ કરી\V_VM હતી\V_VAUX .\RD_PUNC
+GJSPD2885	ઍટલાન્ટામાં\N_NNP સ્ટોનમાઉન્ટ\N_NNP પાર્ક\N_NNP ખાતે\PSP યોજાયેલ\V_VAUX_VNP આ\DM_DMD ટેનિસ\N_NN જંગમાં\N_NN લિયેન્ડર\N_NNP પેસે\N_NNP શ્રેષ્ઠ\JJ દેખાવ\N_NN કરી\V_VM વિશ્વના\N_NN ધુરંધર\JJ ટેનિસ\N_NN ખેલાડીઓને\N_NN મ્હાત\JJ કરી\V_VM વિજયકૂચ\N_NN જાળવી\V_VAUX_VNP રાખી\V_VM હતી\V_VAUX .\RD_PUNC
+GJSPD2886	આ\DM_DMD સંઘર્ષ\N_NN મુકાબલામાં\N_NN કલકત્તાવાસી\JJ લિયેન્ડર\N_NNP પેસે\N_NNP ૭\QT_QTC -\RD_PUNC ૫\QT_QTC અને\CC_CCD ૭\QT_QTC -\RD_PUNC ૬થી\QT_QTC થોમસ\N_NNP એન્કવિસ્ટને\N_NNP પરાજય\N_NN આપી\V_VM ક્વાર્ટર\N_NN ફાઈનલમાં\N_NN પ્રવેશ\N_NN મેળવ્યો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2887	ક્વાર્ટર\N_NN ફાઈનલની\N_NN મેચ\N_NN ઈટાલીના\N_NNP ટેનિસ\N_NN ખેલાડી\N_NN રેન્જો\N_NNP ફર્લાન\N_NNP સામે\PSP યોજાઈ\V_VM હતી\V_VAUX .\RD_PUNC
+GJSPD2888	સેમી\N_NN ફાઈનલમાં\N_NN પ્રવેશ\N_NN મેળવવાના\V_VAUX_VNP મક્કમ\JJ નિર્ધાર\N_NN સાથે\PSP ઊતરેલ\V_VAUX_VNP લિયેન્ડર\N_NNP પેસે\N_NNP શ્રેષ્ઠ\JJ રમત\N_NN દર્શાવીને\V_VAUX_VNP રેન્જે\N_NNP ફર્લાનને\N_NNP ૬-૧\QT_QTC અને\CC_CCD ૭-૫થી\QT_QTC પરાજય\N_NN આપ્યો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2889	આ\DM_DMD વિજયથી\N_NN ભારતના\N_NNP લિયેન્ડર\N_NNP પેસે\N_NNP ઑલિમ્પિકની\N_NNP સેમિફાઈનલમાં\N_NN ગૌરવથી\N_NN પ્રવેશ\N_NN મેળવ્યો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2890	ક્રાન્તિકારી\JJ ઑગસ્ટ\N_NN માસના\N_NN પ્રથમ\QT_QTO દિવસે\N_NN જ\RP_RPD લિયેન્ડર\N_NNP પેસનો\N_NNP મુકાબલો\N_NN વિશ્વમાં\N_NN પ્રથમ\QT_QTO ક્રમ\N_NN ધરાવતા\V_VAUX_VNP યજમાન\N_NN દેશના\N_NN ટેનિસ\N_NN સ્ટાર\N_NN આન્દ્રે\N_NNP અગાસી\N_NNP સામે\PSP યોજાયો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2891	આ\DM_DMD જંગ\N_NN માણવા\V_VAUX_VNP સ્ટોન\N_NNP પાર્ક\N_NNP ખાતે\PSP ૧૨૦૦૦થી\QT_QTC વધુ\QT_QTF દર્શકો\N_NN ઉપસ્થિત\N_NN રહ્યા\V_VM હતા\V_VAUX .\RD_PUNC
+GJSPD2892	વિશ્વવિખ્યાત\JJ ધરાવતા\V_VAUX_VNP આન્દ્રે\N_NNP અગાસી\N_NNP સામે\PSP લિયેન્ડર\N_NNP પેસે\N_NNP શ્રેષ્ઠ\JJ રમત\N_NN દર્શાવી\V_VM સંઘર્ષપૂર્ણ\JJ જંગ\N_NN ખેલ્યો\V_VM .\RD_PUNC
+GJSPD2893	આ\DM_DMD જંગમાં\N_NN અગાસીએ\N_NN ૭-૬\QT_QTC અને\CC_CCD ૬-૩થી\QT_QTC વિજય\N_NN મેળવ્યો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2894	આ\DM_DMD પરાજયથી\N_NN પેસ\N_NNP માટે\PSP સુવર્ણચંદ્રક\N_NN કે\CC_CCS રજતચંદ્રકની\N_NN આશા\N_NN ઉપર\PSP પાણી\N_NN ફરી\V_VM વળ્યું\V_VM હતું\V_VAUX .\RD_PUNC
+GJSPD2895	પરંતુ\CC_CCD કાંસ્યચંદ્રક\N_NN માટેની\PSP એક\QT_QTC આશાની\N_NN જ્યોત\N_NN પ્રજ્વલિત\JJ હતી\V_VAUX .\RD_PUNC
+GJSPD2896	કાસ્યચંદ્રક\N_NN માટે\PSP લિયેન્ડર\N_NNP પેસનો\N_NNP મુકાબલો\N_NN બ્રાઝીલના\N_NNP ફર્નાન્ડો\N_NNP મેલિગેની\N_NNP સામે\PSP યોજાયો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2897	બ્રિટાનિયા\N_NNP અમૃતરાજ\N_NNP ટેનિસ\N_NNP અકાદમીના\N_NNP ખેલાડી\N_NN લિયેન્ડર\N_NNP પેસે\N_NNP આ\DM_DMD જંગમાં\N_NN પ્રથમ\QT_QTO મેચ\N_NN ૩-૬થી\QT_QTC ગુમાવી\V_VM હતી\V_VAUX .\RD_PUNC
+GJSPD2898	જુનિયર\JJ વિમ્બલ્ડન\N_NNP અને\CC_CCD જુનિયર\JJ યુ.એસ.\N_NNP ઓપન\N_NNP ચૅમ્પિયન\N_NNP લિયેન્ડર\N_NNP પેસે\N_NNP ઑલિમ્પિકમાં\N_NNP ભારતને\N_NNP કાસ્યચંદ્રક\N_NN અપાવી\V_VM ભારતનો\N_NNP ત્રિરંગો\N_NNP ધ્વજ\N_NN લહેરાવ્યો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2899	તેમજ\CC_CCD શતાબ્દી\N_NN ઑલિમ્પિક\N_NNP રમતોત્સવના\N_NNP મેડલ\N_NN ટેલીમાં\N_NN ભારતનું\N_NNP નામ\N_NN અંકિત\JJ કરાવ્યું\V_VM હતું\V_VAUX .\RD_PUNC
+GJSPD2900	૨૯\QT_QTC ઑગસ્ટ\N_NN ,\RD_PUNC એ\DM_DMD આપણો\PR_PRP ``\RD_PUNC રાષ્ટ્રીય\JJ ખેલ\N_NN દિવસ\N_NN ``\RD_PUNC છે\V_VAUX .\RD_PUNC
+GJSPD2901	આ\DM_DMD દિવસે\N_NST રમતવીરોનું\N_NN બહુમાન\N_NN પણ\RP_RPD કરવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2902	વિવિધ\JJ પ્રકારના\N_NN પુરસ્કારોથી\N_NN તેને\DM_DMD નવાજવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD2903	પણ\CC_CCD આપને\PR_PRP ખબર\N_NN છે\V_VAUX કે\CC_CCS આ\DM_DMD દિવસ\N_NN જ\RP_RPD કેમ\DM_DMQ ``\RD_PUNC રાષ્ટ્રીય\JJ ખેલ\N_NN દિવસ\N_NN ``\RD_PUNC તરીકે\PSP ઊજવાય\V_VM છે\V_VAUX ?\RD_PUNC
+GJSPD2904	આ\DM_DMD દિવસ\N_NN એટલે\PSP ભારતીય\JJ હોકીના\N_NN યુગપુરુષ\N_NN મેજર\N_NN ધ્યાનચંદનો\N_NNP જન્મદિવસ\N_NN .\RD_PUNC
+GJSPD2905	જે\PR_PRL ભારત\N_NNP સરકાર\N_NNP ``\RD_PUNC રાષ્ટ્રીય\JJ ખેલ\N_NN દિવસ\N_NN ``\RD_PUNC તરીકે\PSP ઊજવે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2906	રમતગમતની\N_NN દુનિયામાં\N_NN ભારતનું\N_NNP નામ\N_NN રોશન\JJ કરવામાં\V_VAUX_VNP મેજર\N_NN ધ્યાનચંદનો\N_NNP અમૂલ્ય\JJ સિંહફાળો\N_NN રહેલો\V_VAUX_VNP જોવા\V_VAUX_VNP મળે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2907	આ\DM_DMD સદીના\N_NN પૂર્વાધમાં\N_NN વિશ્વકક્ષાએ\N_NN રમત\N_NN -\RD_PUNC ગમત\N_NN ક્ષેત્રે\N_NN ભારતની\N_NNP ઓળખ\N_NN માત્ર\RP_RPD હોકી\N_NN દ્વારા\PSP જ\RP_RPD હતી\V_VAUX !\RD_PUNC
+GJSPD2908	અને\CC_CCD આ\DM_DMD હોકીને\N_NN સાતમા\QT_QTO આસમાન\N_NN સુધી\PSP લઈ\V_VM જવાનું\V_VAUX_VNP માન\N_NN અને\CC_CCD ગૌરવ\N_NN દંતકથા\N_NN સમા\JJ જાદુગર\N_NN મેજર\N_NN ધ્યાનચંદ\N_NNP ધરાવે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2909	ભારતીય\JJ રમતગમતમાં\N_NN હોકીના\N_NN ઇતિહાસ\N_NN સુવર્ણઅક્ષરે\N_NN લખનાર\V_VAUX_VNP મેજર\N_NN ધ્યાનચંદનો\N_NNP જન્મ\N_NN ૨૯મી\N_NNP ઑગસ્ટ\N_NNP ૧૯૦૫ના\N_NNP રોજ\N_NST અલ્હાબાદ\N_NNP ખાતે\PSP એક\QT_QTC રાજપૂત\N_NN પરિવારમાં\N_NN થયો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2910	પરંતુ\CC_CCD થોડા\QT_QTF સમય\N_NN બાદ\PSP તેઓનો\PR_PRP પરિવાર\N_NN ઝાંસી\N_NNP આવીને\V_VAUX_VNP સ્થિર\JJ થયો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2911	સેનામાં\N_NN મેજરનું\N_NN પદ\N_NN શોભાવનાર\V_VAUX_VNP દેશભક્ત\N_NN ધ્યાનચંદ\N_NNP માત્ર\RP_RPD ૧૬\QT_QTC વર્ષની\N_NN વયે\N_NN પ્રથમ\QT_QTO વિશ્વયુદ્ધ\N_NN પછી\PSP એક\QT_QTC સિપાઈના\N_NN રૂપે\N_NN ``\RD_PUNC ફર્સ્ટ\N_NNP બ્રાહમિન\N_NNP રેજીમેન્ટમાં\N_NNP ``\RD_PUNC ભરતી\N_NN થયા\V_VM હતા\V_VAUX .\RD_PUNC
+GJSPD2912	સૈન્યજીવનમાં\N_NN કડક\JJ શિસ્તના\N_NN આગ્રહી\JJ અને\CC_CCD દ્રઢ\N_NN આત્મવિશ્વાસુ\JJ ધ્યાનચંદને\N_NNP શરૂઆતમાં\N_NN રમતગમત\N_NN પ્રત્યે\PSP બહુ\QT_QTF કોઈ\DM_DMI દિલચશ્પી\N_NN ન\RP_NEG હતી\V_VAUX !!\N_NN
+GJSPD2913	૧૯૩૬માં\QT_QTC બર્લિન\N_NNP ખાતે\PSP જ્યારે\N_NST ઑલિમ્પિક\N_NNP રમતોત્સવ\N_NNP યોજાયો\V_VM હતો\V_VAUX ત્યારે\N_NST ભારતીય\JJ ટીમના\N_NN કેપ્ટન\N_NN ધ્યાનચંદે\N_NNP સર્વશ્રેષ્ઠ\JJ દેખાવ\N_NN કરી\V_VM ફાઈનલમાં\N_NN જર્મનીની\N_NNP ટીમને\N_NN ૧૪મી\QT_QTO ઑગસ્ટના\N_NN રોજ\N_NST ૮-૧થી\QT_QTC ધૂળ\N_NN ચાટતી\V_VAUX_VNP કરી\V_VM દીધી\V_VAUX હતી\V_VAUX .\RD_PUNC
+GJSPD2914	આ\DM_DMD ટુર્નામેન્ટમાં\N_NN ભારતે\N_NNP કુલ\JJ ૩૮\QT_QTC ગોલ\N_NN કર્યા\V_VM હતા\V_VAUX .\RD_PUNC
+GJSPD2915	જેમાં\PR_PRL ૧૧\QT_QTC ગોલ\N_NN તો\RP_RPD કપ્તાન\N_NN ધ્યાનચંદના\N_NNP એકલાના\JJ હતા\V_VAUX .\RD_PUNC
+GJSPD2916	હું\PR_PRP તમને\PR_PRP એક\QT_QTC સામાન્ય\JJ સિપાહીમાંથી\N_NN ફિલ્ડમાર્શલ\N_NN બનાવી\V_VM દઈશ\V_VAUX !\RD_PUNC ``\RD_PUNC
+GJSPD2917	``\RD_PUNC ભલે\PSP હું\PR_PRP અદનો\JJ સિપાહી\N_NN હોઉં\V_VAUX પણ\CC_CCD મારા\PR_PRP દેશનો\N_NN ,\RD_PUNC મારા\PR_PRP વતનનો\N_NN હું\PR_PRP સિપાહી\N_NN છું\V_VAUX તેનું\DM_DMD મને\PR_PRP ગૌરવ\N_NN છે\V_VAUX .\RD_PUNC ``\RD_PUNC
+GJSPD2918	મારો\PR_PRP દેશ\N_NN એ\DM_DMD મારા\PR_PRP માટે\PSP સર્વસ્વ\JJ છે\V_VAUX .\RD_PUNC
+GJSPD2919	૨૫\QT_QTC વર્ષની\N_NN હોકી\N_NN કારકિર્દી\N_NN દરમ્યાન\PSP તેમણે\PR_PRP હજારો\N_NN ગોલ\N_NN પ્રતિસ્પર્ધી\JJ ટીમ\N_NN ઉપર\PSP ફટકાર્યા\V_VM હતા\V_VAUX .\RD_PUNC
+GJSPD2920	તેમણે\PR_PRP ધ્યાનચંદને\N_NNP હોકી\N_NN રમવા\V_VAUX_VNP પ્રોત્સાહિત\JJ કર્યા\V_VM હતા\V_VAUX .\RD_PUNC
+GJSPD2921	ધ્યાનચંદ\N_NNP સૌ\JJ પ્રથમ\QT_QTO ૧૩મી\N_NNP મે\N_NNP ,\RD_PUNC ૧૯૨૬ના\N_NNP રોજ\N_NST ન્યુઝીલેન્ડ\N_NNP વિરુદ્ધ\PSP મેચ\N_NN રમ્યા\V_VM હતા\V_VAUX  .\RD_PUNC
+GJSPD2922	આ\DM_DMD મેચમાં\N_NN ધ્યાનચંદે\N_NNP ૬\QT_QTC ગોલ\N_NN ફટકારી\V_VM વિશ્વનું\N_NN ધ્યાન\N_NN પોતાના\PR_PRF તરફ\PSP દોર્યું\V_VM હતું\V_VAUX .\RD_PUNC
+GJSPD2923	આ\DM_DMD વિદેશપ્રવાસ\N_NN દરમ્યાન\PSP કુલ\JJ પાંચ\QT_QTC મેચ\N_NN રમવામાં\V_VAUX_VNP આવી\V_VAUX હતી\V_VAUX .\RD_PUNC
+GJSPD2924	૧૯૨૮માં\QT_QTC ભારતની\N_NNP હોકી\N_NN ટીમ\N_NN ,\RD_PUNC સૌ\JJ પ્રથમ\QT_QTO વાર\N_NN એમ્સ્ટર્ડેમ\N_NNP ખાતેની\PSP ઑલિમ્પિક\N_NNP સુવર્ણચંદ્રક\N_NNP વિજેતા\N_NN બની\V_VM .\RD_PUNC
+GJSPD2925	જેમાં\PR_PRL ધ્યાનચંદનો\N_NN દેખાવ\N_NN ખૂબ\QT_QTF જ\RP_RPD ધ્યાનાકર્ષક\JJ રહ્યો\V_VM .\RD_PUNC
+GJSPD2926	તેમને\PR_PRP હોકીના\N_NN જાદુગરનું\N_NN બિરુદ\N_NN ઑલિમ્પિકના\N_NNP શ્રેષ્ઠ\JJ દેખાવ\N_NN પરથી\PSP મળ્યું\V_VM .\RD_PUNC
+GJSPD2927	૧૯૪૫થી\QT_QTC ૧૯૪૮\QT_QTC સુધી\PSP તેમણે\PR_PRP ભારતીય\JJ ટીમનું\N_NN સફળતાપૂર્વક\JJ નેતૃત્વ\N_NN કર્યું\V_VM .\RD_PUNC
+GJSPD2928	દેશ\N_NN આઝાદ\JJ થતાં\V_VAUX_VNP તેઓને\PR_PRP ``\RD_PUNC મેજર\N_NN ``\RD_PUNC પદથી\N_NN સન્માનવામાં\V_VAUX_VNP આવ્યા\V_VAUX .\RD_PUNC
+GJSPD2929	૧૯૫૬માં\QT_QTC તેઓ\PR_PRP શાસકીય\JJ સેવામાંથી\N_NN નિવૃત્ત\JJ થયા\V_VM  .\RD_PUNC
+GJSPD2930	મીતભાષી\JJ ,\RD_PUNC રાષ્ટ્ર\N_NN અને\CC_CCD ખેલપ્રેમી\RB ધ્યાનચંદનું\N_NNP ત્રીજી\N_NNP ડિસેમ્બર\N_NNP ૧૯૭૯ના\N_NNP રોજ\N_NST દિલ્હી\N_NNP ખાતે\PSP અવસાન\N_NN થયું\V_VM .\RD_PUNC
+GJSPD2931	વિશ્વમાં\N_NN હોકી\N_NN ક્ષેત્રે\N_NN ભારતને\N_NNP અવ્વલ\JJ નંબરે\N_NN પહોંચાડનાર\V_VAUX_VNP મેજર\N_NN ધ્યાનચંદને\N_NNP તેના\PR_PRP જન્મદિને\N_NN લાખ\N_NN લાખ\N_NN સલામ\N_NN .\RD_PUNC
+GJSPD2932	``\RD_PUNC ફ્લાઈંગ\N_NNP શીખના\N_NNP ``\RD_PUNC ઉપનામથી\N_NN સુવિખ્યાત\JJ અને\CC_CCD પદ્મશ્રીનો\N_NN ગૌરવવંતો\JJ એવોર્ડ\N_NN મેળવનાર\V_VAUX_VNP મિલ્ખા\N_NNP સિંહનો\N_NNP જન્મ\N_NN ૪થી\N_NNP ઑક્ટોબર\N_NNP ૧૯૩૫ના\N_NNP રોજ\N_NST પાકિસ્તાનના\N_NNP લાયલપુરમાં\N_NNP થયો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2933	આ\DM_DMD ગૌરવશાળી\JJ એથ્લીટનું\N_NN બાળપણ\N_NN ખૂબ\QT_QTF જ\RP_RPD સંઘર્ષમય\JJ અને\CC_CCD અમુક\PSP અંશે\N_NN અનાથ\JJ જેવું\JJ પસાર\JJ થયું\V_VM હતું\V_VAUX .\RD_PUNC
+GJSPD2934	પંદર\QT_QTC વર્ષની\N_NN ઉંમરે\N_NN મિલ્ખાસિંહ\N_NNP ટ્રક\N_NN અને\CC_CCD મોટરગાડીઓની\N_NN દુકાન\N_NN પર\PSP એક\QT_QTC સાવ\PSP મામૂલી\JJ નોકરી\N_NN કરતા\V_VAUX_VNP હતા\V_VAUX .\RD_PUNC
+GJSPD2935	તેમને\PR_PRP નાનપણમાં\N_NN ભણાવ્યા\V_VM ન\RP_NEG હોઈ\V_VAUX ભણવામાંથી\V_VAUX_VNP મન\N_NN ઊઠી\V_VM ગયું\V_VAUX હતું\V_VAUX .\RD_PUNC
+GJSPD2936	આથી\PSP તેમના\PR_PRP ભાઈ\N_NN માખનસિંહે\N_NNP તેમને\PR_PRP સેનામાં\N_NN જોડાઈ\V_VM જવા\V_VAUX_VNP જણાવ્યું\V_VM અને\CC_CCD સેનામાં\N_NN જોડાતા\V_VAUX_VNP પહેલાં\N_NST મિલ્ખા\N_NNP સિંહ\N_NN એથ્લેટીક\N_NN વિશે\PSP કશું\DM_DMI જાણતા\V_VAUX_VNP જ\RP_RPD ન\RP_NEG હતા\V_VAUX .\RD_PUNC
+GJSPD2937	પરંતુ\CC_CCD મિલ્ખાસિંહ\N_NNP જે\PR_PRL યુનિટમાં\N_NN જોડાયા\V_VM હતા\V_VAUX તે\PR_PRL યુનિટમાં\N_NN રમત\N_NN -\RD_PUNC ગમતનું\N_NN ખૂબ\QT_QTF મહત્ત્વ\N_NN હોઈ\V_VAUX મિલ્ખાસિંહે\N_NNP પણ\RP_RPD ધીરે\RB -\RD_PUNC ધીરે\RB રમતોમાં\N_NN રસ\N_NN કેળવવો\V_VAUX_VNP અને\CC_CCD ભાગ\N_NN લેવો\V_VAUX_VNP શરૂ\JJ કર્યો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2938	શરૂઆતમાં\N_NN મિલ્ખાસિંહને\N_NNP એથ્લેટિક\N_NN ઉપરાંત\PSP બાસ્કેટ\N_NN -\RD_PUNC બોલ\N_NN ,\RD_PUNC ફૂટબોલ\N_NN અને\CC_CCD હોકીમાં\N_NN રસ\N_NN પડતો\V_VAUX_VNP હતો\V_VAUX .\RD_PUNC
+GJSPD2939	એથ્લેટિકમાં\N_NN તેઓ\PR_PRP ખૂબ\QT_QTF લાંબા\JJ અંતરની\N_NN દોડ\N_NN લગાવતા\V_VAUX_VNP હતા\V_VAUX .\RD_PUNC
+GJSPD2940	તેમની\PR_PRP દોડવાની\V_VAUX_VNP ગતિ\N_NN ,\RD_PUNC લય\N_NN અને\CC_CCD કૌશલ્યને\N_NN જોતાં\V_VAUX_VNP કેટલાક\QT_QTF જાણકારોએ\N_NN તેમને\PR_PRP ખાસ\JJ આ\DM_DMD દોડમાં\N_NN જ\RP_RPD ધ્યાન\N_NN પરોવવાનું\V_VAUX_VNP જણાવ્યું\V_VM .\RD_PUNC
+GJSPD2941	ખાસ\JJ કરીને\V_VAUX_VNP ૪૦૦\QT_QTC મીટરની\N_NN દોડમાં\N_NN તેમણે\PR_PRP ધ્યાન\N_NN કેન્દ્રિત\JJ કર્યું\V_VM .\RD_PUNC
+GJSPD2942	મિલ્ખાસિંહ\N_NNP સૌ\JJ પ્રથમ\QT_QTO ૧૯૫૬ના\QT_QTC રાષ્ટ્રીય\JJ રમતોત્સવમાં\N_NN ચમક્યા\V_VM .\RD_PUNC
+GJSPD2943	આ\DM_DMD રમતોત્સવ\N_NN પતિયાળામાં\N_NNP યોજાયો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2944	તેમના\PR_PRP આ\DM_DMD શ્રેષ્ઠ\JJ પ્રદર્શનના\N_NN આધારે\N_NN તેમની\PR_PRP પસંદગી\N_NN મેલબોર્ન\N_NNP ખાતે\PSP યોજાનાર\V_VAUX_VNP ઑલિમ્પિક\N_NNP રમતોત્સવ\N_NNP માટે\PSP થઈ\V_VM !\RD_PUNC
+GJSPD2945	આ\DM_DMD પછી\PSP કટક\N_NNP ખાતે\PSP યોજાયેલ\V_VAUX_VNP રાષ્ટ્રીય\JJ રમતોત્સવમાં\N_NN મિલ્ખાસિંહે\N_NNP ૨૦૦\QT_QTC મીટર\N_NN અને\CC_CCD ૪૦૦\QT_QTC મીટર\N_NN દોડમાં\N_NN સર્વશ્રેષ્ઠ\JJ દેખાવ\N_NN કરીને\V_VAUX_VNP નવો\JJ રાષ્ટ્રીય\JJ વિક્રમ\N_NN સ્થાપ્યો\V_VM .\RD_PUNC
+GJSPD2946	આ\DM_DMD દેખાવથી\N_NN તેઓએ\PR_PRP ટોકિયો\N_NNP ખાતે\PSP યોજાનાર\V_VAUX_VNP એશિયાઈ\JJ રમતોત્સવ\N_NN માટે\PSP પસંદગી\N_NN મેળવી\V_VM લીધી\V_VAUX .\RD_PUNC
+GJSPD2947	ટોકિયો\N_NNP ખાતે\PSP યોજાયેલ\V_VAUX_VNP ૧૯૬૮ની\QT_QTC એશિયાડમાં\N_NNP મિલ્ખાસિંહે\N_NNP તો\RP_RPD ભારતીય\JJ એથ્લેટિક્સ\N_NN ઇતિહાસમાં\N_NN એક\QT_QTC સુવર્ણ\N_NN -\RD_PUNC પ્રકરણ\N_NN આલેખી\V_VM દીધું\V_VAUX .\RD_PUNC
+GJSPD2948	મિલ્ખાસિંહે\N_NNP ૨૦૦\QT_QTC મીટર\N_NN અને\CC_CCD ૪૦૦\QT_QTC મીટર\N_NN દોડમાં\N_NN શ્રેષ્ઠ\JJ પ્રદર્શન\N_NN કરીને\V_VAUX_VNP બે\QT_QTC સુવર્ણચંદ્રક\N_NN મેળવવા\V_VAUX_VNP સાથે\PSP અદ્દભુત\JJ સિદ્ધિ\N_NN નોંધાવી\V_VM .\RD_PUNC
+GJSPD2949	એશિયાના\N_NNP મહાન\JJ દોડવીરની\N_NN ઉપાધિ\N_NN મેળવનાર\V_VAUX_VNP મિલ્ખાસિંહના\N_NNP ગળામાં\N_NN જ્યારે\N_NST જાપાનના\N_NNP સમ્રાટે\N_NN સુવર્ણચંદ્રક\N_NN પહેરાવ્યો\V_VM ત્યારે\N_NST તેઓ\PR_PRP હર્ષના\N_NN માર્યા\V_VAUX_VNP ગદ્દગદિત\JJ થઈ\V_VM ઊઠ્યા\V_VM હતા\V_VAUX .\RD_PUNC
+GJSPD2950	એ\DM_DMD સુવર્ણ\N_NN ,\RD_PUNC રોમાંચ\N_NN ઉત્પન્ન\JJ કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJSPD2951	એ\DM_DMD સુવર્ણદોડને\N_NN યાદ\V_VM કરતાં\V_VAUX_VNP મિલ્ખાસિંહ\N_NNP જણાવે\V_VM છે\V_VAUX કે\CC_CCS ૨૦૦\QT_QTC મીટરની\N_NN દોડમાં\N_NN પાકિસ્તાનના\N_NNP અબ્દુલ\N_NNP ખાલિક\N_NNP સાથે\PSP જબરજસ્ત\JJ સંઘર્ષ\N_NN કરવો\V_VAUX_VNP પડ્યો\V_VAUX હતો\V_VAUX .\RD_PUNC
+GJSPD2952	અબ્દુલ\N_NNP ખાલિક\N_NNP ૧૦૦\QT_QTC મીટર\N_NN દોડનો\N_NN વિજેતા\N_NN ખેલાડી\N_NN હતો\V_VAUX .\RD_PUNC
+GJSPD2953	અમે\PR_PRP બન્નેએ\JJ કશ્મકશ\JJ દોડ\N_NN લગાવી\V_VM હતી\V_VAUX .\RD_PUNC
+GJSPD2954	ફિનિશિંગ\N_NN લાઈનની\N_NN પર\PSP જઈ\V_VAUX_VNP પડ્યો\V_VAUX !\RD_PUNC
+GJSPD2955	જાપાનના\N_NNP સમ્રાટે\N_NN ગળામાં\N_NN સુવર્ણચંદ્રક\N_NN પહેરાવતાં\V_VAUX_VNP બે\QT_QTC વાક્યો\N_NN કહ્યાં\V_VM જે\PR_PRL હું\PR_PRP ક્યારેય\N_NST ભૂલીશ\V_VM નહિ\RP_NEG .\RD_PUNC
+GJSPD2956	``\RD_PUNC તમને\PR_PRP તેજ\JJ રફતાર\N_NN ગતિથી\N_NN દોડતા\V_VAUX_VNP જોઈ\V_VAUX_VNP મને\PR_PRP ખૂબ\QT_QTF જ\RP_RPD આનંદ\N_NN થયો\V_VM .\RD_PUNC ``\RD_PUNC
+GJSPD2957	જો\CC_CCD તમે\PR_PRP આવી\JJ જ\RP_RPD ગતિથી\N_NN દોડતા\V_VAUX_VNP રહેશો\V_VM તો\CC_CCD જરૂર\PSP વિશ્વના\N_NN સર્વશ્રેષ્ઠ\JJ દોડવીર\N_NN બનશો\V_VM તેમાં\DM_DMD કોઈ\DM_DMI શંકા\N_NN નથી\RP_NEG .\RD_PUNC
+GJSPD2958	દોડવાનું\V_VAUX_VNP જાળવી\V_VM રાખશો\V_VAUX .\RD_PUNC
+GJSPD2959	એ\DM_DMD જ\RP_RPD વર્ષે\N_NN રાષ્ટ્ર\N_NNP મંડલીય\N_NNP રમતોત્સવમાં\N_NNP ભારતનું\N_NNP પ્રતિનિધિત્વ\N_NN કરતી\V_VAUX_VNP વખતે\N_NST મિલ્ખાસિંહે\N_NNP ૪૦૦\QT_QTC મીટર\N_NN દોડમાં\N_NN સુવર્ણચંદ્રક\N_NN જીતીને\V_VAUX_VNP ભારતનું\N_NNP નામ\N_NN એથ્લેટિક\N_NN વિશ્વમાં\N_NN રોશન\JJ કર્યું\V_VM હતું\V_VAUX .\RD_PUNC
+GJSPD2960	આમ\PSP છતાં\RP_RPD ૧૯૬૨માં\QT_QTC ઈન્ડોનેશિયામાં\N_NNP પાટનગર\N_NN જકાર્તા\N_NNP ખાતે\PSP જ્યારે\N_NST ચોથો\QT_QTO એશિયાડ\N_NNP યોજાયો\V_VM ત્યારે\N_NST મિલ્ખાસિંહે\N_NNP પુન:\JJ ૪૦૦\QT_QTC મીટર\N_NN દોડમાં\N_NN ૪૬.૯\QT_QTC સેકન્ડથી\N_NN સુવર્ણચંદ્રક\N_NN મેળવ્યો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2961	સતત\JJ બીજી\JJ વખત\N_NN તેમણે\PR_PRP ``\RD_PUNC એશિયાડનો\N_NNP ``\RD_PUNC સુવર્ણચંદ્રક\N_NN મેળવ્યો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2962	આ\DM_DMD પછી\PSP તેમણે\PR_PRP એથ્લેટિક\N_NN ક્ષેત્રે\N_NN દોડવાનું\V_VAUX_VNP ધીરે\RB ધીરે\RB ઓછું\QT_QTF કરી\V_VM નાખ્યું\V_VAUX હતું\V_VAUX .\RD_PUNC
+GJSPD2963	સતત\JJ છ\QT_QTC વર્ષ\N_NN સુધી\PSP દોડજગતમાં\N_NN નામના\N_NN અને\CC_CCD અનેક\JJ ચંદ્રકો\N_NN મેળવનાર\V_VAUX_VNP મિલ્ખાસિંહને\N_NNP ૧૯૬૯માં\QT_QTC અમેરિકા\N_NNP દ્વારા\PSP ``\RD_PUNC હેલ્મ્સ\N_NNP એવોર્ડ\N_NNP ``\RD_PUNC એનાયત\JJ કરવામાં\V_VAUX_VNP આવ્યો\V_VAUX હતો\V_VAUX .\RD_PUNC
+GJSPD2964	આંતરરાષ્ટ્રીય\JJ એથ્લેટિક\N_NN જગતમાં\N_NN ભારતનું\N_NNP નામ\N_NN રોશન\JJ કરનાર\V_VAUX_VNP પી.ટી.ઉષા\N_NNP એશિયા\N_NNP ક્વીન\N_NNP છે\V_VAUX .\RD_PUNC
+GJSPD2965	એશિયા\N_NNP સ્પ્રિન્ટ\N_NN ,\RD_PUNC સુવર્ણપરી\N_NN ,\RD_PUNC ઉડનપરી\N_NN ,\RD_PUNC એક્સપ્રેસ\N_NN ગર્લ\N_NN વગેરે\PSP જેવાં\JJ વિવિધ\JJ ગૌરવવંતા\JJ બિરુદ\N_NN મેળવી\V_VM ચૂકેલ\V_VAUX_VNP પી.ટી.ઉષા\N_NNP એથ્લેટિક\JJ જગતમાં\N_NN ભારતની\N_NNP એમ્બેસેડર\N_NN હતી\V_VAUX .\RD_PUNC
+GJSPD2966	ભારતની\N_NNP એક\QT_QTC ઓળખ\N_NN છે\V_VAUX .\RD_PUNC
+GJSPD2967	લગભગ\PSP છેલ્લા\JJ બે\QT_QTC દશકા\N_NN સુધી\PSP ભારત\N_NNP અને\CC_CCD એશિયાના\N_NNP ટ્રેક\N_NN પર\PSP એક\QT_QTC સમ્રાજ્ઞીની\N_NN માફક\PSP રાજ\N_NN કરનાર\V_VAUX_VNP પી.ટી.ઉષાએ\N_NNP ગોલ્ડન\JJ ટ્રેક\N_NN પરથી\PSP અનેક\JJ ચંદ્રકો\N_NN અને\CC_CCD સિદ્ધિઓ\N_NN મેળવેલ\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJSPD2968	એથ્લેટિક્સના\N_NN ઇતિહાસમાં\N_NN સુવર્ણપ્રકરણ\N_NN આલેખનાર\V_VAUX_VNP અને\CC_CCD ભારત\N_NNP તેમજ\CC_CCD એશિયાનું\N_NNP ગૌરવ\N_NN વધારનાર\V_VAUX_VNP પાલવુલ્લકંડી\N_NNP થેક્કપરમબીલ\N_NNP ઉષાનો\N_NNP જન્મ\N_NN ૨૦મી\N_NNP મે\N_NNP ૧૯૬૫ના\N_NNP રોજ\N_NST થયો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2969	ટૂંકાક્ષરી\JJ પી.ટી.ઉષાના\N_NNP નામથી\N_NN વિશ્વવિખ્યાત\N_NN પી.ટી.ઉષાને\N_NNP બાળપણથી\N_NN ખૂબ\QT_QTF દોડવાનો\V_VAUX_VNP શોખ\N_NN હતો\V_VAUX .\RD_PUNC
+GJSPD2970	તે\PR_PRP પોલપટ્ટમના\N_NNP સમુદ્રકિનારે\N_NN લાંબા\JJ અંતર\N_NN સુધી\PSP એકધારું\JJ થાક્યા\V_VAUX_VNP વગર\PSP તાલમય\JJ ગતિ\N_NN સાથે\PSP દોડતી\V_VAUX_VNP હતી\V_VAUX .\RD_PUNC
+GJSPD2971	તેની\PR_PRP દોડવાની\V_VAUX_VNP ઝડપ\N_NN ,\RD_PUNC દોડવાનું\V_VAUX_VNP કૌશલ્ય\N_NN અને\CC_CCD સંગીતના\N_NN સૂર\N_NN જેવી\JJ લયબદ્ધતા\N_NN સૌ\JJ કોઈને\PR_PRI મંત્રમુગ્ધ\JJ કરી\V_VM દે\V_VAUX તેવી\JJ હતી\V_VAUX .\RD_PUNC
+GJSPD2972	દોડવાના\V_VAUX_VNP શોખ\N_NN સાથે\PSP જન્મેલ\V_VAUX_VNP પી.ટી.ઉષા\N_NNP એક\QT_QTC દોડવીરાંગના\N_NN બનાવવા\V_VAUX_VNP મથતી\V_VAUX_VNP હતી\V_VAUX .\RD_PUNC
+GJSPD2973	૧૯૭૮માં\QT_QTC ક્લિવાનમાં\N_NNP જ્યારે\N_NST આંતરરાજ્ય\N_NN એથ્લેટિક\N_NN ચેમ્પિયનશીપ\N_NN યોજાઈ\V_VM ત્યારે\N_NST ૧૦૦\QT_QTC મીટર\N_NN દોડમાં\N_NN આ\DM_DMD ૧૩\QT_QTC વર્ષની\N_NN ટૂંકું\JJ ફ્રોક\N_NN પહેરેલ\V_VAUX_VNP અને\CC_CCD લાંબા\JJ પગ\N_NN ધરાવતી\V_VAUX_VNP છોકરીએ\N_NN ૧૩.૧\QT_QTC સેકન્ડમાં\N_NN દોડી\V_VM જઈને\V_VAUX_VNP સૌને\JJ આશ્ચર્યચકિત\JJ કરી\V_VM દીધા\V_VAUX હતા\V_VAUX .\RD_PUNC
+GJSPD2974	આ\DM_DMD પછી\PSP સતત\JJ મહાવરાના\N_NN કારણે\PSP તેના\DM_DMD પ્રદર્શનમાં\N_NN સુધારો\N_NN થતો\V_VAUX_VNP ગયો\V_VAUX .\RD_PUNC
+GJSPD2975	ધીરે\RB ધીરે\RB તે\PR_PRP સફળતાનાં\N_NN પગથિયાં\N_NN ચડવા\V_VAUX_VNP લાગી\V_VM હતી\V_VAUX .\RD_PUNC
+GJSPD2976	તેને\PR_PRP દોડવાનો\V_VAUX_VNP નશો\N_NN ચડતો\V_VAUX_VNP હતો\V_VAUX .\RD_PUNC
+GJSPD2977	આ\DM_DMD દરમ્યાન\PSP તેનામાં\PR_PRP છુપાયેલી\V_VAUX_VNP પ્રતિભાને\N_NN જોઈ\V_VM કન્નૂર\N_NNP સ્પોર્ટસ\N_NNP સ્કૂલમાં\N_NNP વૈજ્ઞાનિક\JJ ઢબથી\N_NN તાલીમ\N_NN આપવા\V_VAUX_VNP માટે\PSP તેને\PR_PRP દાખલ\JJ કરવામાં\V_VAUX_VNP આવી\V_VAUX .\RD_PUNC
+GJSPD2978	તેને\PR_PRP વૈજ્ઞાનિક\JJ ઢબે\N_NN તાલીમ\N_NN મળતાં\V_VAUX_VNP તે\PR_PRP ઑર\PSP નિખરી\V_VM ઊઠી\V_VM !\RD_PUNC
+GJSPD2979	એવામાં\JJ તેને\PR_PRP સાચા\JJ હિરાની\N_NN પરખવાળા\JJ ઝવેરી\N_NN જેવા\JJ કોચ\N_NN ઓ.એમ.નામ્બિયાર\N_NNP મળી\V_VM ગયા\V_VAUX .\RD_PUNC
+GJSPD2980	પછી\PSP તો\RP_RPD તેમની\PR_PRP તાલીમ\N_NN ,\RD_PUNC પ્રેરણા\N_NN અને\CC_CCD પ્રોત્સાહનથી\N_NN તે\DM_DMD હીરાની\N_NN માફક\PSP ટ્રેક\N_NN ફિલ્ડ\N_NN ઉપર\PSP ચમકવા\V_VAUX_VNP લાગી\V_VAUX .\RD_PUNC
+GJSPD2981	સૌંદર્યથી\N_NN ભરપૂર\JJ એવા\JJ કેરળના\N_NNP પ્યોલી\N_NNP ગામની\N_NN પી.ટી.ઉષાએ\N_NNP આંતરરાષ્ટ્રીય\JJ કારકિર્દી\N_NN માત્ર\RP_RPD ૧૬\QT_QTC વર્ષની\N_NN ઉંમરે\N_NN ૧૯૮૦માં\QT_QTC મોસ્કો\N_NNP ખાતે\PSP યોજાયેલ\V_VAUX_VNP બાવીશમાં\QT_QTC એથ્લેટિક્સથી\N_NN શરૂ\JJ કરી\V_VM હતી\V_VAUX .\RD_PUNC
+GJSPD2982	મોસ્કો\N_NNP ઓલિમ્પિકમાં\N_NNP પી.ટી.ઉષાએ\N_NNP ૧૦૦\QT_QTC મીટર\N_NN અને\CC_CCD ૨૦૦\QT_QTC મીટર\N_NN દોડમાં\N_NN ભાગ\N_NN લીધો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2983	આ\DM_DMD પછી\PSP ૧૯૮૨માં\QT_QTC દિલ્હી\N_NNP ખાતે\PSP યોજાયેલ\V_VAUX_VNP એશિયાડમાં\N_NNP પી.ટી.ઉષાએ\N_NNP બે\QT_QTC રજતચંદ્રક\N_NN મેળવી\V_VM આંતરરાષ્ટ્રીય\JJ ક્ષેત્રે\N_NN ચંદ્રકો\N_NN મેળવવાના\V_VAUX_VNP શ્રી\N_NN ગણેશ\N_NN કર્યા\V_VM હતા\V_VAUX .\RD_PUNC
+GJSPD2984	સખત\JJ પરિશ્રમ\N_NN ,\RD_PUNC તાલીમ\N_NN ,\RD_PUNC એકાગ્રતા\N_NN અને\CC_CCD દેશદાઝને\N_NN કારણે\PSP ઉષાએ\N_NNP હવે\N_NST ટ્રેક\N_NN અને\CC_CCD ફિલ્ડ\N_NN પર\PSP ઝડપ\N_NN પકડી\V_VM અને\CC_CCD ૧૯૮૩માં\QT_QTC કુવૈતમાં\N_NNP યોજાયેલ\V_VAUX_VNP એ.ટી.એફ\N_NN મીટમાં\N_NN સૌ\JJ પ્રથમ\QT_QTO એક\QT_QTC સુવર્ણચંદ્રક\N_NN અને\CC_CCD રજતચંદ્રક\N_NN મેળવ્યો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2985	આ\DM_DMD પછી\PSP તો\RP_RPD ઉષાએ\N_NNP ક્યારેય\N_NST પાછું\RB વાળીને\V_VAUX_VNP જોયું\V_VM જ\RP_RPD નથી\RP_NEG .\RD_PUNC
+GJSPD2986	તેના\PR_PRP જીવનમાં\N_NN એક\QT_QTC યાદગાર\JJ ક્ષણ\N_NN સૌ\JJ પ્રથમ\QT_QTO ૧૯૮૪ની\QT_QTC લોસએન્જલસ\N_NNP ખાતેની\PSP ઓલિમ્પિકમાં\N_NNP ૪૦૦\QT_QTC મીટર\N_NN વિઘ્નદોડમાં\N_NN સર્વશ્રેષ્ઠ\JJ પ્રદર્શન\N_NN કર્યું\V_VM .\RD_PUNC
+GJSPD2987	ફાઈનલમાં\N_NN તે\PR_PRP ભારત\N_NNP વતી\PSP સૌ\JJ પ્રથમ\QT_QTO દોડી\V_VM હતી\V_VAUX .\RD_PUNC
+GJSPD2988	ઉષાએ\N_NNP સર્વશ્રેષ્ઠ\JJ સમય\N_NN ૫૫.૪૨\QT_QTC સેકન્ડનો\N_NN ૪૦૦\QT_QTC મીટર\N_NN દોડમાં\N_NN નોંધાવ્યો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2989	૧૯૮૫માં\QT_QTC જકાર્તા\V_VAUX_VNP ખાતે\PSP યોજાયેલ\V_VAUX_VNP એશિયાઈ\JJ ટ્રેક\N_NN એન્ડ\CC_CCD ફિલ્ડ\N_NN મીટમાં\N_NN સર્વશ્રેષ્ઠ\JJ દેખાવ\N_NN કરીને\V_VAUX_VNP પી.ટી.ઉષાએ\N_NNP પાંચ\QT_QTC સુવર્ણ\N_NN અને\CC_CCD એક\QT_QTC કાસ્યચંદ્રક\N_NN મેળવ્યો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2990	એ\DM_DMD વખતે\N_NN ઉષાએ\N_NNP વિશ્વખ્યાત\JJ ફિલિપાઈન્સની\N_NNP દોડ\N_NN વીરાંગના\N_NN લીફીયા\N_NNP ડિ\N_NNP વેગાને\N_NNP પણ\RP_RPD પરાજિત\JJ કરી\V_VM ભવ્ય\JJ વિજય\N_NN મેળવ્યો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2991	આ\DM_DMD જ\RP_RPD વર્ષે\N_NN ઝેકોસ્લોવેકિયાના\N_NNP ઓલ્વે\N_NNP મંક\N_NNP ખાતે\PSP યોજાયેલ\V_VAUX_VNP ``\RD_PUNC વિશ્વ\N_NNP રેલવે\N_NNP રમતોત્સવમાં\N_NNP ``\RD_PUNC પી.ટી.ઉષાને\N_NNP સર્વશ્રેષ્ઠ\JJ એથ્લીટ\N_NN જાહેર\JJ કરવામાં\V_VAUX_VNP આવી\V_VM હતી\V_VAUX .\RD_PUNC
+GJSPD2992	કેનબરા\N_NNP ખાતે\PSP યોજાયેલ\V_VAUX_VNP વિશ્વકપ\N_NN એથ્લેટિક્સ\N_NN સ્પર્ધામાં\N_NN પી.ટી.ઉષાએ\N_NNP એશિયાના\N_NNP ખેલાડીઓની\N_NN આગેવાની\N_NN કરી\V_VM હતી\V_VAUX .\RD_PUNC
+GJSPD2993	પ્યોલી\N_NNP એક્સપ્રેસથી\N_NNP ખ્યાત\JJ પી.ટી.ઉષાએ\N_NNP ૧૯૮૬માં\QT_QTC સેઉલ\N_NNP ખાતે\PSP યોજાયેલ\V_VAUX_VNP એશિયાડમાં\N_NNP સૌને\JJ આશ્ચર્યચકિત\JJ કરી\V_VM દીધા\V_VAUX હતા\V_VAUX .\RD_PUNC
+GJSPD2994	ઉષાએ\N_NNP ૪\QT_QTC સુવર્ણ\N_NN અને\CC_CCD ૧\QT_QTC રજતચંદ્રકો\N_NN એશિયાડમાં\N_NNP જીત્યા\V_VM હતા\V_VAUX .\RD_PUNC
+GJSPD2995	ઉષાએ\N_NNP ,\RD_PUNC ૪\QT_QTC x\RD_SYM ૪૦૦\QT_QTC મીટર\N_NN રીલે\N_NN સ્પર્ધામાં\N_NN સુવર્ણચંદ્રકો\N_NN જીત્યા\V_VM હતા\V_VAUX .\RD_PUNC
+GJSPD2996	૧૦૦\QT_QTC મીટરમાં\N_NN રજતચંદ્રક\N_NN મેળવ્યો\V_VM હતો\V_VAUX .\RD_PUNC
+GJSPD2997	એશિયાડના\N_NNP દેખાવથી\N_NN તો\RP_RPD એથ્લેટિક્સ\N_NN જગત\N_NN સ્તબ્ધ\JJ બની\V_VM ગયું\V_VAUX હતું\V_VAUX .\RD_PUNC
+GJSPD2998	ઉષાનો\N_NNP કરિશ્મો\N_NN ટ્રેક\N_NN એન્ડ\CC_CCD ફિલ્ડમાં\N_NN કંઈક\DM_DMI ઑર\PSP જ\RP_RPD હતો\V_VAUX .\RD_PUNC
+GJSPD2999	કોઈ\DM_DMI પણ\RP_RPD યુરોપિયન\JJ ટીમ\N_NN લેટિન\N_NNP અમેરિકામાં\N_NNP વર્લ્ડ\N_NN કપ\N_NN નહીં\RP_NEG જીતી\V_VM શકવાનો\V_VAUX_VNP રેકોર્ડ\N_NN આ\DM_DMD વખતે\N_NN તોડી\V_VM શકે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJSPD3000	હોલેન્ડ\N_NNP અને\CC_CCD જર્મનીએ\N_NNP જે\PR_PRL પ્રકારે\N_NN શરૂઆત\N_NN કરી\V_VM છે\V_VAUX તે\DM_DMD બાકી\JJ ટીમો\N_NN માટે\PSP ખતરારૂપ\N_NN છે\V_VAUX .\RD_PUNC

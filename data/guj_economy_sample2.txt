@@ -1,0 +1,1000 @@
+GJECD1	દેશના\N_NN વિકાસમાં\N_NN પાયાની\N_NN સવલતો\N_NN ધરાવતા\V_VAUX_VNP માળખાને\N_NN મુખ્ય\JJ બે\QT_QTC ભાગમાં\N_NN વહેંચવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD2	આર્થિક\JJ આંતરમાળખું\N_NN અને\CC_CCD સામાજિક\JJ આંતરમાળખું\N_NN .\RD_PUNC
+GJECD3	આવી\JJ સેવાઓનું\N_NN જેમ\PSP ઉત્પાદન\N_NN વધતું\V_VAUX_VNP જાય\V_VAUX તેમ\PSP તેમ\PSP અમુક\JJ હદ\N_NN સુધી\PSP એ\DM_DMD સેવાની\N_NN એકમ\N_NN દીઠ\N_NN ખર્ચ\N_NN ઘટતું\V_VAUX_VNP જાય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD4	જેમકે\CC_CCS_UT ,\RD_PUNC અમુક\PSP હદ\N_NN સુધી\PSP વીજળીના\N_NN ઉત્પાદનમાં\N_NN વધારો\N_NN થાય\V_VM તો\CC_CCD વીજળીના\N_NN એકમ\N_NN દીઠ\PSP થતું\V_VAUX_VNP ઉત્પાદનખર્ચ\N_NN ઘટે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD5	આવી\JJ સેવાઓનો\N_NN લાભ\N_NN તેમના\PR_PRP પ્રત્યક્ષ\JJ ગ્રાહકો\N_NN પૂરતો\V_VAUX_VNP મર્યાદિત\JJ રહેતો\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJECD6	તેમના\PR_PRP લાભો\N_NN પરોક્ષ\JJ રીતે\N_NN સમગ્ર\JJ સમાજને\N_NN પ્રાપ્ત\JJ થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD7	આર્થિક\JJ વિકાસ\N_NN સાથે\PSP પાયાની\N_NN સેવાઓ\N_NN ગાઢ\JJ રીતે\N_NN સંકળાયેલી\V_VAUX_VNP જણાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD8	વિશ્વ\N_NNP બેંકે\N_NNP આપેલા\V_VAUX_VNP અંદાજ\N_NN પ્રમાણે\PSP પાયાની\N_NN સેવાઓના\N_NN જથ્થામાં\N_NN થતો\V_VAUX_VNP ૧\QT_QTC ટકાનો\N_NN વધારો\N_NN ,\RD_PUNC રાષ્ટ્રીય\JJ પેદાશના\N_NN ૧\QT_QTC ટકાના\N_NN વધારા\N_NN સાથે\PSP સંકળાયેલો\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJECD9	આને\DM_DMD કારણે\PSP કેટલીક\QT_QTF પાયાની\N_NN સેવાઓમાં\N_NN રોકાયેલી\V_VAUX_VNP મૂડીનું\N_NN માથાદીઠ\PSP મૂલ્ય\N_NN દેશની\N_NN માથાદીઠ\PSP આવક\N_NN સાથે\PSP વધતું\V_VAUX_VNP જણાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD10	સમખરીદશક્તિ\N_NN સિદ્ધાંત\N_NN અનુસાર\PSP ૧૯૯૦માં\QT_QTC વિકિસત\JJ દેશોની\N_NN માથાદીઠ\PSP આવક\N_NN ૨૦,૦૦૦\QT_QTC ડૉલર\N_NN જેટલી\JJ હતી\V_VAUX .\RD_PUNC
+GJECD11	ગરીબોનો\N_NN વસવાટ\N_NN શહેરના\N_NN ચોક્કસ\JJ વિસ્તારોમાં\N_NN કેન્દ્રિત\JJ થયેલો\V_VAUX_VNP હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD12	તેથી\PSP શહેરી\JJ ગરીબોને\N_NN કેટલીક\QT_QTF પાયાની\N_NN સેવાઓ\N_NN પૂરતા\JJ પ્રમાણમાં\N_NN પૂરી\JJ પાડવામાં\V_VAUX_VNP આવે\V_VAUX તે\DM_DMD ગરીબી\N_NN નિવારણના\N_NN દ્રષ્ટિબિંદુથી\N_NN જરૂરી\JJ થઈ\V_VM પડે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD13	માત્ર\RP_RPD આર્થિક\JJ જ\RP_RPD નહિ\RP_NEG ,\RD_PUNC પરંતુ\CC_CCD પર્યાવરણની\N_NN જાળવણીના\N_NN હેતુથી\N_NN પણ\RP_RPD આવી\JJ સેવાઓનો\N_NN વિસ્તાર\N_NN આવશ્યક\JJ બની\V_VM જાય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD14	પીવાનું\V_VAUX_VNP ચોખ્ખું\JJ પાણી\N_NN ,\RD_PUNC સફાઈ\N_NN ,\RD_PUNC પ્રદૂષણમુક્ત\JJ ઊર્જાસ્ત્રોતો\N_NN વગેરેની\PSP સેવાઓ\N_NN દેશમાં\N_NN સૌને\JJ માટે\PSP પર્યાવરણના\N_NN લાભ\N_NN આપે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD15	ખેતીક્ષેત્રમાં\N_NN વધતી\V_VAUX_VNP ઉત્પાદકતા\N_NN અને\CC_CCD ગ્રામીણ\JJ ક્ષેત્રમાં\N_NN બિનકૃષિક્ષેત્રે\N_NN સર્જાતી\V_VAUX_VNP રોજગારી\N_NN પાયાની\N_NN સેવાઓની\N_NN પ્રાપ્યતા\N_NN સાથે\PSP સંકળાયેલી\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJECD16	ભારતમાં\N_NNP વિવિધ\JJ પંચવર્ષીય\JJ યોજનાઓમાં\N_NN પાયાની\N_NN સેવાઓ\N_NN માટે\PSP મોટા\JJ પ્રમાણમાં\N_NN નાણાં\N_NN ફાળવવામાં\V_VAUX_VNP આવ્યાં\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD17	ભારતની\N_NNP યોજનાઓમાં\N_NN જાહેર\JJ ક્ષેત્ર\N_NN દ્વારા\PSP કરવામાં\V_VAUX_VNP આવેલા\V_VAUX_VNP કુલ\N_NN ખર્ચના\N_NN ૪૦\QT_QTC ટકાથી\N_NN વધુ\QT_QTF નાણાં\N_NN પાયાની\N_NN સેવાઓ\N_NN પાછળ\PSP ખર્ચવામાં\V_VAUX_VNP આવ્યાં\V_VAUX હતાં\V_VAUX .\RD_PUNC
+GJECD18	કોઈ\DM_DMI પણ\RP_RPD માનવીય\JJ પ્રવૃત્તિ\N_NN ઊર્જા\N_NN વિના\PSP શક્ય\JJ નથી\RP_NEG .\RD_PUNC
+GJECD19	અતિપ્રાચીન\JJ સમયમાં\N_NN માનવીની\N_NN શારીરિક\JJ શક્તિ\N_NN જ\RP_RPD તેની\DM_DMD ઊર્જાનો\N_NN સ્રોત\N_NN હતો\V_VAUX .\RD_PUNC
+GJECD20	ત્યારબાદ\PSP બળદ\N_NN ,\RD_PUNC ઘોડા\N_NN ,\RD_PUNC ઊંટ\N_NN વગેરે\PSP જેવાં\JJ પ્રાણીઓ\N_NN ખેતીક્ષેત્રે\N_NN ઊર્જાના\N_NN સ્રોત\N_NN બન્યાં\V_VM .\RD_PUNC
+GJECD21	વાણિજ્યિક\JJ ઊર્જામાં\N_NN કોલસો\N_NN ,\RD_PUNC પેટ્રોલિયમ\N_NN અને\CC_CCD વીજળીનો\N_NN (\RD_SYM વિદ્યુત\N_NN )\RD_SYM સમાવેશ\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD22	ભારતમાં\N_NNP કુલ\JJ ઊર્જા\N_NN વપરાશમાં\N_NN આ\DM_DMD પ્રકારની\N_NN ઊર્જાનો\N_NN લગભગ\PSP ૫૦\QT_QTC ટકાથી\N_NN વધુ\QT_QTF હિસ્સો\N_NN રહેલો\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJECD23	એશિયા\N_NNP -\RD_PUNC પૅસિફિક\N_NNP વિસ્તારમાં\N_NN આવેલા\V_VAUX_VNP જુદા\JJ જુદા\JJ દેશોમાં\N_NN કોલસાનું\N_NN ઉત્પાદન\N_NN થાય\V_VM છે\V_VAUX ,\RD_PUNC જેમાં\PR_PRL ભારતનું\N_NNP ઉત્પાદન\N_NN બીજા\JJ નંબરે\N_NN છે\V_VAUX .\RD_PUNC
+GJECD24	આ\DM_DMD વિસ્તારમાં\N_NN થતા\V_VAUX_VNP કોલસાના\N_NN કુલ\JJ ઉત્પાદનના\N_NN ૧૬.૧\QT_QTC %\RD_SYM જેટલું\JJ ઉત્પાદન\N_NN ભારત\N_NNP કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD25	ભારતમાં\N_NNP કોલસો\N_NN ઊર્જાનો\N_NN કદાચ\PSP સૌથી\JJ મહત્ત્વનો\JJ સ્રોત\N_NN છે\V_VAUX .\RD_PUNC
+GJECD26	જેમકે\CC_CCS_UT ૭૦\QT_QTC %\RD_SYM કોલસાનો\N_NN ઉપયોગ\N_NN વીજળી\N_NN પેદા\JJ કરવા\V_VAUX_VNP માટે\PSP થાય\V_VM છે\V_VAUX ,\RD_PUNC જ્યારે\N_NST બાકીના\JJ ૩૦\QT_QTC ટકાનો\N_NN ઉપયોગ\N_NN જુદા\JJ જુદા\JJ ઔદ્યોગિક\N_NN હેતુ\N_NN માટે\PSP થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD27	ભારતમાં\N_NNP કોલસાનું\N_NN ઉત્પાદન\N_NN મુખ્યત્વે\JJ ઝારખંડ\N_NNP ,\RD_PUNC ઓરિસ્સા\N_NNP ,\RD_PUNC મધ્યપ્રદેશ\N_NNP ,\RD_PUNC પશ્ચિમબંગાળ\N_NNP અને\CC_CCD આંધ્રપ્રદેશમાં\N_NNP થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD28	ઊર્જાનો\N_NN બીજો\JJ કુદરતી\JJ સ્રોત\N_NN પેટ્રોલિયમ\N_NN છે\V_VAUX .\RD_PUNC
+GJECD29	મધ્યપૂર્વના\N_NST ઘણા\QT_QTF દેશો\N_NN ધનિક\JJ છે\V_VAUX એટલા\JJ માટે\PSP કે\CC_CCS તેઓ\PR_PRP પાસે\PSP વિપુલ\JJ તેલભંડારો\N_NN છે\V_VAUX .\RD_PUNC
+GJECD30	વર્તમાન\JJ ટેકનોલોજી\N_NN ઈંધણ\N_NN મોટેભાગે\JJ પેટ્રોલિયમ\JJ પેદાશો\N_NN પર\PSP જ\RP_RPD વધુ\QT_QTF આધારિત\JJ છે\V_VAUX .\RD_PUNC
+GJECD31	ભારતમાં\N_NNP સૌ\JJ પ્રથમ\QT_QTO આસામમાં\N_NNP તેલના\N_NN ભંડારો\N_NN પ્રાપ્ત\JJ થયા\V_VM .\RD_PUNC
+GJECD32	૧૯૫૯માં\QT_QTC ONGCની\N_NNP (\RD_SYM ઑઈલ\N_NNP ઍન્ડ\N_NNP નેચરલ\N_NNP ગૅસ\N_NNP કમિશન\N_NNP )\RD_SYM સ્થાપના\N_NN સરકારે\N_NN કરી\V_VM .\RD_PUNC
+GJECD33	ત્યારબાદ\PSP મુંબઈના\N_NNP દરિયામાં\N_NN ખનિજ\N_NN તેલ\N_NN મેળવવા\V_VAUX_VNP માટેનું\PSP પ્લૅટફૉર્મ\N_NN ઊભું\V_VM કરવામાં\V_VAUX_VNP આવ્યું\V_VAUX .\RD_PUNC
+GJECD34	કુદરતી\JJ ગૅસને\N_NN પણ\RP_RPD પેટ્રોલિયમ\JJ સ્રોતમાં\N_NN જ\RP_RPD ગણવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD35	તેનો\DM_DMD મુખ્યત્વે\JJ રાંધણગૅસ\N_NN અને\CC_CCD કેટલાંક\QT_QTF થર્મલ\N_NN વિદ્યુતમથકોમાં\N_NN ઉપયોગ\N_NN કરવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD36	ઉત્પાદનની\N_NN વિસરતી\V_VAUX_VNP ક્ષિતિજો\N_NN જોતાં\V_VAUX_VNP આ\DM_DMD ખનિજ\N_NN તેલ\N_NN અને\CC_CCD ગૅસના\N_NN જથ્થા\N_NN ૨૦\QT_QTC -\RD_PUNC ૨૫\QT_QTC વર્ષ\N_NN સુધી\PSP જ\RP_RPD ચાલે\V_VM તેમ\PSP છે\V_VAUX .\RD_PUNC
+GJECD37	માનવીઓ\N_NN માટે\PSP વીજળી\N_NN વિનાના\PSP જીવનની\N_NN કલ્પના\N_NN જ\RP_RPD મુશ્કેલ\JJ છે\V_VAUX .\RD_PUNC
+GJECD38	મોટા\JJ ભાગનો\N_NN કોલસો\N_NN અને\CC_CCD કુદરતી\JJ ગૅસ\N_NN પણ\RP_RPD વીજળીના\N_NN ઉત્પાદનમાં\N_NN જ\RP_RPD વપરાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD39	આઝાદી\N_NN પછી\PSP દેશમાં\N_NN વિદ્યુતની\N_NN ઉત્પાદન\N_NN ક્ષમતા\N_NN ૫૧\QT_QTC ગણી\JJ થઈ\V_VM છે\V_VAUX .\RD_PUNC
+GJECD40	૧૯૫૦\QT_QTC -\RD_PUNC ૫૧માં\QT_QTC વીજળીની\N_NN સ્થાપિત\JJ ઉત્પાદન\N_NN -\RD_PUNC ક્ષમતા\N_NN ૨૩૦૦\QT_QTC મેગાવૉટ\N_NN હતી\V_VAUX .\RD_PUNC
+GJECD41	વીજળીના\N_NN ઉત્પાદન\N_NN માટે\PSP મુખ્ય\JJ ત્રણ\QT_QTC સ્રોતો\N_NN છે\V_VAUX .\RD_PUNC
+GJECD42	કોલસો\N_NN (\RD_SYM થર્મલ\N_NN )\RD_SYM ,\RD_PUNC પાણી\N_NN (\RD_SYM હાઈડ્રો\N_NN )\RD_SYM અને\CC_CCD પરમાણુ\N_NN (\RD_SYM ન્યુક્લિયરક\N_NN )\RD_SYM .\RD_PUNC
+GJECD43	આયોજનની\N_NN શરૂઆતમાં\N_NN પાણીમાંથી\N_NN વિદ્યુત\N_NN ઉત્પન્ન\JJ કરવા\V_VAUX_VNP પર\PSP આપણે\PR_PRP ભાર\N_NN આપ્યો\V_VM .\RD_PUNC
+GJECD44	પરંતુ\CC_CCD સદીના\N_NN સાતમા\QT_QTO દાયકાની\N_NN મધ્યમાં\N_NN આપણે\PR_PRP કોલસાને\N_NN વીજળી\N_NN -\RD_PUNC ઉત્પાદન\N_NN માટે\PSP ઉપયોગમાં\N_NN લીધો\V_VM .\RD_PUNC
+GJECD45	પરમાણુશક્તિનો\N_NN પણ\RP_RPD ,\RD_PUNC થોડે\QT_QTF ઘણે\QT_QTF અંશે\N_NN વિદ્યુત\N_NN -\RD_PUNC ઉત્પાદનમાં\N_NN ઉપયોગ\N_NN કર્યો\V_VM .\RD_PUNC
+GJECD46	વીજળીના\N_NN વિવિધ\JJ વપરાશકર્તાઓમાં\N_NN મુખ્યત્વે\JJ ઉદ્યોગો\N_NN ,\RD_PUNC ખેતી\N_NN ,\RD_PUNC રેલવે\N_NN ,\RD_PUNC વાણિજ્યગૃહો\N_NN અને\CC_CCD ઘરોનો\N_NN સમાવેશ\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD47	બિનવાણિજ્યિક\JJ સ્રોતમાં\N_NN બળતણનાં\N_NN લાકડાં\N_NN ,\RD_PUNC વનસ્પતિજન્ય\JJ કચરો\N_NN અને\CC_CCD પ્રાણીઓના\N_NN સૂકા\JJ છાણનો\N_NN સમાવેશ\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD48	ભારતમાં\N_NNP લગભગ\PSP ૫૦૦\QT_QTC લાખ\N_NN ટન\N_NN લાકડું\N_NN તથા\CC_CCD ૬૦૦\QT_QTC લાખ\N_NN ટન\N_NN ખેતીજન્ય\JJ કચરાનો\N_NN ઊર્જાના\N_NN સ્રોત\N_NN તરીકે\PSP વપરાશ\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD49	ભારતીય\JJ પશુઓની\N_NN વસ્તી\N_NN મારફત\PSP લગભગ\PSP ૩૨૫૦\QT_QTC લાખ\N_NN ટન\N_NN છાણ\N_NN પ્રાપ્ત\JJ થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD50	જેમાંથી\PR_PRL ૧૫૦\QT_QTC લાખ\N_NN ટન\N_NN છાણ\N_NN કુદરતી\JJ ખાતર\N_NN બનાવવામાં\V_VAUX_VNP વપરાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD51	વીજળીના\N_NN પરંપરાગત\JJ સ્રોતોનો\N_NN ઘટતો\V_VAUX_VNP જતો\V_VAUX_VNP જથ્થો\N_NN અને\CC_CCD પ્રદૂષણના\N_NN વિકટ\JJ પ્રશ્નોને\N_NN લીધે\PSP ભારત\N_NNP અને\CC_CCD દુનિયાના\N_NN દેશો\N_NN ઊર્જાના\N_NN બિનપરંપરાગત\JJ સ્રોતોના\N_NN ઉપયોગ\N_NN વિશે\PSP વિચારી\V_VM રહ્યા\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD52	આ\DM_DMD સ્રોતમાં\N_NN સૂર્યશક્તિ\N_NN ,\RD_PUNC પવનશક્તિ\N_NN અને\CC_CCD દરિયાનાં\N_NN મોજાંની\N_NN શક્તિ\N_NN મુખ્ય\JJ છે\V_VAUX .\RD_PUNC
+GJECD53	ટેકનોલોજીના\N_NN અપૂરતા\JJ વિકાસને\N_NN પરિણામે\PSP આવા\JJ સ્રોતોનો\N_NN મહત્તમ\JJ ઉપયોગ\N_NN કરી\V_VM શકાયો\V_VAUX નથી\RP_NEG .\RD_PUNC
+GJECD54	છતાં\RP_RPD પવનમાંથી\N_NN ઊર્જા\N_NN મેળવવાના\V_VAUX_VNP પ્રયત્નો\N_NN આંધ્રપ્રદેશ\N_NNP ,\RD_PUNC ગુજરાત\N_NNP ,\RD_PUNC કર્ણાટક\N_NNP ,\RD_PUNC કેરળ\N_NNP ,\RD_PUNC રાજસ્થાન\N_NNP ,\RD_PUNC ઓરિસ્સા\N_NNP ,\RD_PUNC મહારાષ્ટ્ર\N_NNP ,\RD_PUNC મધ્યપ્રદેશ\N_NNP અને\CC_CCD તમિલનાડુમાં\N_NNP થયા\V_VM છે\V_VAUX .\RD_PUNC
+GJECD55	પરંતુ\CC_CCD ભવિષ્યમાં\N_NN તેનો\DM_DMD ઉપયોગ\N_NN વધવાની\V_VAUX_VNP સંભાવના\N_NN રહેલી\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJECD56	વાહનવ્યવહાર\N_NN વિના\PSP ઉત્પાદનક્ષેત્રે\N_NN શ્રમવિભાજનનો\N_NN લાભ\N_NN લઈ\V_VM ન\RP_NEG શકાય\V_VAUX .\RD_PUNC
+GJECD57	ઉત્પાદિત\JJ વસ્તુઓ\N_NN અને\CC_CCD સેવાઓનું\N_NN બજાર\N_NN વિસ્તૃત\JJ બનાવવાનું\V_VAUX_VNP કાર્ય\N_NN વાહનવ્યવહાર\N_NN કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD58	તે\DM_DMD કાચો\JJ માલ\N_NN ,\RD_PUNC બળતણ\N_NN ,\RD_PUNC મશીનરી\N_NN વગેરેને\PSP ઉત્પાદનના\N_NN સ્થળે\N_NN પહોંચાડવાનું\V_VAUX_VNP અને\CC_CCD ઉદ્યોગો\N_NN દ્વારા\PSP તૈયાર\JJ થતા\V_VAUX_VNP માલસામાનને\N_NN લોકો\N_NN સુધી\PSP પહોંચાડવાનું\V_VAUX_VNP કાર્ય\N_NN કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD59	પરિવહનને\N_NN સાકાર\JJ કરવા\V_VAUX_VNP બે\QT_QTC બાબતોની\N_NN આવશ્યકતા\N_NN રહે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD60	માધ્યમ\N_NN અને\CC_CCD વહન\N_NN કરવા\V_VAUX_VNP માટેનું\PSP સાધન\N_NN .\RD_PUNC
+GJECD61	જળવ્યવહાર\N_NN માટે\PSP નદી\N_NN ,\RD_PUNC નહેર\N_NN ,\RD_PUNC સરોવરો\N_NN અને\CC_CCD દરિયો\N_NN જોઈએ\V_VAUX ,\RD_PUNC પણ\CC_CCD સાથે\PSP બોટ\N_NN કે\CC_CCS જહાજની\N_NN જરૂર\N_NN પડે\V_VM .\RD_PUNC
+GJECD62	હવાઈ\N_NN વ્યવહાર\N_NN માટે\PSP હવાઈજહાજ\N_NN કે\CC_CCS હેલિકોપ્ટર\N_NN જોઈએ\V_VM અને\CC_CCD રસ્તાવ્યવહાર\N_NN માટે\PSP રેલવે\N_NN ,\RD_PUNC રસ્તા\N_NN પર\PSP દોડનારી\V_VAUX_VNP ટ્રેન\N_NN ,\RD_PUNC ટ્રક\N_NN ,\RD_PUNC બસ\N_NN વગેરેની\PSP જરૂર\N_NN પડે\V_VM .\RD_PUNC
+GJECD63	જુદા\JJ જુદા\JJ પ્રદેશોને\N_NN એકબીજા\PR_PRC સાથે\PSP જોડીને\V_VAUX_VNP સાધનોનો\N_NN મહત્તમ\JJ ઉપયોગ\N_NN કરવાનું\V_VAUX_VNP કામ\N_NN પણ\RP_RPD વાહનવ્યવહાર\N_NN વિના\PSP કેવી\DM_DMQ રીતે\N_NN શક્ય\JJ બને\V_VM ?\RD_PUNC
+GJECD64	આજે\N_NST રેલવે\N_NN દેશના\N_NN સૌથી\JJ મોટા\JJ જાહેર\JJ સાહસ\N_NN તરીકે\PSP પ્રથમ\QT_QTO ક્રમે\N_NN છે\V_VAUX .\RD_PUNC
+GJECD65	આજે\N_NST ભારતીય\JJ રેલવેમાં\N_NN ૧૬\QT_QTC લાખથી\N_NN વધુ\QT_QTF કર્મચારીઓ\N_NN કામ\N_NN કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD66	તે\DM_DMD લગભગ\PSP ૧.૨\QT_QTC કરોડ\N_NN માણસોની\N_NN અને\CC_CCD ૧૨\QT_QTC લાખ\N_NN ટન\N_NN માલસામાનની\N_NN રોજિંદી\JJ હેરફેર\N_NN કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD67	એ\DM_DMD રાષ્ટ્રની\N_NN જીવનરેખા\N_NN બની\V_VM ચૂકી\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD68	ભારતીય\JJ રેલવે\N_NN પોતાની\PR_PRF કમાણીનો\N_NN ૨/૩\QT_QTC ભાગ\N_NN નૂર\N_NN દ્વારા\PSP અને\CC_CCD બાકીનો\JJ ૧/૩\QT_QTC ભાગ\N_NN પેસેન્જરભાડા\N_NN દ્વારા\PSP મેળવે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD69	આઝાદી\N_NN પછી\PSP ૧૧\QT_QTC જેટલાં\JJ મુખ્ય\JJ બંદરો\N_NN વિકસાવવામાં\V_VAUX_VNP આવ્યાં\V_VAUX છે\V_VAUX ,\RD_PUNC જેમનું\PR_PRL સંચાલન\N_NN પૉર્ટ\N_NNP ટ્રસ્ટ\N_NNP ઑફ\N_NNP ઈન્ડિયા\N_NNP દ્વારા\PSP કરવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD70	આ\DM_DMD બંદરો\N_NN પરથી\PSP ૨૦૦૦-૦૧માં\QT_QTC ૨૫૦૦\QT_QTC લાખ\N_NN ટન\N_NN જેટલા\JJ સામાનની\N_NN હેરફેર\N_NN થઈ\V_VM હતી\V_VAUX .\RD_PUNC
+GJECD71	૧૯૫૦-૫૧\QT_QTC કરતાં\V_VAUX_VNP લગભગ\PSP ૧૩\QT_QTC ગણી\JJ આ\DM_DMD હેરફેર\N_NN હતી\V_VAUX .\RD_PUNC
+GJECD72	ભારતીય\JJ જહાજી\JJ ઉદ્યોગ\N_NN સમુદ્રપારના\N_NN વેપારમાં\N_NN આજે\N_NST ૩૧\QT_QTC %\RD_SYM જેટલો\JJ હિસ્સો\N_NN ધરાવે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD73	ભારતમાં\N_NNP નાગરિક\N_NN પરિવહન\N_NN વિભાગની\N_NN શરૂઆત\N_NN ૧૯૨૭માં\QT_QTC થઈ\V_VM .\RD_PUNC
+GJECD74	બીજા\JJ વિશ્વયુદ્ધના\N_NN સમયમાં\N_NN અને\CC_CCD ત્યારબાદ\PSP તેમાં\DM_DMD પ્રગતિ\N_NN થઈ\V_VM .\RD_PUNC
+GJECD75	૧૯૫૩માં\QT_QTC સરકારે\N_NN હવાઈ\N_NNP પરિવહન\N_NNP નિગમ\N_NNP કાયદો\N_NN પસાર\JJ કર્યો\V_VM .\RD_PUNC
+GJECD76	જેના\PR_PRL અંતર્ગત\JJ આંતરિક\JJ પરિવહન\N_NN માટે\PSP ઈન્ડિયન\N_NNP ઍરલાઈન્સ\N_NNP કૉર્પોરેશન\N_NNP અને\CC_CCD બાહ્ય\JJ પરિવહન\N_NN માટે\PSP ઍર\N_NNP ઈન્ડિયા\N_NNP ઈન્ટરનેશનલની\N_NNP સ્થાપના\N_NN થઈ\V_VM .\RD_PUNC
+GJECD77	ભારતીય\N_NNP ઍરપોર્ટ\N_NNP ઑથોરિટી\N_NNP ,\RD_PUNC નાગરિકો\N_NN માટે\PSP ૯૨\QT_QTC ઍરપોર્ટની\N_NN જાળવણી\N_NN અને\CC_CCD સંચાલન\N_NN કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD78	મોટાં\JJ શહેરોમાં\N_NN લોકો\N_NN સુધી\PSP પીવાનું\N_NN પાણી\N_NN પહોંચાડવા\V_VAUX_VNP માટે\PSP પાઈપલાઈન\N_NN મુખ્ય\JJ સાધન\N_NN બન્યું\V_VM છે\V_VAUX .\RD_PUNC
+GJECD79	ગુજરાતમાં\N_NNP કેવડિયાથી\N_NNP કચ્છ\N_NNP સુધી\PSP પણ\RP_RPD પીવાના\V_VAUX_VNP પાણીને\N_NN પાઈપ\N_NN દ્વારા\PSP પહોંચાડવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD80	આ\DM_DMD ઉપરાંત\PSP હવે\N_NST ખનિજ\N_NN તેલ\N_NN અને\CC_CCD કુદરતી\JJ ગેસના\N_NN વહન\N_NN માટે\PSP પણ\RP_RPD તેનો\DM_DMD સફળ\JJ ઉપયોગ\N_NN થઈ\V_VM રહ્યો\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD81	ટ્રાફિકની\N_NN અડચણ\N_NN વિના\PSP પ્રવાહી\N_NN માલસામાનની\N_NN હેરફેર\N_NN માટેનું\PSP આ\DM_DMD કરકસરયુક્ત\JJ સાધન\N_NN છે\V_VAUX .\RD_PUNC
+GJECD82	હજીરાથી\N_NNP (\RD_SYM ગુજરાત\N_NNP )\RD_SYM મધ્યપ્રદેશ\N_NNP ,\RD_PUNC રાજસ્થાન\N_NNP અને\CC_CCD ઉત્તરપ્રદેશમાં\N_NNP ગેસ\N_NN પરિવહન\N_NN માટેની\PSP પાઈપલાઈન\N_NN નાખવામાં\V_VAUX_VNP આવેલી\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJECD83	પેટ્રોલિયમ\JJ પેદાશો\N_NN અને\CC_CCD ફ્રુડ\N_NN ઑઈલની\N_NN હેરફેરની\N_NN આ\DM_DMD વ્યવસ્થા\N_NN ઈન્ડિયન\N_NNP ઑઈલ\N_NNP કૉર્પોરેશન\N_NNP સંભાળે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD84	ભારતમાં\N_NNP વિકાસને\N_NN લીધે\PSP સંદેશાવ્યવહારમાં\N_NN પરિવર્તન\N_NN આવ્યું\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD85	આજે\N_NST પણ\RP_RPD ટપાલસેવા\N_NN સંદેશાવ્યવહારમાં\N_NN સૌથી\JJ સબળ\JJ અને\CC_CCD મહત્વની\JJ સેવા\N_NN ગણાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD86	૧૯૪૭-૪૮માં\QT_QTC ભારતમાં\N_NNP શહેરો\N_NN અને\CC_CCD કેટલાંક\QT_QTF ગામડાંઓમાં\N_NN મળીને\V_VAUX_VNP ૨૩,૩૪૪\QT_QTC પોસ્ટઑફિસો\N_NN હતી\V_VAUX .\RD_PUNC
+GJECD87	ગામડાંમાં\N_NN પોસ્ટઑફિસોની\N_NN સંખ્યા\N_NN આ\DM_DMD સમયગાળામાં\N_NN ૪\QT_QTC ૧/૨\QT_QTC ગણી\JJ અને\CC_CCD શહેરોમાં\N_NN ૩\QT_QTC ગણી\JJ વધી\V_VM .\RD_PUNC
+GJECD88	ભારતીય\N_NNP ટપાલખાતા\N_NNP દ્વારા\PSP ૧૯૮૬થી\QT_QTC સ્પીડ\N_NN પોસ્ટની\N_NN સેવા\N_NN શરૂ\JJ કરવામાં\V_VAUX_VNP આવી\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD89	આ\DM_DMD ઉપરાંત\CC_CCD ,\RD_PUNC દેશ\N_NN અને\CC_CCD વિદેશ\N_NN માટે\PSP ખાનગી\JJ કુરિયર\N_NN સેવાઓનો\N_NN પણ\RP_RPD વ્યાપ\N_NN દિવસે\N_NST દિવસે\N_NST વધી\V_VM રહ્યો\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD90	સેટેલાઈટ\N_NN અને\CC_CCD ઑપ્ટિકલ\N_NN ફાઈબરના\N_NN ઉપયોગથી\N_NN ટેલિફોનનું\N_NN માધ્યમ\N_NN વધુ\QT_QTF સબળ\JJ બન્યું\V_VM છે\V_VAUX .\RD_PUNC
+GJECD91	૧૯૫૦-૫૧માં\QT_QTC ૧.૭\QT_QTC લાખ\N_NN ટેલિફોન\N_NN જોડાણ\N_NN ઉપલબ્ધ\JJ હતાં\V_VAUX .\RD_PUNC
+GJECD92	૨૦૦૧માં\QT_QTC દેશમાં\N_NN ૨\QT_QTC લાખ\N_NN જેટલાં\JJ સ્થાનિક\JJ ટેલિફોન\N_NN બૂથ\N_NN (\RD_SYM PCO\RD_RDF )\RD_SYM અને\CC_CCD ૩.૨૫\QT_QTC લાખથી\N_NN વધુ\QT_QTF ઉપલબ્ધ\JJ બન્યાં\V_VM હતાં\V_VAUX .\RD_PUNC
+GJECD93	અપવાદરૂપ\JJ શહેરો\N_NN સિવાય\PSP સમગ્ર\JJ ટેલિફોન\N_NN સેવાનું\N_NN સંચાલન\N_NN ઑક્ટોબર\N_NN ,\RD_PUNC ૨૦૦૦થી\QT_QTC ભારત\N_NNP સંચાર\N_NNP નિગમ\N_NNP લિમિટેડ\N_NNP હસ્તક\JJ કરવામાં\V_VAUX_VNP આવ્યું\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD94	આ\DM_DMD નિગમમાં\N_NN લગભગ\PSP ૪.૨૧\QT_QTC લાખ\N_NN કર્મચારીઓ\N_NN કાર્યરત\JJ છે\V_VAUX .\RD_PUNC
+GJECD95	ટેલિફોન\N_NN ક્ષેત્રમાં\N_NN પણ\RP_RPD હવે\N_NST ખાનગીકરણની\N_NN પ્રક્રિયા\N_NN વિસ્તરી\V_VM રહી\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD96	કૃત્રિમ\JJ ઉપગ્રહોએ\N_NN સંદેશાવ્યવહાર\N_NN ક્ષેત્રે\N_NN ઘણી\QT_QTF ક્રાંતિ\N_NN આણી\V_VM છે\V_VAUX .\RD_PUNC
+GJECD97	ટેલિફોન\N_NN પછી\PSP હવે\N_NST સૌથી\JJ વધુ\QT_QTF નવીન\JJ સેવા\N_NN ઈન્ટરનેટ\N_NN અને\CC_CCD મોબાઈલ\N_NN ફોને\N_NN પૂરી\JJ પાડી\V_VM છે\V_VAUX .\RD_PUNC
+GJECD98	સંદેશાની\N_NN હેરફેર\N_NN હોય\V_VAUX નાણાંની\N_NN હેરફેર\N_NN હોય\V_VAUX ઈન્ટરનેટ\N_NN માહિતીસંચારની\N_NN દુનિયાને\N_NN એક\QT_QTC નવી\JJ જ\RP_RPD દિશા\N_NN આપી\V_VM છે\V_VAUX .\RD_PUNC
+GJECD99	ઈ-કોમર્સ\N_NNP સંદેશાવ્યવહારની\N_NN સેવાનું\N_NN જ\RP_RPD વિકસિત\JJ સ્વરૂપ\N_NN છે\V_VAUX .\RD_PUNC
+GJECD100	જોકે\CC_CCS ભારતમાં\N_NNP હજી\N_NST આ\DM_DMD સેવાઓ\N_NN સમાજના\N_NN બહોળા\JJ વર્ગને\N_NN પ્રાપ્ય\JJ બની\V_VM નથી\RP_NEG .\RD_PUNC
+GJECD101	જો\CC_CCD માનવી\N_NN તંદુરસ્ત\JJ અને\CC_CCD શિક્ષિત\JJ હશે\V_VAUX તો\CC_CCD સ્વાભાવિક\JJ જ\RP_RPD દેશના\N_NN વિકાસમાં\N_NN વધુ\QT_QTF ફાળો\N_NN આપશે\V_VM .\RD_PUNC
+GJECD102	પરંતુ\CC_CCD આમ\PSP ત્યારે\N_NST જ\RP_RPD બને\V_VM જ્યારે\N_NST માનવીને\N_NN યોગ્ય\JJ રહેઠાણ\N_NN ,\RD_PUNC યોગ્ય\JJ દાક્તરી\JJ સુવિધા\N_NN અને\CC_CCD યોગ્ય\JJ શિક્ષણ\N_NN પ્રાપ્ત\JJ થાય\V_VM .\RD_PUNC
+GJECD103	બહુ\QT_QTF સારા\JJ અને\CC_CCD ગુણવત્તાલક્ષી\JJ જીવન\N_NN માટે\PSP શિક્ષણ\N_NN અને\CC_CCD આરોગ્યની\N_NN સવલતો\N_NN જરૂરી\JJ હોવા\V_VAUX_VNP છતાં\RP_RPD યોગ્ય\JJ વસવાટ\N_NN ન\RP_NEG હોય\V_VAUX તો\CC_CCD પણ\RP_RPD કેમ\DM_DMQ ચાલે\V_VM ?\RD_PUNC
+GJECD104	ખેતી\PR_PRC જેવી\JJ કેવળ\PSP શારીરિક\JJ શ્રમ\N_NN પર\PSP આધારિત\JJ આર્થિક\JJ પ્રવૃત્તિઓ\N_NN સિવાયની\PSP મોટા\JJ ભાગની\N_NN આર્થિક\JJ પ્રવૃત્તિ\N_NN માટે\PSP વત્તાઓછા\JJ પ્રમાણમાં\N_NN શિક્ષણ\N_NN અથવા\CC_CCD કોઈક\DM_DMI તાલીમ\N_NN લઈ\V_VM કુશળતા\N_NN પ્રાપ્ત\JJ કરી\V_VM હોય\V_VAUX તેવા\JJ શ્રમિકો\N_NN વધુ\QT_QTF ઈચ્છનીય\JJ ગણાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD105	અભણ\JJ શ્રમિકોની\N_NN તુલનામાં\N_NN શિક્ષિત\JJ શ્રમિકો\N_NN મોટે\JJ ભાગે\N_NN ઓછા\QT_QTF સમયમાં\N_NN કુશળતા\N_NN હાંસલ\JJ કરી\V_VAUX_VNP વધુ\QT_QTF ઉત્પાદક\JJ બની\V_VM શકે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD106	શિક્ષણ\N_NN માત્ર\RP_RPD ઉત્પાદકીય\JJ શ્રમનું\N_NN નિર્માણ\N_NN કરવાનું\V_VAUX_VNP સાધન\N_NN નથી\RP_NEG .\RD_PUNC
+GJECD107	સાક્ષરતા\N_NN એટલે\PSP લખવા\V_VAUX_VNP -\RD_PUNC વાંચવાની\V_VAUX_VNP ક્ષમતા\N_NN .\RD_PUNC
+GJECD108	સાક્ષરતાનું\N_NN પ્રમાણ\N_NN જાણવા\V_VAUX_VNP માટે\PSP અન્ય\JJ દેશોમાં\N_NN જે\PR_PRL પદ્ધતિ\N_NN અપનાવવામાં\V_VAUX_VNP આવી\V_VAUX છે\V_VAUX તેનાથી\DM_DMD ભારતમાં\N_NNP અપનાવવામાં\V_VAUX_VNP આવેલી\V_VAUX_VNP પદ્ધતિ\N_NN થોડી\QT_QTF જુદી\JJ પડે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD109	આંતરરાષ્ટ્રીય\JJ સ્તરે\N_NN ૧૫\QT_QTC વર્ષ\N_NN કે\CC_CCS તેથી\PSP વધુ\QT_QTF વયની\N_NN વ્યક્તિઓમાં\N_NN સાક્ષર\JJ વ્યક્તિઓના\N_NN પ્રમાણને\N_NN ગણતરીમાં\N_NN લેવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD110	આમ\PSP ,\RD_PUNC ૭\QT_QTC વર્ષથી\N_NN મોટી\JJ ઉંમરની\N_NN વ્યક્તિ\N_NN ઓછામાં\QT_QTF ઓછી\QT_QTF કોઈ\DM_DMI પણ\RP_RPD એક\QT_QTC ભાષા\N_NN લખી\V_VAUX_VNP -\RD_PUNC વાંચી\V_VAUX_VNP શકે\V_VAUX તે\DM_DMD સાક્ષર\JJ ગણાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD111	૧૯૫૧ની\QT_QTC વસ્તીગણતરી\N_NN મુજબ\PSP દેશમાં\N_NN લગભગ\PSP ૧૯\QT_QTC %\RD_SYM વસ્તી\N_NN જ\RP_RPD સાક્ષર\JJ હતી\V_VAUX .\RD_PUNC
+GJECD112	ભારતીય\JJ બંધારણે\N_NN રાજ્યને\N_NN આદેશ\N_NN આપ્યો\V_VM છે\V_VAUX કે\CC_CCS ૬થી\QT_QTC ૧૪\QT_QTC વર્ષ\N_NN સુધીનાં\PSP બાળકોને\N_NN પ્રાથમિક\JJ શિક્ષણ\N_NN મફત\JJ અને\CC_CCD ફરજિયાત\JJ ધોરણે\N_NN પ્રાપ્ત\JJ થવું\V_VAUX_VNP જોઈએ\V_VAUX .\RD_PUNC
+GJECD113	ભારતમાં\N_NNP રાષ્ટ્રીય\JJ પેદાશના\N_NN લગભગ\PSP ૪\QT_QTC ટકા\N_NN જેટલી\JJ રકમ\N_NN શિક્ષણ\N_NN પાછળ\PSP દર\PSP વર્ષે\N_NN ખર્ચાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD114	પરંતુ\CC_CCD ગરીબી\N_NN ,\RD_PUNC છોકરીઓના\N_NN શિક્ષણ\N_NN પ્રત્યે\PSP ઓછો\QT_QTF રસ\N_NN ,\RD_PUNC અપૂરતી\JJ સુવિધાઓ\N_NN વગેરેને\PSP કારણે\PSP પ્રાથમિક\JJ શિક્ષણની\N_NN સ્થિતિ\N_NN સંતોષકારક\JJ રહી\V_VAUX નથી\RP_NEG .\RD_PUNC
+GJECD115	કેન્દ્રસરકાર\N_NNP અને\CC_CCD ખાનગી\JJ સંગઠનો\N_NN દ્વારા\PSP પછાત\JJ વિસ્તારોમાં\N_NN ઘણી\QT_QTF શાળાઓ\N_NN શરૂ\JJ કરવામાં\V_VAUX_VNP આવી\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD116	આમ\PSP છતાં\RP_RPD ઘણા\QT_QTF વિદ્યાર્થીઓ\N_NN આઠ\QT_QTC ધોરણ\N_NN સુધી\PSP ભણીને\V_VAUX_VNP મજૂરીનાં\N_NN કામમાં\N_NN જોડાઈ\V_VM જાય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD117	આને\DM_DMD પરિણામે\PSP ધોરણ\N_NN ૧૦\QT_QTC અને\CC_CCD ૧૨\QT_QTC પછીના\PSP સ્વરોજગાર\N_NN અને\CC_CCD ડિપ્લોમા\N_NN અભ્યાસક્રમો\N_NN પણ\RP_RPD અસરકારક\JJ બની\V_VM શકતા\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJECD118	ઉચ્ચ\JJ શિક્ષણનો\N_NN તબક્કો\N_NN માનવશક્તિના\N_NN વિકાસ\N_NN માટે\PSP મહત્ત્વનો\JJ ગણાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD119	૧૯૫૦\QT_QTC -\RD_PUNC ૫૧\QT_QTC બાદ\PSP ભારતમાં\N_NNP યુનિવર્સિટીઓની\N_NN સંખ્યામાં\N_NN ૧૨\QT_QTC ,\RD_PUNC કૉલેજોની\N_NN સંખ્યામાં\N_NN ૨૩\QT_QTC અને\CC_CCD કૉલેજના\N_NN પ્રવેશાર્થીઓની\N_NN સંખ્યામાં\N_NN ૨૯\QT_QTC ગણો\JJ વધારો\N_NN નોંધાયો\V_VM છે\V_VAUX .\RD_PUNC
+GJECD120	જોકે\CC_CCS ,\RD_PUNC ભારતમાં\N_NNP ઉચ્ચ\JJ શિક્ષણ\N_NN મેળવનારા\V_VAUX_VNP મોટા\JJ ભાગના\N_NN વિદ્યાર્થીઓનું\N_NN વલણ\N_NN સામાન્ય\JJ શિક્ષણ\N_NN પૂરતું\JJ જ\RP_RPD સીમિત\JJ રહ્યું\V_VAUX .\RD_PUNC
+GJECD121	લગભગ\PSP ૪૦\QT_QTC %\RD_SYM વિદ્યાર્થીઓ\N_NN વિનયન\N_NN ,\RD_PUNC ૨૨\QT_QTC %\RD_SYM વિદ્યાર્થીઓ\N_NN વાણિજ્ય\N_NN અને\CC_CCD ૧૯\QT_QTC %\RD_SYM જેટલા\JJ વિદ્યાર્થીઓ\N_NN વિજ્ઞાન\N_NN પ્રવાહમાં\N_NN પ્રવેશ\N_NN મેળવે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD122	તંદુરસ્ત\JJ શ્રમિકો\N_NN દેશના\N_NN આર્થિક\JJ વિકાસ\N_NN માટેની\PSP પૂર્વશરત\N_NN ગણી\V_VM શકાય\V_VAUX .\RD_PUNC
+GJECD123	દેશના\N_NN લોકોના\N_NN આરોગ્ય\N_NN વિશેની\PSP ચર્ચામાં\N_NN લોકોનું\N_NN સરેરાશ\JJ આયુષ્ય\N_NN એક\QT_QTC મહત્ત્વનો\JJ માપદંડ\N_NN ગણાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD124	૧૯૫૧માં\QT_QTC ભારતના\N_NNP લોકોનું\N_NN સરેરાશ\N_NN આયુષ્ય\N_NN ૩૨\QT_QTC વર્ષ\N_NN જેટલું\JJ હતું\V_VAUX .\RD_PUNC
+GJECD125	આઝાદી\N_NN પછી\PSP અનાજ\N_NN ,\RD_PUNC પોષણક્ષમ\JJ આહાર\N_NN અને\CC_CCD આરોગ્ય\N_NN અંગેના\JJ સક્રિય\JJ પ્રયાસોને\N_NN કારણે\PSP ૨૦૦૧માં\QT_QTC સરેરાશ\N_NN અપેક્ષિત\JJ આયુષ્ય\N_NN ૬૩\QT_QTC વર્ષ\N_NN સુધી\PSP પહોંચી\V_VM શક્યું\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD126	જેમાં\PR_PRL સ્ત્રીઓના\N_NN સરેરાશ\N_NN આયુષ્યમાં\JJ થયેલો\V_VAUX_VNP સુધારો\N_NN ધ્યાનાકર્ષક\JJ છે\V_VAUX .\RD_PUNC
+GJECD127	પુરુષોનું\N_NN સરેરાશ\PSP આયુષ્ય\N_NN ૬૨.૩\QT_QTC વર્ષનું\N_NN રહ્યું\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD128	આઝાદી\N_NN પછીનાં\PSP વર્ષોમાં\N_NN મૃત્યુદરને\N_NN પણ\RP_RPD ૪૫થી\QT_QTC ઘટાડીને\V_VAUX_VNP ૯\QT_QTC સુધી\PSP લાવી\V_VM શક્યા\V_VAUX છીએ\V_VAUX .\RD_PUNC
+GJECD129	તંદુરસ્ત\JJ સમાજની\N_NN શરૂઆત\N_NN તંદુરસ્ત\JJ બાળકથી\N_NN જ\RP_RPD થઈ\V_VM શકે\V_VAUX .\RD_PUNC
+GJECD130	મોટા\JJ ભાગની\N_NN ભારતીય\JJ સ્ત્રીઓ\N_NN અપોષણક્ષમ\JJ આહારને\N_NN કારણે\PSP લોહીની\N_NN ઊણપથી\N_NN પીડાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD131	આવી\JJ માતાઓ\N_NN તંદુરસ્ત\JJ બાળકને\N_NN જન્મ\N_NN કેવી\DM_DMQ રીતે\N_NN આપી\V_VM શકે\V_VAUX ?\RD_PUNC
+GJECD132	સ્વાસ્થ્ય\N_NN સુરક્ષા\N_NN પ્રણાલી\N_NN અંતર્ગત\JJ વ્યક્તિનું\N_NN સ્વાસ્થ્ય\N_NN સારું\JJ રહે\V_VAUX તે\DM_DMD માટેની\PSP સુવિધાઓ\N_NN પ્રાપ્ય\JJ બને\V_VM તેટલું\JJ જ\RP_RPD પૂરતું\JJ નથી\RP_NEG .\RD_PUNC
+GJECD133	ભારતમાં\N_NNP વીસમી\QT_QTO સદીના\N_NN અંત\N_NN સુધીમાં\PSP ૩૦૦૦\QT_QTC કૉમ્યુનિટી\N_NN હેલ્થ\N_NN સેન્ટર\N_NN ,\RD_PUNC ૨૪,૦૦૦\QT_QTC પ્રાથમિક\N_NN આરોગ્યકેન્દ્રો\N_NN અને\CC_CCD ૧,૪૦,૦૦૦\QT_QTC જેટલાં\JJ પેટાસ્વાસ્થ્યકેન્દ્રો\N_NN કાર્યરત\JJ હતાં\V_VAUX .\RD_PUNC
+GJECD134	પરંતુ\CC_CCD આ\DM_DMD બધાં\QT_QTF કેન્દ્રોની\N_NN સંખ્યા\N_NN વધવાને\V_VAUX_VNP બદલે\PSP તેની\DM_DMD કામગીરી\N_NN અસરકારક\JJ અને\CC_CCD ફળદાયી\JJ બની\V_VM રહે\V_VAUX તોજ\RP_RPD આરોગ્યની\N_NN સ્થિતિ\N_NN સુધારી\V_VM શકાય\V_VAUX તેમ\PSP છે\V_VAUX .\RD_PUNC
+GJECD135	આરોગ્ય\N_NN અને\CC_CCD દેશના\N_NN આર્થિક\JJ વિકાસ\N_NN વચ્ચે\N_NST પણ\RP_RPD ખાસ\JJ સંબંધ\N_NN છે\V_VAUX .\RD_PUNC
+GJECD136	જે\PR_PRL કામદાર\N_NN નીરોગી\JJ અને\CC_CCD સ્વસ્થ\JJ હોય\V_VAUX તે\PR_PRL વધારે\QT_QTF ઉત્પાદન\N_NN કરી\V_VM શકે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD137	વિકાસમાન\JJ દેશોમાં\N_NN આરોગ્ય\N_NN સુધરવાથી\V_VAUX_VNP બચત\N_NN વધે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD138	જીવનની\N_NN બે\QT_QTC અગ્રિમ\JJ જરૂરિયાતો\N_NN ખોરાક\N_NN અને\CC_CCD વસ્ત્ર\N_NN પૂર્ણ\JJ થાય\V_VM ત્યારપછી\PSP માનવી\N_NN પોતાના\PR_PRF રક્ષણ\N_NN અને\CC_CCD સલામતી\N_NN માટે\PSP યોગ્ય\JJ રહેઠાણની\N_NN શોધ\N_NN કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD139	ભારતની\N_NNP વધતી\V_VAUX_VNP વસ્તીના\N_NN સંદર્ભમાં\N_NN આજે\N_NST પણ\RP_RPD રહેઠાણ\N_NN યોગ્ય\JJ મકાનોની\N_NN ભારે\JJ અછત\N_NN પ્રવર્તે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD140	૧૯૬૧માં\QT_QTC કુલ\JJ ૫૫\QT_QTC લાખ\N_NN મકાનોની\N_NN અછત\N_NN હતી\V_VAUX .\RD_PUNC
+GJECD141	સામાજિક\JJ આંતરમાળખા\N_NN વિશેની\PSP ચર્ચામાંથી\N_NN ફલિત\JJ થાય\V_VM છે\V_VAUX કે\CC_CCS છેલ્લાં\JJ પચાસેક\QT_QTC વર્ષોમાં\N_NN શિક્ષણ\N_NN ,\RD_PUNC આરોગ્ય\N_NN અને\CC_CCD રહેઠાણની\N_NN સગવડોમાં\N_NN વૃદ્ધિ\N_NN થઈ\V_VM છે\V_VAUX .\RD_PUNC
+GJECD142	કેન્દ્ર\N_NN અને\CC_CCD રાજ્ય\N_NN સરકારના\N_NN પ્રયાસોને\N_NN લીધે\PSP પ્રાથમિક\JJ શિક્ષણને\N_NN વ્યાપક\JJ બનાવી\V_VM શકાયું\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD143	માનવવિકાસના\N_NN આંકને\N_NN ઊંચો\JJ લઈ\V_VM જવા\V_VAUX_VNP માટે\PSP સામાજિક\JJ આંતરમાળખાને\N_NN હજી\N_NST પણ\RP_RPD વધુ\QT_QTF મજબૂત\JJ અને\CC_CCD સક્ષમ\JJ બનાવવું\V_VAUX_VNP પડે\V_VAUX તેમ\PSP છે\V_VAUX .\RD_PUNC
+GJECD144	બજારતંત્રમાં\N_NN સ્પર્ધાનું\N_NN તત્ત્વ\N_NN અનોખી\JJ કામગીરી\N_NN બજાવે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD145	હરીફાઈયુક્ત\JJ બજારમાં\N_NN મહત્તમ\JJ નફો\N_NN મેળવવા\V_VAUX_VNP કાર્યક્ષમતા\N_NN ઊંચે\JJ લઈ\V_VM જવી\V_VAUX_VNP પડે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD146	આ\DM_DMD પ્રક્રિયા\N_NN નવપ્રવર્તનો\N_NN કે\CC_CCS નવીનીકરણને\N_NN જન્મ\N_NN આપે\V_VM છે\V_VAUX .\QT_QTF
+GJECD147	આમ\PSP ,\RD_PUNC બજારતંત્રમાં\N_NN સર્જાયેલાં\V_VAUX_VNP સંશોધનોને\N_NN લીધે\PSP આર્થિક\JJ વિકાસ\N_NN થવા\V_VAUX_VNP પામ્યો\V_VM એમ\PSP કહેવું\V_VAUX_VNP વધુ\QT_QTF ઉચિત\JJ છે\V_VAUX .\RD_PUNC
+GJECD148	આયોજન\N_NN એટલે\PSP કેટલાક\QT_QTF ઉદ્દેશો\N_NN નક્કી\JJ કરવા\V_VAUX_VNP અને\CC_CCD તે\DM_DMD સિદ્ધ\JJ કરવા\V_VAUX_VNP માટેના\PSP કાર્યક્રમો\N_NN તૈયાર\JJ કરવા\V_VAUX_VNP .\RD_PUNC
+GJECD149	આ\DM_DMD કાર્યક્રમોનો\N_NN કોણ\PR_PRQ કેવી\DM_DMQ રીતે\N_NN અમલ\N_NN કરશે\V_VM તે\DM_DMD પણ\RP_RPD સ્પષ્ટ\JJ કરવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD150	૧૯૫૦માં\QT_QTC ભારતમાં\N_NNP આયોજનપંચની\N_NN રચના\N_NN થઈ\V_VM .\RD_PUNC
+GJECD151	આ\DM_DMD હકીકતમાંથી\N_NN એમ\PSP સમજાય\V_VM છે\V_VAUX કે\CC_CCS ,\RD_PUNC દેશમાં\N_NN આર્થિક\JJ વિકાસ\N_NN માટે\PSP આયોજન\N_NN અનિવાર્ય\JJ છે\V_VAUX એવો\JJ મત\N_NN આઝાદી\N_NN પહેલાં\N_NST દ્રઢ\JJ થઈ\V_VM ચૂક્યો\V_VAUX હતો\V_VAUX .\RD_PUNC
+GJECD152	૧૯૫૦માં\QT_QTC ભારતે\N_NNP સાર્વભૌમત્વ\N_NN પ્રાપ્ત\JJ કરી\V_VM ૧૯૫૧માં\QT_QTC પ્રથમ\QT_QTO પંચવર્ષીય\JJ યોજનાની\N_NN શરૂઆત\N_NN કરી\V_VM .\RD_PUNC
+GJECD153	લોકશાહી\N_NN માળખામાં\N_NN રહીને\V_VAUX_VNP કેન્દ્ર\N_NN દ્વારા\PSP સંચાલિત\JJ આયોજનનો\N_NN માર્ગ\N_NN ભારતે\N_NNP અપનાવ્યો\V_VM છે\V_VAUX .\RD_PUNC
+GJECD154	જેમાં\PR_PRL રાજ્યોએ\N_NN કેન્દ્ર\N_NN સરકારનાં\N_NN માર્ગદર્શન\N_NN અને\CC_CCD આદેશને\N_NN અનુસરીને\V_VAUX_VNP નિશ્ચિત\JJ વિકાસ\N_NN કાર્યક્રમોનો\N_NN અમલ\N_NN તેમજ\CC_CCD તેની\DM_DMD પર\PSP નિયમન\N_NN અને\CC_CCD નિયંત્રણ\N_NN રાખવાના\V_VAUX_VNP હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD155	મૂડીવાદ\N_NN અને\CC_CCD સામ્યવાદી\JJ અર્થવ્યવસ્થાની\N_NN કેટલીક\QT_QTF ખામીઓને\N_NN લીધે\PSP મિશ્ર\JJ અર્થતંત્રની\N_NN વ્યવસ્થા\N_NN ભારતે\N_NNP સ્વીકારી\V_VM .\RD_PUNC
+GJECD156	મૂડીવાદી\JJ અર્થતંત્ર\N_NN બજારતંત્રમાં\N_NN આવક\N_NN અને\CC_CCD સંપત્તિની\N_NN વહેંચણી\N_NN અસમાન\JJ રીતે\N_NN થવા\V_VAUX_VNP પામે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD157	ક્યારેક\N_NST દેશમાં\N_NN બેકારી\N_NN સર્જાય\V_VM અને\CC_CCD ભાવો\N_NN ઘટી\V_VM જાય\V_VAUX તેવી\JJ પરિસ્થિતિ\N_NN સર્જાય\V_VM છે\V_VAUX તો\CC_CCD ક્યારેક\N_NST ભાવો\N_NN ખૂબ\QT_QTF વધી\V_VM જાય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD158	બીજા\JJ વિશ્વયુદ્ધ\N_NN સુધી\PSP સમગ્રપણે\JJ મૂડીવાદી\JJ દેશોમાં\N_NN આર્થિક\JJ વિકાસ\N_NN ધીમો\RB રહેવા\V_VAUX_VNP પામ્યો\V_VM હતો\V_VAUX .\RD_PUNC
+GJECD159	તેની\DM_DMD સરખામણીમાં\N_NN સામ્યવાદી\JJ રશિયાએ\N_NNP ઝડપી\RB વિકાસ\N_NN સિદ્ધ\JJ કર્યો\V_VM હતો\V_VAUX .\RD_PUNC
+GJECD160	બજારતંત્રમાં\N_NN ઉત્પાદકો\N_NN વચ્ચે\N_NST હરીફાઈ\N_NN થતી\V_VAUX_VNP હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD161	આ\DM_DMD પ્રકારની\N_NN મર્યાદાઓ\N_NN બજારતંત્રમાં\N_NN રહેવા\V_VAUX_VNP પામે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD162	ભારતમાં\N_NNP ખેતી\N_NN ,\RD_PUNC વપરાશી\JJ અને\CC_CCD અર્ધઉત્પાદિત\JJ વસ્તુઓ\N_NN ઉત્પન્ન\JJ કરતા\V_VAUX_VNP ઉદ્યોગો\N_NN ,\RD_PUNC છૂટક\JJ તેમજ\CC_CCD જથ્થાબંધ\JJ વેપાર\N_NN ,\RD_PUNC ચીજવસ્તુઓ\N_NN અને\CC_CCD તેની\DM_DMD હેરફેર\N_NN માટે\PSP માર્ગ\N_NN -\RD_PUNC પરિવહન\N_NN ,\RD_PUNC તબીબી\JJ સારવાર\N_NN વગેરે\PSP વિશાળ\JJ આર્થિક\JJ પ્રવૃત્તિઓવાળાં\JJ ક્ષેત્રો\N_NN ખાનગી\JJ માલિકી\N_NN હેઠળ\PSP બજારતંત્ર\N_NN પર\PSP આધારિત\JJ છે\V_VAUX .\RD_PUNC
+GJECD163	સરકાર\N_NN દ્વારા\PSP ચલાવવામાં\V_VAUX_VNP આવતી\V_VAUX_VNP આર્થિક\JJ પ્રવૃત્તિઓને\N_NN જાહેર\JJ ક્ષેત્ર\N_NN કહેવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD164	કેન્દ્ર\N_NN ,\RD_PUNC રાજ્ય\N_NN અને\CC_CCD સ્થાનિક\JJ એમ\PSP ત્રણ\QT_QTC સ્તરે\N_NN સરકાર\N_NN આવી\JJ પ્રવૃત્તિઓ\N_NN હાથ\N_NN ધરે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD165	ભારતમાં\N_NNP ૧૯૫૧થી\QT_QTC પંચવર્ષીય\JJ યોજનાઓ\N_NN અમલમાં\N_NN આવી\V_VM છે\V_VAUX .\RD_PUNC
+GJECD166	આજ\N_NST સુધીમાં\PSP નવ\JJ પંચવર્ષીય\JJ યોજનાઓ\N_NN અને\CC_CCD વાર્ષિક\JJ યોજનાઓ\N_NN પૂરી\JJ કરવામાં\V_VAUX_VNP આવી\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD167	૧૯૯૧\QT_QTC અગાઉ\PSP જાહેર\JJ ક્ષેત્રનો\N_NN ખૂબ\QT_QTF વિકાસ\N_NN થયો\V_VM છે\V_VAUX .\RD_PUNC
+GJECD168	ખાનગી\JJ ક્ષેત્રો\N_NN પર\PSP અનેકવિધ\JJ નિયંત્રણો\N_NN રહેવા\V_VAUX_VNP પામ્યાં\V_VM છે\V_VAUX .\RD_PUNC
+GJECD169	દા.ત.\CC_CCS_UT ૧૯૫૧ના\QT_QTC ઔદ્યોગિક\JJ ધારા\N_NN હેઠળ\PSP નવું\JJ ઔદ્યોગિક\JJ એકમ\N_NN શરૂ\JJ કરવા\V_VAUX_VNP ,\RD_PUNC એકમનું\N_NN સ્થળ\N_NN બદલવા\V_VAUX_VNP માટે\PSP સરકાર\N_NN પાસે\PSP પરવાનો\N_NN લેવો\V_VAUX_VNP પડે\V_VAUX ,\RD_PUNC તેમ\PSP હતું\V_VAUX .\RD_PUNC
+GJECD170	તેવી\JJ જ\RP_RPD રીતે\N_NN આર્થિક\JJ સત્તાનું\N_NN કેન્દ્રીકરણ\N_NN અટકાવવા\V_VAUX_VNP મોટાં\JJ ઔદ્યોગિક\JJ ગૃહો\N_NN પર\PSP કેટલાંક\QT_QTF નિયંત્રણો\N_NN હતાં\V_VAUX .\RD_PUNC
+GJECD171	સરકારે\N_NN ભારે\JJ ચાવીરૂપ\JJ ઉદ્યોગો\N_NN પોતાને\PR_PRF હસ્તક\JJ રાખ્યા\V_VM .\RD_PUNC
+GJECD172	એકંદરે\PSP મોટા\JJ ભાગની\N_NN આર્થિક\JJ પ્રવૃત્તિઓ\N_NN ખાનગી\JJ ક્ષેત્ર\N_NN માટે\PSP મુક્ત\JJ હોવા\V_VAUX_VNP છતાં\RP_RPD તેના\DM_DMD પર\PSP પરોક્ષ\JJ રીતે\N_NN સરકારનો\N_NN અંકુશ\N_NN રહેવા\V_VAUX_VNP પામ્યો\V_VM છે\V_VAUX .\RD_PUNC
+GJECD173	ભારતમાં\N_NNP લોકશાહીના\N_NN માળખામાં\N_NN રહીને\V_VAUX_VNP શક્ય\JJ તેટલી\JJ ઝડપથી\RB આર્થિક\JJ વિકાસ\N_NN સિદ્ધ\JJ કરવાનો\V_VAUX_VNP ઉદ્દેશ\N_NN પ્રથમ\QT_QTO સ્થાને\N_NN રહ્યો\V_VM છે\V_VAUX .\RD_PUNC
+GJECD174	શરૂઆતની\N_NN પંચવર્ષીય\JJ યોજનાઓમાં\N_NN રાષ્ટ્રીય\JJ આવકમાં\N_NN પ્રતિવર્ષ\PSP પાંચથી\QT_QTC છ\QT_QTC ટકાના\N_NN દરે\N_NN વધારો\N_NN કરવાનું\V_VAUX_VNP લક્ષ્ય\N_NN રાખવામાં\V_VAUX_VNP આવ્યું\V_VAUX હતું\V_VAUX .\RD_PUNC
+GJECD175	ભારતમાં\N_NNP આયોજિત\JJ આર્થિક\JJ વિકાસનો\N_NN એક\QT_QTC ઉદ્દેશ\N_NN આત્મનિર્ભરતાનો\N_NN છે\V_VAUX .\RD_PUNC
+GJECD176	આત્મનિર્ભરતા\N_NN અને\CC_CCD સ્વાવલંબન\N_NN અલગ\JJ છે\V_VAUX .\RD_PUNC
+GJECD177	સ્વાવલંબન\N_NN એટલે\PSP દેશની\N_NN એવી\JJ સ્થિતિ\N_NN કે\CC_CCS જેમાં\PR_PRL તે\DM_DMD જરૂરી\JJ તમામ\JJ વસ્તુઓ\N_NN અને\CC_CCD સેવાઓનું\N_NN એવું\JJ અને\CC_CCD એટલું\JJ ઉત્પાદન\N_NN કરે\V_VM છે\V_VAUX કે\CC_CCS તેને\DM_DMD તે\DM_DMD માટે\PSP અન્ય\JJ દેશ\N_NN પર\PSP આધાર\N_NN રાખવો\V_VAUX_VNP પડતો\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJECD178	આમ\PSP સ્વાવલંબનમાં\N_NN આયાતો\N_NN હોતી\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJECD179	આવું\JJ અર્થતંત્ર\N_NN આજે\N_NST શક્ય\JJ પણ\RP_RPD નથી\RP_NEG અને\CC_CCD લાભદાયી\JJ પણ\RP_RPD નથી\RP_NEG .\RD_PUNC
+GJECD180	ભારત\N_NNP ઉપલબ્ધ\JJ સાધનોમાં\N_NN ખૂટતાં\V_VAUX_VNP સાધનો\N_NN વિદેશથી\N_NN પ્રાપ્ત\JJ કરવા\V_VAUX_VNP ઈચ્છે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD181	ઉપરાંત\PSP અન્યત્ર\JJ વિકાસ\N_NN પામેલી\V_VAUX_VNP ટેકનોલોજીનો\N_NN લાભ\N_NN લેવા\V_VAUX_VNP માટે\PSP પણ\RP_RPD તત્પર\JJ છે\V_VAUX .\RD_PUNC
+GJECD182	આમ\PSP ,\RD_PUNC સારી\JJ એવી\JJ આયાતો\N_NN કરવી\V_VAUX_VNP પડે\V_VAUX અને\CC_CCD તે\DM_DMD માટે\PSP જરૂરી\JJ નિકાસકમાણી\N_NN પણ\RP_RPD ઊભી\V_VM કરવી\V_VAUX_VNP પડે\V_VAUX .\RD_PUNC
+GJECD183	અનાજ\N_NN અને\CC_CCD અન્ય\JJ ખેતપેદાશો\N_NN માટે\PSP આપણે\PR_PRP હવે\N_NST પરાવલંબી\JJ નથી\RP_NEG .\RD_PUNC
+GJECD184	પાયાના\N_NN ભારે\JJ ઉદ્યોગોમાં\N_NN આપણે\PR_PRP સારું\JJ એવું\JJ રોકાણ\N_NN કર્યું\V_VM હોવાથી\V_VAUX_VNP આપણે\PR_PRP આધુનિક\JJ ઈલેક્ટ્રૉનિક\N_NN વસ્તુઓની\N_NN વિશાળ\JJ શ્રેણી\N_NN ઉત્પન્ન\JJ કરીએ\V_VM છીએ\V_VAUX .\RD_PUNC
+GJECD185	બેરોજગારી\N_NN અને\CC_CCD અલ્પ\JJ રોજગારી\N_NN ભારતમાં\N_NNP ગરીબીનાં\N_NN અગત્યનાં\JJ કારણો\N_NN છે\V_VAUX .\RD_PUNC
+GJECD186	દેશમાં\N_NN રાષ્ટ્રીય\JJ આવકમાં\N_NN વધારો\N_NN થાય\V_VM એનો\DM_DMD અર્થ\N_NN એવો\JJ છે\V_VAUX કે\CC_CCS રાષ્ટ્રમાં\N_NN થતા\V_VAUX_VNP ઉત્પાદનમાં\N_NN વધારો\N_NN થાય\V_VM .\RD_PUNC
+GJECD187	આ\DM_DMD ઉત્પાદન\N_NN વધારવા\V_VAUX_VNP માટે\PSP ઉત્પાદનનાં\N_NN અન્ય\JJ સાધનોની\N_NN સાથે\PSP શ્રમિકોને\N_NN પણ\RP_RPD રોજગારી\N_NN પ્રાપ્ત\JJ થશે\V_VM .\RD_PUNC
+GJECD188	દુનિયાના\N_NN અન્ય\JJ દેશોની\N_NN જેમ\PSP ભારતમાં\N_NNP આવક\N_NN અને\CC_CCD સંપત્તિની\N_NN વહેંચણી\N_NN અસમાન\JJ રીતે\N_NN થયેલ\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJECD189	ભારતના\N_NNP આયોજનનો\N_NN એક\QT_QTC મહત્ત્વનો\JJ ઉદ્દેશ\N_NN આર્થિક\JJ અસમાનતા\N_NN ઘટાડવાનો\V_VAUX_VNP રહ્યો\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD190	અસમાનતાનું\N_NN બીજું\JJ પાસું\N_NN પ્રાદેશિક\JJ અસમાનતા\N_NN તરીકે\PSP ઓળખાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD191	દેશમાં\N_NN કેટલાંક\QT_QTF રાજ્યો\N_NN પ્રમાણમાં\N_NN વધુ\QT_QTF વિકસેલાં\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJECD192	એની\DM_DMD સરખામણીમાં\N_NN અન્ય\JJ કેટલાંક\QT_QTF રાજ્યો\N_NN ઓછાં\QT_QTF વિકસેલાં\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJECD193	એક\QT_QTC દ્રષ્ટિએ\N_NN ગરીબી\N_NN ઘટાડવાનો\V_VAUX_VNP ઉદ્દેશ\N_NN બેરોજગારી\N_NN અને\CC_CCD અસમાનતા\N_NN ઘટાડવાના\V_VAUX_VNP ઉદ્દેશમાં\N_NN સમાઈ\V_VM જાય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD194	આમ\PSP છતાં\RP_RPD ,\RD_PUNC તેનો\DM_DMD એક\QT_QTC અલગ\JJ ઉદ્દેશ\N_NN તરીકે\PSP ઉલ્લેખ\N_NN પાંચમી\QT_QTO યોજનામાં\N_NN (\RD_SYM ૧૯૭૪થી\QT_QTC ૧૯૭૯\QT_QTC )\RD_SYM કરવામાં\V_VAUX_VNP આવ્યો\V_VAUX .\RD_PUNC
+GJECD195	૧૯૫૦\QT_QTC પછી\PSP બે\QT_QTC દાયકાઓ\N_NN દરમિયાન\PSP દેશમાં\N_NN જે\PR_PRL વિકાસ\N_NN સધાયો\V_VM તેનો\DM_DMD લાભ\N_NN ગરીબોને\N_NN મળ્યો\V_VM નથી\RP_NEG .\RD_PUNC
+GJECD196	તેના\DM_DMD સંદર્ભમાં\N_NN દેશમાં\N_NN ગરીબીનું\N_NN પ્રમાણ\N_NN કેટલું\QT_QTF છે\V_VAUX તેનું\DM_DMD માપ\N_NN કેટલાક\QT_QTF અર્થશાસ્ત્રીઓએ\N_NN પોતાની\PR_PRF રીતે\N_NN કાઢ્યું\V_VM .\RD_PUNC
+GJECD197	આ\DM_DMD બધાની\QT_QTF અસર\N_NN નીચે\N_NST ગરીબીનો\N_NN પ્રશ્ન\N_NN આયોજનમાં\N_NN કેન્દ્રસ્થાને\N_NN મૂકાયો\V_VM .\RD_PUNC
+GJECD198	વ્યૂહ\N_NN કે\CC_CCS વ્યૂહરચના\N_NN શબ્દો\N_NN યુદ્ધ\N_NN અને\CC_CCD સૈન્ય\N_NN સંકળાયેલા\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJECD199	આર્થિક\JJ ,\RD_PUNC સામાજિક\JJ ,\RD_PUNC રાજકીય\JJ તમામ\JJ ક્ષેત્રે\N_NN મુખ્ય\JJ ધ્યેયો\N_NN સમયસર\JJ સિદ્ધ\JJ કરવા\V_VAUX_VNP વ્યૂહરચના\N_NN ગોઠવવાની\V_VAUX_VNP વાત\N_NN મોખરે\JJ હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD200	આર્થિક\JJ આયોજનના\N_NN મુખ્ય\JJ ઉદ્દેશો\N_NN ઝડપથી\RB સિદ્ધ\JJ કરવા\V_VAUX_VNP કયા\DM_DMQ અને\CC_CCD કેવા\DM_DMQ ઉપાયો\N_NN યોજવા\V_VAUX_VNP તે\DM_DMD અંગેની\PSP વિચારણાના\N_NN ફળસ્વરૂપે\N_NN પ્રયાસોની\N_NN જે\PR_PRL હારમાળા\N_NN ઉદ્દભવે\V_VM તેને\DM_DMD આયોજનની\N_NN વ્યૂહરચના\N_NN કહેવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD201	દેશને\N_NN ઉપલબ્ધ\JJ સમય\N_NN ,\RD_PUNC શક્તિ\N_NN ,\RD_PUNC સાધનો\N_NN અને\CC_CCD તેમાં\DM_DMD આવનારાં\V_VAUX_VNP ભાવિ\JJ પરિવર્તનોને\N_NN ધ્યાનમાં\N_NN રાખી\V_VAUX_VNP આયોજનની\N_NN વ્યૂહરચના\N_NN ગોઠવવાની\V_VAUX_VNP હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD202	જાહેર\JJ ક્ષેત્રને\N_NN વિકાસ\N_NN અને\CC_CCD વિસ્તાર\N_NN ખાનગી\JJ ક્ષેત્રની\N_NN અશ્રદ્ધામાંથી\N_NN સર્જાયો\V_VM .\RD_PUNC
+GJECD203	વળી\PSP ,\RD_PUNC આવક\N_NN અને\CC_CCD સંપત્તિની\N_NN અસમાનતા\N_NN તીવ્ર\JJ બને\V_VM તેવું\JJ આર્થિક\JJ સત્તાનું\N_NN કેન્દ્રીકરણ\N_NN ન\RP_NEG થાય\V_VM તે\DM_DMD માટે\PSP પણ\RP_RPD જાહેર\JJ વિભાગ\N_NN વિકસે\V_VM તે\DM_DMD ઈચ્છનીય\JJ ગણાય\V_VM .\RD_PUNC
+GJECD204	ભારે\JJ મૂડીરોકાણને\N_NN લીધે\PSP લોકોની\N_NN આવકમાં\N_NN વધારો\N_NN થવાને\V_VAUX_VNP લીધે\PSP વપરાશી\JJ વસ્તુઓની\N_NN માંગ\N_NN વધે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD205	લાંબા\JJ સમય\N_NN સુધી\PSP આવી\JJ યંત્રસામગ્રી\N_NN માટે\PSP વિદેશો\N_NN પરનું\PSP અવલંબન\N_NN ન\RP_NEG પોષાય\V_VM .\RD_PUNC
+GJECD206	સરંક્ષણ\N_NN -\RD_PUNC શસ્ત્રસરંજામની\N_NN દ્રષ્ટિએ\N_NN પણ\RP_RPD ભારે\JJ ઉદ્યોગો\N_NN દેશમાં\N_NN જ\RP_RPD સ્થપાય\V_VM અને\CC_CCD વિકસે\V_VM તે\DM_DMD ઈચ્છનીય\JJ ગણાય\V_VM .\RD_PUNC
+GJECD207	આ\DM_DMD બધું\QT_QTF દ્રષ્ટિ\N_NN સમક્ષ\JJ રાખી\V_VAUX_VNP ભારે\JJ પાયાના\N_NN ઉદ્યોગો\N_NN તરફી\JJ વ્યૂહરચના\N_NN અમલમાં\N_NN મૂકાઈ\V_VM .\RD_PUNC
+GJECD208	આયાત\N_NN થતી\V_VAUX_VNP ઔદ્યોગિક\JJ ચીજોનું\N_NN દેશમાં\N_NN ઉત્પાદન\N_NN હાથ\N_NN ધરીને\V_VAUX_VNP ઔદ્યોગિક\JJ વિકાસ\N_NN સાધવાની\V_VAUX_VNP નીતિને\N_NN આયાત\N_NN -\RD_PUNC અવેજીકરણની\N_NN નીતિ\N_NN કહેવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD209	ભારતમાં\N_NNP આયાત\N_NN -\RD_PUNC અવેજીકરણની\N_NN નીતિ\N_NN અપનાવવામાં\V_VAUX_VNP આવે\V_VAUX તેની\DM_DMD પાછળ\PSP એવો\JJ મત\N_NN રહેલો\V_VAUX_VNP હતો\V_VAUX કે\CC_CCS દેશની\N_NN નિકાસોમાં\N_NN ઝડપી\JJ વધારો\N_NN થઈ\V_VM શકે\V_VAUX તેમ\PSP નથી\RP_NEG .\RD_PUNC
+GJECD210	વળી\PSP દેશમાં\N_NN વિદેશી\JJ ચલણની\N_NN તંગી\JJ રહેતી\V_VAUX_VNP હોવાથી\V_VAUX_VNP આયાતો\N_NN ઘટાડવાનું\V_VAUX_VNP આપણા\PR_PRP માટે\PSP અનિવાર્ય\JJ બન્યું\V_VM હતું\V_VAUX .\RD_PUNC
+GJECD211	ભારતમાં\N_NNP વિવિધ\JJ ઉદ્દેશોને\N_NN નજર\N_NN સમક્ષ\PSP રાખીને\V_VAUX_VNP નાના\JJ પાયાના\N_NN તથા\CC_CCD ગૃહઉદ્યોગોને\N_NN પ્રોત્સાહન\N_NN આપવાની\V_VAUX_VNP નીતિ\N_NN અપનાવવામાં\V_VAUX_VNP આવી\V_VAUX હતી\V_VAUX .\RD_PUNC
+GJECD212	પાયાના\N_NN ભારે\JJ ઉદ્યોગોમાંથી\N_NN જે\PR_PRL ઉત્પાદન\N_NN બહાર\N_NST પડે\V_VM તેનાથી\DM_DMD લોકોની\N_NN વપરાશની\N_NN જરૂરિયાત\N_NN સંતોષાય\V_VM નહિ\RP_NEG .\RD_PUNC
+GJECD213	એ\DM_DMD સંતોષવા\V_VAUX_VNP માટે\PSP નાના\JJ પાયાના\N_NN અને\CC_CCD ગૃહઉદ્યોગોની\N_NN પેદાશો\N_NN ઉપયોગી\JJ નીવડશે\V_VM એવી\JJ ધારણા\N_NN હતી\V_VAUX .\RD_PUNC
+GJECD214	નાના\JJ પાયાના\N_NN ઉદ્યોગોનો\N_NN વિકાસ\N_NN આયોજનના\N_NN અન્ય\JJ ઉદ્દેશો\N_NN પાર\JJ પાડવાની\V_VAUX_VNP દ્રષ્ટિએ\N_NN પણ\RP_RPD ઉપયોગી\JJ જણાતો\V_VAUX_VNP હતો\V_VAUX .\RD_PUNC
+GJECD215	તેનાથી\DM_DMD રોજગારીની\N_NN તકો\N_NN વધે\V_VM .\RD_PUNC
+GJECD216	વળી\PSP ,\RD_PUNC આર્થિક\JJ અસમાનતામાં\N_NN મોટો\JJ વધારો\N_NN ન\RP_NEG થાય\V_VM અને\CC_CCD આર્થિક\JJ સત્તાનું\N_NN કેન્દ્રીકરણ\N_NN ન\RP_NEG થાય\V_VM ,\RD_PUNC એ\DM_DMD પણ\RP_RPD એના\DM_DMD લાભ\N_NN હતા\V_VAUX .\RD_PUNC
+GJECD217	આવા\JJ ઉદ્યોગો\N_NN ગ્રામવિસ્તારમાં\N_NN સ્થાપી\V_VM શકાશે\V_VAUX .\RD_PUNC
+GJECD218	હરિયાળી\JJ ક્રાન્તિના\N_NN પ્રસાર\N_NN માટે\PSP રાસાયણિક\JJ ખાતરોને\N_NN સબસીડી\N_NN આપવાની\V_VAUX_VNP તથા\CC_CCD ઘઉં\N_NN અને\CC_CCD ચોખા\N_NN માટે\PSP પ્રોત્સાહક\JJ ભાવો\N_NN આપવાની\V_VAUX_VNP નીતિ\N_NN અપનાવી\V_VM છે\V_VAUX .\RD_PUNC
+GJECD219	વીસમી\QT_QTO સદીના\N_NN પૂર્વાર્ધમાં\N_NN દેશમાં\N_NN માથાદીઠ\PSP આવક\N_NN વધી\V_VM નહોતી\RP_NEG .\RD_PUNC
+GJECD220	તેની\DM_DMD સરખામણીમાં\N_NN વીસમી\QT_QTO સદીના\N_NN ઉત્તરાર્ધમાં\N_NN માથાદીઠ\PSP આવકમાં\N_NN વધારો\N_NN થવા\V_VAUX_VNP પામ્યો\V_VM છે\V_VAUX .\RD_PUNC
+GJECD221	૧૯૯૩\QT_QTO -\RD_PUNC ૯૪ના\QT_QTC ભાવોએ\N_NN ગણતાં\V_VAUX_VNP ૧૯૫૦\QT_QTC -\RD_PUNC ૫૧થી\QT_QTC ૧૯૮૦\QT_QTC -\RD_PUNC ૮૧\QT_QTC દરમિયાન\PSP ભારતમાં\N_NNP રાષ્ટ્રીય\JJ આવક\N_NN વાર્ષિક\JJ સરેરાશ\JJ ૩.૪\QT_QTC ટકાના\N_NN દરે\N_NN વધી\V_VM હતી\V_VAUX .\RD_PUNC
+GJECD222	રાષ્ટ્રીય\JJ આવકવૃદ્ધિ\N_NN દર\N_NN કરતાં\V_VAUX_VNP માથાદીઠ\N_NN આવકવૃદ્ધિ\N_NN દર\N_NN નીચો\JJ હોવાનું\V_VAUX_VNP કારણ\N_NN વાર્ષિક\JJ સરેરાશ\JJ ૨\QT_QTC ટકાની\N_NN ઉપરનો\PSP વસ્તીવૃદ્ધિ\N_NN દર\N_NN ભારતમાં\N_NNP રહેવા\V_VAUX_VNP પામ્યો\V_VM તે\DM_DMD ગણાવી\V_VM શકાય\V_VAUX .\RD_PUNC
+GJECD223	ભારત\N_NNP કૃષિપ્રધાન\JJ દેશ\N_NN રહ્યો\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD224	આયોજનકાળ\N_NN દરમિયાન\PSP આ\DM_DMD બંને\JJ બાબતોમાં\N_NN તેણે\DM_DMD નોંધપાત્ર\JJ સિદ્ધિ\N_NN હાંસલ\JJ કરી\V_VM છે\V_VAUX .\RD_PUNC
+GJECD225	કુલ\JJ આંતરિક\JJ ઉત્પાદનના\N_NN (\RD_SYM GDP\RD_RDF )\RD_SYM ૨૫\QT_QTC %\RD_SYM કૃષિક્ષેત્રમાંથી\N_NN પ્રાપ્ત\RB થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD226	ખેતીમાં\N_NN સુધરેલાં\V_VAUX_VNP બિયારણો\N_NN ,\RD_PUNC રાસાયણિક\JJ ખાતરો\N_NN ,\RD_PUNC જંતુનાશક\JJ દવાઓનો\N_NN ઉપયોગ\N_NN વધ્યો\V_VM છે\V_VAUX .\RD_PUNC
+GJECD227	૧૯૫૦\QT_QTC -\RD_PUNC ૫૧થી\QT_QTC ૧૯૬૫\QT_QTC -\RD_PUNC ૬૬નાં\QT_QTC પંદર\QT_QTC વર્ષ\N_NN દરમિયાન\PSP ઔદ્યોગિક\JJ ઉત્પાદકવૃદ્ધિ\N_NN દર\N_NN ૭.૬૬\QT_QTC %\RD_SYM જેટલો\JJ ઊંચો\JJ રહેવા\V_VAUX_VNP પામ્યો\V_VM તે\DM_DMD ધ્યાનાકર્ષક\JJ બાબત\N_NN ગણાય\V_VM .\RD_PUNC
+GJECD228	ત્યારપછી\PSP ૧૯૬૫\QT_QTC -\RD_PUNC ૬૬થી\QT_QTC ૧૯૮૦\QT_QTC સુધીનાં\PSP બીજાં\JJ પંદર\QT_QTC વર્ષ\N_NN દરમિયાન\PSP ઔદ્યોગિક\JJ ઉત્પાદનવૃદ્ધિ\N_NN દર\N_NN ૪\QT_QTC ટકાની\N_NN આસપાસ\N_NST રહેવા\V_VAUX_VNP પામ્યો\V_VM .\RD_PUNC
+GJECD229	આને\DM_DMD ઔદ્યોગિક\JJ સ્થગિતતાનો\N_NN સમય\N_NN કહેવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD230	૧૯૮૦\QT_QTC પછીનાં\PSP વર્ષોમાં\N_NN એકંદરે\PSP ઔદ્યોગિક\JJ ઉત્પાદનવૃદ્ધિનો\N_NN દર\N_NN એકંદરે\N_NN ૬\QT_QTC ટકાથી\N_NN વધુ\QT_QTF રહેવા\V_VAUX_VNP પામ્યો\V_VM છે\V_VAUX .\RD_PUNC
+GJECD231	૧૯૯૧\QT_QTC પછીનાં\PSP વર્ષોમાં\N_NN ઔદ્યોગિક\JJ ઉત્પાદનવૃદ્ધિના\N_NN દરમાં\N_NN મોટી\JJ વધઘટ\N_NN જોવા\V_VAUX_VNP મળી\V_VM છે\V_VAUX .\RD_PUNC
+GJECD232	જોકે\CC_CCS તાજેતરના\JJ દાયકાનાં\N_NN આર્થિક\JJ પરિવર્તનોએ\N_NN ભારતની\JJ ભાવિ\JJ આર્થિક\JJ પ્રગતિ\N_NN માટે\PSP આશાસ્પદ\JJ વાતાવરણ\N_NN સર્જ્યુ\V_VM છે\V_VAUX .\RD_PUNC
+GJECD233	ભારતમાં\N_NNP આયોજનકાળ\N_NN દરમિયાન\PSP શરૂઆતના\N_NN ત્રણ\QT_QTC દાયકા\N_NN દરમિયાન\PSP આર્થિક\JJ વિકાસદર\N_NN પાંચ\QT_QTC ટકાના\N_NN લક્ષ્યાંકની\N_NN સામે\PSP સાડાત્રણ\QT_QTC ટકાનો\N_NN રહેવા\V_VAUX_VNP પામ્યો\V_VM .\RD_PUNC
+GJECD234	ભારતમાં\N_NNP સિદ્ધ\JJ થયેલ\V_VAUX_VNP વિકાસદર\N_NN ઘણો\QT_QTF નીચો\JJ ગણાય\V_VM .\RD_PUNC
+GJECD235	ગરીબી\JJ અને\CC_CCD બેકારી\JJ દૂર\JJ કરવાં\V_VAUX_VNP હોય\V_VAUX તો\CC_CCD સાત\QT_QTC -\RD_PUNC આઠ\QT_QTC ટકાનો\N_NN વૃદ્ધિદર\N_NN ઈચ્છનીય\JJ જ\RP_RPD નહિ\RP_NEG ,\RD_PUNC આવશ્યક\JJ છે\V_VAUX .\RD_PUNC
+GJECD236	આર્થિક\JJ વિકાસ\N_NN આખરે\JJ તો\RP_RPD માનવવિકાસમાં\N_NN જ\RP_RPD પરિણમે\V_VM .\RD_PUNC
+GJECD237	લોકોનાં\N_NN જીવનની\N_NN ગુણવત્તા\N_NN સુધરે\V_VM તો\CC_CCD જ\RP_RPD આયોજિત\JJ આર્થિક\JJ વિકાસના\N_NN પ્રયાસો\N_NN ફળીભૂત\JJ થયા\V_VM ગણાય\V_VM .\RD_PUNC
+GJECD238	વિશ્વવિકાસ\N_NN અહેવાલ\N_NN ૨૦૦૪\QT_QTC પ્રમાણે\PSP ૨૦૦૨ની\QT_QTC સાલમાં\N_NN ભારતની\N_NNP માથાદીઠ\PSP આવક\N_NN ૪૮૭\QT_QTC અમેરિકન\JJ ડોલર\N_NN હતી\V_VAUX .\RD_PUNC
+GJECD239	બિનકાર્યક્ષમ\JJ જાહેર\JJ સાહસો\N_NN ચલાવવા\V_VAUX_VNP અંદાજપત્રીય\JJ નાણાકીય\JJ ટેકો\N_NN પૂરો\JJ પાડવા\V_VAUX_VNP સરકારની\N_NN રાજકોષીય\JJ ખાધ\N_NN વધી\V_VM છે\V_VAUX .\RD_PUNC
+GJECD240	ટૂંકમાં\N_NN ,\RD_PUNC જાહેર\JJ વિભાગનાં\N_NN સાહસો\N_NN ભારતીય\JJ અર્થતંત્રને\N_NN મોટો\JJ ધક્કો\N_NN આપવામાં\V_VAUX_VNP નિષ્ફળ\JJ ગયાં\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD241	બધી\QT_QTF પંચવર્ષીય\JJ યોજનાઓમાં\N_NN એક\QT_QTC ઉદ્દેશ\N_NN ભાવસ્થિરતાનો\N_NN રહ્યો\V_VAUX હોવા\V_VAUX_VNP છતાં\RP_RPD અમુક\PSP વર્ષો\N_NN બાદ\PSP કરતાં\V_VAUX_VNP સમગ્ર\JJ આયોજનકાળ\N_NN દરમિયાન\PSP ભાવો\N_NN સતત\JJ વધતા\V_VAUX_VNP ગયા\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD242	દરેક\JJ યોજનાના\N_NN અંતે\N_NN જથ્થાબંધ\JJ ભાવમાં\N_NN વધારો\N_NN થવા\V_VAUX_VNP પામ્યો\V_VM છે\V_VAUX .\RD_PUNC
+GJECD243	એકંદરે\PSP આયોજનકાળ\N_NN દરમિયાન\PSP ફુગાવાનો\N_NN દર\N_NN છથી\QT_QTC સાત\QT_QTC ટકા\N_NN રહેવા\V_VAUX_VNP પામ્યો\V_VM છે\V_VAUX .\RD_PUNC
+GJECD244	દરેક\JJ યોજનાને\N_NN અંતે\N_NN વધુ\QT_QTF ને\CC_CCD વધુ\QT_QTF લોકો\N_NN બેકાર\JJ માલૂમ\JJ પડ્યા\V_VM છે\V_VAUX .\RD_PUNC
+GJECD245	દા.ત.\CC_CCS_UT રોજગારવૃદ્ધિ\N_NN દર\N_NN છેલ્લા\JJ બે\QT_QTC દાયકામાં\N_NN સરેરાશ\JJ વાર્ષિક\JJ બે\QT_QTC ટકાની\N_NN આસપાસ\N_NST રહેવા\V_VAUX_VNP પામ્યો\V_VM છે\V_VAUX .\RD_PUNC
+GJECD246	આમ\PSP ,\RD_PUNC બેરોજગારીનો\N_NN પ્રશ્ન\N_NN વિકટ\JJ બનતો\V_VAUX_VNP જાય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD247	શિક્ષિતોની\N_NN બેરોજગારીનો\N_NN પ્રશ્ન\N_NN વધુ\QT_QTF ગંભીર\JJ પડકારરૂપ\JJ છે\V_VAUX .\RD_PUNC
+GJECD248	સરકારે\N_NN ગ્રામબેકારી\N_NN દૂર\JJ કરવા\V_VAUX_VNP અનેકવિધ\JJ યોજનાઓ\N_NN અને\CC_CCD કાર્યક્રમો\N_NN જુદાં\JJ જુદાં\JJ નામે\N_NN અમલમાં\N_NN મૂકવાં\V_VAUX_VNP પડ્યાં\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD249	ઉદારીકરણ\N_NN એટલે\PSP લોકોના\N_NN આર્થિક\JJ વ્યવહારોમાં\N_NN સરકાર\N_NN દ્વારા\PSP અંકુશો\N_NN ,\RD_PUNC નિયંત્રણો\N_NN અને\CC_CCD અન્ય\JJ માર્ગોએ\N_NN જે\PR_PRL હસ્તક્ષેપ\N_NN કરવામાં\V_VAUX_VNP આવતો\V_VAUX_VNP હોય\V_VAUX તેમાં\DM_DMD ઘટાડો\N_NN કરવામાં\V_VAUX_VNP આવે\V_VAUX .\RD_PUNC
+GJECD250	આમ\PSP ,\RD_PUNC ભારતમાં\N_NNP અંકુશો\N_NN અને\CC_CCD નિયંત્રણો\N_NN ક્રમશ:\JJ ઘટે\V_VM અને\CC_CCD બજારતંત્ર\N_NN દ્વારા\PSP આર્થિક\JJ નિર્ણયો\N_NN લેવાય\V_VM તેવી\JJ વ્યવસ્થાને\N_NN ઉદારીકરણ\N_NN કહેવામાં\V_VAUX_VNP આવ્યું\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD251	જાહેરક્ષેત્ર\N_NN માટે\PSP જે\PR_PRL ૧૮\QT_QTC ઉદ્યોગો\N_NN અનામત\JJ રખાયા\V_VM હતા\V_VAUX તે\PR_PRL ઘટીને\V_VAUX_VNP માત્ર\RP_RPD ત્રણ\QT_QTC થઈ\V_VM ગયા\V_VAUX .\RD_PUNC
+GJECD252	સંરક્ષણ\N_NN ,\RD_PUNC શસ્ત્રસામગ્રી\N_NN ,\RD_PUNC ઍરક્રાફ્ટ\N_NN અને\CC_CCD યુદ્ધજહાજો\N_NN ,\RD_PUNC અણુશક્તિ\N_NN ઉપાર્જન\N_NN અને\CC_CCD રેલવે\N_NN પરિવહન\N_NN એટલાં\JJ જ\RP_RPD ક્ષેત્રો\N_NN હવે\N_NST જાહેર\JJ વિભાગ\N_NN પાસે\PSP રહ્યાં\V_VAUX .\RD_PUNC
+GJECD253	ખાનગીકરણ\N_NN એટલે\PSP ઔદ્યોગિક\JJ એકમની\N_NN માલિકીનું\N_NN હસ્તાંતરણ\N_NN .\RD_PUNC
+GJECD254	ઉદ્યોગો\N_NN ઉપરાંત\PSP સેવાઓના\N_NN ક્ષેત્રે\N_NN પણ\RP_RPD આવું\JJ થઈ\V_VM શકે\V_VAUX .\RD_PUNC
+GJECD255	ખાનગી\JJ એકમોના\N_NN પ્રવેશથી\N_NN સ્પર્ધાનું\N_NN તત્ત્વ\N_NN ઉમેરાશે\V_VM જેને\PR_PRL લીધે\PSP ઉત્પાદકતા\N_NN અને\CC_CCD કાર્યક્ષમતા\N_NN સુધરશે\V_VM .\RD_PUNC
+GJECD256	૧૯૯૧ની\QT_QTC ઔદ્યોગિક\JJ નીતિ\N_NN દ્વારા\PSP ભારત\N_NNP સરકારે\N_NNP માત્ર\RP_RPD ત્રણ\QT_QTC ક્ષેત્રો\N_NN જ\RP_RPD જાહેર\JJ વિભાગ\N_NN માટે\PSP આરક્ષિત\JJ કર્યા\V_VM છે\V_VAUX .\RD_PUNC
+GJECD257	ભારતમાં\N_NNP ખાનગીકરણ\N_NN કયા\DM_DMQ હેતુસર\JJ કરવામાં\V_VAUX_VNP આવ્યું\V_VAUX ?\RD_PUNC
+GJECD258	ખાનગીકરણનો\N_NN પ્રમુખ\JJ ઉદ્દેશ\N_NN જાહેર\JJ વિભાગના\N_NN એકમની\N_NN કાર્યક્ષમતા\N_NN સુધારવાનો\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJECD259	ખાનગીકરણનો\N_NN બીજો\JJ ઉદ્દેશ\N_NN જાહેર\JJ સાહસોએ\N_NN સર્જેલાં\V_VAUX_VNP દેવાં\N_NN અને\CC_CCD વ્યાજની\N_NN ચૂકવણીના\N_NN નાણાકીય\JJ બોજામાંથી\N_NN મુક્ત\JJ થવાનો\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJECD260	ખાનગીકરણનો\N_NN ત્રીજો\JJ ઉદ્દેશ\N_NN અર્થતંત્ર\N_NN માટે\PSP જરૂરી\JJ નાણાકીય\JJ સાધનો\N_NN પ્રાપ્ત\JJ કરવાનો\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJECD261	દુનિયાના\N_NN ઘણા\QT_QTF દેશોમાં\N_NN આર્થિક\JJ સુધારાના\N_NN એક\QT_QTC મુખ્ય\JJ ઘટક\N_NN તરીકે\N_NN ખાનગીકરણ\N_NN રહેવા\V_VAUX_VNP પામ્યું\V_VM છે\V_VAUX .\RD_PUNC
+GJECD262	શરૂઆતમાં\N_NN ભારત\N_NNP સરકારે\N_NN કેટલાંક\QT_QTF જાહેર\JJ સાહસોના\N_NN થોડાક\QT_QTF શેરો\N_NN વેચીને\V_VAUX_VNP વહીવટ\N_NN પોતાના\PR_PRF હસ્તક\JJ રાખ્યો\V_VM .\RD_PUNC
+GJECD263	આને\DM_DMD મૂડી\N_NN વિનિવેશ\N_NN (\RD_SYM Disinvestment\RD_RDF )\RD_SYM તરીકે\PSP ઓળખવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD264	અહીં\N_NST મુખ્ય\JJ પ્રેરકબળ\N_NN અંદાજપત્ર\N_NN માટે\PSP ઊપજ\N_NN એકત્રિત\JJ કરવાનું\V_VAUX_VNP હતું\V_VAUX .\RD_PUNC
+GJECD265	સાથે\PSP એવી\JJ પણ\RP_RPD અપેક્ષા\N_NN હતી\V_VAUX કે\CC_CCS ખાનગી\JJ શેરધારકો\N_NN આવાં\JJ સાહસોમાં\N_NN વેપારલક્ષી\JJ અભિગમ\N_NN વધારશે\V_VM .\RD_PUNC
+GJECD266	આ\DM_DMD નીતિને\N_NN મર્યાદિત\JJ સફળતા\N_NN પ્રાપ્ત\JJ થઈ\V_VM છે\V_VAUX .\RD_PUNC
+GJECD267	અંદાજપત્રીય\JJ લક્ષ્યાંક\N_NN કરતાં\V_VAUX_VNP ઓછી\QT_QTF ઊપજ\N_NN આવા\JJ મૂડી\N_NN વિનિવેશથી\N_NN પ્રાપ્ત\JJ થઈ\V_VM છે\V_VAUX .\RD_PUNC
+GJECD268	એપ્રિલ\N_NN ૧૯૯૧થી\QT_QTC સપ્ટેમ્બર\N_NN ૨૦૦૨\QT_QTC સુધીમાં\PSP રૂપિયા\N_NN ૭૮,૩૦૦\QT_QTC કરોડ\N_NN મૂડી\N_NN વિનિવેશ\N_NN દ્વારા\PSP મેળવવાનો\V_VAUX_VNP લક્ષ્યાંક\N_NN હતો\V_VAUX .\RD_PUNC
+GJECD269	એટલેકે\PSP લક્ષ્યાંકના\N_NN ૩૭.૬\QT_QTC %\RD_SYM જેટલી\JJ ઊપજ\N_NN પ્રાપ્ત\JJ કરી\V_VM શકાઈ\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD270	વૈશ્વિકીકરણ\N_NN પણ\RP_RPD આર્થિક\JJ સુધારાનું\N_NN એક\QT_QTC અગત્યનું\JJ ઘટક\N_NN ગણાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD271	વૈશ્વિકીકરણ\N_NN એટલે\PSP દેશના\N_NN અર્થતંત્રને\N_NN વિશ્વનાં\N_NN અર્થતંત્રો\N_NN સાથે\PSP વધુ\QT_QTF ને\CC_CCD વધુ\QT_QTF પ્રમાણમાં\N_NN સાંકળવાની\V_VAUX_VNP પ્રક્રિયા\N_NN .\RD_PUNC
+GJECD272	જુદાં\JJ જુદાં\JJ રાષ્ટ્રો\N_NN વચ્ચે\N_NST શ્રમની\N_NN મુક્ત\JJ હેરફેરને\N_NN માન્ય\JJ કરવી\V_VAUX_VNP વગેરેનો\PSP સમાવેશ\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD273	વિકિસત\JJ દેશોએ\N_NN વૈશ્વિકીકરણની\N_NN છેલ્લી\JJ વાત\N_NN શ્રમની\N_NN મુક્ત\JJ હેરફેરને\N_NN સર્વસંમતિ\N_NN આપી\V_VM નથી\RP_NEG .\RD_PUNC
+GJECD274	ભારતમાં\N_NNP વૈશ્વિકીકરણનો\N_NN અમલ\N_NN વિવિધ\JJ ક્ષેત્રોમાં\N_NN કરવામાં\V_VAUX_VNP આવ્યો\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD275	આર્થિક\JJ સુધારા\N_NN પહેલાં\N_NST ઊંચી\JJ જકાતો\N_NN અને\CC_CCD આયાત\N_NN -\RD_PUNC નિયંત્રણોવાળી\JJ વેપારનીતિ\N_NN હતી\V_VAUX .\RD_PUNC
+GJECD276	દા.ત.\CC_CCS_UT ઔદ્યોગિક\JJ વપરાશી\JJ વસ્તુઓની\N_NN આયાતો\N_NN પર\PSP સંપૂર્ણ\JJ પ્રતિબંધ\N_NN હતો\V_VAUX .\RD_PUNC
+GJECD277	મૂડી\N_NN સ્વરૂપની\N_NN વસ્તુઓ\N_NN ,\RD_PUNC કાચો\JJ માલ\N_NN ,\RD_PUNC અર્ધઉત્પાદિત\JJ વસ્તુઓ\N_NN અને\CC_CCD કેટલીક\QT_QTF અન્ય\JJ આયાતો\N_NN અમુક\PSP અંશે\N_NN માન્ય\JJ રખાતી\V_VAUX_VNP હતી\V_VAUX .\RD_PUNC
+GJECD278	વૈશ્વિકીકરણની\N_NN દિશામાં\N_NN થયેલા\V_VAUX_VNP સુધારાએ\N_NN બે\QT_QTC કામ\N_NN કર્યા\V_VM .\RD_PUNC
+GJECD279	એક\QT_QTC તો\RP_RPD આયાત\N_NN -\RD_PUNC પરવાના\N_NN રદ\JJ કર્યા\V_VM અને\CC_CCD બીજું\JJ આયાત\N_NN -\RD_PUNC જકાતોમાં\N_NN ઘટાડો\N_NN કર્યો\V_VM .\RD_PUNC
+GJECD280	હુંડિયામણનો\N_NN દર\N_NN મુક્ત\JJ થવાથી\V_VAUX_VNP દેશની\N_NN નિકાસોને\N_NN પ્રોત્સાહન\N_NN સાંપડ્યું\V_VM છે\V_VAUX .\RD_PUNC
+GJECD281	અન્ય\JJ વિકસતા\V_VAUX_VNP દેશો\N_NN કરતાં\V_VAUX_VNP ભારતમાં\N_NNP જકાતના\N_NN દર\N_NN ઊંચા\JJ છે\V_VAUX .\RD_PUNC
+GJECD282	આપણા\PR_PRP દેશમાં\N_NN ઉત્પાદન\N_NN પ્રવૃત્તિ\N_NN માટે\PSP વિદેશી\JJ કંપનીઓ\N_NN દ્વારા\PSP જે\PR_PRL મૂડીરોકાણ\N_NN કરવામાં\V_VAUX_VNP આવે\V_VAUX તેને\DM_DMD પ્રત્યક્ષ\JJ વિદેશી\JJ મૂડીરોકાણ\N_NN કહેવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD283	આવું\JJ મૂડીરોકાણ\N_NN ,\RD_PUNC વિદેશી\JJ કંપની\N_NN આપણા\PR_PRP દેશની\N_NN કોઈ\DM_DMI કંપનીની\N_NN ભાગીદારીમાં\N_NN પણ\RP_RPD કરી\V_VM શકે\V_VAUX .\RD_PUNC
+GJECD284	પ્રત્યક્ષ\JJ વિદેશી\JJ રોકાણમાં\N_NN મૂકેલી\V_VAUX_VNP ઉદાર\N_NN છૂટછાટો\N_NN વૈશ્વિકીકરણનો\N_NN બીજો\JJ અગત્યનો\JJ ભાગ\N_NN ગણાય\V_VM .\RD_PUNC
+GJECD285	તેના\DM_DMD લીધે\PSP ભારતમાં\N_NNP વિદેશી\JJ મૂડીરોકાણ\N_NN વધશે\V_VM ,\RD_PUNC ટેકનોલોજી\N_NN સુધરશે\V_VM .\RD_PUNC
+GJECD286	આર્થિક\JJ સુધારાઓ\N_NN પછી\PSP દેશમાં\N_NN થતાં\V_VAUX_VNP પ્રત્યક્ષ\JJ વિદેશી\JJ મૂડીરોકાણમાં\N_NN વધારો\N_NN થવા\V_VAUX_VNP પામ્યો\V_VM છે\V_VAUX .\RD_PUNC
+GJECD287	દા.ત.\CC_CCS_UT ૧૯૮૧થી\QT_QTC ૮૮નાં\QT_QTC આઠ\QT_QTC વર્ષોમાં\N_NN દેશમાં\N_NN કુલ\JJ ૭૧\QT_QTC કરોડ\N_NN ડૉલરનાં\N_NN પ્રત્યક્ષ\JJ વિદેશી\JJ મૂડીરોકાણો\N_NN થયાં\V_VM હતાં\V_VAUX .\RD_PUNC
+GJECD288	તેની\DM_DMD તુલનામાં\N_NN ૧૯૯૧\QT_QTC -\RD_PUNC ૯૮નાં\QT_QTC આઠ\QT_QTC વર્ષોમાં\N_NN કુલ\JJ ૧૨૬૫\QT_QTC કરોડ\N_NN ડૉલરનાં\N_NN પ્રત્યક્ષ\JJ વિદેશી\JJ મૂડીરોકાણો\N_NN થવા\V_VAUX_VNP પામ્યાં\V_VM હતાં\V_VAUX .\RD_PUNC
+GJECD289	ભારતમાં\N_NNP નિકાસવસ્તુઓ\N_NN પ્રમાણમાં\N_NN ઊંચા\JJ ઉત્પાદનખર્ચે\N_NN ઉત્પન્ન\JJ થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD290	શ્રમબજારમાં\N_NN અપરિવર્તનશીલતા\N_NN એ\DM_DMD ભારતની\N_NNP નિકાસસ્પર્ધાશક્તિ\N_NN અને\CC_CCD ઉત્પાદકતા\N_NN ઘટાડનાર\V_VAUX_VNP બીજું\JJ પરિબળ\N_NN ગણાય\V_VM .\RD_PUNC
+GJECD291	વૈશ્વિકીકરણની\N_NN દિશામાં\N_NN વિનિમયદરમાં\N_NN થયેલા\V_VAUX_VNP ફેરફારે\N_NN કૃષિપેદાશોના\N_NN ભાવમાં\N_NN એવાં\JJ પરિવર્તનો\N_NN કર્યાં\V_VM કે\CC_CCS જેથી\PSP તેની\DM_DMD નિકાસો\N_NN વધી\V_VM છે\V_VAUX .\RD_PUNC
+GJECD292	વિશ્વનિકાસોમાં\N_NN કૃષિનિકાસોનો\N_NN ફાળો\N_NN ૧૯૯૦માં\QT_QTC ૧.૧\QT_QTC %\RD_SYM હતો\V_VAUX .\RD_PUNC
+GJECD293	આર્થિક\JJ સુધારા\N_NN પછી\PSP ગરીબી\N_NN પણ\RP_RPD નોંધપાત્ર\RB રીતે\N_NN ઘટી\V_VM છે\V_VAUX .\RD_PUNC
+GJECD294	૧૯મી\QT_QTO સદી\N_NN સુધી\PSP ભારત\N_NNP તે\DM_DMD જમાના\N_NN પ્રમાણે\PSP ઔદ્યોગિક\JJ વસ્તુઓ\N_NN ઉત્પન્ન\JJ કરનાર\V_VAUX_VNP એક\QT_QTC ઔદ્યોગિક\JJ દેશ\N_NN હતો\V_VAUX .\RD_PUNC
+GJECD295	સત્તરમી\QT_QTO અને\CC_CCD અઢારમી\QT_QTO સદી\N_NN દરમિયાન\PSP ભારત\N_NNP સુતરાઉ\N_NN કાપડ\N_NN ,\RD_PUNC કાચુ\JJ રેશમ\N_NN ,\RD_PUNC તાડપત્રી\N_NN અને\CC_CCD ગળી\N_NN જેવી\JJ ઔદ્યોગિક\JJ પેદાશોની\N_NN નિકાસો\N_NN કરતો\V_VAUX_VNP હતો\V_VAUX .\RD_PUNC
+GJECD296	ભારતની\N_NNP આયાતોમાં\N_NN મુખ્યત્વે\JJ પ્રાથમિક\JJ કે\CC_CCS અર્ધઉત્પાદિત\JJ વસ્તુઓ\N_NN હતી\V_VAUX .\RD_PUNC
+GJECD297	તે\DM_DMD સમયના\N_NN ભારતમાં\N_NNP સાહસિક\JJ અને\CC_CCD સમૃદ્ધ\JJ નિયોજકો\N_NN તથા\CC_CCD વેપારીઓનો\N_NN વર્ગ\N_NN હતો\V_VAUX .\RD_PUNC
+GJECD298	ઈ.સ.\N_NN ૧૭૫૦થી\QT_QTC ૧૮૩૦\QT_QTC દરમિયાન\PSP એક\QT_QTC તરફ\N_NST બ્રિટનમાં\N_NNP ઔદ્યોગિક\JJ ક્રાંતિ\N_NN થઈ\V_VM .\RD_PUNC
+GJECD299	બ્રિટનમાં\N_NNP ઔદ્યોગિક\JJ ક્રાંતિના\N_NN ફળ\N_NN સ્વરૂપે\N_NN વિવિધ\JJ ઉદ્યોગોની\N_NN ઉન્નતિ\N_NN થઈ\V_VM .\RD_PUNC
+GJECD300	એનો\DM_DMD અર્થ\N_NN એવો\JJ થતો\V_VAUX_VNP હતો\V_VAUX કે\CC_CCS ભારતના\N_NNP પરંપરાગત\JJ ઉદ્યોગો\N_NN ,\RD_PUNC કારખાના\N_NN ઉદ્યોગોની\N_NN હરીફાઈ\N_NN સામે\PSP ટકી\V_VM શક્યા\V_VAUX_VNP નહોતા\RP_NEG .\RD_PUNC
+GJECD301	૧૮૫૦\QT_QTC પછી\PSP ભારતમાં\N_NNP આધુનિક\JJ ઉદ્યોગોનો\N_NN આરંભ\N_NN થયો\V_VM હતો\V_VAUX .\RD_PUNC
+GJECD302	આ\DM_DMD ઉદ્યોગોમાં\N_NN ખાંડનાં\N_NN કારખાનાં\N_NN ,\RD_PUNC ચોખાની\N_NN મિલો\N_NN ,\RD_PUNC સુતરાઉ\JJ કાપડ\N_NN અને\CC_CCD શણની\N_NN મિલો\N_NN અને\CC_CCD ચાના\N_NN બગીચાઓનો\N_NN સમાવેશ\N_NN થતો\V_VAUX_VNP હતો\V_VAUX .\RD_PUNC
+GJECD303	સુતરાઉ\JJ કાપડ\N_NN અને\CC_CCD શણનું\N_NN કાપડ\N_NN બનાવતી\V_VAUX_VNP મિલો\N_NN એ\DM_DMD બે\QT_QTC મોટા\JJ આધુનિક\JJ ઉદ્યોગો\N_NN હતા\V_VAUX .\RD_PUNC
+GJECD304	આમાં\DM_DMD શણનો\N_NN ઉદ્યોગ\N_NN ઈંગ્લેન્ડની\N_NNP મૂડીથી\N_NN સ્થપાયો\V_VM હતો\V_VAUX .\RD_PUNC
+GJECD305	પરંતુ\CC_CCD સુતરાઉ\JJ કાપડનો\N_NN ઉદ્યોગ\N_NN દેશની\N_NN જ\RP_RPD મૂડીથી\N_NN અને\CC_CCD દેશના\N_NN જ\RP_RPD સાહસિકો\N_NN દ્વારા\PSP સ્થપાયો\V_VM હતો\V_VAUX અને\CC_CCD વિકસ્યો\V_VM હતો\V_VAUX .\RD_PUNC
+GJECD306	સુતરાઉ\JJ કાપડનો\N_NN ઉદ્યોગ\N_NN ૧૮૫૦\QT_QTC પછી\PSP શરૂ\JJ થયો\V_VM હતો\V_VAUX ,\RD_PUNC પરંતુ\CC_CCD ચાર\QT_QTC દશકામાં\N_NN તે\DM_DMD દુનિયાનો\N_NN એક\QT_QTC મોટો\JJ ઉદ્યોગ\N_NN બનવા\V_VAUX_VNP પામ્યો\V_VM હતો\V_VAUX .\RD_PUNC
+GJECD307	બીજું\JJ વિશ્વયુદ્ધ\N_NN પૂરું\JJ થયું\V_VM ત્યારે\N_NST ભારતના\N_NNP ઉદ્યોગીકરણને\N_NN લગભગ\PSP ૧૦૦\QT_QTC વર્ષ\N_NN પૂરાં\JJ થવા\V_VAUX_VNP આવ્યાં\V_VAUX હતાં\V_VAUX .\RD_PUNC
+GJECD308	આ\DM_DMD ૧૦૦\QT_QTC વર્ષના\N_NN ગાળામાં\N_NN દેશમાં\N_NN અનેક\JJ ઉદ્યોગો\N_NN સ્થપાયા\V_VM હતા\V_VAUX અને\CC_CCD વિકસ્યા\V_VM હતા\V_VAUX .\RD_PUNC
+GJECD309	અન્ય\JJ ઔદ્યોગિક\JJ દેશોની\N_NN તુલનામાં\N_NN ભારતનો\N_NNP ઉદ્યોગવિભાગ\N_NN ઠીક\JJ ઠીક\JJ મોટો\JJ હતો\V_VAUX .\RD_PUNC
+GJECD310	૧૯૪૭માં\QT_QTC દેશમાં\N_NN પ્રાપ્ત\JJ કુલ\JJ રોજગારીમાં\N_NN ઉદ્યોગોનો\N_NN હિસ્સો\N_NN બે\QT_QTC ટકાથી\N_NN ઓછો\QT_QTF હતો\V_VAUX અને\CC_CCD રાષ્ટ્રીય\JJ આવકમાં\N_NN તેમનો\DM_DMD હિસ્સો\N_NN ૮\QT_QTC %\RD_SYM જેટલો\JJ હતો\V_VAUX .\RD_PUNC
+GJECD311	ઔદ્યોગિક\JJ વિકાસ\N_NN પહેલાં\N_NST દુનિયાના\N_NN બધા\QT_QTF જ\RP_RPD દેશોમાં\N_NN આવક\N_NN અને\CC_CCD રોજગારીના\N_NN દૃષ્ટિબિંદુથી\N_NN ખેતીનું\N_NN ક્ષેત્ર\N_NN પ્રાધાન્ય\N_NN ભોગવતું\V_VAUX_VNP હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD312	આજના\JJ વિકસિત\JJ દેશોમાં\N_NN પણ\RP_RPD એક\QT_QTC કાળે\N_NN ખેતીમાં\N_NN રોકાયેલા\V_VAUX_VNP લોકોનું\N_NN પ્રમાણ\N_NN ૬૦\QT_QTC %\RD_SYM કે\CC_CCS તેથી\PSP વધારે\QT_QTF હતું\V_VAUX .\RD_PUNC
+GJECD313	ભારતમાં\N_NNP ઔદ્યોગિક\JJ વિકાસ\N_NN થયેલો\V_VAUX_VNP ન\RP_NEG હોવાથી\V_VAUX_VNP ખેતીના\N_NN ક્ષેત્રે\N_NN રોકાયેલા\V_VAUX_VNP લોકોનું\N_NN પ્રમાણ\N_NN લગભગ\PSP ૭૦\QT_QTC %\RD_SYM જેટલું\JJ હતું\V_VAUX .\RD_PUNC
+GJECD314	રાષ્ટ્રીય\JJ ઉત્પાદનમાં\N_NN ખેતીનો\N_NN હિસ્સો\N_NN ૧૯૨૫થી\QT_QTC ૧૯૨૯ના\QT_QTC ગાળામાં\N_NN ૫૭\QT_QTC %\RD_SYM હોવાનો\V_VAUX_VNP અંદાજ\N_NN છે\V_VAUX .\RD_PUNC
+GJECD315	૧૯૪૫-૪૬માં\QT_QTC સરકારના\N_NN અંદાજ\N_NN પ્રમાણે\PSP તે\DM_DMD ૫૫\QT_QTC %\RD_PUNC હતો\V_VAUX .\RD_PUNC
+GJECD316	ભારતમાં\N_NNP અંગ્રેજોના\N_NN શાસન\N_NN દરમિયાન\PSP રેલવેનો\N_NN વિકાસ\N_NN મોટા\JJ પ્રમાણમાં\N_NN થયો\V_VM હતો\V_VAUX .\RD_PUNC
+GJECD317	ભારતમાં\N_NNP રેલવેનો\N_NN વિકાસ\N_NN થાય\V_VM તે\DM_DMD માટે\PSP બ્રિટિશ\N_NNP સરકારે\N_NNP સક્રિય\JJ નીતિ\N_NN અપનાવી\V_VM હતી\V_VAUX .\RD_PUNC
+GJECD318	ભારતમાં\N_NNP રેલવેનો\N_NN આરંભ\N_NN ૧૮૫૩માં\QT_QTC થયો\V_VM .\RD_PUNC
+GJECD319	૧૮૯૦માં\QT_QTC દેશમાં\N_NN ૨૫,૪૯૫\QT_QTC કિલોમીટરની\N_NN રેલલાઈન\N_NN હતી\V_VAUX .\RD_PUNC
+GJECD320	ભારતમાં\N_NNP રેલવેની\N_NN સ્થાપના\N_NN અને\CC_CCD વિકાસની\N_NN અર્થતંત્ર\N_NN પર\PSP વ્યાપક\JJ અને\CC_CCD ઊંડી\JJ અસરો\N_NN પડી\V_VM હતી\V_VAUX .\RD_PUNC
+GJECD321	પરિવહનખર્ચ\N_NN ઘટવાથી\V_VAUX_VNP દેશના\N_NN વિદેશવેપારમાં\N_NN વધારો\N_NN થયો\V_VM હતો\V_VAUX .\RD_PUNC
+GJECD322	તેની\DM_DMD સાથે\PSP દેશના\N_NN આંતરિક\JJ વેપારમાં\N_NN પણ\RP_RPD વધારો\N_NN થયો\V_VM હતો\V_VAUX .\RD_PUNC
+GJECD323	તેની\DM_DMD સાથે\PSP દેશના\N_NN ઉદ્યોગો\N_NN અને\CC_CCD ખેતીને\N_NN પણ\RP_RPD મોટો\JJ લાભ\N_NN થયો\V_VM હતો\V_VAUX .\RD_PUNC
+GJECD324	રેલવેમાં\N_NN મોટા\JJ પ્રમાણમાં\N_NN રોજગારીની\N_NN તકો\N_NN સર્જાઈ\V_VM હતી\V_VAUX .\RD_PUNC
+GJECD325	૧૯૪૬-૪૭માં\QT_QTC દસ\QT_QTC લાખથી\N_NN અધિક\JJ લોકોને\N_NN રેલવે\N_NN રોજગારી\N_NN અપાતી\V_VAUX_VNP હતી\V_VAUX .\RD_PUNC
+GJECD326	ભૂમિમાર્ગ\N_NN -\RD_PUNC પરિવહન\N_NN વિકસવા\V_VAUX_VNP અને\CC_CCD વિસ્તરવા\V_VAUX_VNP પામ્યું\V_VM .\RD_PUNC
+GJECD327	૧૮૫૫માં\QT_QTC જાહેર\JJ બાંધકામ\N_NN ખાતાની\N_NN રચના\N_NN કેન્દ્ર\N_NN તેમજ\CC_CCD પ્રાંતીય\JJ સરકારોમાં\N_NN કરવામાં\V_VAUX_VNP આવી\V_VAUX હતી\V_VAUX .\RD_PUNC
+GJECD328	૧૯મી\QT_QTO સદીના\N_NN અંતે\N_NN અંગ્રેજ\N_NNP શાસન\N_NNP હેઠળના\PSP ભારતમાં\N_NNP રસ્તાની\N_NN લંબાઈ\N_NN ૨,૭૮,૪૨૦\QT_QTC કિલોમીટર\N_NN થઈ\V_VM હતી\V_VAUX .\RD_PUNC
+GJECD329	૧૯૪૩\QT_QTC સુધીમાં\PSP રસ્તાની\N_NN લંબાઈ\N_NN વધીને\V_VAUX_VNP ૪,૪૭,૧૦૫\QT_QTC કિલોમીટર\N_NN થઈ\V_VM હતી\V_VAUX .\RD_PUNC
+GJECD330	ભારતના\N_NNP આર્થિક\JJ ઇતિહાસમાં\N_NN જેમને\PR_PRL આધુનિક\JJ બેંકો\N_NN તરીકે\PSP ઓળખવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX તેનો\PR_PRP આરંભ\N_NN ઈ.સ.\N_NN ૧૭૭૦માં\QT_QTC થયો\V_VM હતો\V_VAUX .\RD_PUNC
+GJECD331	ભારતમાં\N_NNP આધુનિક\JJ બેંકોનો\N_NN વિકાસ\N_NN અનેક\JJ નિષ્ફળતાઓથી\N_NN ભરેલો\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJECD332	એટલેકે\PSP બેંકો\N_NN નિષ્ફળ\JJ નીવડી\N_NN હોત\V_VAUX તેવી\JJ ઘટનાઓ\N_NN અનેક\JJ વખત\N_NN બની\V_VM હતી\V_VAUX .\RD_PUNC
+GJECD333	આમ\PSP છતાં\RP_RPD ,\RD_PUNC દેશ\N_NN આઝાદ\JJ થયો\V_VM ત્યારે\N_NST દેશમાં\N_NN બેંકોનો\N_NN વ્યવસાય\N_NN સારી\JJ રીતે\N_NN સ્થપાઈ\V_VM ચૂક્યો\V_VAUX હતો\V_VAUX .\RD_PUNC
+GJECD334	૧૯૪૬માં\QT_QTC દેશમાં\N_NN સ્વદેશી\JJ અને\CC_CCD વિદેશી\JJ બેંકોની\N_NN સંખ્યા\N_NN ૭૦૦થી\QT_QTC વધારે\QT_QTF હતી\V_VAUX .\RD_PUNC
+GJECD335	જોકે\CC_CCS બેંકોની\N_NN સેવાઓનો\N_NN લાભ\N_NN મુખ્યત્વે\JJ મોટાં\JJ નગરોને\N_NN મળતો\V_VAUX_VNP હતો\V_VAUX .\RD_PUNC
+GJECD336	દેશમાં\N_NN આજે\N_NST કામ\N_NN કરી\V_VM રહેલી\V_VAUX_VNP કેટલીક\QT_QTF મોટી\JJ બેંકોની\N_NN સ્થાપના\N_NN ઓગણીસમી\QT_QTO સદી\N_NN દરમિયાન\PSP અને\CC_CCD વીસમી\QT_QTO સદીની\N_NN શરૂઆતમાં\N_NN થઈ\V_VM હતી\V_VAUX .\RD_PUNC
+GJECD337	તેમાં\DM_DMD આજે\N_NST સ્ટેટ\N_NNP બેંક\N_NNP ઓફ\N_NNP ઈન્ડિયા\N_NNP તરીકે\PSP ઓળખાતી\V_VAUX_VNP બેંકનો\N_NN સમાવેશ\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD338	મધ્યસ્થ\JJ બેંક\N_NN તરીકે\PSP ઓળખાતી\V_VAUX_VNP રિઝર્વ\N_NNP બેંક\N_NNP ઓફ\N_NNP ઈન્ડિયાની\N_NNP સ્થાપના\N_NN ૧૯૩૫માં\QT_QTC થયેલી\V_VAUX_VNP .\RD_PUNC
+GJECD339	એ\DM_DMD સ્થપાઈ\V_VM ત્યારે\N_NST તે\DM_DMD ખાનગી\JJ માલિકીની\N_NN બેંક\N_NN હતી\V_VAUX .\RD_PUNC
+GJECD340	જોકે\CC_CCS સરકારે\N_NN તેના\DM_DMD પર\PSP કેટલાંક\QT_QTF નિયંત્રણો\N_NN મૂક્યાં\V_VM હતા\V_VAUX .\RD_PUNC
+GJECD341	૧૯૪૯માં\QT_QTC તેનું\DM_DMD રાષ્ટ્રીયકરણ\N_NN કરવામાં\V_VAUX_VNP આવેલું\V_VAUX_VNP .\RD_PUNC
+GJECD342	ભારતમાં\N_NNP લોકોની\N_NN માથાદીઠ\PSP આવક\N_NN ખૂબ\QT_QTF જ\RP_RPD ઓછી\QT_QTF હતી\V_VAUX .\RD_PUNC
+GJECD343	૧૯૪૫માં\QT_QTC એક\JJ અંદાજ\N_NN પ્રમાણે\PSP ભારતની\N_NNP માથાદીઠ\PSP આવક\N_NN રૂ.\N_NN ૧૮૪\QT_QTC હતી\V_VAUX .\RD_PUNC
+GJECD344	ભારતનું\N_NNP અર્થતંત્ર\N_NN અલ્પવિકસિત\JJ હતું\V_VAUX .\RD_PUNC
+GJECD345	તેનો\DM_DMD અર્થ\N_NN એવો\JJ પણ\RP_RPD થાય\V_VM છે\V_VAUX કે\CC_CCS દેશમાં\N_NN ખેતી\N_NN સિવાયનાં\PSP ક્ષેત્રોનો\N_NN અલ્પ\JJ વિકાસ\N_NN થયો\V_VM હતો\V_VAUX .\RD_PUNC
+GJECD346	તેથી\PSP લોકોની\N_NN વધતી\V_VAUX_VNP જતી\V_VAUX_VNP સંખ્યાને\N_NN જીવનનિર્વાહ\N_NN માટે\PSP ખેતીનાં\N_NN જ\RP_RPD આશ્રય\N_NN લેવો\V_VAUX_VNP પડતો\V_VAUX_VNP હતો\V_VAUX .\RD_PUNC
+GJECD347	ખેતી\N_NN મહદંશે\JJ વરસાદ\N_NN પર\PSP આધારિત\JJ હોવાથી\V_VAUX_VNP ખેતીમાં\N_NN ઉત્પાદન\N_NN અને\CC_CCD રોજગારી\N_NN ખૂબ\QT_QTF જ\RP_RPD અનિશ્ચિત\JJ બની\V_VM રહે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD348	આજે\N_NST દેશના\N_NN આર્થિક\JJ વિકાસને\N_NN માનવવિકાસની\N_NN દૃષ્ટિએ\N_NN તપાસવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD349	લોકોના\N_NN આરોગ્યને\N_NN બાળમૃત્યુ\N_NN દર\N_NN અને\CC_CCD સરેરાશ\N_NN આયુષ્યના\N_NN આધારે\N_NN માપવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD350	આ\DM_DMD દૃષ્ટિએ\N_NN તપાસતાં\V_VAUX_VNP માનવવિકાસ\N_NN ખૂબ\QT_QTF ઓછો\QT_QTF થયો\V_VM હતો\V_VAUX .\RD_PUNC
+GJECD351	ભારતમાં\N_NNP બાળમૃત્યુનું\N_NN પ્રમાણ\N_NN ૧૫૦થી\QT_QTC વધારે\QT_QTF હતું\V_VAUX .\RD_PUNC
+GJECD352	દેશમાં\N_NN સાક્ષરતાનું\N_NN પ્રમાણ\N_NN ૧૯૫૧માં\QT_QTC ૧૮.૩૩\QT_QTC %\RD_SYM હતું\V_VAUX .\RD_PUNC
+GJECD353	આમ\PSP ,\RD_PUNC કોઈ\DM_DMI પણ\RP_RPD દૃષ્ટિએ\N_NN તપાસવામાં\V_VAUX_VNP આવે\V_VAUX તો\CC_CCD દેશ\N_NN આઝાદ\JJ થયો\V_VM ત્યારે\N_NST તે\DM_DMD અલ્પવિકસિત\JJ અર્થતંત્ર\N_NN ધરાવતો\V_VAUX_VNP હતો\V_VAUX .\RD_PUNC
+GJECD354	ભારતમાં\N_NNP આયોજનકાળ\N_NN દરમિયાન\PSP વસ્તી\N_NN ઝડપથી\RB વધવા\V_VAUX_VNP પામી\V_VM હોવા\V_VAUX_VNP છતાં\RP_RPD ભારત\N_NNP માનવવિકાસની\N_NN રીતે\N_NN પ્રગતિ\N_NN કરી\V_VM શક્યું\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD355	૧૯૫૦\QT_QTC -\RD_PUNC ૫૧માં\QT_QTC ભારતની\N_NNP વસ્તી\N_NN ૩૬\QT_QTC કરોડ\N_NN જેટલી\JJ હતી\V_VAUX .\RD_PUNC
+GJECD356	આઝાદી\N_NN પહેલાં\N_NST વસ્તીવૃદ્ધિ\N_NN દર\N_NN વાર્ષિક\JJ ૧\QT_QTC ટકાથી\N_NN સહેજ\QT_QTF વધુ\QT_QTF હતો\V_VAUX .\RD_PUNC
+GJECD357	સામાન્ય\JJ રીતે\N_NN દેશના\N_NN આર્થિક\JJ વિકાસ\N_NN સાથે\PSP દેશની\N_NN રાષ્ટ્રીય\JJ આવક\N_NN અને\CC_CCD માથાદીઠ\PSP આવકમાં\N_NN વધારો\N_NN થતો\V_VAUX_VNP હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD358	ભારતમાં\N_NNP ૧૯૫૦\QT_QTC -\RD_PUNC ૫૧માં\QT_QTC ૧૯૯૩\QT_QTC -\RD_PUNC ૯૪ની\QT_QTC ભાવસપાટીએ\N_NN (\RD_SYM GDP\RD_RDF )\RD_SYM રાષ્ટ્રીય\JJ આવક\N_NN રૂ.\N_NN ૧,૪૦,૪૯૯\QT_QTC કરોડની\N_NN હતી\V_VAUX .\RD_PUNC
+GJECD359	વૃદ્ધિદરની\N_NN રીતે\N_NN જોઈએ\V_VM તો\CC_CCD ૧૯૫૦\QT_QTC -\RD_PUNC ૫૧થી\QT_QTC ૧૯૫૯\QT_QTC -\RD_PUNC ૬૦\QT_QTC દરમિયાન\PSP રાષ્ટ્રીય\JJ આવકનો\N_NN વૃદ્ધિદર\N_NN સરેરાશ\JJ વાર્ષિક\JJ રૂ.\N_NN ૩.૫૯\QT_QTC ટકાનો\N_NN હતો\V_VAUX .\RD_PUNC
+GJECD360	તેવી\JJ જ\RP_RPD રીતે\N_NN ભારતમાં\N_NNP માથાદીઠ\PSP આવકમાં\N_NN પણ\RP_RPD એકધારો\JJ વધારો\N_NN થવા\V_VAUX_VNP પામ્યો\V_VM છે\V_VAUX .\RD_PUNC
+GJECD361	૧૯૫૦\QT_QTC -\RD_PUNC ૫૧માં\QT_QTC ૧૯૯૩\QT_QTC -\RD_PUNC ૯૪ના\QT_QTC ભાવે\N_NN માથાદીઠ\PSP આવક\N_NN રૂ.\N_NN ૩૬૮૭\RD_SYM હતી\V_VAUX .\RD_PUNC
+GJECD362	૧૯૫૧\QT_QTC પછી\PSP ભારતીય\JJ અર્થતંત્રમાં\N_NN કૃષિક્ષેત્રે\N_NN વિકાસના\N_NN અનેકવિધ\JJ પ્રયાસો\N_NN થયા\V_VM છે\V_VAUX .\RD_PUNC
+GJECD363	દા.ત.\CC_CCS_UT અનાજનું\N_NN ઉત્પાદન\N_NN ૧૯૫૦\QT_QTC -\RD_PUNC ૫૧માં\QT_QTC ૫.૫\QT_QTC કરોડ\N_NN ટન\N_NN જેટલું\JJ હતું\V_VAUX .\RD_PUNC
+GJECD364	તેવી\JJ જ\RP_RPD રીતે\N_NN રોકડિયા\JJ પાકોમાં\N_NN તેલીબિયાનું\N_NN ઉત્પાદન\N_NN ૧૯૫૦\QT_QTC -\RD_PUNC ૫૧માં\QT_QTC ૬૨\QT_QTC લાખ\N_NN ટન\N_NN જેટલું\JJ હતું\V_VAUX .\RD_PUNC
+GJECD365	કૃષિ\N_NN ઉત્પાદનની\N_NN વૃદ્ધિની\N_NN સાતે\QT_QTC કૃષિ\N_NN ઉત્પાદકતામાં\N_NN પણ\RP_RPD ભારતે\N_NNP ગણનાપાત્ર\JJ સુધારો\N_NN હાંસલ\JJ કર્યો\V_VM છે\V_VAUX .\RD_PUNC
+GJECD366	૧૯૦૧થી\QT_QTC ૧૯૫૦\QT_QTC સુધી\PSP ભારતમાં\N_NNP કૃષિ\N_NN ઉત્પાદકતામાં\N_NN ખાસ\JJ સુધારો\N_NN થયો\V_VM નહોતો\RP_NEG .\RD_PUNC
+GJECD367	આઝાદી\N_NN પહેલાં\N_NST અને\CC_CCD પછીનાં\PSP કેટલાંક\QT_QTF વર્ષો\N_NN ભારતમાં\N_NNP ``\RD_PUNC અન્ન\N_NN કટોકટીનાં\N_NN ``\RD_PUNC વર્ષો\N_NN હતાં\V_VAUX .\RD_PUNC
+GJECD368	અનાજના\N_NN ભાવો\N_NN વધતા\V_VAUX_VNP જતા\V_VAUX_VNP હતા\V_VAUX .\RD_PUNC
+GJECD369	ભારતે\N_NNP તે\DM_DMD સમયે\N_NN અનાજની\N_NN આયાતો\N_NN કરવી\V_VAUX_VNP પડી\V_VAUX હતી\V_VAUX .\RD_PUNC
+GJECD370	પરંતુ\CC_CCD ૧૯૭૦\QT_QTC પછી\PSP દેશમાં\N_NN અલ્પવૃષ્ટિનાં\N_NN અમુક\PSP વર્ષો\N_NN હોવા\V_VAUX_VNP છતાં\RP_RPD અનાજની\N_NN આયાતો\N_NN કરવી\V_VAUX_VNP પડી\V_VAUX નથી\RP_NEG .\RD_PUNC
+GJECD371	૧૯૫૦\QT_QTC પછી\PSP ઝડપથી\RB વસ્તીવૃદ્ધિ\N_NN થઈ\V_VM હોવા\V_VAUX_VNP છતાં\RP_RPD માથાદીઠ\N_NN અન્નપ્રાપ્તિ\N_NN વધી\V_VM છે\V_VAUX .\RD_PUNC
+GJECD372	૧૯૫૦\QT_QTC -\RD_PUNC ૫૫\QT_QTC દરમિયાન\PSP માથાદીઠ\JJ રોજિંદી\JJ અન્નપ્રાપ્તિ\N_NN ૪૧૯\QT_QTC ગ્રામની\N_NN હતી\V_VAUX .\RD_PUNC
+GJECD373	આયોજનકાળ\N_NN દરમિયાન\PSP ૧૯૬૫\QT_QTC પછી\PSP દેશમાં\N_NN કૃષિક્ષેત્રે\N_NN જે\PR_PRL અનોખી\JJ સફળતા\N_NN પ્રાપ્ત\JJ થઈ\V_VM તેને\DM_DMD ``\RD_PUNC હરિયાળી\JJ ક્રાંતિ\N_NN ``\RD_PUNC તરીકે\PSP ઓળખવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD374	કૃષિક્ષેત્રે\N_NN અમલમાં\N_NN આવેલી\V_VAUX_VNP નવી\JJ ઉત્પાદન\N_NN પદ્ધતિ\N_NN અથવા\CC_CCD ટેકનોલોજીએ\N_NN ટૂંકા\JJ ગાળામાં\N_NN જે\PR_PRL મોટી\JJ ઉત્પાદનવૃદ્ધિ\N_NN હાંસલ\JJ કરી\V_VM તે\DM_DMD આ\DM_DMD હરિયાળી\JJ ક્રાંતિનો\N_NN અર્થ\N_NN છે\V_VAUX .\RD_PUNC
+GJECD375	૧૯૫૦\QT_QTC -\RD_PUNC ૫૧માં\QT_QTC કુલ\JJ રાષ્ટ્રીય\JJ આવકમાં\N_NN (\RD_SYM GDP\RD_RDF )\RD_SYM તેનો\DM_DMD ફાળો\N_NN ૧૩.૨૯\QT_QTC %\RD_SYM જેટલો\JJ હતો\V_VAUX .\RD_PUNC
+GJECD376	૧૯૫૧\QT_QTC પછી\PSP દેશના\N_NN ઔદ્યોગિક\JJ માળખામાં\N_NN ગણનાપાત્ર\JJ પરિવર્તનો\N_NN સર્જાયાં\V_VM છે\V_VAUX .\RD_PUNC
+GJECD377	દેશના\N_NN ઉદ્યોગોના\N_NN માળખામાં\N_NN વપરાશના\N_NN ઉદ્યોગોનું\N_NN મહત્વ\N_NN ઘટવા\V_VAUX_VNP પામ્યું\V_VM છે\V_VAUX .\RD_PUNC
+GJECD378	આવા\JJ ઉદ્યોગોમાં\N_NN આયોજનકાળ\N_NN દરમિયાન\PSP ઉત્પાદન\N_NN વધવાની\V_VAUX_VNP સાથે\PSP કુલ\JJ રાષ્ટ્રીય\JJ આવકમાં\N_NN અને\CC_CCD કુલ\JJ રોજગારી\N_NN પૂરી\JJ પાડવામાં\V_VAUX_VNP પણ\RP_RPD તેમનો\DM_DMD ફાળો\N_NN વધતો\V_VAUX_VNP ગયો\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD379	ભારતમાં\N_NNP આયોજનની\N_NN સાથે\PSP સાથે\PSP જાહેર\JJ ક્ષેત્રનું\N_NN મહત્ત્વ\N_NN પણ\RP_RPD ઉત્તરોત્તર\JJ વધવા\V_VAUX_VNP પામ્યું\V_VM છે\V_VAUX .\RD_PUNC
+GJECD380	નાના\JJ પાયાના\N_NN ઔદ્યોગિક\JJ એકમો\N_NN ૧૯૭૩\QT_QTC -\RD_PUNC ૭૪માં\QT_QTC ૪.૨૦\QT_QTC લાખ\N_NN જેટલા\JJ હતા\V_VAUX .\RD_PUNC
+GJECD381	સરકારે\N_NN આયોજનકાળ\N_NN દરમિયાન\PSP ઔદ્યોગિક\JJ વિકાસ\N_NN માટેનાં\PSP હાથ\N_NN ધરેલાં\V_VAUX_VNP પ્રત્યક્ષ\JJ પગલાંમાં\N_NN નાણાંકીય\JJ સંસ્થાઓની\N_NN સ્થાપના\N_NN ,\RD_PUNC જીવનવીમા\N_NN ,\RD_PUNC નિગમ\N_NN ,\RD_PUNC જનરલ\N_NN ઈન્સ્યોરન્સ\N_NN કંપનીઓ\N_NN વગેરેની\PSP કામગીરી\N_NN ગણાવી\V_VM શકાય\V_VAUX .\RD_PUNC
+GJECD382	અર્થતંત્રમાં\N_NN થતી\V_VAUX_VNP અસંખ્ય\JJ આર્થિક\JJ પ્રવૃત્તિઓના\N_NN અભ્યાસ\N_NN માટે\PSP તેમને\DM_DMD ત્રણ\QT_QTC મોટા\JJ વિભાગમાં\N_NN વહેંચવામાં\V_VM આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD383	આર્થિક\JJ પ્રવૃત્તિઓના\N_NN આ\DM_DMD વર્ગીકરણને\N_NN અર્થતંત્રના\N_NN વ્યાવસાયિક\JJ માળખા\N_NN તરીકે\PSP ઓળખવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD384	આ\DM_DMD વિભાગમાં\N_NN ખેતી\N_NN ,\RD_PUNC પશુપાલન\N_NN ,\RD_PUNC પશુસંવર્ધન\N_NN ,\RD_PUNC મત્સ્ય\N_NN ,\RD_PUNC જંગલો\N_NN ,\RD_PUNC મરઘાં\N_NN -\RD_PUNC બતકાં\N_NN ઉછેર\N_NN વગેરેનો\PSP સમાવેશ\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD385	પ્રાથમિક\JJ વિભાગમાં\N_NN સમાવેશ\N_NN પામેલાં\V_VAUX_VNP આ\DM_DMD આર્થિક\JJ પ્રવૃત્તિઓનાં\N_NN ક્ષેત્રોની\N_NN એક\QT_QTC વિશિષ્ટતા\N_NN છે\V_VAUX .\RD_PUNC
+GJECD386	તેમાં\DM_DMD કુદરતી\JJ સંપત્તિ\N_NN અને\CC_CCD કુદરતી\JJ પરિબળો\N_NN અગત્યનો\JJ ભાગ\N_NN ભજવે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD387	આ\DM_DMD વિભાગમાં\N_NN (\RD_SYM અ\N_NN )\RD_SYM મોટા\JJ પાયાના\N_NN ઉદ્યોગો\N_NN તથા\CC_CCD (\RD_SYM બ\N_NN )\RD_SYM નાના\JJ પાયાના\N_NN ઉદ્યોગો\N_NN જેમને\PR_PRL મેન્યુફેક્ચરિંગ\N_NN તરીકે\PSP ઓળખવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX ,\RD_PUNC તેમનો\DM_DMD સમાવેશ\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD388	ઉપરાંત\PSP (\RD_SYM ક\N_NN )\RD_SYM બાંધકામ\N_NN અને\CC_CCD (\RD_SYM ડ\N_NN )\RD_SYM વીજળી\N_NN ,\RD_PUNC ગેસ\N_NN ,\RD_PUNC પાણીપૂરવઠો\N_NN વગેરે\PSP પ્રવૃત્તિઓનો\N_NN સમાવેશ\N_NN કરવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD389	આ\DM_DMD વિભાગમાં\N_NN થતી\V_VAUX_VNP આર્થિક\JJ પ્રવૃત્તિની\N_NN લાક્ષણિકતા\N_NN રહી\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD390	આ\DM_DMD વિભાગમાં\N_NN અનેકવિધ\JJ સમાવેશ\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD391	આવી\JJ સેવાઓમાં\N_NN વાહનવ્યવહાર\N_NN કે\CC_CCS જેમાં\PR_PRL રેલવે\N_NN ,\RD_PUNC રસ્તા\N_NN ,\RD_PUNC પાણી\N_NN અને\CC_CCD હવાઈમાર્ગ\N_NN પરિવહન\N_NN તેમજ\CC_CCD ચીજવસ્તુઓના\N_NN સંગ્રહની\N_NN સેવાઓનો\N_NN સમાવેશ\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD392	સંદેશાવ્યવહાર\N_NN જેમાં\PR_PRL તાર\N_NN ,\RD_PUNC ટપાલ\N_NN ,\RD_PUNC ટેલિફોન\N_NN ,\RD_PUNC ઈન્ટરનેટ\N_NN વગેરે\PSP સેવાઓનો\N_NN સમાવેશ\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD393	વેપાર\N_NN ,\RD_PUNC વાણિજ્ય\N_NN ,\RD_PUNC હોટલ\N_NN -\RD_PUNC વ્યવસાય\N_NN વગેરેનો\PSP સમાવેશ\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD394	આ\DM_DMD ત્રણે\QT_QTF વ્યાપક\JJ વિભાગોમાં\N_NN કેટલા\QT_QTF પ્રમાણમાં\N_NN રોજગારી\N_NN પ્રાપ્ત\JJ થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD395	વિકાસના\N_NN બહુ\QT_QTF ઊંચા\JJ તબક્કે\N_NN એટલેકે\CC_CCS અમેરિકા\N_NNP ,\RD_PUNC ફ્રાંસ\N_NNP ,\RD_PUNC જર્મની\N_NNP જેવા\JJ દેશોમાં\N_NN સિદ્ધ\JJ થયો\V_VM છે\V_VAUX .\RD_PUNC
+GJECD396	બીજી\JJ બાજુ\N_NST ઉદ્યોગોની\N_NN તુલનામાં\N_NN સેવાવિભાગનો\N_NN હિસ્સો\N_NN રાષ્ટ્રીય\JJ આવક\N_NN તેમજ\CC_CCD રોજગારીમાં\N_NN વધેલો\V_VAUX_VNP માલૂમ\JJ પડે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD397	ભારતના\N_NNP વ્યાવસાયિક\JJ માળખાને\N_NN આ\DM_DMD અનુભવના\N_NN સંદર્ભમાં\N_NN તપાસવાનું\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJECD398	૧૯૫૦\QT_QTC -\RD_PUNC ૫૧માં\QT_QTC પણ\RP_RPD ભારતના\N_NNP અર્થતંત્રમાં\N_NN ઉદ્યોગવિભાગની\N_NN તુલનામાં\N_NN સેવાવિભાગનો\N_NN રાષ્ટ્રીય\JJ આવકમાં\N_NN ફાળો\N_NN ગણનાપાત્ર\JJ રીતે\N_NN વધારે\QT_QTF હતો\V_VAUX .\RD_PUNC
+GJECD399	પચાસ\QT_QTC વર્ષના\N_NN વિકાસ\N_NN પછી\PSP જે\PR_PRL પરિવર્તન\N_NN આવ્યું\V_VM તે\DM_DMD આ\DM_DMD પ્રમાણે\PSP છે\V_VAUX :\RD_PUNC
+GJECD400	આજે\N_NST પ્રાથમિક\JJ વિભાગનો\N_NN હિસ્સો\N_NN ૨૭\QT_QTC ટકાની\N_NN આસપાસ\N_NST રહેવા\V_VAUX_VNP પામે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD401	તેમાં\DM_DMD પણ\RP_RPD થોડી\QT_QTF વધઘટ\N_NN થયા\V_VAUX_VNP કરતી\V_VAUX_VNP હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD402	જોકે\CC_CCS આપણે\PR_PRP જે\PR_PRL ઝડપે\N_NN ઉદ્યોગોનો\N_NN વિકાસ\N_NN કરવા\V_VAUX_VNP ઈચ્છતા\V_VAUX_VNP હતા\V_VAUX તે\DM_DMD ઝડપે\N_NN તે\DM_DMD થઈ\V_VM શક્યો\V_VAUX નથી\RP_NEG .\RD_PUNC
+GJECD403	આજે\N_NST સેવાઓનો\N_NN વિભાગ\N_NN દેશની\N_NN રાષ્ટ્રીય\JJ આવકમાં\N_NN લગભગ\PSP ૫૦\QT_QTC ટકાની\N_NN નજીકનો\JJ ફાળો\N_NN આપે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD404	દેશના\N_NN આર્થિક\JJ વિકાસનું\N_NN નેતૃત્વ\N_NN સેવાવિભાગ\N_NN સંભાળી\V_VM રહ્યો\V_VAUX હોય\V_VAUX તેવું\JJ ચિત્ર\N_NN દેખાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD405	અર્થતંત્રનો\N_NN કયો\DM_DMQ વિભાગ\N_NN કેટલા\QT_QTF લોકોને\N_NN રોજગારી\N_NN પૂરી\JJ પાડી\V_VM શકે\V_VAUX છે\V_VAUX અથવા\CC_CCD રોજગારીની\N_NN દૃષ્ટિએ\N_NN અર્થતંત્રના\N_NN જુદા\JJ જુદા\JJ વિભાગોનો\N_NN ફાળો\N_NN કેટકેટલો\QT_QTF છે\V_VAUX તે\DM_DMD પણ\RP_RPD અગત્યનું\JJ બને\V_VM છે\V_VAUX .\RD_PUNC
+GJECD406	જે\PR_PRL લોકો\N_NN શ્રમકાર્ય\N_NN એટલે\PSP કે\CC_CCS મજૂરી\N_NN કે\CC_CCS નોકરી\N_NN કરતા\V_VAUX_VNP હોય\V_VAUX અને\CC_CCD જેઓ\PR_PRP અન્યને\JJ શ્રમકાર્ય\N_NN કે\CC_CCS નોકરીમાં\N_NN રાખે\V_VM અને\CC_CCD જે\PR_PRL સ્વયં\PR_PRF રોજગાર\N_NN પામેલા\V_VAUX_VNP હોય\V_VAUX .\RD_PUNC
+GJECD407	આ\DM_DMD બધાને\QT_QTF સમગ્રપણે\JJ શ્રમિકો\N_NN કે\CC_CCS શ્રમનો\N_NN પૂરવઠો\N_NN કહેવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD408	ગરીબ\JJ જૂથના\N_NN દેશોમાં\N_NN કૃષિ\N_NN સહિતનો\PSP પ્રાથમિક\JJ વિભાગ\N_NN અન્ય\JJ બે\QT_QTC વિભાગોની\N_NN તુલનામાં\N_NN સૌથી\JJ વધુ\QT_QTF ,\RD_PUNC અંદાજે\N_NN ૫૦\QT_QTC ટકાથી\N_NN ૭૫\QT_QTC %\RD_SYM રોજગારી\N_NN પૂરી\JJ પાડતો\V_VAUX_VNP હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD409	રોજગારીના\N_NN દૃષ્ટિબિંદુથી\N_NN અન્ય\JJ વિભાગોનો\N_NN અલ્પ\JJ વિકાસ\N_NN થયો\V_VM હોવાથી\V_VAUX_VNP આ\DM_DMD દેશોને\N_NN અલ્પવિકસિત\JJ કહેવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD410	અલબત્ત\PSP ,\RD_PUNC તેમાં\DM_DMD અલ્પ\JJ વિકાસનાં\N_NN અન્ય\JJ કેટલાંક\QT_QTF લક્ષણો\N_NN પણ\RP_RPD જોવા\V_VAUX_VNP મળે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD411	આ\DM_DMD દૃષ્ટિએ\N_NN ભારતીય\JJ અર્થતંત્ર\N_NN કૃષિપ્રધાન\N_NN છે\V_VAUX .\RD_PUNC
+GJECD412	અમેરિકા\N_NNP ,\RD_PUNC ઈંગ્લેન્ડ\N_NNP જેવા\JJ દેશોને\N_NN ઔદ્યોગિક\JJ દેશો\N_NN કહે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD413	આ\DM_DMD દેશોમાં\N_NN રોજગારી\N_NN અને\CC_CCD ઉત્પાદનની\N_NN દૃષ્ટિએ\N_NN ઉદ્યોગોનો\N_NN વિભાગ\N_NN કૃષિવિભાગ\N_NN કરતાં\V_VAUX_VNP વધુ\QT_QTF મહત્ત્વ\N_NN ધરાવે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD414	આ\DM_DMD અર્થમાં\N_NN તે\DM_DMD ઔદ્યોગિક\JJ દેશો\N_NN છે\V_VAUX .\RD_PUNC
+GJECD415	શ્રીલંકા\N_NNP ,\RD_PUNC પાકિસ્તાન\N_NNP જેવા\JJ અલ્પવિકસિત\JJ દેશોમાં\N_NN રોજગારી\N_NN પ્રાપ્ત\JJ કરવામાં\V_VAUX_VNP કૃષિ\N_NN સહિતના\PSP પ્રાથમિક\JJ વિભાગનું\N_NN ઘણું\QT_QTF મહત્ત્વ\N_NN છે\V_VAUX .\RD_PUNC
+GJECD416	આ\DM_DMD વાસ્તવિકતા\N_NN ભારત\N_NNP ,\RD_PUNC પાકિસ્તાન\N_NNP તેમજ\CC_CCD અન્ય\JJ દેશોના\N_NN આર્થિક\JJ પછાતપણાને\N_NN સમજવાની\V_VAUX_VNP રીત\N_NN પૂરી\JJ પાડે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD417	દા.ત.\CC_CCS_UT ૧૯૮૦માં\QT_QTC ભારતમાં\N_NNP કૃષિક્ષેત્રે\N_NN ૭૦\QT_QTC %\RD_SYM લોકો\N_NN રોકાયેલા\V_VAUX_VNP હોવા\V_VAUX_VNP છતાં\RP_RPD કુલ\JJ રાષ્ટ્રીય\JJ ઉત્પાદનમાં\N_NN (\RD_SYM GDP\RD_RDF )\RD_SYM તેનો\DM_DMD હિસ્સો\N_NN માત્ર\RP_RPD ૩૮\QT_QTC %\RD_SYM જ\RP_RPD હતો\V_VAUX .\RD_PUNC
+GJECD418	બીજી\JJ તરફ\PSP ઉદ્યોગોમાં\N_NN રોકાયેલા\V_VAUX_VNP ૧૩\QT_QTC %\RD_SYM લોકોનો\N_NN રાષ્ટ્રીય\JJ આવકમાં\N_NN (\RD_SYM GDP\RD_RDF )\RD_SYM ફાળો\N_NN ૨૬\QT_QTC ટકાનો\N_NN હતો\V_VAUX .\RD_PUNC
+GJECD419	એક\QT_QTC સરળ\JJ ગણતરીથી\N_NN આને\DM_DMD સમજીએ\V_VM .\RD_PUNC
+GJECD420	માનો\V_VM કે\CC_CCS અર્થતંત્રમાં\N_NN ૧૦૦\QT_QTC વ્યક્તિઓ\N_NN ઉત્પાદનકાર્યમાં\N_NN રોકાયેલી\V_VAUX_VNP છે\V_VAUX અને\CC_CCD તે\DM_DMD કુલ\JJ ૧૦૦\QT_QTC રૂપિયાના\N_NN મૂલ્યનું\N_NN ઉત્પાદન\N_NN કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD421	કૃષિક્ષેત્રે\N_NN રોકાયેલી\V_VAUX_VNP ૭૦\QT_QTC વ્યક્તિઓ\N_NN દ્વારા\PSP થતું\V_VAUX_VNP કુલ\JJ ઉત્પાદન\N_NN ૩.૩૮ના\QT_QTC મૂલ્યનું\N_NN હોવાથી\V_VAUX_VNP વ્યક્તિ\N_NN દીઠ\PSP ઉત્પાદન\N_NN ૫૪\QT_QTC પૈસાનું\N_NN ગણાય\V_VM .\RD_PUNC
+GJECD422	આમ\PSP ,\RD_PUNC કૃષિક્ષેત્રે\N_NN રોકાયેલા\V_VAUX_VNP શ્રમિકોની\N_NN તુલનાએ\N_NN ઉદ્યોગોમાં\N_NN રોકાયેલા\V_VAUX_VNP શ્રમિકો\N_NN વ્યક્તિ\N_NN દીઠ\PSP સાડાત્રણ\QT_QTC ગણાથી\JJ વધુ\QT_QTF ઉત્પાદન\N_NN કરે\V_VM છે\V_VAUX તેમ\PSP કહેવાય\V_VM .\RD_PUNC
+GJECD423	પર્યાવરણ\N_NN અને\CC_CCD અર્થશાસ્ત્ર\N_NN વચ્ચેનો\JJ સંબંધ\N_NN સમજાવો\V_VM જરૂરી\JJ છે\V_VAUX .\RD_PUNC
+GJECD424	પર્યાવરણ\N_NN અને\CC_CCD અર્થતંત્રના\N_NN વચ્ચે\N_NST વિશિષ્ટ\JJ સંબંધ\N_NN છે\V_VAUX .\RD_PUNC
+GJECD425	વિકાસની\N_NN સામે\PSP પર્યાવરણ\N_NN અંગેની\PSP સમજણ\N_NN પણ\RP_RPD બદલાઈ\V_VM છે\V_VAUX .\RD_PUNC
+GJECD426	અર્થતંત્રના\N_NN સંદર્ભમાં\N_NN પર્યાવરણની\N_NN ભૂમિકા\N_NN ત્રણ\QT_QTC પ્રકારની\N_NN છે\V_VAUX :\RD_PUNC
+GJECD427	ઉત્પાદન\N_NN અને\CC_CCD ઉપભોગ\N_NN જેવી\JJ આર્થિક\JJ પ્રવૃત્તિઓમાં\N_NN પર્યાવરણ\N_NN સંસાધન\N_NN અને\CC_CCD ઊર્જા\N_NN પૂરાં\JJ પાડે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD428	સૂર્યપ્રકાશ\N_NN વગરની\PSP પૃથ્વીની\N_NN કલ્પના\N_NN થઈ\V_VM શકે\V_VAUX ?\RD_PUNC
+GJECD429	આપણને\PR_PRP વિજ્ઞાને\N_NN શીખવ્યું\V_VM છે\V_VAUX કે\CC_CCS સૂર્યપ્રકાશની\N_NN હાજરીમાં\N_NN વનસ્પતિ\N_NN પ્રકાશસંશ્લેષણની\N_NN ક્રિયા\N_NN દ્વારા\PSP ખોરાક\N_NN ઉત્પન્ન\JJ કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD430	આ\DM_DMD વનસ્પતિ\N_NN સમગ્ર\JJ જીવસૃષ્ટિના\N_NN પાયામાં\N_NN છે\V_VAUX .\RD_PUNC
+GJECD431	આ\DM_DMD છે\V_VAUX પર્યાવરણની\N_NN પ્રથમ\QT_QTO ભૂમિકા\N_NN .\RD_PUNC
+GJECD432	આર્થિક\JJ પ્રવૃત્તિમાં\N_NN ઉત્પાદન\N_NN અને\CC_CCD ઉપભોગની\N_NN સાથે\PSP કેટલોક\QT_QTF કચરો\N_NN પણ\RP_RPD ભેગો\JJ થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD433	કારખાના\N_NN અને\CC_CCD ફેક્ટરીનો\N_NN ધુમાડો\N_NN ક્યાં\N_NST જાય\V_VM છે\V_VAUX ?\RD_PUNC
+GJECD434	વાતાવરણમાં\N_NN જ\RP_RPD ને\RP_RPD ?\RD_PUNC
+GJECD435	આપણે\PR_PRP પણ\RP_RPD વાપરેલી\V_VAUX_VNP ચીજવસ્તુઓ\N_NN ક્યાં\N_NST ફેંકીએ\V_VM છીએ\V_VAUX ?\RD_PUNC
+GJECD436	એનું\DM_DMD કારણ\N_NN પણ\RP_RPD પર્યાવરણ\N_NN જ\RP_RPD છે\V_VAUX .\RD_PUNC
+GJECD437	પર્યાવરણની\N_NN આ\DM_DMD કચરો\N_NN શોષવાની\V_VAUX_VNP ક્ષમતા\N_NN પછી\PSP જે\PR_PRL કંઈ\DM_DMI કચરો\N_NN વધે\V_VM તે\DM_DMD પ્રદૂષણ\N_NN તરીકે\PSP ઓળખાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD438	પર્યાવરણની\N_NN ત્રીજી\QT_QTO ભૂમિકા\N_NN આર્થિક\JJ પ્રવૃત્તિઓ\N_NN સાથે\PSP પરોક્ષ\JJ રીતે\N_NN સંકળાયેલી\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJECD439	રજાના\N_NN સમયે\N_NN આપણને\PR_PRP સહુને\JJ દરિયાકિનારે\N_NN ,\RD_PUNC પર્વત\N_NN પર\PSP અથવા\CC_CCD જંગલોમાં\N_NN પ્રવાસ\N_NN કરવો\V_VAUX_VNP ગમે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD440	કારણ\N_NN વિચાર્યું\V_VM છે\V_VAUX ?\RD_PUNC
+GJECD441	સામાન્ય\JJ ભાષામાં\N_NN કહીએ\V_VM તો\CC_CCD આવાં\JJ સ્થળોએ\N_NN આપણને\PR_PRP શાંતિ\N_NN -\RD_PUNC સ્વસ્થતા\N_NN પ્રાપ્ત\JJ થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD442	રજાઓ\N_NN પછી\PSP કામ\N_NN પર\PSP પાછા\RB ફરીને\V_VAUX_VNP વધારે\QT_QTF ઉત્સાહથી\N_NN જોડાઈ\V_VM શકાય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD443	આવાં\JJ સ્થળે\N_NN શાંતિનો\N_NN અનુભવ\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD444	પર્યાવરણની\N_NN ઉપર\PSP જણાવેલી\V_VAUX_VNP ત્રણ\QT_QTC ભૂમિકાઓ\N_NN જાણ્યા\V_VAUX_VNP બાદ\PSP પર્યાવરણની\N_NN માત્ર\RP_RPD આર્થિક\JJ જ\RP_RPD નહિ\RP_NEG ,\RD_PUNC પરંતુ\CC_CCD જીવસૃષ્ટિના\N_NN અસ્તિત્વ\N_NN માટેની\PSP અગત્ય\JJ અંગે\PSP ભાગ્યે\PSP જ\RP_RPD કોઈને\PR_PRI શંકા\N_NN રહે\V_VAUX .\RD_PUNC
+GJECD445	નવી\JJ ટેકનોલૉજી\N_NN અને\CC_CCD શોધખોળના\N_NN કારણે\PSP આર્થિક\JJ પ્રવૃત્તિઓમાં\N_NN સ્રોત\N_NN તરીકે\PSP વપરાતાં\V_VAUX_VNP કુદરતી\JJ સંસાધનોનું\N_NN પ્રમાણ\N_NN વધ્યું\V_VM છે\V_VAUX .\RD_PUNC
+GJECD446	ઉપરાંત\PSP વસ્તીના\N_NN વધારાના\N_NN કારણે\PSP પણ\RP_RPD ઉત્પાદન\N_NN અને\CC_CCD ઉપભોગ\N_NN વધતાં\V_VAUX_VNP કુદરતી\JJ સંસાધનોના\N_NN ઉપયોગમાં\N_NN વધારો\N_NN થયો\V_VM છે\V_VAUX .\RD_PUNC
+GJECD447	વધતી\V_VAUX_VNP જતી\V_VAUX_VNP આર્થિક\JJ પ્રવૃત્તિઓને\N_NN કારણે\PSP પર્યાવરણમાં\N_NN નિકાલ\N_NN થતા\V_VAUX_VNP કચરામાંથી\N_NN કેટલોક\QT_QTF કચરો\N_NN પ્રદૂષણ\N_NN બને\V_VM છે\V_VAUX .\RD_PUNC
+GJECD448	વિકાસની\N_NN સાથે\PSP હવા\N_NN ,\RD_PUNC પાણી\N_NN તથા\CC_CCD જમીનમાં\N_NN પ્રદૂષણનું\N_NN પ્રમાણ\N_NN વધતું\V_VAUX_VNP ગયું\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD449	રાસાયણિક\JJ ખાતર\N_NN તથા\CC_CCD જંતુનાશક\JJ દવાના\N_NN કારણે\PSP જમીન\N_NN ઉપરાંત\PSP હવા\N_NN તથા\CC_CCD પાણી\N_NN પણ\RP_RPD પ્રદૂષિત\JJ થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD450	આ\DM_DMD પ્રદૂષણનો\N_NN ખર્ચ\N_NN પેઢીને\N_NN ખાનગી\JJ ખર્ચ\N_NN તરીકે\PSP નહિ\RP_NEG ,\RD_PUNC પરંતુ\CC_CCD સમગ્ર\N_NN સમાજે\N_NN ભોગવવાનો\V_VAUX_VNP રહે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD451	પરંપરાગત\JJ અર્થશાસ્ત્રમાં\N_NN આવા\JJ ખર્ચને\N_NN ધ્યાનમાં\N_NN લેવાયો\V_VM નથી\RP_NEG .\RD_PUNC
+GJECD452	આ\DM_DMD ખર્ચને\N_NN `\RD_PUNC બાહ્ય\JJ અસર\N_NN `\RD_PUNC તરીકે\PSP ઓળખવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD453	વિકાસની\N_NN સાથે\PSP પર્યાવરણીય\JJ સેવાઓ\N_NN પર\PSP પણ\RP_RPD નકારાત્મક\JJ અસર\N_NN પડી\V_VM છે\V_VAUX .\RD_PUNC
+GJECD454	વધતી\V_VAUX_VNP જતી\V_VAUX_VNP વસ્તીની\N_NN માંગને\N_NN સંતોષવા\V_VAUX_VNP તથા\CC_CCD વિકસિત\JJ દેશોની\N_NN જીવનશૈલીની\N_NN દેખાદેખીના\N_NN કારણે\PSP પર્યાવરણીય\JJ સંસાધનોની\N_NN માંગ\N_NN વધી\V_VM .\RD_PUNC
+GJECD455	ક્યારેક\N_NST ખેતી\N_NN માટે\PSP જંગલોનો\N_NN નાશ\N_NN થયો\V_VM ,\RD_PUNC તો\CC_CCD ક્યારેક\N_NST પ્રદૂષણના\N_NN કારણે\PSP નદી\N_NN અને\CC_CCD સમુદ્રની\N_NN ગુણવત્તા\N_NN ઘટી\V_VM છે\V_VAUX .\RD_PUNC
+GJECD456	ડુંગરો\N_NN બોડા\JJ થવા\V_VAUX_VNP લાગ્યા\V_VM છે\V_VAUX .\RD_PUNC
+GJECD457	વિહારધામોના\N_NN વિકાસના\N_NN કારણે\PSP આર્થિક\JJ ઉપાર્જનની\N_NN સાથે\PSP તેના\DM_DMD પર્યાવરણને\N_NN થતા\JJ નુક્શાનનો\N_NN વિચાર\N_NN પણ\RP_RPD કરવો\V_VAUX_VNP જરૂરી\JJ છે\V_VAUX .\RD_PUNC
+GJECD458	આમ\PSP ,\RD_PUNC આર્થિક\JJ વિકાસની\N_NN સાથે\PSP પર્યાવરણીય\JJ સમસ્યાઓ\N_NN જટિલ\JJ બનતી\V_VAUX_VNP ચાલી\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD459	પર્યાવરણીય\JJ સમસ્યાઓ\N_NN માટે\PSP વિશ્વસ્તરે\N_NN સૌ\JJ પ્રથમ\QT_QTO જાગૃતિ\N_NN ૧૯૭૨માં\QT_QTC આવી\V_VM .\RD_PUNC
+GJECD460	સ્વીડનના\N_NNP સ્ટૉકહૉમ\N_NNP શહેરમાં\N_NNP પ્રથમ\QT_QTO વખત\N_NN `\RD_PUNC પૃથ્વી\N_NN પરિષદનું\N_NN `\RD_PUNC આયોજન\N_NN થયું\V_VM ,\RD_PUNC જેમાં\PR_PRL માનવીય\JJ પર્યાવરણ\N_NN અંગે\PSP ચર્ચા\N_NN થઈ\V_VM .\RD_PUNC
+GJECD461	ત્યારબાદ\PSP ૧૯૯૨માં\QT_QTC બ્રાઝિલનાં\N_NNP પાટનગર\N_NN રીયો-ડી-જાનેરોમાં\N_NNP વૈશ્વિક\JJ સ્તરે\N_NN પરિષદનું\N_NN આયોજન\N_NN થયું\V_VM ,\RD_PUNC જેમાં\PR_PRL અનેક\JJ દેશોની\N_NN સરકારો\N_NN તથા\CC_CCD બિનસરકારી\JJ સંગઠનોએ\N_NN ભાગ\N_NN લીધો\V_VM .\RD_PUNC
+GJECD462	સંપોષિત\JJ વિકાસનો\N_NN ખ્યાલ\N_NN આ\DM_DMD પરિષદ\N_NN બાદ\PSP જાણીતો\JJ બન્યો\V_VM .\RD_PUNC
+GJECD463	દેશની\N_NN રાષ્ટ્રીય\JJ આવકની\N_NN ગણતરીમાં\N_NN પણ\RP_RPD પર્યાવરણને\N_NN થતા\V_VAUX_VNP નુક્શાન\N_NN અને\CC_CCD તેમાં\DM_DMD આવેલાં\V_VAUX_VNP હકારાત્મક\JJ પરિવર્તનોને\N_NN ધ્યાનમાં\N_NN લઈને\V_VAUX_VNP `\RD_PUNC હરિયાળી\JJ રાષ્ટ્રીય\JJ આવકનો\N_NN `\RD_PUNC ખ્યાલ\N_NN પણ\RP_RPD ક્રમશઃ\JJ વિકસતો\V_VAUX_VNP જાય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD464	બંનેનો\JJ ચોખ્ખો\JJ લાભ\N_NN ધ્યાનમાં\N_NN લેવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD465	અગાઉ\PSP જોયા\V_VAUX_VNP મુજબ\PSP આર્થિક\JJ વિકાસના\N_NN પ્રારંભના\N_NN તબક્કામાં\N_NN વિવિધ\JJ હેતુઓ\N_NN માટે\PSP પર્યાવરણની\N_NN માંગ\N_NN થતી\V_VAUX_VNP રહે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD466	પરિણામે\PSP પર્યાવરણની\N_NN ગુણવત્તા\N_NN ઘટે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD467	પરંતુ\CC_CCD વિકાસની\N_NN સાથે\PSP પ્રજાનું\N_NN જીવનધોરણ\N_NN ઊંચું\JJ જતાં\V_VAUX_VNP શુદ્ધ\JJ પર્યાવરણ\N_NN માટેની\PSP માંગમાં\N_NN વધારો\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD468	આ\DM_DMD માંગને\N_NN સંતોષવા\V_VAUX_VNP માટે\PSP `\RD_PUNC પર્યાવરણમિત્ર\N_NN `\RD_PUNC ટેકનોલોજી\N_NN અને\CC_CCD તે\DM_DMD દ્વારા\PSP ઉત્પન્ન\JJ થતી\V_VAUX_VNP વસ્તુઓની\N_NN વપરાશ\N_NN વધતાં\V_VAUX_VNP પર્યાવરણીય\JJ ગુણવત્તા\N_NN સુધરે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD469	આત્યંતિક\JJ પર્યાવરણવાદી\JJ ગમે\PSP તે\DM_DMD ભોગે\N_NN પર્યાવરણને\N_NN જાળવવા\V_VAUX_VNP ઈચ્છે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD470	પરંતુ\CC_CCD આ\DM_DMD બંનેમાંથી\JJ કોઈ\DM_DMI પણ\RP_RPD પક્ષે\N_NN સંપૂર્ણ\JJ સત્ય\N_NN રહેલું\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJECD471	અહીં\N_NST સમાધાનકારી\JJ વલણ\N_NN સ્વીકારીને\V_VAUX_VNP પર્યાવરણ\N_NN અને\CC_CCD વિકાસ\N_NN વચ્ચેનો\JJ વિકલ્પ\N_NN -\RD_PUNC વિનિમય\N_NN સમજવો\V_VAUX_VNP રહ્યો\V_VAUX .\RD_PUNC
+GJECD472	પર્યાવરણીય\JJ ગુણવત્તાના\N_NN ઈચ્છનીય\JJ સ્તર\N_NN અને\CC_CCD વાસ્તવિક\JJ સ્તર\N_NN વચ્ચે\N_NST જો\CC_CCD તફાવત\N_NN હોય\V_VAUX તો\CC_CCD અર્થતંત્રમાં\N_NN પર્યાવરણીય\JJ નીતિ\N_NN જરૂરી\JJ છે\V_VAUX ,\RD_PUNC તેમ\PSP કહી\V_VM શકાય\V_VAUX .\RD_PUNC
+GJECD473	જેમકે\CC_CCS_UT એશિયાના\N_NNP સિંહનું\N_NN અસ્તિત્વ\N_NN ટકાવી\V_VM રાખવું\V_VAUX_VNP .\RD_PUNC
+GJECD474	પરંતુ\CC_CCD પર્યાવરણનાં\N_NN અન્ય\JJ જોખમોનું\N_NN આર્થિક\JJ મૂલ્યનિર્ધારણ\N_NN કરીને\V_VAUX_VNP પર્યાવરણીય\JJ નીતિ\N_NN નક્કી\JJ થવી\V_VAUX_VNP જોઈએ\V_VAUX .\RD_PUNC
+GJECD475	પર્યાવરણીય\JJ પ્રદૂષણની\N_NN સાથે\PSP સંબંધિત\JJ વ્યક્તિ\N_NN /\RD_SYM પેઢીને\N_NN આપમેળે\PR_PRF રસ્તો\N_NN ચીંધનાર\V_VAUX_VNP નીતિ\N_NN .\RD_PUNC
+GJECD476	ક્યારેક\N_NST રૂઢિગત\JJ ,\RD_PUNC તો\CC_CCD ક્યારેક\N_NST કાયદાકીય\JJ રીતે\N_NN સરકારે\N_NN કે\CC_CCS સમાજે\N_NN બનાવેલા\V_VAUX_VNP નિયમોનું\N_NN પાલન\N_NN ન\RP_NEG કરનારને\V_VAUX_VNP દંડ\N_NN કરવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD477	એક\QT_QTC ઉદાહરણ\N_NN દ્વારા\PSP વાત\N_NN સ્પષ્ટ\JJ કરીએ\V_VM .\RD_PUNC
+GJECD478	ધારો\V_VM કે\CC_CCS એક\QT_QTC સરોવરની\N_NN આજુબાજુ\N_NST કેટલાક\QT_QTF ઔદ્યોગિક\JJ એકમો\N_NN આવેલા\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJECD479	એક\QT_QTC એકમ\N_NN સરોવરના\N_NN પાણીનો\N_NN ઉપયોગ\N_NN કરીને\V_VAUX_VNP ખાદ્ય\JJ પદાર્થોનું\N_NN ઉત્પાદન\N_NN કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD480	પ્રશ્ન\N_NN એ\DM_DMD છે\V_VAUX કે\CC_CCS આ\DM_DMD પરિસ્થિતિમાં\N_NN સરોવરના\N_NN પાણીની\N_NN ગુણવત્તાની\N_NN જાળવણી\N_NN કેવી\DM_DMQ રીતે\N_NN કરવી\V_VAUX_VNP ?\RD_PUNC
+GJECD481	કોઈક\DM_DMI સત્તા\N_NN દ્વારા\PSP પાણીની\N_NN ગુણવત્તા\N_NN નક્કી\JJ કરવામાં\V_VAUX_VNP આવે\V_VAUX તો\CC_CCD પછી\PSP પાણીની\N_NN ગુણવત્તાની\N_NN જાળવણીનું\N_NN કામ\N_NN એકમોનું\N_NN રહેશે\V_VM .\RD_PUNC
+GJECD482	તેમણે\PR_PRP પાણીની\N_NN ગુણવત્તામાં\N_NN ઘટાડાના\N_NN કારણે\PSP થતા\V_VAUX_VNP નુક્શાનનું\N_NN વળતર\N_NN ચૂકવવાનું\V_VAUX_VNP રહેશે\V_VAUX .\RD_PUNC
+GJECD483	સમાજસ્વીકૃત\JJ વર્તણૂક\N_NN માટે\PSP રાજકીય\JJ સત્તા\N_NN ધોરણો\N_NN ઘડે\V_VM છે\V_VAUX અને\CC_CCD આ\DM_DMD ધોરણોનો\N_NN અસ્વીકાર\N_NN સજામાં\N_NN પરિણમે\PSP છે\V_VAUX .\RD_PUNC
+GJECD484	આ\DM_DMD નીતિને\N_NN `\RD_PUNC આદેશ\N_NN અને\CC_CCD નિયંત્રણની\N_NN `\RD_PUNC વ્યૂહરચના\N_NN પણ\RP_RPD કહેવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD485	`\RD_PUNC ધોરણ\N_NN `\RD_PUNC એટલે\PSP કાયદા\N_NN દ્વારા\PSP સમર્થન\N_NN પામેલું\V_VAUX_VNP ,\RD_PUNC કામગીરીનું\N_NN નિશ્ચિત\JJ સ્તર\N_NN .\RD_PUNC
+GJECD486	કોઈ\DM_DMI પણ\RP_RPD વસ્તુ\N_NN /\RD_SYM સેવાના\N_NN ઉત્પાદન\N_NN માટે\PSP કિંમત\N_NN ચૂકવવી\V_VAUX_VNP જરૂરી\JJ છે\V_VAUX .\RD_PUNC
+GJECD487	વિના\PSP મૂલ્યે\N_NN કશું\DM_DMI જ\RP_RPD પ્રાપ્ત\JJ થઈ\V_VM શકે\V_VAUX નહી\RP_NEG .\RD_PUNC
+GJECD488	આ\DM_DMD બાબત\N_NN પર્યાવરણ\N_NN માટે\PSP પણ\RP_RPD સાચી\JJ છે\V_VAUX .\RD_PUNC
+GJECD489	પર્યાવરણ\N_NN કચરાના\N_NN નિકાલ\N_NN માટે\PSP ચૂકવવી\V_VAUX_VNP પડતી\V_VAUX_VNP કિંમત\N_NN `\RD_PUNC ઉત્સર્જન\N_NN કર\N_NN `\RD_PUNC તરીકે\PSP ઓળખાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD490	જો\CC_CCD પેઢી\N_NN હવા\N_NN ,\RD_PUNC પાણી\N_NN કે\CC_CCS જમીન\N_NN પર\PSP કચરાનો\N_NN નિકાલ\N_NN કરે\V_VM ,\RD_PUNC તો\CC_CCD તેને\DM_DMD પર્યાવરણને\N_NN પ્રદૂષિત\JJ કરવા\V_VAUX_VNP માટે\PSP વધારનો\JJ ખર્ચ\N_NN ભોગવવો\V_VAUX_VNP પડે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD491	પ્રદૂષણના\N_NN સ્વીકાર્ય\JJ ધોરણના\N_NN સંદર્ભમાં\N_NN વેચાણપાત્ર\JJ પરવાનાઓનું\N_NN પ્રમાણ\N_NN નક્કી\JJ કરીને\V_VAUX_VNP તેની\DM_DMD ફાળવણી\N_NN કરવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD492	જે\PR_PRL પેઢી\N_NN ઓછું\QT_QTF પ્રદૂષણ\N_NN કરતી\V_VAUX_VNP હોય\V_VAUX ,\RD_PUNC તે\PR_PRL પેઢી\N_NN પોતાની\PR_PRF પાસેના\PSP પરવાના\N_NN પ્રદૂષણ\N_NN કરતી\V_VAUX_VNP પેઢીને\N_NN કાયદેસર\JJ વેચી\V_VM શકે\V_VAUX છે\V_VAUX અને\CC_CCD આવક\N_NN મેળવી\V_VM શકે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD493	પરવાનાઓનું\N_NN પ્રમાણ\N_NN નક્કી\JJ હોવાથી\V_VAUX_VNP પ્રદૂષણનું\N_NN પ્રમાણ\N_NN નિશ્ચિત\JJ રહે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD494	ઉત્પાદન\N_NN વધવા\V_VAUX_VNP છતાં\RP_RPD તેમાં\DM_DMD વધારો\N_NN થતો\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJECD495	આ\DM_DMD નીતિના\N_NN કારણે\PSP પણ\RP_RPD ,\RD_PUNC પેઢીને\N_NN ઓછું\QT_QTF પ્રદૂષણ\N_NN કરતી\V_VAUX_VNP ટેકનોલોજીને\N_NN સ્વીકારીને\V_VAUX_VNP પોતાના\PR_PRF ભાગના\N_NN પરવાના\N_NN વેચી\V_VAUX_VNP આવકસર્જન\N_NN માટેનું\PSP પ્રોત્સાહન\N_NN મળી\V_VM રહે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD496	ભારત\N_NNP માટે\PSP એટલું\JJ તો\CC_CCD જરૂરી\JJ કહી\V_VM શકાય\V_VAUX કે\CC_CCD પર્યાવરણને\N_NN લગતી\V_VAUX_VNP સ્થાનિકથી\JJ લઈ\V_VAUX વૈશ્વિક\JJ સ્તરની\N_NN સમસ્યાઓ\N_NN માટેની\PSP સમજણ\N_NN તથા\CC_CCD સજ્જતા\JJ લાવવી\V_VAUX_VNP અત્યંત\JJ જરૂરી\JJ છે\V_VAUX .\RD_PUNC
+GJECD497	આ\DM_DMD સમસ્યા\N_NN માત્ર\RP_RPD આર્થિક\JJ જ\RP_RPD નથી\RP_NEG .\RD_PUNC
+GJECD498	કોઈ\DM_DMI પણ\RP_RPD પ્રકારનો\N_NN ધંધો\N_NN એ\DM_DMD આર્થિક\JJ પ્રવૃત્તિ\N_NN છે\V_VAUX .\RD_PUNC
+GJECD499	એમાં\DM_DMD વિવિધ\JJ પ્રકારનાં\N_NN સાધનો\N_NN રોકાયેલાં\V_VAUX_VNP હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD500	વેપારી\N_NN એકમ\N_NN હશે\V_VAUX તો\CC_CCD ખરીદવેચાણ\N_NN મારફતે\PSP નફાની\N_NN ગણતરી\N_NN મૂકશે\V_VM .\RD_PUNC
+GJECD501	આમ\PSP ,\RD_PUNC કોઈ\DM_DMI પણ\RP_RPD એકમમાં\N_NN આર્થિક\JJ લાભને\N_NN ખાતર\PSP હંમેશા\PSP અસર\N_NN કરતાં\V_VAUX_VNP વિવિધ\JJ પરિબળોનો\N_NN અભ્યાસ\N_NN ભવિષ્ય\N_NN માટે\PSP કરવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD502	દા.ત.\CC_CCS_UT ધંધાકીય\JJ એકમો\N_NN ભવિષ્યની\N_NN પ્રવૃત્તિમાંથી\N_NN ,\RD_PUNC નફો\N_NN કરવાની\V_VAUX_VNP ગણતરી\N_NN મૂકે\V_VM .\RD_PUNC
+GJECD503	આપણે\PR_PRP ભવિષ્યમાં\N_NN યાદીમાંથી\N_NN જે\PR_PRL આદર્શ\N_NN વિકલ્પ\N_NN અપનાવવા\V_VAUX_VNP અંગેની\PSP યોજના\N_NN તૈયાર\JJ કરવામાં\V_VAUX_VNP આવે\V_VAUX તેને\DM_DMD આયોજન\N_NN કહી\V_VM શકાય\V_VAUX .\RD_PUNC
+GJECD504	આમ\PSP ,\RD_PUNC આયોજન\N_NN ભવિષ્ય\N_NN સામે\PSP વર્તમાનમાં\N_NN જુએ\V_VM છે\V_VAUX .\RD_PUNC
+GJECD505	કારણકે\CC_CCS ધંધામાં\N_NN પણ\RP_RPD અનેક\JJ પ્રકારની\N_NN અનિશ્ચિતતાઓ\N_NN રહેલી\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJECD506	આ\DM_DMD અનિશ્ચિતતાઓ\N_NN નાણાંને\N_NN લગતી\V_VAUX_VNP ,\RD_PUNC કાચા\JJ માલને\N_NN લગતી\V_VAUX_VNP ,\RD_PUNC કામદારોને\N_NN લગતી\V_VAUX_VNP ,\RD_PUNC વીજળીને\N_NN લગતી\V_VAUX_VNP ,\RD_PUNC ગ્રાહકોની\N_NN બદલાતી\V_VAUX_VNP જતી\V_VAUX_VNP માંગને\N_NN લગતી\V_VAUX_VNP વગેરે\PSP હોઈ\V_VAUX શકે\V_VAUX .\RD_PUNC
+GJECD507	આયોજનમાં\N_NN માત્ર\RP_RPD ધારણાઓ\N_NN જ\RP_RPD મુકાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD508	આયોજનની\N_NN વ્યાખ્યા\N_NN નીચે\N_NST મુજબ\PSP આપવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX :\RD_PUNC
+GJECD509	``\RD_PUNC આયોજનનું\N_NN કાર્ય\N_NN એ\DM_DMD પસંદગીનું\N_NN કાર્ય\N_NN છે\V_VAUX .\RD_PUNC ``\RD_PUNC
+GJECD510	``\RD_PUNC આયોજન\N_NN એટલે\PSP અપેક્ષિત\JJ પરિણામો\N_NN હાંસલ\JJ કરવા\V_VAUX_VNP માટે\PSP હકીકતોની\N_NN પસંદગી\N_NN કરવી\V_VAUX_VNP ,\RD_PUNC તેની\DM_DMD વચ્ચે\N_NST આંતરસંબંધો\N_NN સ્થાપવા\V_VAUX_VNP .\RD_PUNC ``\RD_PUNC
+GJECD511	``\RD_PUNC કાર્યની\N_NN યોજના\N_NN એટલે\PSP પરિણામોની\N_NN પૂર્વ\N_NST વિચારણા\N_NN કાર્ય\N_NN અનુસરવા\V_VAUX_VNP માટેની\PSP નીતિ\N_NN -\RD_PUNC તબક્કા\N_NN અને\CC_CCD ઉપયોગમાં\N_NN લેવાતી\V_VAUX_VNP પદ્ધતિ\N_NN નક્કી\JJ કરવી\V_VAUX_VNP .\RD_PUNC ``\RD_PUNC
+GJECD512	ટૂંકમાં\N_NN ,\RD_PUNC ધંધામાં\N_NN જે\PR_PRL પ્રવૃત્તિઓ\N_NN કરવાની\V_VAUX_VNP હોય\V_VAUX તે\PR_PRL અંગે\PSP વિગતો\N_NN ભેગી\JJ કરી\V_VM અને\CC_CCD પૂર્વવિચારણા\N_NN કરવી\V_VAUX_VNP તથા\CC_CCD આ\DM_DMD પ્રવૃત્તિઓ\N_NN કેવી\DM_DMQ રીતે\N_NN કરવી\V_VAUX_VNP તે\DM_DMD અંગેની\PSP યોજના\N_NN એટલે\PSP આયોજન\N_NN .\RD_PUNC
+GJECD513	આયોજન\N_NN સર્વવ્યાપી\JJ છે\V_VAUX .\RD_PUNC
+GJECD514	આયોજન\N_NN સંચાલનનું\N_NN સર્વ\JJ પ્રથમ\QT_QTO કાર્ય\N_NN છે\V_VAUX .\RD_PUNC
+GJECD515	આયોજનના\N_NN આધારે\N_NN જ\RP_RPD બીજાં\JJ કાર્યો\N_NN ,\RD_PUNC જેવાંકે\CC_CCS_UT પ્રબંધ\N_NN ,\RD_PUNC દોરવણી\N_NN અને\CC_CCD અંકુશની\N_NN વિચારણા\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD516	આયોજન\N_NN એ\DM_DMD સભાન\JJ અને\CC_CCD બૌદ્ધિક\JJ પ્રક્રિયા\N_NN છે\V_VAUX .\RD_PUNC
+GJECD517	આયોજન\N_NN એ\DM_DMD સતત\JJ પ્રક્રિયા\N_NN છે\V_VAUX .\RD_PUNC
+GJECD518	આયોજનમાં\N_NN જુદા\JJ જુદા\JJ પ્રકારની\N_NN ગણતરીઓ\N_NN અને\CC_CCD ધારણા\N_NN હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD519	જેમકે\CC_CCS_UT વેચાણ\N_NN વધશે\V_VM તો\CC_CCD ઉત્પાદન\N_NN વધશે\V_VM અને\CC_CCD ઉત્પાદન\N_NN વધશે\V_VM તો\CC_CCD કાચો\JJ માલ\N_NN ખરીદી\N_NN વધશે\V_VM .\RD_PUNC
+GJECD520	આવા\JJ ફેરફારની\N_NN શક્યતા\N_NN હોવાના\V_VAUX_VNP કારણે\PSP આયોજન\N_NN પરિવર્તનશીલ\JJ બને\V_VM છે\V_VAUX .\RD_PUNC
+GJECD521	પરિવર્તનશીલતા\N_NN એ\DM_DMD સફળ\JJ આયોજનની\N_NN પૂર્વશરત\N_NN છે\V_VAUX .\RD_PUNC
+GJECD522	ચોક્કસાઈ\N_NN એ\DM_DMD આયોજનની\N_NN પૂર્વશરત\N_NN છે\V_VAUX .\RD_PUNC
+GJECD523	ધંધામાં\N_NN ભવિષ્યમાં\N_NN શું\PR_PRQ થશે\V_VM અને\CC_CCD શું\PR_PRQ થવાનું\V_VAUX_VNP છે\V_VAUX ,\RD_PUNC જે\PR_PRL ધંધાની\N_NN ધ્યેયસિદ્ધિને\N_NN અસર\N_NN કરશે\V_VM ,\RD_PUNC તેનો\DM_DMD વિચાર\N_NN કર્યા\V_VAUX_VNP વગર\PSP ગણતરી\N_NN થઈ\V_VM શકે\V_VAUX નહિ\RP_NEG .\RD_PUNC
+GJECD524	તે\DM_DMD અંગેની\JJ ધારણાઓ\N_NN વર્તમાનમાં\N_NN ભાવિ\N_NN માટે\PSP કરવી\V_VAUX_VNP પડે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD525	આથી\PSP હેનરી\N_NNP ફૅયોલે\N_NNP ધંધાના\N_NN પહેલા\N_NST કાર્ય\N_NN તરીકે\PSP પૂર્વાનુમાન\N_NN અને\CC_CCD આયોજનને\N_NN ગણાવ્યાં\V_VM છે\V_VAUX .\RD_PUNC
+GJECD526	આ\DM_DMD પૂર્વાનુમાન\N_NN જ\RP_RPD રૂપરેખા\N_NN આપે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD527	એમાં\DM_DMD વિવિધ\JJ પ્રકારનાં\N_NN વિકલ્પો\N_NN હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD528	દા.ત.\CC_CCS_UT વેચાણ\N_NN ઘટે\V_VM તો\CC_CCD શું\PR_PRQ ?\RD_PUNC
+GJECD529	વેચાણ\N_NN વધે\V_VM તો\RP_RPD શું\PR_PRQ ?\RD_PUNC
+GJECD530	અને\CC_CCD વેચાણ\N_NN એકસરખું\JJ રહે\V_VM તો\CC_CCD શું\PR_PRQ ?\RD_PUNC
+GJECD531	આમ\PSP ,\RD_PUNC આયોજનમાં\N_NN જુદા\JJ જુદા\JJ વિકલ્પો\N_NN હોય\V_VAUX છે\V_VAUX ,\RD_PUNC જેમાંથી\PR_PRL ધંધાકીય\JJ એકમે\N_NN આદર્શ\N_NN વિકલ્પ\N_NN પસંદ\JJ કરવાનો\V_VAUX_VNP હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD532	આ\DM_DMD નિર્ણયશક્તિ\N_NN એ\DM_DMD સંચાલકો\N_NN માટે\PSP કસોટી\N_NN છે\V_VAUX .\RD_PUNC
+GJECD533	એનો\DM_DMD હેતુ\N_NN એ\DM_DMD છે\V_VAUX કે\CC_CCS ભવિષ્યમાં\N_NN કોઈ\DM_DMI અનિશ્ચિતતા\N_NN ઊભી\V_VM થાય\V_VM તો\CC_CCD આ\DM_DMD ધારણાઓ\N_NN અને\CC_CCD વિકલ્પો\N_NN તેના\DM_DMD પર\PSP પ્રકાશ\N_NN ફેંકે\V_VM .\RD_PUNC
+GJECD534	જોખમનું\N_NN પ્રમાણ\N_NN ઘટે\V_VM .\RD_PUNC
+GJECD535	ભૂતકાળનો\N_NN અનુભવ\N_NN ભવિષ્યની\N_NN અનિશ્ચિતતાઓ\N_NN ઘટાડે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD536	આમ\PSP ,\RD_PUNC આયોજનમાં\N_NN જે\PR_PRL ધારણા\N_NN કરાય\V_VM છે\V_VAUX ,\RD_PUNC તે\DM_DMD ભવિષ્ય\N_NN માટેની\PSP હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD537	સંચાલકોનું\N_NN કામ\N_NN એ\DM_DMD છે\V_VAUX કે\CC_CCS ભવિષ્યનાં\N_NN આયોજનને\N_NN ધ્યાનમાં\N_NN રાખીને\V_VAUX_VNP કામ\N_NN કરે\V_VM તો\CC_CCD જોખમ\N_NN ઘટશે\V_VM .\RD_PUNC
+GJECD538	આયોજનમાં\N_NN ભવિષ્ય\N_NN માટેની\PSP એક\QT_QTC ચોક્કસ\JJ રૂપરેખા\N_NN તૈયાર\JJ થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD539	પણ\CC_CCD આ\DM_DMD રૂપરેખા\N_NN નક્કી\JJ કરતાં\V_VAUX_VNP અગાઉ\PSP ભવિષ્યમાં\N_NN શું\PR_PRQ કરવાનું\V_VAUX_VNP છે\V_VAUX ,\RD_PUNC તેના\DM_DMD લક્ષ્યાંકો\N_NN સંચાલકોએ\N_NN નક્કી\JJ કરવા\V_VAUX_VNP પડે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD540	આમ\PSP ,\RD_PUNC આયોજન\N_NN એ\DM_DMD ધ્યેયના\N_NN અનુસંધાનમાં\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD541	ભારતમાં\N_NNP કેન્દ્ર\N_NN સરકારમાં\N_NN આનું\DM_DMD મહત્ત્વ\N_NN સ્વીકારી\V_VM ``\RD_PUNC આયોજન\N_NNP પંચની\N_NNP ``\RD_PUNC રચના\N_NN થઈ\V_VM છે\V_VAUX .\RD_PUNC
+GJECD542	આથી\PSP જ\RP_RPD આયોજનને\N_NN પાયાનું\N_NN કાર્ય\N_NN કહેવાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD543	આયોજન\N_NN એ\DM_DMD ભવિષ્ય\N_NN અંગેનો\PSP નકશો\N_NN છે\V_VAUX .\RD_PUNC
+GJECD544	કેવી\DM_DMQ રીતે\N_NN કરવાનું\V_VAUX_VNP તેનો\DM_DMD ખ્યાલ\N_NN હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD545	આયોજન\N_NN અપનાવવાથી\V_VAUX_VNP ભયસ્થાનો\N_NN અને\CC_CCD વિકલ્પોનો\N_NN ખ્યાલ\N_NN આવે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD546	આથી\PSP વિચલનનો\N_NN પ્રશ્ન\N_NN ઉપસ્થિત\JJ થતો\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJECD547	તેથી\PSP પ્રવૃત્તિઓ\N_NN વ્યવસ્થિત\JJ રીતે\N_NN થઈ\V_VM શકે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD548	આયોજન\N_NN કરવાથી\V_VAUX_VNP સાધનોનો\N_NN મહત્તમ\JJ ઉપયોગ\N_NN શક્ય\JJ બને\V_VM છે\V_VAUX .\RD_PUNC
+GJECD549	જેથી\PSP બગાડ\N_NN કે\CC_CCS અનુત્પાદક\JJ ખર્ચ\N_NN ઘટે\V_VM છે\V_VAUX અને\CC_CCD કરકસર\N_NN શક્ય\JJ બને\V_VM છે\V_VAUX .\RD_PUNC
+GJECD550	આયોજન\N_NN ભવિષ્ય\N_NN માટે\PSP થાય\V_VM છે\V_VAUX ,\RD_PUNC જેમાં\PR_PRL ગણતરી\N_NN વર્તમાનના\N_NN ધોરણે\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD551	ભવિષ્યમાં\N_NN રાજકીય\JJ કારણો\N_NN ,\RD_PUNC આર્થિક\JJ કારણો\N_NN અને\CC_CCD બજારની\N_NN પરિસ્થિતિના\N_NN લીધે\PSP આયોજનના\N_NN અમલ\N_NN દરમિયાન\PSP ફેરફાર\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD552	આને\DM_DMD ભવિષ્યની\N_NN અનિશ્ચિતતાઓ\N_NN કહી\V_VM શકાય\V_VAUX .\RD_PUNC
+GJECD553	દા.ત.\CC_CCS_UT પેટ્રોલ\N_NN અને\CC_CCD ડીઝલના\N_NN ભાવવધારાના\N_NN કારણે\PSP દરેક\JJ ક્ષેત્રે\N_NN ભાવમાં\N_NN વધારો\N_NN પરિણમે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD554	ટ્રાન્સપોર્ટ\N_NN ઉદ્યોગમાં\N_NN આની\DM_DMD અસર\N_NN મોટી\JJ થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD555	કારણકે\CC_CCS ,\RD_PUNC ટ્રાન્સપોર્ટ\N_NN ઉદ્યોગમાં\N_NN બળતણ\N_NN તરીકે\PSP પેટ્રોલ\N_NN ,\RD_PUNC ડીઝલનો\N_NN ઉપયોગ\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD556	આયોજનમાં\N_NN ધંધાકીય\JJ એમના\PR_PRP દરેક\JJ પાસાનો\N_NN વ્યવસ્થિત\JJ વિચાર\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD557	આયોજન\N_NN માર્ગ\N_NN બતાવે\V_VM છે\V_VAUX અને\CC_CCD માર્ગમાં\N_NN આવતા\V_VAUX_VNP અવરોધોને\N_NN દૂર\JJ કરવાનો\V_VAUX_VNP વિકલ્પ\N_NN પણ\RP_RPD દર્શાવે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD558	આમ\PSP ,\RD_PUNC આયોજન\N_NN અનુસાર\PSP કામ\N_NN કરવાથી\V_VAUX_VNP ધ્યેયસિદ્ધિ\N_NN સરળ\JJ બને\V_VM છે\V_VAUX .\RD_PUNC
+GJECD559	આયોજન\N_NN એ\DM_DMD ધંધાકીય\JJ એકમનું\N_NN પાયાનું\N_NN કાર્ય\N_NN છે\V_VAUX .\RD_PUNC
+GJECD560	વર્ષ\N_NN દરમિયાન\PSP શું\PR_PRQ કરવાનું\V_VAUX_VNP છે\V_VAUX ?\RD_PUNC
+GJECD561	કેવી\DM_DMQ રીતે\N_NN કરવાનું\V_VAUX_VNP છે\V_VAUX ?\RD_PUNC
+GJECD562	અને\CC_CCD ક્યારે\N_NST કરવાનું\V_VAUX_VNP છે\V_VAUX ?\RD_PUNC
+GJECD563	તેનો\DM_DMD જવાબ\N_NN આયોજન\N_NN દ્વારા\PSP મળે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD564	એના\DM_DMD આધારે\N_NN પ્રબંધ\N_NN ,\RD_PUNC દોરવણી\N_NN અને\CC_CCD અંકુશનાં\N_NN કાર્યો\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD565	આયોજન\N_NN સ્પષ્ટ\JJ હોય\V_VAUX તો\CC_CCD અંકુશ\N_NN સરળ\JJ બને\V_VM છે\V_VAUX .\RD_PUNC
+GJECD566	આમ\PSP ,\RD_PUNC આયોજન\N_NN એ\DM_DMD સંચાલનનું\N_NN પ્રથમ\QT_QTO કાર્ય\N_NN છે\V_VAUX ,\RD_PUNC તો\CC_CCD અંકુશ\N_NN એ\DM_DMD આખરી\JJ કાર્ય\N_NN છે\V_VAUX .\RD_PUNC
+GJECD567	ઉત્પાદન\N_NN કાર્યક્રમનો\N_NN આધાર\N_NN વેચાણ\N_NN પરના\PSP ભાવિ\JJ અંદાજ\N_NN પર\PSP છે\V_VAUX .\RD_PUNC
+GJECD568	દા.ત.\CC_CCS_UT દવાની\N_NN કંપનીઓ\N_NN દરેક\JJ ઋતુમાં\N_NN કઈ\DM_DMI દવાનું\N_NN કેટલું\DM_DMQ વેચાણ\N_NN કરશે\V_VM તે\DM_DMD અંગે\PSP ધારણાઓ\N_NN તૈયાર\JJ કરી\V_VM વેચાણલક્ષી\JJ અંદાજપત્ર\N_NN બનાવે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD569	પરંતુ\CC_CCD હકીકતમાં\N_NN વેચાણ\N_NN એ\DM_DMD અંદાજ\N_NN કે\CC_CCS ધારણા\N_NN અનુસાર\PSP થયું\V_VM છે\V_VAUX કે\CC_CCS તેનાં\DM_DMD કારણો\N_NN અને\CC_CCD અસરોની\N_NN ચર્ચા\N_NN -\RD_PUNC વિચારણા\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD570	જેનું\PR_PRL પૃથક્કરણ\N_NN ભવિષ્ય\N_NN માટે\PSP પથદર્શક\JJ બને\V_VM છે\V_VAUX .\RD_PUNC
+GJECD571	આયોજનના\N_NN લીધે\PSP કર્મચારીઓને\N_NN પોતે\PR_PRF કયું\DM_DMQ કામ\N_NN ,\RD_PUNC ક્યારે\N_NST ,\RD_PUNC કેવી\DM_DMQ રીતે\N_NN ,\RD_PUNC કેટલા\QT_QTF સમયમાં\N_NN કરવું\V_VAUX_VNP છે\V_VAUX ,\RD_PUNC એ\DM_DMD સ્પષ્ટ\JJ થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD572	પરિણામે\PSP કર્મચારીઓનો\N_NN કામ\N_NN પ્રત્યેનો\PSP સંતોષ\N_NN વધે\V_VM છે\V_VAUX અને\CC_CCD એકમને\N_NN તેમનો\DM_DMD સહકાર\N_NN પ્રાપ્ત\JJ થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD573	દરેક\JJ ધંધાકીય\JJ એકમનો\N_NN હેતુ\N_NN એ\DM_DMD ધ્યેય\N_NN નક્કી\JJ કરવાનો\V_VAUX_VNP અને\CC_CCD પાર\N_NN પાડવાનો\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJECD574	આ\DM_DMD માટે\PSP ગણતરીપૂર્વકના\JJ ધ્યેય\N_NN નક્કી\JJ કરવા\V_VAUX_VNP પડે\V_VAUX .\RD_PUNC
+GJECD575	આ\DM_DMD ધ્યેય\N_NN નક્કી\JJ કરવાનું\V_VAUX_VNP કામ\N_NN અઘરું\JJ છે\V_VAUX .\RD_PUNC
+GJECD576	એમાં\DM_DMD એકમ\N_NN પાસે\PSP રહેલા\V_VAUX_VNP બધાં\QT_QTF જ\RP_RPD પરિબળોને\N_NN ધ્યાનમાં\N_NN રાખવા\V_VAUX_VNP પડે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD577	અને\CC_CCD એ\DM_DMD ધ્યેય\N_NN સિદ્ધ\JJ કરવા\V_VAUX_VNP શું\PR_PRQ કરવું\V_VAUX_VNP પડે\V_VAUX તેની\DM_DMD પણ\RP_RPD સ્પષ્ટતા\N_NN કરવી\V_VAUX_VNP પડે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD578	આ\DM_DMD પ્રકારના\N_NN ધ્યેય\N_NN વધારે\QT_QTF પડતાં\V_VAUX_VNP મહત્વકાંક્ષી\JJ હોવા\V_VAUX_VNP ન\RP_NEG જોઈએ\V_VAUX .\RD_PUNC
+GJECD579	આ\DM_DMD ધ્યેયને\N_NN પાર\N_NN પાડવા\V_VAUX_VNP માટે\PSP સંચાલન\N_NN જે\PR_PRL નિર્ણયો\N_NN અને\CC_CCD વ્યૂહરચના\N_NN નક્કી\JJ કરે\V_VM છે\V_VAUX ,\RD_PUNC તેને\DM_DMD નીતિ\N_NN કહે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD580	નીતિ\N_NN સંચાલકો\N_NN ,\RD_PUNC અધિકારીઓ\N_NN અને\CC_CCD કર્મચારીમાં\N_NN એક\QT_QTC કંપનીની\N_NN છાપ\N_NN ઊભી\V_VM કરે\V_VM છે\V_VAUX અને\CC_CCD કંપનીની\N_NN કુશળતાનો\N_NN પરિચય\N_NN આપે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD581	ધ્યેયની\N_NN માફક\PSP નીતિ\N_NN પણ\RP_RPD વ્યવહારુ\JJ હોવી\V_VAUX_VNP જોઈએ\V_VAUX .\RD_PUNC
+GJECD582	પદ્ધતિ\N_NN એ\DM_DMD કાર્યક્રમ\N_NN પાર\N_NN પાડવાની\V_VAUX_VNP વ્યવસ્થા\N_NN દર્શાવે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD583	ધ્યેય\N_NN એ\DM_DMD એક\QT_QTC પ્રકારનો\N_NN ઉદ્દેશ\N_NN દર્શાવે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD584	નીતિ\N_NN એ\DM_DMD ઉદ્દેશ\N_NN કેવી\DM_DMQ રીતે\N_NN પાર\N_NN પડી\V_VM શકે\V_VAUX તે\DM_DMD અંગેની\PSP માહિતી\N_NN આપે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD585	જ્યારે\N_NST પદ્ધતિ\N_NN એ\DM_DMD ઉદ્દેશ\N_NN કેવી\DM_DMQ રીતે\N_NN પાર\N_NN પાડવાનો\V_VAUX_VNP તેનો\DM_DMD માર્ગ\N_NN દર્શાવે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD586	દા.ત.\CC_CCS_UT કંપની\N_NN ત્રિમાસિક\JJ ,\RD_PUNC છમાસિક\JJ ,\RD_PUNC પાકા\JJ સરવૈયા\N_NN તૈયાર\JJ કરી\V_VAUX_VNP તેમની\PR_PRP પરિસ્થિતિનો\N_NN ખ્યાલ\N_NN મેળવે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD587	જેથી\PSP વર્ષના\N_NN અંતે\N_NN ધ્યેયસિદ્ધ\JJ થઈ\V_VM શકે\V_VAUX .\RD_PUNC
+GJECD588	આમ\PSP ,\RD_PUNC પદ્ધતિ\N_NN માર્ગ\N_NN છે\V_VAUX ,\RD_PUNC પથ\N_NN છે\V_VAUX ,\RD_PUNC જે\PR_PRL અનુસાર\PSP ચાલવાથી\V_VAUX_VNP સફળતામાં\N_NN પ્રશ્નો\N_NN ઊભા\V_VM થતા\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJECD589	નિયમો\N_NN કોઈ\DM_DMI પણ\RP_RPD વિચલનને\N_NN નિયંત્રિત\JJ કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD590	જેનાં\PR_PRL પાલનથી\N_NN શિસ્તની\N_NN સ્થાપના\N_NN થાય\V_VM છે\V_VAUX અને\CC_CCD ધ્યેયસિદ્ધિ\N_NN બને\V_VM છે\V_VAUX .\RD_PUNC
+GJECD591	દા.ત.\CC_CCS_UT કામના\N_NN કલાકો\N_NN દરમિયાન\PSP ધૂમ્રપાન\N_NN નિષેધ\JJ છે\V_VAUX .\RD_PUNC
+GJECD592	નિયમો\N_NN કાર્યપરિણામ\N_NN અને\CC_CCD કર્મચારી\N_NN વર્તનનાં\N_NN ધોરણે\N_NN સ્થાપે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD593	એનો\DM_DMD હેતુ\N_NN કાર્યસિદ્ધિ\N_NN અને\CC_CCD પદ્ધતિના\N_NN અસરકારક\JJ અમલનો\N_NN છે\V_VAUX .\RD_PUNC
+GJECD594	નિયમોથી\N_NN નિરીક્ષણ\N_NN સરળ\JJ બને\V_VM છે\V_VAUX .\RD_PUNC
+GJECD595	જો\CC_CCD કાર્યક્રમ\N_NN મુજબ\PSP કામકાજ\N_NN થાય\V_VM તો\CC_CCD ધ્યેયસિદ્ધિમાં\N_NN પ્રશ્નો\N_NN ઊભા\V_VM થતાં\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJECD596	સંચાલનનું\N_NN કામ\N_NN માત્ર\RP_RPD કાર્યક્રમ\N_NN મુજબ\PSP કામ\N_NN થાય\V_VM તે\DM_DMD જોવાનું\V_VAUX_VNP જ\RP_RPD નહિ\RP_NEG ,\RD_PUNC પરંતુ\CC_CCD તેને\DM_DMD ધોરણો\N_NN સાથે\PSP સરખાવવાનું\V_VAUX_VNP અને\CC_CCD ત્યારબાદ\PSP જ્યાં\N_NST વિચલન\N_NN આવે\V_VM ત્યાં\N_NST સુધારવાનું\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJECD597	દરેક\JJ ધંધાકીય\JJ એકમનું\N_NN ધ્યેય\N_NN એ\DM_DMD આર્થિક\JJ સધ્ધરતા\N_NN છે\V_VAUX .\RD_PUNC
+GJECD598	માહિતીનો\N_NN ઉપયોગ\N_NN ભવિષ્યમાં\N_NN સચોટ\JJ પરિણામ\N_NN આપે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD599	યોજનાનો\N_NN આધાર\N_NN માહિતી\N_NN અને\CC_CCD એના\DM_DMD પૃથક્કરણ\N_NN પર\PSP છે\V_VAUX .\RD_PUNC
+GJECD600	આયોજન\N_NN એ\DM_DMD અનિશ્ચિતતાઓ\N_NN ઘટાડે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD601	આ\DM_DMD માટે\PSP વિકલ્પો\N_NN તૈયાર\JJ કરવા\V_VAUX_VNP ,\RD_PUNC વિકલ્પોનો\N_NN અભ્યાસ\N_NN કરવો\V_VAUX_VNP ,\RD_PUNC ચકાસણી\N_NN કરવી\V_VAUX_VNP અને\CC_CCD તેની\DM_DMD સચોટતા\N_NN માટે\PSP ગાણિતિક\JJ તથા\CC_CCD આંકડાશાસ્ત્રીય\JJ પદ્ધતિનો\N_NN ઉપયોગ\N_NN કરવો\V_VAUX_VNP પડે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD602	કંપનીઓ\N_NN આ\DM_DMD માટે\PSP `\RD_PUNC Operation\RD_RDF Research\RD_RDF -\RD_PUNC O.R.\RD_RDF `\RD_PUNC (\RD_SYM કાર્યાત્મક\JJ સંશોધન\N_NN )\RD_SYM દ્વારા\PSP એક\QT_QTC આદર્શ\N_NN યોજના\N_NN મૉડેલ\N_NN તૈયાર\JJ કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD603	ગૌણ\JJ યોજના\N_NN તૈયાર\JJ થયા\V_VAUX_VNP બાદ\PSP તેની\DM_DMD સફળતા\N_NN અંગેની\PSP ચકાસણી\N_NN આવશ્યક\JJ છે\V_VAUX .\RD_PUNC
+GJECD604	આવી\JJ ચકાસણીના\N_NN કારણે\PSP સફળતાની\N_NN શક્યતા\N_NN વધે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD605	દા.ત.\CC_CCS_UT કોઈ\DM_DMI સ્કૂટર\N_NN બનાવતી\V_VAUX_VNP કંપની\N_NN મોટરસાઈકલ\N_NN બનાવવાનું\V_VAUX_VNP કામ\N_NN હાથ\N_NN ધરે\V_VM તો\CC_CCD એના\DM_DMD માટે\PSP નવીન\JJ સાહસ\N_NN કહેવાય\V_VM .\RD_PUNC
+GJECD606	આ\DM_DMD માટે\PSP તે\DM_DMD આવી\JJ યોજના\N_NN તૈયાર\JJ કરે\V_VM અને\CC_CCD બજારમાં\N_NN પ્રાયોગિક\JJ ધોરણે\N_NN મૂકે\V_VM .\RD_PUNC
+GJECD607	તેથી\PSP ટીકાકારો\N_NN કહે\V_VM છે\V_VAUX કે\CC_CCS આયોજનની\N_NN લાંબી\JJ પ્રક્રિયાને\N_NN લીધે\PSP સમયનો\N_NN બગાડ\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD608	એવું\JJ કહેવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX કે\CC_CCS આયોજન\N_NN પાછળનો\PSP ખર્ચ\N_NN એ\DM_DMD એના\DM_DMD લાભ\N_NN કરતાં\V_VAUX_VNP વધારે\QT_QTF છે\V_VAUX .\RD_PUNC
+GJECD609	અને\CC_CCD એ\DM_DMD વિવિધ\JJ પ્રશ્નો\N_NN પેદા\JJ કરે\V_VM છે\V_VAUX અને\CC_CCD ઘણી\QT_QTF વખત\N_NN આયોજન\N_NN જ\RP_RPD સંપૂર્ણ\JJ નિષ્ફળ\JJ જાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD610	આ\DM_DMD માહિતી\N_NN પ્રાથમિક\JJ હોય\V_VAUX કે\CC_CCS અન્ય\JJ હોય\V_VAUX ,\RD_PUNC પરંતુ\CC_CCD આ\DM_DMD પ્રકારની\N_NN માહિતી\N_NN અધૂરી\JJ કે\CC_CCS અસ્પષ્ટ\JJ હોય\V_VAUX તો\CC_CCD તેનાં\DM_DMD પરિણામો\N_NN પણ\RP_RPD વિપરીત\JJ આવે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD611	દા.ત.\CC_CCS_UT ભારતમાં\N_NNP ક્રેડિટકાર્ડનો\N_NN ઉપયોગ\N_NN વધતો\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJECD612	એનો\DM_DMD અર્થ\N_NN એવો\JJ નથી\RP_NEG કે\CC_CCS બિનજરૂરી\JJ છે\V_VAUX .\RD_PUNC
+GJECD613	કુશળ\JJ કર્મચારી\N_NN એ\DM_DMD એકમની\N_NN અસ્કયામત\N_NN છે\V_VAUX .\RD_PUNC
+GJECD614	પરંતુ\CC_CCD આયોજનમાં\N_NN તો\RP_RPD કર્મચારીને\N_NN કશુંક\DM_DMI આયોજનમાં\N_NN લાગે\V_VM તો\CC_CCD પણ\RP_RPD તે\DM_DMD સુધારી\V_VM નથી\RP_NEG શકતો\V_VAUX_VNP .\RD_PUNC
+GJECD615	એને\DM_DMD સુધારવાનો\V_VAUX_VNP અધિકાર\N_NN નથી\RP_NEG .\RD_PUNC
+GJECD616	આમ\PSP ,\RD_PUNC કર્મચારીના\N_NN સ્વાતંત્ર્ય\N_NN પર\PSP પ્રહાર\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD617	એના\DM_DMD ઘડતર\N_NN માટે\PSP ગાણિતિક\JJ પદ્ધતિઓ\N_NN ,\RD_PUNC આંકડાશાસ્ત્રીય\JJ માહિતી\N_NN અને\CC_CCD કમ્પ્યુટરનો\N_NN ઉપયોગ\N_NN વિશાળ\JJ પાયા\N_NN પર\PSP થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD618	આ\DM_DMD પ્રક્રિયામાં\N_NN ઘણી\QT_QTF વખત\N_NN નિર્ણયો\N_NN ખામીયુક્ત\JJ લેવાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD619	આ\DM_DMD ઉપરાંત\PSP ટેકનોલોજીમાં\N_NN થતો\V_VAUX_VNP ફેરફાર\N_NN પણ\RP_RPD આયોજનને\N_NN અસર\N_NN કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD620	અંકુશના\N_NN માધ્યમ\N_NN તરીકે\PSP અંદાજપત્ર\N_NN સારા\JJ પ્રમાણમાં\N_NN વપરાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD621	વિવિધ\JJ પ્રકારના\N_NN અંદાજપત્ર\N_NN તૈયાર\JJ કરવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD622	અંદાજપત્રમાં\N_NN વિવિધ\JJ પ્રકારના\N_NN આંકડાઓ\N_NN હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD623	આમ\PSP તે\DM_DMD આંકડાની\N_NN માયાજાળ\N_NN કહેવાય\V_VM .\RD_PUNC
+GJECD624	આ\DM_DMD આંકાડાઓ\N_NN હકીકતના\N_NN આધારે\N_NN કરવામાં\V_VAUX_VNP આવતી\V_VAUX_VNP ધારણા\N_NN છે\V_VAUX .\RD_PUNC
+GJECD625	આથી\PSP એ\DM_DMD નિષ્ણાતોની\JJ સેવા\N_NN માંગે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD626	વિભાગીય\JJ અંદાજપત્ર\N_NN તૈયાર\JJ કરી\V_VAUX_VNP આખા\JJ એકમને\N_NN લગતું\V_VAUX_VNP મુખ્ય\JJ અંદાજપત્ર\N_NN /\N_NN સર્વોચ્ચ\JJ અંદાજપત્ર\N_NN તૈયાર\JJ કરવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD627	અંદાજપત્ર\N_NN ધંધાકીય\JJ એકમના\N_NN ધ્યેયને\N_NN ,\RD_PUNC નીતિને\N_NN અને\CC_CCD વિધિને\N_NN સ્પષ્ટ\JJ કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD628	અંદાજપત્ર\N_NN તૈયાર\JJ કરવા\V_VAUX_VNP દરમિયાન\PSP ખામી\N_NN હોય\V_VAUX અને\CC_CCD અસરકારક\JJ અમલ\N_NN ન\RP_NEG થઈ\V_VM શકે\V_VAUX તો\CC_CCD એકમની\N_NN નબળાઈઓ\N_NN અંદાજપત્રમાં\N_NN જાહેર\JJ થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD629	અંદાજપત્ર\N_NN આંકડાશાસ્ત્રીય\JJ માહિતી\N_NN પૂરી\JJ પાડે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD630	મૂડી\N_NN ,\RD_PUNC શ્રમ\N_NN ,\RD_PUNC માલસામગ્રી\N_NN અને\CC_CCD ઉત્પાદનનો\N_NN તે\DM_DMD ખ્યાલ\N_NN આપે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD631	અંદાજપત્રના\N_NN કારણે\PSP આત્મનિરીક્ષણ\N_NN સરળ\JJ બને\V_VM છે\V_VAUX .\RD_PUNC
+GJECD632	એકમની\N_NN પ્રક્રિયા\N_NN પર\PSP તેના\DM_DMD લીધે\PSP અંકુશ\N_NN રહે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD633	અંદાજપત્રને\N_NN કારણે\PSP ધિરાણ\N_NN મેળવવામાં\V_VAUX_VNP સરળતા\N_NN રહે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD634	અંદાજપત્રના\N_NN કારણે\PSP તુલનાત્મક\JJ અભ્યાસ\N_NN સરળ\JJ બને\V_VM છે\V_VAUX .\RD_PUNC
+GJECD635	વિભાગો\N_NN -\RD_PUNC વિભાગો\N_NN વચ્ચે\N_NST સંકલન\N_NN સાધી\V_VM શકાય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD636	વિવિધ\JJ વિભાગીય\JJ અંદાજપત્રના\N_NN આધારે\N_NN મુખ્ય\JJ અંદાજપત્ર\N_NN બનાવવામાં\V_VAUX_VNP આવતું\V_VAUX_VNP હોવાથી\V_VAUX_VNP ખોટા\JJ ખર્ચ\N_NN અને\CC_CCD બગાડ\N_NN અટકે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD637	દરેક\JJ વિભાગમાં\N_NN અને\CC_CCD કર્મચારીઓની\N_NN સત્તા\N_NN અને\CC_CCD જવાબદારીનું\N_NN વિભાજન\N_NN થઈ\V_VM શકે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD638	અંદાજપત્ર\N_NN મારફતે\PSP ઉતાવળિયા\JJ અને\CC_CCD ભૂલભરેલા\V_VAUX_VNP નિર્ણયો\N_NN સુધારવાની\V_VAUX_VNP તક\N_NN મળે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD639	દરેક\JJ કર્મચારીની\N_NN સત્તા\N_NN અને\CC_CCD જવાબદારીની\N_NN સ્પષ્ટતા\N_NN હોવાથી\V_VAUX_VNP કર્મચારીનો\N_NN સહકાર\N_NN મળે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD640	અંદાજપત્ર\N_NN એ\DM_DMD દોરવણીના\N_NN સાધન\N_NN તરીકે\PSP મદદરૂપ\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD641	અંદાજપત્ર\N_NN આયોજનને\N_NN વધુ\QT_QTF અસરકારક\JJ બનાવે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD642	અંદાજપત્ર\N_NN સંચાલનને\N_NN કાર્યક્ષમ\JJ બનાવે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD643	અંદાજપત્રની\N_NN માહિતીના\N_NN આધારે\N_NN ધિરાણ\N_NN મેળવવામાં\V_VAUX_VNP સુવિધા\N_NN રહે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD644	પરિવર્તનશીલ\JJ અંદાજપત્ર\N_NN ધંધો\N_NN વધારે\QT_QTF છે\V_VAUX .\RD_PUNC
+GJECD645	અંદાજપત્ર\N_NN ધંધાની\N_NN પ્રગતિનું\N_NN સૂચક\JJ છે\V_VAUX .\RD_PUNC
+GJECD646	જ્યારે\N_NST બે\QT_QTC કે\CC_CCS વધુ\QT_QTF વ્યક્તિઓ\N_NN ભેગી\JJ થઈ\V_VM કોઈ\DM_DMI કાર્ય\N_NN કરે\V_VM ત્યારે\N_NST કાર્ય\N_NN અસરકારક\JJ રીતે\N_NN પાર\N_NN પાડવા\V_VAUX_VNP તેમની\DM_DMD વચ્ચે\N_NST કાર્યની\N_NN સોંપણી\N_NN કરવી\V_VAUX_VNP પડે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD647	કાર્ય\N_NN માટે\PSP જરૂરી\JJ સત્તા\N_NN સોંપી\V_VM કાર્ય\N_NN અને\CC_CCD વ્યક્તિઓ\N_NN વચ્ચેના\N_NST સંબંધો\N_NN પ્રસ્થાપિત\JJ કરવા\V_VAUX_VNP જરૂરી\JJ બને\V_VM છે\V_VAUX ,\RD_PUNC જે\PR_PRL વ્યવસ્થાતંત્રનું\N_NN કાર્ય\N_NN છે\V_VAUX .\RD_PUNC
+GJECD648	એક\QT_QTC વ્યાખ્યા\N_NN અનુસાર\PSP ``\RD_PUNC સમાન\JJ ધ્યેય\N_NN સિદ્ધ\JJ કરવા\V_VAUX_VNP પ્રવૃત્ત\JJ થયેલી\V_VAUX_VNP વ્યક્તિઓ\N_NN વચ્ચે\N_NST સત્તા\N_NN અને\CC_CCD જવાબદારીની\N_NN વહેંચણી\N_NN કરતું\V_VAUX_VNP માળખું\N_NN એટલે\PSP વ્યવસ્થાતંત્ર\N_NN .\RD_PUNC ``\RD_PUNC
+GJECD649	વ્યવસ્થાતંત્ર\N_NN એક\QT_QTC પ્રકારની\N_NN ગોઠવણી\N_NN છે\V_VAUX જે\PR_PRL વ્યક્તિઓ\N_NN વચ્ચે\N_NST કાર્યની\N_NN સોંપણી\N_NN એવી\JJ રીતે\N_NN કરે\V_VM છે\V_VAUX કે\CC_CCS જેથી\PSP તેમાં\DM_DMD સંકળાયેલી\V_VAUX_VNP દરેક\JJ વ્યક્તિ\N_NN ધ્યેયસિદ્ધિમાં\N_NN મહત્તમ\JJ ફાળો\N_NN આપી\V_VM શકે\V_VAUX .\RD_PUNC
+GJECD650	આયોજન\N_NN ધંધાનું\N_NN મગજ\N_NN છે\V_VAUX ,\RD_PUNC તો\CC_CCD વ્યવસ્થાતંત્ર\N_NN એ\DM_DMD ધંધાનું\N_NN શારીરિક\JJ માળખું\N_NN છે\V_VAUX .\RD_PUNC
+GJECD651	એક\QT_QTC જ\RP_RPD વ્યક્તિ\N_NN કામ\N_NN કરતી\V_VAUX_VNP હોય\V_VAUX તો\CC_CCD વ્યવસ્થાતંત્રનો\N_NN સ્પષ્ટ\JJ ખ્યાલ\N_NN આવતો\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJECD652	એકમનું\N_NN કદ\N_NN વધતાં\V_VAUX_VNP વધુ\QT_QTF ને\CC_CCD વધુ\QT_QTF લોકો\N_NN કામમાં\N_NN જોડાય\V_VM ત્યારે\N_NST વ્યવસ્થાતંત્રનું\N_NN માળખું\N_NN સ્પષ્ટ\JJ થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD653	કોઈ\DM_DMI એક\QT_QTC વ્યક્તિ\N_NN ગમે\PSP તેટલી\JJ કુશળ\JJ હોય\V_VAUX છતાં\RP_RPD તેની\DM_DMD શક્તિની\N_NN મર્યાદાને\N_NN કારણે\PSP તે\DM_DMD અમુક\PSP જ\RP_RPD વ્યક્તિઓ\N_NN કે\CC_CCS કાર્યો\N_NN ઉપર\PSP પ્રત્યક્ષ\JJ દેખરેખ\N_NN રાખી\V_VM શકે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD654	તેના\DM_DMD પરિણામે\N_NN સત્તાની\N_NN વહેંચણી\N_NN કરવી\V_VAUX_VNP પડે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD655	આમ\PSP ,\RD_PUNC સત્તા\N_NN અને\CC_CCD જવાબદારીની\N_NN સોંપણી\N_NN કરી\V_VAUX_VNP તેમની\PR_PRP વચ્ચે\N_NST આંતર\N_NN સંબંધોની\N_NN સ્થાપના\N_NN વ્યવસ્થાતંત્ર\N_NN કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD656	વ્યવસ્થાતંત્ર\N_NN રચના\N_NN એ\DM_DMD વૈજ્ઞાનિક\JJ અભિગમ\N_NN છે\V_VAUX .\RD_PUNC
+GJECD657	જ્યાં\N_NST સુધી\PSP એકમનું\N_NN અસ્તિત્વ\N_NN હશે\V_VAUX ત્યાં\N_NST સુધી\PSP વ્યવસ્થાતંત્ર\N_NN રહેશે\V_VM ,\RD_PUNC બદલાતી\V_VAUX_VNP પરિસ્થિતિ\N_NN સાથે\PSP સુમેળ\N_NN સાધી\V_VM શકાય\V_VAUX .\RD_PUNC
+GJECD658	તેવું\JJ પરિવર્તનશીલ\JJ વ્યવસ્થાતંત્ર\N_NN જ\RP_RPD સફળતાપૂર્વક\JJ કામ\N_NN કરી\V_VM શકે\V_VAUX .\RD_PUNC
+GJECD659	વ્યવસ્થાતંત્રનું\N_NN કોઈ\DM_DMI તૈયાર\JJ માળખું\N_NN બધા\QT_QTF એકમોમાં\N_NN અનુકૂળ\JJ ન\RP_NEG પણ\RP_RPD આવે\V_VM .\RD_PUNC
+GJECD660	ધ્યેયોના\N_NN સંદર્ભમાં\N_NN જ\RP_RPD વ્યવસ્થાતંત્રનું\N_NN માળખું\N_NN નક્કી\JJ થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD661	યાદી\N_NN તૈયાર\JJ કરવાથી\V_VAUX_VNP કોઈ\DM_DMI કાર્ય\N_NN બેવડાતું\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJECD662	કાર્યનો\N_NN સ્પષ્ટ\JJ ખ્યાલ\N_NN આવે\V_VM તે\DM_DMD માટે\PSP જરૂર\N_NN જણાય\V_VM ત્યાં\N_NST કાર્યની\N_NN વ્યાખ્યા\N_NN કરવી\V_VAUX_VNP જોઈએ\V_VAUX .\RD_PUNC
+GJECD663	વિભાગો\N_NN નક્કી\JJ થયા\V_VAUX_VNP બાદ\PSP દરેક\JJ વિભાગનાં\N_NN કાર્યોની\N_NN જવાબદારી\N_NN સંભાળી\V_VM શકે\V_VAUX તેવા\JJ વિભાગીય\JJ વડાનો\N_NN હોદ્દો\N_NN નક્કી\JJ કરવો\V_VAUX_VNP જોઈએ\V_VAUX .\RD_PUNC
+GJECD664	દા.ત.\CC_CCS_UT વેચાણવિભાગ\N_NN માટે\PSP વેચાણ\N_NN અધિકારી\N_NN .\RD_PUNC
+GJECD665	દરેક\JJ હોદ્દાની\N_NN કામગીરીને\N_NN ન્યાય\N_NN આપી\V_VM શકે\V_VAUX તે\DM_DMD માટે\PSP કેવા\DM_DMQ પ્રકારની\N_NN લાયકાતની\N_NN અપેક્ષા\N_NN રાખવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX તે\DM_DMD નક્કી\JJ કરવું\V_VAUX_VNP જોઈએ\V_VAUX .\RD_PUNC
+GJECD666	કોણ\PR_PRQ ઉપરી\N_NN ?\RD_PUNC
+GJECD667	કોણ\PR_PRQ તાબેદાર\N_NN ?\RD_PUNC
+GJECD668	કોણ\PR_PRQ સમકક્ષ\JJ ?\RD_PUNC
+GJECD669	હુકમો\N_NN કોણ\PR_PRQ આપશે\V_VM ?\RD_PUNC
+GJECD670	આમ\PSP હોદ્દાઓ\N_NN અને\CC_CCD કર્મચારીઓ\N_NN વચ્ચે\N_NST સંબંધોની\N_NN સ્પષ્ટતા\N_NN થાય\V_VM તો\CC_CCD જ\RP_RPD અસરકારક\JJ સંકલન\N_NN જળવાય\V_VM .\RD_PUNC
+GJECD671	કર્મચારીઓ\N_NN પોતાના\N_NN સ્થાન\N_NN વિશે\PSP સ્પષ્ટ\JJ ખ્યાલ\N_NN મેળવી\V_VM શકે\V_VAUX તે\DM_DMD માટે\PSP આકૃતિ\N_NN સ્વરૂપે\N_NN વ્યવસ્થાતંત્રનો\N_NN ચાર્ટ\N_NN કે\CC_CCS નકશો\N_NN તૈયાર\JJ કરવો\V_VAUX_VNP જોઈએ\V_VAUX .\RD_PUNC
+GJECD672	વ્યવસ્થાતંત્રનો\N_NN આ\DM_DMD પ્રાચીન\JJ અને\CC_CCD સરળ\JJ પ્રકાર\N_NN છે\V_VAUX .\RD_PUNC
+GJECD673	લશ્કરમાં\N_NN તેનો\DM_DMD ઉપયોગ\N_NN વર્ષોથી\N_NN થતો\V_VAUX_VNP આવ્યો\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD674	તેમાં\DM_DMD સત્તા\N_NN અને\CC_CCD જવાબદારીની\N_NN વહેંચણી\N_NN સીધી\JJ રેખામાં\N_NN ઉપલી\JJ સપાટીથી\N_NN નીચલી\JJ સપાટી\N_NN તરફ\PSP થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD675	એટલેકે\PSP સત્તાની\N_NN સોંપણી\N_NN રૈખિક\JJ રીતે\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD676	દરેક\JJ વ્યક્તિ\N_NN પોતાના\PR_PRF તરતના\PSP ઉપરીને\N_NN (\RD_SYM Immediate\RD_RDF Superior\RD_RDF )\RD_SYM જવાબદાર\JJ હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD677	જેમ\PSP સ્થાન\N_NN ઊંચું\JJ -\RD_PUNC તેમ\PSP સત્તા\N_NN વધુ\QT_QTF અને\CC_CCD જેમ\PSP સ્થાન\N_NN નીચું\JJ -\RD_PUNC તેમ\PSP સત્તા\N_NN ઓછી\QT_QTF હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD678	વિભાગીય\JJ કર્મચારીઓ\N_NN પોતાના\PR_PRF વિભાગીય\JJ અધિકારી\N_NN પાસેથી\PSP જ\RP_RPD હુકમો\N_NN મેળવે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD679	આ\DM_DMD વ્યવસ્થાતંત્રમાં\N_NN વિભાગ\N_NN મહત્ત્વનો\JJ છે\V_VAUX .\RD_PUNC
+GJECD680	કાર્યને\N_NN મહત્ત્વ\N_NN નથી\RP_NEG .\RD_PUNC
+GJECD681	તેથી\PSP તેને\DM_DMD વિભાગીય\JJ વ્યવસ્થાતંત્ર\N_NN પણ\RP_RPD કહે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD682	જ્યાં\N_NST એકમ\N_NN નાનું\JJ હોય\V_VAUX ,\RD_PUNC શિસ્ત\N_NN અને\CC_CCD અંકુશની\N_NN વધુ\QT_QTF જરૂર\N_NN હોય\V_VAUX ,\RD_PUNC ઉત્પાદન\N_NN પદ્ધતિ\N_NN સ્વયંસંચાલિત\JJ યંત્રો\N_NN પર\PSP આધારિત\JJ હોય\V_VAUX અને\CC_CCD એક\QT_QTC જ\RP_RPD પ્રકારનું\N_NN કાર્ય\N_NN વારંવાર\PSP કરવાનું\V_VAUX_VNP હોય\V_VAUX ત્યાં\N_NST રૈખિક\JJ વ્યવસ્થાતંત્ર\N_NN સફળ\JJ પુરવાર\JJ થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD683	વિભાગીય\JJ અધિકારીઓ\N_NN પાસે\PSP સત્તા\N_NN કેન્દ્રિત\JJ થવાથી\V_VAUX_VNP તેઓ\PR_PRP આપખુદ\PSP બની\V_VM જાય\V_VAUX તેવી\JJ શક્યતા\N_NN છે\V_VAUX .\RD_PUNC
+GJECD684	આ\DM_DMD વ્યવસ્થાતંત્રમાં\N_NN વિભાગને\N_NN મહત્ત્વ\N_NN છે\V_VAUX ,\RD_PUNC કાર્યને\N_NN નહિ\RP_NEG .\RD_PUNC
+GJECD685	તેથી\PSP વિશિષ્ટકરણનો\N_NN અભાવ\N_NN જોવા\V_VAUX_VNP મળે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD686	વિભાગીય\JJ અધિકારીઓએ\N_NN પોતાના\PR_PRF વિભાગનાં\N_NN બધાં\QT_QTF જ\RP_RPD કાર્યો\N_NN સંભાળવાનાં\V_VAUX_VNP હોય\V_VAUX છે\V_VAUX ,\RD_PUNC તેથી\PSP તેમનો\PR_PRP કાર્યબોજ\N_NN વધે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD687	બધી\QT_QTF જ\RP_RPD બાબતોમાં\N_NN પારંગત\JJ એવા\JJ બહુગુણસંપન્ન\N_NN અધિકારીઓ\N_NN મેળવવાનું\V_VAUX_VNP મુશ્કેલ\JJ છે\V_VAUX .\RD_PUNC
+GJECD688	દરેક\JJ વિભાગ\N_NN અને\CC_CCD વિભાગીય\JJ અધિકારીઓ\N_NN સ્વતંત્ર\JJ હોવાથી\V_VAUX_VNP સંકલનનું\N_NN કાર્ય\N_NN મુશ્કેલ\JJ બને\V_VM છે\V_VAUX .\RD_PUNC
+GJECD689	આ\DM_DMD પ્રકારના\N_NN વ્યવસ્થાતંત્રમાં\N_NN ઘણી\QT_QTF વાર\N_NN નિમ્ન\JJ સ્તરેથી\N_NN ઉચ્ચ\JJ સ્તરે\N_NN યોગ્ય\JJ માહિતીસંચાર\N_NN થતો\V_VAUX_VNP નથી\RP_NEG એટલે\PSP ઘણા\QT_QTF પ્રશ્નો\N_NN ઊભા\V_VM થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD690	વિભાગીય\JJ અધિકારીઓને\N_NN આખા\JJ વિભાગની\N_NN સંપૂર્ણ\JJ જવાબદારી\N_NN સંભાળવાની\V_VAUX_VNP હોવાથી\V_VAUX_VNP તેમનો\PR_PRP કાર્યભાર\N_NN વધે\V_VM છે\V_VAUX -\RD_PUNC અને\CC_CCD એકમના\N_NN વિકાસ\N_NN તરફ\PSP દુર્લક્ષ\JJ સેવાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD691	દરેક\JJ કાર્ય\N_NN માટે\PSP અલગ\JJ અલગ\JJ નિષ્ણાતો\N_NN નિમાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD692	આ\DM_DMD નિષ્ણાતો\N_NN ફક્ત\PSP સલાહકાર\N_NN હોતા\V_VAUX_VNP નથી\RP_NEG ;\RD_PUNC પરંતુ\CC_CCD વહીવટીય\JJ અધિકારીઓ\N_NN પણ\RP_RPD છે\V_VAUX .\RD_PUNC
+GJECD693	નિષ્ણાતોને\N_NN કોઈ\DM_DMI ચોક્કસ\JJ વિભાગ\N_NN માટે\PSP નહિ\RP_NEG પરંતુ\CC_CCD આખા\JJ એકમ\N_NN માટે\PSP પોતાના\PR_PRF કાર્ય\N_NN અંગેની\PSP જવાબદારી\N_NN સોંપાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD694	ખરીદ\N_NN અધિકારી\N_NN આખા\JJ એકમના\N_NN દરેક\JJ વિભાગ\N_NN માટેની\PSP ખરીદી\N_NN કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD695	દરેક\JJ કાર્ય\N_NN માટે\PSP અલગ\JJ અલગ\JJ નિષ્ણાતો\N_NN નિમવામાં\V_VAUX_VNP આવતા\V_VAUX_VNP હોવાથી\V_VAUX_VNP વિશિષ્ટીકરણ\N_NN શક્ય\JJ બને\V_VM છે\V_VAUX .\RD_PUNC
+GJECD696	કોઈ\DM_DMI એક\QT_QTC જ\RP_RPD અધિકારીને\N_NN સંપૂર્ણ\JJ સત્તા\N_NN ન\RP_NEG હોવાથી\V_VAUX_VNP તેમજ\CC_CCD દરેક\JJ અધિકારીને\N_NN સરખી\JJ સત્તા\N_NN હોવાથી\V_VAUX_VNP સત્તાનું\N_NN વિકેન્દ્રીકરણ\N_NN શક્ય\JJ બને\V_VM છે\V_VAUX .\RD_PUNC
+GJECD697	દરેક\JJ નિષ્ણાંત\N_NN સંપૂર્ણ\JJ સ્વતંત્ર\JJ નથી\RP_NEG ,\RD_PUNC પરંતુ\CC_CCD પરસ્પર\PR_PRC સંકળાયેલા\V_VAUX_VNP હોવાથી\V_VAUX_VNP સંકલન\N_NN જળવાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD698	અધિકારીઓએ\N_NN પોતાના\PR_PRF કાર્યભાગ\N_NN માટેની\PSP જ\RP_RPD જવાબદારી\N_NN સંભાળવાની\V_VAUX_VNP હોવાથી\V_VAUX_VNP અધિકારીઓનો\N_NN કાર્યબોજ\N_NN ઘટે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD699	દરેક\JJ કાર્યની\N_NN જવાબદારી\N_NN અલગ\JJ અલગ\JJ અધિકારીને\N_NN સોંપાતી\V_VAUX_VNP હોવાથી\V_VAUX_VNP ,\RD_PUNC અધિકારીઓની\N_NN ભરતી\N_NN કરતી\V_VAUX_VNP વખતે\N_NN સરળતા\RB રહે\V_VM છે\V_VAUX અને\CC_CCD નિષ્ણાતજ્ઞાનનો\N_NN લાભ\N_NN મળે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD700	કાર્યને\N_NN મહત્ત્વ\N_NN હોવાથી\V_VAUX_VNP કર્મચારીઓને\N_NN અને\CC_CCD અધિકારીઓને\N_NN તાલીમમાં\N_NN સરળતા\N_NN રહે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD701	નિષ્ણાતોના\N_NN જ્ઞાનનો\N_NN લાભ\N_NN મળતો\V_VAUX_VNP હોવાથી\V_VAUX_VNP સમય\N_NN -\RD_PUNC સંજોગો\N_NN અનુસાર\PSP પરિવર્તનશીલતા\N_NN અપનાવી\V_VM શકાય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD702	નિર્ણય\N_NN પ્રક્રિયા\N_NN ઝડપી\JJ અને\CC_CCD સરળ\JJ બને\V_VM છે\V_VAUX .\RD_PUNC
+GJECD703	અનેક\JJ અધિકારીઓએ\N_NN નિર્ણયો\N_NN કરવાના\V_VAUX_VNP હોવાથી\V_VAUX_VNP નિર્ણયોમાં\N_NN વિલંબ\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD704	નિર્ણય\N_NN પ્રક્રિયામાં\N_NN વધુ\QT_QTF વ્યક્તિઓ\N_NN સામેલ\PSP હોવાથી\V_VAUX_VNP પરિપક્વ\JJ નિર્ણયો\N_NN લેવાની\V_VAUX_VNP શક્યતા\N_NN વધે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD705	સમિતિના\N_NN બધા\QT_QTF જ\RP_RPD સભ્યોને\N_NN તેમનો\PR_PRP (\RD_SYM મત\N_NN )\RD_SYM વિચાર\N_NN રજૂ\JJ કરવાની\V_VAUX_VNP તક\N_NN હોવાથી\V_VAUX_VNP લોકશાહી\N_NN પ્રથાને\N_NN ઉત્તેજન\N_NN મળે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD706	સમિતિના\N_NN સભ્યો\N_NN પોતાના\PR_PRF વિષયનું\N_NN વિશિષ્ટ\JJ જ્ઞાન\N_NN ધરાવતા\V_VAUX_VNP હોવાથી\V_VAUX_VNP તેનો\DM_DMD લાભ\N_NN મળે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD707	એટલેકે\CC_CCS વિશિષ્ટિકરણનો\N_NN લાભ\N_NN શક્ય\JJ બને\V_VM છે\V_VAUX .\RD_PUNC
+GJECD708	મુક્ત\JJ ચર્ચા\N_NN -\RD_PUNC વિચારણાને\N_NN અંતે\N_NN લેવાયેલાં\V_VAUX_VNP નિર્ણયોને\N_NN કારણે\PSP સંકલનમાં\N_NN સરળતા\N_NN જળવાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD709	લેવાયેલ\V_VAUX_VNP નિર્ણયની\N_NN માહિતી\N_NN સમિતિના\N_NN સભ્યો\N_NN પાસે\PSP હોવાથી\V_VAUX_VNP માહિતીપ્રેષણ\N_NN ઝડપી\RB બને\V_VM છે\V_VAUX .\RD_PUNC
+GJECD710	નિર્ણયોમાં\N_NN વધુ\QT_QTF વ્યક્તિઓ\N_NN સહભાગી\JJ બનતી\V_VAUX_VNP હોવાથી\V_VAUX_VNP સત્તાનું\N_NN વિકેન્દ્રીકરણ\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD711	સમિતિમાં\N_NN બહુમતીથી\N_NN નિર્ણયો\N_NN લેવાતા\V_VAUX_VNP હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD712	તેથી\PSP કેટલીક\QT_QTF વાર\N_NN લઘુમતી\N_NN સભ્યો\N_NN સાચા\JJ હોવા\V_VAUX_VNP છતાં\RP_RPD તેમની\PR_PRP વાત\N_NN સ્વીકારતી\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJECD713	તેથી\PSP લઘુમતી\N_NN જૂથને\N_NN અન્યાય\N_NN થવાની\V_VAUX_VNP શક્યતા\N_NN છે\V_VAUX .\RD_PUNC
+GJECD714	સમિતિના\N_NN સભ્યો\N_NN રાજકીય\JJ વ્યૂહ\N_NN અપનાવે\V_VM તો\CC_CCD જૂથબંધી\N_NN કે\CC_CCS આંતરિક\JJ વિખવાદની\N_NN શક્યતાઓ\N_NN વધે\V_VM છે\V_VAUX .\QT_QTF
+GJECD715	વૈધિક\JJ વ્યવસ્થાતંત્રમાં\N_NN વ્યક્તિઓ\N_NN જ\RP_RPD કાર્ય\N_NN કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD716	માનવસંબંધોને\N_NN આધારે\N_NN જુદી\JJ જુદી\JJ વ્યક્તિઓનાં\N_NN માનવજૂથો\N_NN રચાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD717	અવૈધિક\JJ વ્યવસ્થાતંત્ર\N_NN એ\DM_DMD વૈધિક\JJ વ્યવસ્થાતંત્રનો\N_NN પડછાયો\N_NN છે\V_VAUX .\RD_PUNC
+GJECD718	વ્યવસ્થાતંત્રના\N_NN નકશામાં\N_NN તેને\DM_DMD સ્થાન\N_NN નથી\RP_NEG .\RD_PUNC
+GJECD719	અવૈધિક\JJ વ્યવસ્થાતંત્ર\N_NN એ\DM_DMD સામાજિક\JJ માળખું\N_NN છે\V_VAUX .\RD_PUNC
+GJECD720	માનવસંબંધોના\N_NN વિકાસની\N_NN સાથે\PSP સમાન\JJ વિચારસરણી\N_NN ,\RD_PUNC લાગણી\N_NN ,\RD_PUNC સમાનધર્મ\N_NN ,\RD_PUNC રુચિ\N_NN ,\RD_PUNC અભિરૂચિ\N_NN આધારિત\JJ જે\PR_PRL જૂથો\N_NN રચાય\V_VM છે\V_VAUX ,\RD_PUNC તે\DM_DMD બધાં\QT_QTF અવૈધિક\JJ વ્યવસ્થાતંત્રના\N_NN પ્રકારો\N_NN છે\V_VAUX .\RD_PUNC
+GJECD721	માનવસંબંધોને\N_NN કારણે\PSP કર્મચારીઓના\N_NN માનસિક\JJ તણાવમાં\N_NN ઘટાડો\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD722	વૈધિક\JJ વ્યવસ્થાતંત્રની\N_NN ધ્યેયસિદ્ધિમાં\N_NN પૂરક\JJ બને\V_VM છે\V_VAUX .\RD_PUNC
+GJECD723	માહિતીસંચારમાં\N_NN મદદરૂપ\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD724	ગેરશિસ્તને\N_NN ઉત્તેજન\N_NN મળવાની\V_VAUX_VNP સંભાવના\N_NN રહે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD725	સાચી\JJ માહિતીને\N_NN બદલે\PSP અફવાઓનો\N_NN ફેલાવો\N_NN ઝડપી\RB બને\V_VM તેવો\JJ ભય\N_NN રહે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD726	નકારાત્મક\JJ નેતૃત્વ\N_NN ઔદ્યોગિક\JJ શાંતિને\N_NN જોખમમાં\N_NN મૂકે\V_VM તેવો\JJ ભય\N_NN રહે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD727	સંચાલનમાં\N_NN અવરોધ\N_NN પેદા\JJ થવાની\V_VAUX_VNP શક્યતા\N_NN વધુ\QT_QTF છે\V_VAUX .\RD_PUNC
+GJECD728	સત્તા\N_NN એટલે\PSP હુકમ\N_NN આપવાના\V_VAUX_VNP અને\CC_CCD તેનો\DM_DMD ખ્યાલ\N_NN અમલ\N_NN થાય\V_VM તે\DM_DMD જોવાનો\V_VAUX_VNP અધિકાર\N_NN .\RD_PUNC
+GJECD729	``\RD_PUNC સત્તાસોંપણી\N_NN એટલે\PSP કાર્યની\N_NN બીજાને\JJ સોંપણી\N_NN અને\CC_CCD તે\DM_DMD કાર્ય\N_NN કરવા\V_VAUX_VNP માટેની\PSP સત્તા\N_NN આપવી\V_VAUX_VNP તે\DM_DMD .\RD_PUNC ``\RD_PUNC
+GJECD730	સત્તાસોંપણીને\N_NN કારણે\PSP તળસપાટીના\N_NN કર્મચારીઓને\N_NN તેમનું\DM_DMD કાર્ય\N_NN વધુ\QT_QTF કાર્યક્ષમ\JJ રીતે\N_NN પાર\N_NN પાડવાની\V_VAUX_VNP સ્વતંત્રતા\N_NN પ્રોત્સાહન\N_NN મળે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD731	તેમની\PR_PRP સત્તા\N_NN અને\CC_CCD સ્વતંત્રતાને\N_NN કારણે\PSP તેમનું\PR_PRP મહત્ત્વ\N_NN વધે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD732	પોતાના\PR_PRF કાર્ય\N_NN અંગે\PSP જાગૃતિ\N_NN આવે\V_VM છે\V_VAUX અને\CC_CCD કામ\N_NN કરવાના\V_VAUX_VNP તેમના\PR_PRP જુસ્સામાં\N_NN વધારો\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD733	જવાબદારીની\N_NN સોંપણી\N_NN એ\DM_DMD સત્તાસોંપણીની\N_NN પ્રક્રિયાનું\N_NN પહેલું\QT_QTO સોપાન\N_NN (\RD_SYM પગથીયું\N_NN )\RD_SYM છે\V_VAUX .\RD_PUNC
+GJECD734	જવાબદારીની\N_NN સોંપણી\N_NN મદદનીશની\N_NN આવડત\N_NN અને\CC_CCD લાયકાત\N_NN અનુસાર\PSP થવી\V_VAUX_VNP જોઈએ\V_VAUX .\RD_PUNC
+GJECD735	જેથી\PSP દેખરેખ\N_NN અને\CC_CCD સંકલનનું\N_NN કાર્ય\N_NN અસરકારક\JJ બની\V_VM શકે\V_VAUX .\RD_PUNC
+GJECD736	જવાબદારીના\N_NN પ્રમાણમાં\N_NN સમતોલ\JJ સત્તાસોંપણી\N_NN વિના\PSP સોંપાયેલ\V_VAUX_VNP કાર્ય\N_NN પાર\N_NN પાડવાનું\V_VAUX_VNP મુશ્કેલ\JJ બને\V_VM છે\V_VAUX .\RD_PUNC
+GJECD737	તાબેદારોને\N_NN સોંપાયેલ\V_VAUX_VNP કામ\N_NN અંગે\PSP ઉપરી\JJ અધિકારી\N_NN પોતાની\PR_PRF જવાબદારીમાંથી\N_NN છટકી\V_VM શકે\V_VAUX નહિ\RP_NEG .\RD_PUNC
+GJECD738	તાબેદારો\N_NN દ્વારા\PSP થયેલા\V_VAUX_VNP કાર્યનો\N_NN ખુલાસો\N_NN (\RD_SYM ઉત્તર\N_NST )\RD_SYM આપવા\V_VAUX_VNP તરતનો\PSP ઉપરી\JJ અધિકારી\N_NN (\RD_SYM Immediate\RD_RDF Superior\RD_RDF )\RD_SYM જવાબદાર\JJ છે\V_VAUX જેને\PR_PRL ઉત્તરદાયિત્વ\N_NN કહે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD739	સત્તા\N_NN અને\CC_CCD જવાબદારીનું\N_NN વિભાજન\N_NN એ\DM_DMD વ્યવસ્થાતંત્રનો\N_NN પાયો\N_NN છે\V_VAUX .\RD_PUNC
+GJECD740	સત્તા\N_NN કેન્દ્રિત\JJ રાખવી\V_VAUX_VNP કે\CC_CCS વિકેન્દ્રિત\JJ તે\DM_DMD સંચાલકોએ\N_NN પોતાના\PR_PRF એકમના\N_NN સંદર્ભમાં\N_NN વિચારવાનું\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJECD741	ઉચ્ચ\JJ સપાટીએથી\N_NN નિમ્ન\JJ સપાટી\N_NN તરફ\PSP ક્રમશઃ\JJ સત્તા\N_NN સોંપવાની\V_VAUX_VNP ક્રિયા\N_NN એટલે\PSP વિકેન્દ્રીકરણ\N_NN .\RD_PUNC
+GJECD742	``\RD_PUNC કેન્દ્રીકરણ\N_NN એટલે\PSP વ્યવસ્થાતંત્રમાં\N_NN ઉચ્ચ\JJ સપાટીએ\N_NN સત્તા\N_NN કેન્દ્રિત\JJ કરવી\V_VAUX_VNP .\RD_PUNC ``\RD_PUNC
+GJECD743	નાના\JJ એકમમાં\N_NN અને\CC_CCD જ્યાં\N_NST રહસ્યોની\N_NN જાળવણી\N_NN ખૂબ\QT_QTF જ\RP_RPD મહત્ત્વની\JJ હોય\V_VAUX તેવા\JJ એકમોમાં\N_NN કેન્દ્રીકરણ\N_NN ઉપયોગી\JJ છે\V_VAUX .\RD_PUNC
+GJECD744	સત્તાના\N_NN કેન્દ્રીકરણને\N_NN કારણે\PSP મનસ્વી\JJ નિર્ણયો\N_NN લેવાની\V_VAUX_VNP શક્યતા\V_VAUX વધે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD745	લાંચરુશવત\N_NN -\RD_PUNC લાગવગને\N_NN પ્રોત્સાહન\N_NN મળે\V_VM છે\V_VAUX અને\CC_CCD કર્મચારીઓમાં\N_NN અસહકારનું\N_NN વલણ\N_NN પેદા\JJ થાય\V_VM છે\V_VAUX તથા\CC_CCD મુખ્ય\JJ અધિકારીઓનો\N_NN કાર્યબોજ\N_NN વધે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD746	સત્તાની\N_NN સોંપણી\N_NN ફરજિયાત\JJ છે\V_VAUX .\RD_PUNC
+GJECD747	જ્યારે\N_NST વિકેન્દ્રીકરણના\N_NN વિકલ્પે\N_NN કેન્દ્રીકરણ\N_NN અપનાવી\V_VM શકાય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD748	સત્તા\N_NN સોંપનાર\V_VAUX_VNP પોતાના\PR_PRF તાબેદારો\N_NN પર\PSP સતત\JJ નિરીક્ષણ\N_NN અને\CC_CCD અંકુશ\N_NN રાખે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD749	જ્યારે\N_NST વિકેન્દ્રીકરણમાં\N_NN અધિકારીઓ\N_NN આચારસંહિતા\N_NN મુજબ\PSP કામ\N_NN કરવા\V_VAUX_VNP અને\CC_CCD નિર્ણયો\N_NN કરવા\V_VAUX_VNP સ્વાયત્ત\JJ હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD750	ટૂંકમાં\N_NN સત્તાસોંપણી\N_NN અને\CC_CCD વિકેન્દ્રીકરણ\N_NN વચ્ચે\N_NST બહુ\QT_QTF પાતળી\JJ ભેદરેખા\N_NN છે\V_VAUX .\RD_PUNC
+GJECD751	સતત\JJ સંશોધનો\N_NN અને\CC_CCD બદલાતી\V_VAUX_VNP જતી\V_VAUX_VNP પરિસ્થિતિને\N_NN લીધે\PSP દરેક\JJ શાસ્ત્રનું\N_NN કાર્યક્ષેત્ર\N_NN બદલાતું\V_VAUX_VNP જતું\V_VAUX_VNP હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD752	તે\DM_DMD સંજોગોમાં\N_NN તેની\DM_DMD વ્યાખ્યામાં\N_NN સમયાનુસાર\N_NN ફેરફાર\N_NN થતો\V_VAUX_VNP હોય\V_VAUX છે\V_VAUX ,\RD_PUNC અર્થાત્\PSP તે\DM_DMD સ્થિર\JJ રહેતી\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJECD753	અર્થશાસ્ત્ર\N_NN સમાજમાં\N_NN રહેતાં\V_VAUX_VNP સામાન્ય\JJ મનુષ્યના\N_NN આર્થિક\JJ વર્તનનો\N_NN અભ્યાસ\N_NN કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD754	સમાજની\N_NN પરિસ્થિતિ\N_NN સતત\JJ બદલાતી\V_VAUX_VNP રહે\V_VAUX છે\V_VAUX ,\RD_PUNC તેને\DM_DMD અનુરૂપ\JJ મનુષ્યના\N_NN આર્થિક\JJ વર્તનમાં\N_NN પણ\RP_RPD ફેરફાર\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD755	તેથી\PSP તેનું\DM_DMD અર્થશાસ્ત્રનું\N_NN કાર્યક્ષેત્ર\N_NN સતત\JJ બદલાતું\V_VAUX_VNP જોવા\V_VAUX_VNP મળ્યું\V_VM છે\V_VAUX .\RD_PUNC
+GJECD756	પ્રો.\N_NN એડમ\N_NNP સ્મિથની\N_NNP વ્યાખ્યા\N_NN :\RD_PUNC અર્થશાસ્ત્ર\N_NN સંપત્તિનું\N_NN શાસ્ત્ર\N_NN છે\V_VAUX .\RD_PUNC
+GJECD757	પ્રો.\N_NN આલ્ફ્રેડ\N_NNP માર્શલની\N_NN વ્યાખ્યા\N_NN :\RD_PUNC અર્થશાસ્ત્ર\N_NN માનવકલ્યાણનું\N_NN શાસ્ત્ર\N_NN છે\V_VAUX .\RD_PUNC
+GJECD758	પ્રો.\N_NN રોબિન્સની\N_NNP વ્યાખ્યા\N_NN :\RD_PUNC અર્થશાસ્ત્રનું\N_NN કરકસરનું\N_NN શાસ્ત્ર\N_NN છે\V_VAUX .\RD_PUNC
+GJECD759	આ\DM_DMD જ\RP_RPD કારણસર\JJ આ\DM_DMD વ્યાખ્યા\N_NN ટીકાપાત્ર\JJ બની\V_VM .\RD_PUNC
+GJECD760	સંપત્તિ\N_NN પર\PSP ભાર\N_NN મૂકતી\V_VAUX_VNP વ્યાખ્યા\N_NN સમકાલીન\JJ સંજોગો\N_NN સાથે\PSP સુસંગત\JJ ન\RP_NEG હતી\V_VAUX .\RD_PUNC
+GJECD761	લોકોમાં\N_NN ધાર્મિક\JJ લાગણી\N_NN પ્રબળ\JJ હતી\V_VAUX અને\CC_CCD આધ્યાત્મિક\JJ મૂલ્યો\N_NN સર્વોપરી\JJ ગણાતાં\V_VAUX_VNP હતાં\V_VAUX .\RD_PUNC
+GJECD762	મજૂરોનું\N_NN શોષણ\N_NN થતું\V_VAUX_VNP હતું\V_VAUX અને\CC_CCD ગામડાંઓની\N_NN અર્થવ્યવસ્થા\N_NN તૂટતી\V_VAUX_VNP હતી\V_VAUX .\RD_PUNC
+GJECD763	એટલે\PSP સમાજસુધારકો\N_NN સંપત્તિને\N_NN ઘૃણાની\N_NN નજરે\N_NN જોતા\V_VAUX_VNP હતા\V_VAUX .\RD_PUNC
+GJECD764	સંપત્તિનો\N_NN અભ્યાસ\N_NN પણ\RP_RPD તેમની\PR_PRP દૃષ્ટિએ\N_NN ઘૃણાપાત્ર\JJ હતો\V_VAUX .\RD_PUNC
+GJECD765	અર્થશાસ્ત્ર\N_NN શયતાનનો\N_NN ગ્રંથ\N_NN છે\V_VAUX એવો\JJ આક્ષેપ\N_NN મૂકવામાં\V_VAUX_VNP આવ્યો\V_VAUX .\RD_PUNC
+GJECD766	અર્થશાસ્ત્ર\N_NN અમંગળ\JJ અને\CC_CCD આફતરૂપ\JJ વિજ્ઞાન\N_NN છે\V_VAUX એવો\JJ ડર\N_NN વ્યક્ત\JJ કરવામાં\V_VAUX_VNP આવ્યો\V_VAUX .\RD_PUNC
+GJECD767	સંપત્તિનાં\N_NN જે\PR_PRL દૂષણો\N_NN અર્થશાસ્ત્ર\N_NN પર\PSP આરોપવામાં\V_VAUX_VNP આવ્યાં\V_VAUX હતાં\V_VAUX તેમાંથી\DM_DMD અર્થશાસ્ત્રને\N_NN મુક્ત\JJ કરવું\V_VAUX_VNP આવશ્યક\JJ હતું\V_VAUX .\RD_PUNC
+GJECD768	અર્થશાસ્ત્ર\N_NN માનવીની\N_NN એવી\JJ પ્રવૃત્તિઓનો\N_NN અભ્યાસ\N_NN કરે\V_VM છે\V_VAUX જેને\PR_PRL સંપત્તિ\N_NN સાથે\PSP સંબંધ\N_NN છે\V_VAUX .\RD_PUNC
+GJECD769	કારણકે\CC_CCS સંપત્તિ\N_NN વિના\PSP માનવકલ્યાણ\N_NN શક્ય\JJ નથી\RP_NEG .\RD_PUNC
+GJECD770	આમ\PSP ,\RD_PUNC માર્શલે\N_NNP સ્પષ્ટતા\N_NN કરી\V_VM કે\CC_CCS સંપત્તિ\N_NN સાધન\N_NN છે\V_VAUX અને\CC_CCD માનવકલ્યાણ\N_NN સાધ્ય\N_NN છે\V_VAUX .\RD_PUNC
+GJECD771	અર્થશાસ્ત્ર\N_NN માનવીના\N_NN સામાન્ય\JJ જીવનવ્યવહારનો\N_NN અભ્યાસ\N_NN કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD772	માર્શલના\N_NNP દૃષ્ટિકોણને\N_NN પ્રતિબિંબિત\JJ કરતી\V_VAUX_VNP અન્ય\JJ કેટલીક\QT_QTF વ્યાખ્યાઓ\N_NN પણ\RP_RPD ખૂબ\QT_QTF પ્રચલિત\JJ બની\V_VM .\RD_PUNC
+GJECD773	અર્થશાસ્ત્રમાં\N_NN માનવી\N_NN કેન્દ્ર\N_NN સ્થાને\N_NN છે\V_VAUX ,\RD_PUNC સંપત્તિ\N_NN નહીં\RP_NEG .\RD_PUNC
+GJECD774	સંપત્તિ\N_NN જેટલા\JJ અંશે\N_NN માનવકલ્યાણમાં\N_NN ફાળો\N_NN આપે\V_VM છે\V_VAUX ,\RD_PUNC તેટલા\JJ જ\RP_RPD અંશે\N_NN તે\DM_DMD મહત્ત્વની\JJ છે\V_VAUX ,\RD_PUNC સંપત્તિ\N_NN સર્વોપરી\JJ નથી\RP_NEG .\RD_PUNC
+GJECD775	માનવકલ્યાણનો\N_NN આધાર\N_NN માત્ર\RP_RPD સંપત્તિ\N_NN પર\PSP છે\V_VAUX એવું\JJ પણ\RP_RPD નથી\RP_NEG .\RD_PUNC
+GJECD776	અર્થશાસ્ત્રને\N_NN શુદ્ધ\JJ આર્થિક\JJ માનવી\N_NN સાથે\PSP નિસ્બત\N_NN નથી\RP_NEG .\RD_PUNC
+GJECD777	શુદ્ધ\JJ આર્થિક\JJ માનવી\N_NN તે\DM_DMD છે\V_VAUX જેની\PR_PRL બધી\QT_QTF પ્રવૃત્તિઓ\N_NN સ્વાર્થપ્રેરિત\JJ હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD778	આર્થિક\JJ માનવી\N_NN દયા\N_NN અને\CC_CCD પ્રેમ\N_NN જેવી\JJ બિનઆર્થિક\JJ બાબતોથી\N_NN પ્રભાવિત\JJ થયા\V_VAUX_VNP વિના\PSP નિર્ણયો\N_NN લે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD779	એનો\DM_DMD અર્થ\N_NN એ\DM_DMD છે\V_VAUX કે\CC_CCS અર્થશાસ્ત્ર\N_NN સામાજિક\JJ વિજ્ઞાન\N_NN છે\V_VAUX .\RD_PUNC
+GJECD780	અર્થશાસ્ત્રમાં\N_NN માનવીની\N_NN આર્થિક\JJ પ્રવૃત્તિઓનો\N_NN અભ્યાસ\N_NN કરવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD781	અર્થશાસ્ત્રના\N_NN અભ્યાસમાં\N_NN માનવીની\N_NN સામાજિક\JJ ,\RD_PUNC રાજકીય\JJ અને\CC_CCD ધાર્મિક\JJ પ્રવૃત્તિઓનો\N_NN સમાવેશ\N_NN થતો\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJECD782	મતલબ\N_NN કે\CC_CCS માનવસુખનાં\N_NN અભૌતિક\JJ સાધનોનો\N_NN અર્થશાસ્ત્રના\N_NN અભ્યાસ\N_NN ક્ષેત્રમાં\N_NN સમાવેશ\N_NN થતો\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJECD783	માર્શલ\N_NNP માનવીની\N_NN પ્રવૃત્તિઓને\N_NN બે\QT_QTC વિભાગોમાં\N_NN વહેંચે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD784	આર્થિક\JJ પ્રવૃત્તિઓ\N_NN અને\CC_CCD બિનઆર્થિક\JJ અને\CC_CCD બધી\QT_QTF બિનઆર્થિક\JJ પ્રવૃત્તિઓને\N_NN અર્થશાસ્ત્રમાંથી\N_NN બાકાત\JJ રાખે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD785	રૉબિન્સના\N_NNP મત\N_NN મુજબ\PSP આ\DM_DMD વર્ગીકરણ\N_NN અતાર્કિક\JJ અને\CC_CCD અવૈજ્ઞાનિક\JJ છે\V_VAUX .\RD_PUNC
+GJECD786	માનવીની\N_NN કોઈ\DM_DMI પણ\RP_RPD પ્રવૃત્તિ\N_NN સંપૂર્ણપણે\JJ આર્થિક\JJ કે\CC_CCS બિનઆર્થિક\JJ હોતી\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJECD787	માનવીની\N_NN દરેક\JJ પ્રવૃત્તિમાં\N_NN એક\QT_QTC આર્થિક\JJ તત્ત્વ\N_NN હોય\V_VAUX છે\V_VAUX ,\RD_PUNC આર્થિક\JJ પાસું\N_NN હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD788	પણ\CC_CCD એમાં\DM_DMD આર્થિક\JJ તત્ત્વ\N_NN સમાયેલું\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJECD789	ભગવાનની\N_NN પૂજા\N_NN કરવા\V_VAUX_VNP માટે\PSP મંદિરમાં\N_NN જવું\V_VAUX_VNP એ\DM_DMD દેખીતી\V_VAUX_VNP રીતે\N_NN એક\JJ ધાર્મિક\JJ પ્રવૃત્તિ\N_NN છે\V_VAUX .\RD_PUNC
+GJECD790	પણ\CC_CCD એમાં\DM_DMD ય\RP_RPD આર્થિક\JJ તત્ત્વ\N_NN સમાયેલું\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJECD791	કદાચ\PSP ,\RD_PUNC મંદિરે\N_NN જવા\V_VAUX_VNP માટે\PSP ઑટોરિક્ષાનું\N_NN ભાડું\N_NN આપ્યું\V_VM છે\V_VAUX અને\CC_CCD આ\DM_DMD નાણાં\N_NN બીજા\JJ કોઈ\DM_DMI હેતુ\N_NN માટે\PSP ખર્ચી\V_VM શકાયા\V_VAUX હોત\V_VAUX .\RD_PUNC
+GJECD792	કંઈ\DM_DMI નહીં\RP_NEG તો\RP_RPD છેવટે\JJ ,\RD_PUNC મંદિરે\N_NN જવા\V_VAUX_VNP માટે\PSP સમય\N_NN ફાળવ્યો\V_VM છે\V_VAUX જેનો\PR_PRL ઉપયોગ\N_NN આવક\N_NN કમાવવા\V_VAUX_VNP માટે\PSP થઈ\V_VM શક્યો\V_VAUX હોત\V_VAUX .\RD_PUNC
+GJECD793	આમ\PSP દરેક\JJ પ્રવૃત્તિમાં\N_NN આર્થિક\JJ પાસું\N_NN હોય\V_VAUX છે\V_VAUX અને\CC_CCD અર્થશાસ્ત્ર\N_NNP દરેક\JJ પ્રવૃત્તિના\N_NN આર્થિક\JJ પાસાનો\N_NN અભ્યાસ\N_NN કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD794	નિર્જન\JJ ટાપુ\N_NN પર\PSP એકાકી\JJ જીવન\N_NN ગુજારતી\V_VAUX_VNP વ્યક્તિની\N_NN પ્રવૃત્તિઓ\N_NN સાથે\PSP એને\DM_DMD નિસ્બત\N_NN નથી\RP_NEG .\RD_PUNC
+GJECD795	રૉબિન્સના\N_NNP આ\DM_DMD સૂચિતાર્થ\N_NN પણ\RP_RPD સ્વીકારતા\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJECD796	એની\PR_PRP શક્તિ\N_NN મર્યાદિત\JJ છે\V_VAUX .\RD_PUNC
+GJECD797	એની\PR_PRP પાસે\PSP સમય\N_NN મર્યાદિત\JJ છે\V_VAUX .\RD_PUNC
+GJECD798	એટલે\PSP એણે\PR_PRP પણ\RP_RPD શક્તિ\N_NN અને\CC_CCD સમયની\N_NN કરકસર\N_NN કરવી\V_VAUX_VNP પડે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD799	એની\PR_PRP પ્રવૃત્તિઓમાં\N_NN પણ\RP_RPD આર્થિક\JJ પાસું\N_NN છે\V_VAUX .\RD_PUNC
+GJECD800	આથી\PSP અર્થશાસ્ત્રના\N_NN અભ્યાસક્ષેત્રમાં\N_NN એની\DM_DMD પ્રવૃત્તિઓનો\N_NN પણ\RP_RPD સમાવેશ\N_NN પામે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD801	માર્શલે\N_NNP આપેલી\V_VAUX_VNP વ્યાખ્યામાં\N_NN માનવસુખનાં\N_NN ભૌતિક\JJ સાધનો\N_NN પર\PSP ભાર\N_NN મૂકવામાં\V_VAUX_VNP આવ્યો\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD802	એનો\DM_DMD અર્થ\N_NN એ\DM_DMD છે\V_VAUX કે\CC_CCS માનવકલ્યાણમાં\N_NN ફાળો\N_NN આપતી\V_VAUX_VNP ભૌતિક\JJ ચીજવસ્તુઓનો\N_NN જ\RP_RPD અભ્યાસ\N_NN કરવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD803	દા.ત.\CC_CCS_UT ,\RD_PUNC અનાજ\N_NN અને\CC_CCD કાપડ\N_NN .\RD_PUNC
+GJECD804	કેટલીક\QT_QTF ચીજવસ્તુઓ\N_NN માનવકલ્યાણમાં\N_NN ફાળો\N_NN આપે\V_VM છે\V_VAUX પણ\CC_CCD એ\DM_DMD ભૌતિક\JJ નથી\RP_NEG તેથી\PSP અર્થશાસ્ત્રના\N_NN અભ્યાસક્ષેત્રમાં\N_NN એનો\DM_DMD સમાવેશ\N_NN થઈ\V_VM શકતો\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJECD805	આથી\PSP અભૌતિક\JJ ચીજોને\N_NN અર્થશાસ્ત્રને\N_NN અભ્યાસક્ષેત્રમાંથી\N_NN બાકાત\N_NN રાખી\V_VM શકાય\V_VAUX નહીં\RP_NEG .\RD_PUNC
+GJECD806	કેટલીક\QT_QTF સંપત્તિ\N_NN ભૌતિક\JJ છે\V_VAUX ,\RD_PUNC પણ\CC_CCD કલ્યાણકારી\JJ નથી\RP_NEG .\RD_PUNC
+GJECD807	તેના\DM_DMD ઉપભોગથી\N_NN માનવકલ્યાણમાં\N_NN વધારો\N_NN થતો\V_VAUX_VNP નથી\RP_NEG ,\RD_PUNC ઘટાડો\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD808	દા.ત.\CC_CCS_UT સિગારેટ\N_NN ,\RD_PUNC દારૂ\N_NN ,\RD_PUNC ગાંજો\N_NN અને\CC_CCD અફીણ\N_NN .\RD_PUNC
+GJECD809	આ\DM_DMD બધી\QT_QTF ચીજોનો\N_NN સંપત્તિમાં\N_NN સમાવેશ\N_NN થાય\V_VM છે\V_VAUX પણ\RP_RPD માનવસુખમાં\N_NN તેમનો\DM_DMD ફાળો\N_NN નકારાત્મક\JJ છે\V_VAUX .\RD_PUNC
+GJECD810	માનવકલ્યાણ\N_NN માપી\V_VM શકાતું\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJECD811	દૂધનો\N_NN એક\QT_QTC કપ\N_NN આપણને\PR_PRP સુખનો\N_NN અનુભવ\N_NN કરાવે\V_VAUX_VNP છે\V_VAUX પણ\CC_CCD કોને\PR_PRQ કેટલું\QT_QTF સુખ\N_NN આપે\V_VM છે\V_VAUX એ\DM_DMD કહી\V_VM શકાતું\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJECD812	કોઈ\DM_DMI એક\QT_QTC જ\RP_RPD સમયે\N_NN જુદી\JJ જુદી\JJ વ્યક્તિઓ\N_NN માટે\PSP માનવકલ્યાણનો\N_NN અર્થ\N_NN જુદો\JJ જુદો\JJ હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD813	કૉફી\N_NN અમુક\PSP માણસો\N_NN માટે\PSP આનંદદાયક\JJ હોય\V_VAUX છે\V_VAUX ,\RD_PUNC તો\CC_CCD અમુક\PSP માણસો\N_NN માટે\PSP દુઃખદાયક\JJ હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD814	કોઈ\DM_DMI એક\QT_QTC જ\RP_RPD વ્યક્તિ\N_NN માટે\PSP પણ\RP_RPD માનવકલ્યાણનો\N_NN અર્થ\N_NN જુદા\JJ જુદા\JJ સમયે\N_NN જુદો\JJ જુદો\JJ હોઈ\V_VAUX શકે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD815	કારણકે\CC_CCS તેની\PR_PRP અભિરુચિ\N_NN અને\CC_CCD અભિપ્રાયો\N_NN બદલાતા\V_VAUX_VNP હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD816	એમણે\PR_PRP તપાસવું\V_VAUX_VNP પડશે\V_VAUX કે\CC_CCS કયા\DM_DMQ ધ્યેયો\N_NN ઈચ્છનીય\JJ છે\V_VAUX અને\CC_CCD કયા\DM_DMQ ધ્યેયો\N_NN અનિચ્છનીય\JJ છે\V_VAUX .\RD_PUNC
+GJECD817	અર્થશાસ્ત્ર\N_NN આદર્શલક્ષી\JJ વિજ્ઞાન\N_NN બની\V_VM જશે\V_VAUX .\RD_PUNC
+GJECD818	પરંતુ\CC_CCD રૉબિન્સ\N_NNP માને\V_VM છે\V_VAUX કે\CC_CCS અર્થશાસ્ત્ર\N_NN વાસ્તવદર્શી\JJ વિજ્ઞાન\N_NN કરવામાં\V_VAUX_VNP આવે\V_VAUX તોજ\RP_RPD કાર્યકારણ\N_NN સંબંધ\N_NN અંગેના\PSP સચોટ\JJ નિયમો\N_NN પ્રસ્થાપિત\JJ કરી\V_VM શકાશે\V_VAUX .\RD_PUNC
+GJECD819	તેથી\PSP આર્થિક\JJ પ્રશ્ન\N_NN પેદા\JJ થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD820	આ\DM_DMD બાબતની\N_NN થોડી\QT_QTF વિગતે\N_NN ચર્ચા\N_NN કરીએ\V_VM .\RD_PUNC
+GJECD821	તેથી\PSP જરૂરિયાતો\N_NN અમર્યાદિત\JJ છે\V_VAUX તેમ\PSP સ્પષ્ટ\JJ થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD822	મનુષ્યની\N_NN જરૂરિયાતો\N_NN અમર્યાદિત\JJ છે\V_VAUX .\RD_PUNC
+GJECD823	તેનો\DM_DMD સરવાળો\N_NN કે\CC_CCS ગુણાકાર\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD824	માણસ\N_NN જન્મે\V_VM તે\DM_DMD પહેલાંથી\N_NST અને\CC_CCD મૃત્યુ\N_NN બાદ\PSP પણ\RP_RPD એક\QT_QTC યા\PSP બીજી\JJ જરૂરિયાત\N_NN પેદા\JJ થતી\V_VAUX_VNP જોવા\V_VAUX_VNP મળે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD825	કેટલીક\QT_QTF જરૂરિયાતો\N_NN સંતોષી\JJ શકાય\V_VAUX છે\V_VAUX ,\RD_PUNC પરંતુ\CC_CCD તે\DM_DMD ફરીથી\RB ઉદભવે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD826	તેને\DM_DMD લીધે\PSP મનુષ્ય\N_NN સતત\JJ પ્રયત્ન\N_NN કર્યા\V_VAUX_VNP કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD827	તેને\DM_DMD લીધે\PSP આર્થિક\JJ પ્રવૃત્તિ\N_NN પેદા\JJ થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD828	પરંતુ\CC_CCD વાસ્તવમાં\N_NN તેમ\PSP જોવા\V_VAUX_VNP મળતું\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJECD829	પરંતુ\CC_CCD જરૂરિયાતોની\N_NN તુલનામાં\N_NN સાધનો\N_NN ઓછા\QT_QTF છે\V_VAUX .\RD_PUNC
+GJECD830	સાધનોની\N_NN માગ\N_NN કરતાં\V_VAUX_VNP તેમનો\PR_PRP પૂરવઠો\N_NN ઓછો\QT_QTF રહે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD831	અર્થાત્\PSP સાધનોની\N_NN સાપેક્ષ\JJ અછત\N_NN છે\V_VAUX .\RD_PUNC
+GJECD832	તેની\DM_DMD કિંમત\N_NN ઊપજવાની\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJECD833	તે\DM_DMD કિંમત\N_NN ચુકવવા\V_VAUX_VNP માટે\PSP વ્યક્તિએ\N_NN આર્થિક\JJ પ્રવૃત્તિ\N_NN કરવી\V_VAUX_VNP પડે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD834	ચીજવસ્તુઓ\N_NN અને\CC_CCD સેવાઓ\N_NN તેમ\PSP જ\RP_RPD તેમને\DM_DMD ઉત્પન્ન\JJ કરવાનાં\V_VAUX_VNP જે\PR_PRL સાધનો\N_NN છે\V_VAUX તેમની\PR_PRP સાપેક્ષ\JJ તંગી\N_NN છે\V_VAUX .\RD_PUNC
+GJECD835	એટલું\JJ જ\RP_RPD નહિ\RP_NEG પરંતુ\CC_CCD આ\DM_DMD સાધનોનો\N_NN એક\QT_QTC યા\PSP બીજો\JJ એટલેકે\PSP વૈકલ્પિક\JJ ઉપયોગ\N_NN શક્ય\JJ છે\V_VAUX .\RD_PUNC
+GJECD836	જમીનમાંથી\N_NN કપાસ\N_NN ,\RD_PUNC તમાકુ\N_NN ,\RD_PUNC મગફળી\N_NN એમ\PSP અલગ\JJ અલગ\JJ પાક\N_NN લઈ\V_VM શકાય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD837	જમીનને\N_NN પડતર\N_NN રાખી\V_VM શકાય\V_VAUX છે\V_VAUX ,\RD_PUNC તેમાં\DM_DMD હાઉસિંગ\N_NN -\RD_PUNC સોસાયટી\N_NN રચી\V_VM શકાય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD838	તેમાં\DM_DMD કારખાનાનું\N_NN મકાન\N_NN પણ\RP_RPD બાંધી\V_VM શકાય\V_VAUX ,\RD_PUNC રમતગમત\N_NN માટેનું\PSP સ્ટેડિયમ\N_NN પણ\RP_RPD તેમાં\DM_DMD તૈયાર\JJ થઈ\V_VM શકે\V_VAUX .\RD_PUNC
+GJECD839	આમ\PSP ,\RD_PUNC તેના\DM_DMD અનેકવિધ\JJ ઉપયોગો\N_NN શક્ય\JJ છે\V_VAUX .\RD_PUNC
+GJECD840	પરંતુ\CC_CCD બધા\QT_QTF જ\RP_RPD ઉપયોગો\N_NN એકસાથે\PSP શક્ય\JJ નથી\RP_NEG .\RD_PUNC
+GJECD841	એક\QT_QTC ઉપયોગ\N_NN પસંદ\JJ કરવામાં\V_VAUX_VNP આવે\V_VAUX તો\CC_CCD બીજો\JJ ઉપયોગ\N_NN જતો\V_VAUX_VNP કરવો\V_VAUX_VNP પડે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD842	તેથી\PSP પસંદગીનો\N_NN આર્થિક\N_NN પ્રશ્ન\N_NN પેદા\JJ થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD843	વ્યક્તિ\N_NN તેની\DM_DMD જરૂરિયાતોની\N_NN તીવ્રતા\N_NN મુજબ\PSP જરૂરિયાતોને\N_NN અગત્યાનુક્રમ\N_NN આપે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD844	પાઈપલાઈનનો\N_NN ઉપયોગ\N_NN પીવાના\V_VAUX_VNP પાણીના\N_NN વહન\N_NN માટે\PSP કરવામાં\V_VAUX_VNP આવશે\V_VAUX .\RD_PUNC
+GJECD845	ઉપરની\JJ ત્રણે\QT_QTC પરિસ્થિતિ\N_NN એકસાથે\PSP જોવા\V_VAUX_VNP મળે\V_VM તોજ\RP_RPD આર્થિક\JJ પ્રશ્ન\N_NN પેદા\JJ થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD846	કેમકે\CC_CCS જો\CC_CCD બુદ્ધિપૂર્વકનું\JJ વર્તન\N_NN કરવામાં\V_VAUX_VNP આવે\V_VAUX તોજ\RP_RPD સાધનોનો\N_NN યોગ્ય\JJ વિનિયોગ\N_NN કે\CC_CCS કરકસર\N_NN થઈ\V_VM શકે\V_VAUX .\RD_PUNC
+GJECD847	તેમ\PSP કરવામાં\V_VAUX_VNP આવે\V_VAUX તો\CC_CCD જરૂરિયાતો\N_NN વધુમાં\QT_QTF વધુ\QT_QTF સંતોષી\N_NN શકાય\V_VAUX .\RD_PUNC
+GJECD848	પ્રો.\N_NN રૉબિન્સે\N_NNP અછતવાળાં\JJ સાધનોની\N_NN કરકસર\N_NN /\N_NN ત્રેવડ\N_NN કરવા\V_VAUX_VNP સૂચવ્યું\V_VM છે\V_VAUX .\RD_PUNC
+GJECD849	તેમ\PSP છતાં\RP_RPD રૉબિન્સે\N_NNP આપેલી\V_VAUX_VNP વ્યાખ્યા\N_NN તદ્દન\PSP ખામીરહિત\JJ નથી\RP_NEG .\RD_PUNC
+GJECD850	એની\PR_PRP વિરુદ્ધ\PSP પણ\RP_RPD કેટલીક\QT_QTF ગંભીર\JJ ટીકાઓ\N_NN થઈ\V_VM છે\V_VAUX .\RD_PUNC
+GJECD851	માર્શલનો\N_NNP માનવતાવાદી\N_NN આત્મા\N_NN હજી\N_NST જીવે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD852	માનવતાવાદીની\N_NN નજરમાં\N_NN રૉબિન્સે\N_NNP આપેલી\V_VAUX_VNP વ્યાખ્યા\N_NN અમાનવીય\JJ છે\V_VAUX ,\RD_PUNC લાગણીશૂન્ય\JJ છે\V_VAUX .\RD_PUNC
+GJECD853	અછતલક્ષી\JJ વ્યાખ્યામાં\N_NN પણ\RP_RPD માનવકલ્યાણ\N_NN અભિપ્રેત\JJ છે\V_VAUX .\RD_PUNC
+GJECD854	પરંતુ\CC_CCD કરકસર\N_NN પાછળ\PSP સમાજનો\N_NN ઉદ્દેશ\N_NN મહત્તમ\JJ સંતોષ\N_NN કે\CC_CCS મહત્તમ\JJ ઉત્પાદન\N_NN મેળવવાનો\V_VAUX_VNP હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD855	રૉબિન્સની\N_NNP વ્યાખ્યા\N_NN અતિ\PSP સંકુચિત\JJ છે\V_VAUX અને\CC_CCD અતિવ્યાપક\JJ પણ\RP_RPD છે\V_VAUX .\RD_PUNC
+GJECD856	કેટલીક\QT_QTF સમસ્યાઓ\N_NN આર્થિક\JJ છે\V_VAUX પણ\CC_CCD અછત\N_NN સાથે\PSP સંબંધિત\JJ નથી\RP_NEG .\RD_PUNC
+GJECD857	આ\DM_DMD સમસ્યા\N_NN માટે\PSP વિપુલતા\N_NN જવાબદાર\JJ છે\V_VAUX ,\RD_PUNC અછત\N_NN નહીં\RP_NEG .\RD_PUNC
+GJECD858	આ\DM_DMD દૃષ્ટિએ\N_NN રૉબિન્સની\N_NNP વ્યાખ્યા\N_NN અતિ\PSP સંકુચિત\JJ છે\V_VAUX .\RD_PUNC
+GJECD859	કેટલીક\QT_QTF સમસ્યાઓ\N_NN અછત\N_NN સાથે\PSP સંબંધિત\JJ છે\V_VAUX છતાં\RP_RPD તે\DM_DMD આર્થિક\JJ સમસ્યાઓ\N_NN નથી\RP_NEG .\RD_PUNC
+GJECD860	દા.ત.\CC_CCS_UT ,\RD_PUNC રણમેદાનમાં\N_NN સેનાનાયક\N_NN દ્વારા\PSP સૈનિકોની\N_NN ગોઠવણીનો\N_NN પ્રશ્ન\N_NN .\RD_PUNC
+GJECD861	આ\DM_DMD દૃષ્ટિએ\N_NN રૉબિન્સની\N_NNP વ્યાખ્યા\N_NN અતિ\JJ વ્યાપક\JJ છે\V_VAUX .\RD_PUNC
+GJECD862	રૉબિન્સની\N_NNP દૃષ્ટિએ\N_NN અર્થશાસ્ત્ર\N_NN માનવીય\JJ વિજ્ઞાન\N_NN છે\V_VAUX ,\RD_PUNC સામાજિક\JJ વિજ્ઞાન\N_NN નથી\RP_NEG .\RD_PUNC
+GJECD863	હિમાલયની\N_NNP પર્વતમાળામાં\N_NN એકલો\JJ રહેતો\V_VAUX_VNP સાધુ\N_NN પણ\RP_RPD અછતની\N_NN સમસ્યા\N_NN અનુભવે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD864	તેનો\DM_DMD સમય\N_NN અને\CC_CCD તેની\DM_DMD શક્તિ\N_NN મર્યાદિત\JJ છે\V_VAUX .\RD_PUNC
+GJECD865	આરામ\N_NN ,\RD_PUNC દુન્વયી\JJ કામ\N_NN અને\CC_CCD ભક્તિકાર્ય\N_NN વચ્ચે\N_NST એણે\PR_PRP યોગ્ય\JJ રીતે\N_NN સમયની\N_NN ફાળવણી\N_NN કરવી\V_VAUX_VNP પડે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD866	સાધુની\N_NN પ્રવૃત્તિઓને\N_NN પણ\RP_RPD અર્થશાસ્ત્રની\N_NN વ્યાખ્યા\N_NN લાગુ\V_VM પડે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD867	પણ\CC_CCD ઘણા\QT_QTF અર્થશાસ્ત્રીઓ\N_NN માને\V_VM છે\V_VAUX કે\CC_CCS અર્થશાસ્ત્ર\N_NN સામાજિક\JJ વિજ્ઞાન\N_NN છે\V_VAUX .\RD_PUNC
+GJECD868	અર્થશાસ્ત્ર\N_NN માત્ર\RP_RPD સાધનફાળવણીનો\N_NN અભ્યાસ\N_NN નથી\RP_NEG .\RD_PUNC
+GJECD869	મૂડીવાદી\JJ સમાજમાં\N_NN સામાન્ય\JJ રીતે\N_NN સાધનોની\N_NN ફાળવણી\N_NN ભાવતંત્ર\N_NN દ્વારા\PSP થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD870	વિકાસના\N_NN અર્થશાસ્ત્રની\N_NN અવહેલના\N_NN થઈ\V_VM છે\V_VAUX .\RD_PUNC
+GJECD871	આમ\PSP ,\RD_PUNC રૉબિન્સનો\N_NNP અભિગમ\N_NN સ્થિરતાલક્ષી\JJ છે\V_VAUX .\RD_PUNC
+GJECD872	એમાં\DM_DMD પરિવર્તનશીલતાની\N_NN (\RD_SYM ડાયનૅમિઝમ\N_NN )\RD_SYM અવગણના\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD873	શું\PR_PRQ અર્થશાસ્ત્ર\N_NN વિજ્ઞાન\N_NN છે\V_VAUX ?\RD_PUNC
+GJECD874	વિજ્ઞાન\N_NN એટલે\PSP પદ્ધતિસરનું\JJ જ્ઞાન\N_NN .\RD_PUNC
+GJECD875	કોઈ\DM_DMI પણ\RP_RPD વિજ્ઞાનમાં\N_NN વિભિન્ન\JJ પરિબળો\N_NN વચ્ચેના\N_NST કાર્યકારણ\N_NN સંબંધની\N_NN સમજુતી\N_NN આપવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD876	માત્ર\RP_RPD હકીકતોના\N_NN સમૂહને\N_NN વિજ્ઞાન\N_NN પણ\RP_RPD હકીકતો\N_NN પર\PSP રચાયેલું\V_VAUX_VNP હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD877	આ\DM_DMD માપદંડ\N_NN મુજબ\PSP અર્થશાસ્ત્ર\N_NN ખરેખર\PSP વિજ્ઞાન\N_NN છે\V_VAUX .\RD_PUNC
+GJECD878	કારણકે\CC_CCS એમાં\DM_DMD આર્થિક\JJ હકીકતોને\N_NN માત્ર\RP_RPD એકઠી\JJ કરવામાં\V_VAUX_VNP આવતી\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJECD879	વર્ગીકરણ\N_NN અને\CC_CCD વિશ્લેષણને\N_NN અંતે\N_NST તેમની\DM_DMD વચ્ચેનો\N_NST કાર્યકારણ\N_NN સંબંધ\N_NN આર્થિક\JJ નિયમોના\N_NN સ્વરૂપમાં\N_NN દર્શાવવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD880	વિજ્ઞાનનું\N_NN આ\DM_DMD લક્ષણ\N_NN અર્થશાસ્ત્રમાં\N_NN પણ\RP_RPD જોવા\V_VAUX_VNP મળે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD881	આર્થિક\JJ પરિબળો\N_NN નાણાં\N_NN વડે\PSP માપી\V_VM શકાય\V_VAUX છે\V_VAUX અને\CC_CCD કાર્યકારણ\N_NN સંબંધ\N_NN ગાણિતિક\JJ સ્વરૂપમાં\N_NN દર્શાવી\V_VM શકાય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD882	આ\DM_DMD દૃષ્ટિએ\N_NN પણ\RP_RPD અર્થશાસ્ત્રને\N_NN વિજ્ઞાનનો\N_NN દરજ્જો\N_NN આપી\V_VM શકાય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD883	અર્થશાસ્ત્રમાં\N_NN જ્ઞાનપ્રાપ્તિ\N_NN માટે\PSP વૈજ્ઞાનિક\JJ પદ્ધતિ\N_NN અપનાવવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX એ\DM_DMD નિઃશંક\JJ છે\V_VAUX અને\CC_CCD એ\DM_DMD કારણસર\JJ એ\DM_DMD બેશક\JJ વિજ્ઞાન\N_NN છે\V_VAUX .\RD_PUNC
+GJECD884	ભૌતિક\JJ વિજ્ઞાનો\N_NN જડપદાર્થોનો\N_NN અભ્યાસ\N_NN કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD885	તેથી\PSP આગાહી\N_NN કરવી\V_VAUX_VNP શક્ય\JJ છે\V_VAUX ,\RD_PUNC જ્યારે\N_NST અર્થશાસ્ત્ર\N_NN માનવીનો\N_NN અભ્યાસ\N_NN કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD886	માનવી\N_NN ગમે\PSP તે\DM_DMD નિર્ણયો\N_NN લેવાની\V_VAUX_VNP અને\CC_CCD ગમે\PSP તે\DM_DMD પ્રવૃત્તિ\N_NN કરવાની\V_VAUX_VNP સંપૂર્ણ\JJ સ્વતંત્રતા\N_NN ધરાવે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD887	તેનાં\DM_DMD નિર્ણયો\N_NN અને\CC_CCD પ્રવૃત્તિઓ\N_NN પર\PSP અનેક\JJ પ્રકારનાં\N_NN જટિલ\JJ પરિબળોની\N_NN અસર\N_NN હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD888	આથી\PSP તેની\DM_DMD પ્રવૃત્તિઓ\N_NN વિશે\PSP ચોક્કસ\JJ આગાહી\N_NN શક્ય\JJ નથી\RP_NEG .\RD_PUNC
+GJECD889	વાસ્તવમાં\N_NN હવામાનશાસ્ત્રની\N_NN આગાહીઓની\N_NN સરખામણીમાં\JJ અર્થશાસ્ત્રની\N_NN આગાહીઓ\N_NN વધુ\QT_QTF આધારભૂત\JJ હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD890	અર્થશાસ્ત્ર\N_NN વાસ્તવદર્શી\JJ વિજ્ઞાન\N_NN છે\V_VAUX કે\CC_CCS આદર્શલક્ષી\JJ ?\RD_PUNC
+GJECD891	વાસ્તવદર્શી\JJ વિજ્ઞાન\N_NN આર્થિક\JJ વાસ્તવિક્તાનું\N_NN દર્શન\N_NN કરાવે\V_VM છે\V_VAUX ,\RD_PUNC જ્યારે\N_NST આદર્શલક્ષી\JJ વિજ્ઞાન\N_NN આદર્શોની\N_NN સ્થાપના\N_NN કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD892	આ\DM_DMD તફાવત\N_NN વધુ\QT_QTF સ્પષ્ટ\JJ કરવા\V_VAUX_VNP માટે\PSP અર્થશાસ્ત્રમાંથી\N_NN જ\RP_RPD એક\QT_QTC ઉદાહરણ\N_NN લઈએ\V_VM .\RD_PUNC
+GJECD893	વ્યાજનો\N_NN દર\N_NN કઈ\DM_DMI રીતે\N_NN નક્કી\JJ થાય\V_VM છે\V_VAUX ?\RD_PUNC
+GJECD894	વ્યાજના\N_NN દરના\N_NN ફેરફારો\N_NN માટે\PSP કયા\N_NST પરિબળો\N_NN જવાબદાર\JJ છે\V_VAUX ?\RD_PUNC
+GJECD895	આ\DM_DMD પ્રશ્નોનો\N_NN અભ્યાસ\N_NN વાસ્તવદર્શી\JJ અર્થશાસ્ત્ર\N_NN વિષય\N_NN છે\V_VAUX .\RD_PUNC
+GJECD896	વ્યાજ\N_NN આપવું\V_VAUX_VNP કે\CC_CCS લેવું\V_VAUX_VNP યોગ્ય\JJ છે\V_VAUX ?\RD_PUNC
+GJECD897	વ્યાજનો\N_NN કયો\DM_DMQ દર\N_NN વાજબી\JJ દર\N_NN છે\V_VAUX ?\RD_PUNC
+GJECD898	આ\DM_DMD પ્રશ્નોના\N_NN જવાબ\N_NN આપવાનું\V_VAUX_VNP કાર્ય\N_NN આદર્શલક્ષી\JJ અર્થશાસ્ત્રનું\N_NN છે\V_VAUX .\RD_PUNC
+GJECD899	આંખો\N_NN પર\PSP રંગીન\JJ ચશ્માં\N_NN મૂકી\V_VM દેવામાં\V_VAUX_VNP આવે\V_VAUX તો\CC_CCD વાસ્તવિક્તાને\N_NN એના\DM_DMD મૂળ\JJ સ્વરૂપમાં\N_NN કદી\N_NST જોઈ\V_VM શકાતી\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJECD900	પણ\CC_CCD યોગ્યાયોગ્યતાના\N_NN અભિપ્રાયની\N_NN ચકાસણી\N_NN કરવા\V_VAUX_VNP માટે\PSP આપણી\PR_PRP પાસે\PSP કોઈ\DM_DMI માપદંડ\N_NN નથી\RP_NEG .\RD_PUNC
+GJECD901	તેમ\PSP છતાં\RP_RPD ,\RD_PUNC અનેક\JJ અર્થશાસ્ત્રીઓ\N_NN લૉર્ડ\N_NNP રૉબિન્સ\N_NNP સાથે\PSP સંમત\JJ થતા\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJECD902	લૉર્ડ\N_NNP રૉબિન્સ\N_NNP માને\V_VM છે\V_VAUX કે\CC_CCS અર્થશાસ્ત્ર\N_NN કોઈ\DM_DMI આદર્શોની\N_NN સ્થાપના\N_NN કરતું\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJECD903	અર્થશાસ્ત્રીને\N_NN સલાહનો\N_NN એક\QT_QTC શબ્દ\N_NN પણ\RP_RPD ઉચ્ચારવાનો\V_VAUX_VNP અધિકાર\N_NN ,\RD_PUNC એક\QT_QTC અર્થશાસ્ત્રી\N_NN તરીકે\PSP નથી\RP_NEG જ\RP_RPD .\RD_PUNC
+GJECD904	ધ્યેયોની\N_NN ઈચ્છનીયતા\N_NN વિશે\PSP તે\DM_DMQ કાંઈ\DM_DMI પણ\RP_RPD કહેવા\V_VAUX_VNP શક્તિમાન\JJ નથી\RP_NEG .\RD_PUNC
+GJECD905	તેમ\PSP છતાં\RP_RPD ,\RD_PUNC લૉર્ડ\N_NNP રૉબિન્સના\N_NNP મત\N_NN મુજબ\PSP ,\RD_PUNC અર્થશાસ્ત્ર\N_NN એક\QT_QTC મહત્ત્વનું\JJ અને\CC_CCD ઉપયોગી\JJ વિજ્ઞાન\N_NN છે\V_VAUX .\RD_PUNC
+GJECD906	અર્થશાસ્ત્ર\N_NN પોતે\PR_PRF પસંદગી\N_NN કરી\V_VM આપતું\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJECD907	તે\DM_DMD આપણને\PR_PRP પસંદગીની\N_NN તકલીફમાંથી\N_NN સંપૂર્ણપણે\JJ મુક્ત\JJ કરતું\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJECD908	પરંતુ\CC_CCD તર્કબદ્ધ\JJ રીતે\N_NN વર્તવા\V_VAUX_VNP માટે\PSP આપણે\PR_PRP શું\PR_PRQ પસંદ\JJ કરીએ\V_VM છીએ\V_VAUX એ\DM_DMD વિશે\PSP આપણે\PR_PRP સભાન\JJ હોવું\V_VAUX_VNP જરૂરી\JJ છે\V_VAUX .\RD_PUNC
+GJECD909	તેની\DM_DMD મદદથી\N_NN આપણે\PR_PRP વિકલ્પોના\N_NN બધા\QT_QTF સૂચીતાર્થોનું\N_NN જ્ઞાન\N_NN મેળવી\V_VM શકીએ\V_VAUX છીએ\V_VAUX .\RD_PUNC
+GJECD910	પણ\CC_CCD સાચો\JJ નિર્ણય\N_NN લેવા\V_VAUX_VNP માટે\PSP આયાતજકાતની\N_NN બીજી\JJ અસરો\N_NN ધ્યાનમાં\N_NN લેવી\V_VAUX_VNP જોઈએ\V_VAUX .\RD_PUNC
+GJECD911	એ\DM_DMD અર્થશાસ્ત્રનો\N_NN અભ્યાસ\N_NN કરવામાં\V_VAUX_VNP આવે\V_VAUX તોજ\RP_RPD શક્ય\JJ બને\V_VM છે\V_VAUX .\RD_PUNC
+GJECD912	આવા\JJ અસંગત\JJ ધ્યેયોની\N_NN સિદ્ધિના\N_NN પ્રયાસો\N_NN કદી\N_NST સફળ\JJ થઈ\V_VM શકતા\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJECD913	આનંદપ્રમોદ\N_NN માટે\PSP લોકોને\N_NN વધુ\QT_QTF સમય\N_NN અને\CC_CCD વધુ\QT_QTF સવલતો\N_NN પ્રાપ્ત\JJ થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD914	આમ\PSP ,\RD_PUNC રૉબિન્સની\N_NN વ્યાખ્યા\N_NN સ્થિરતાલક્ષી\JJ છે\V_VAUX .\RD_PUNC
+GJECD915	પરંતુ\CC_CCD તાજેતરમાં\N_NST અર્થશાસ્ત્રીઓએ\N_NN પરિવર્તનલક્ષી\JJ અભિગમ\N_NN અપનાવ્યો\V_VM છે\V_VAUX .\RD_PUNC
+GJECD916	પરિણામે\PSP વિકાસનું\N_NN અર્થશાસ્ત્ર\N_NN ખૂબ\QT_QTF ઝડપથી\RB વિકાસ\N_NN પામ્યું\V_VM છે\V_VAUX .\RD_PUNC
+GJECD917	કઈ\DM_DMI વસ્તુઓનું\N_NN ઉત્પાદન\N_NN કરવું\V_VAUX_VNP ?\RD_PUNC
+GJECD918	કેટલા\QT_QTF પ્રમાણમાં\N_NN ?\RD_PUNC
+GJECD919	કોઈ\DM_DMI એક\QT_QTC વસ્તુનું\N_NN ઉત્પાદન\N_NN વધારવા\V_VAUX_VNP માટે\PSP અન્ય\JJ વસ્તુના\N_NN ઉત્પાદનમાં\N_NN ઘટાડો\N_NN કરવો\V_VAUX_VNP પડે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD920	મૂડીસાધનોનું\N_NN ઉત્પાદન\N_NN વધતાં\V_VAUX_VNP સંતોષની\N_NN સરખામણીમાં\N_NN ભાવિ\N_NN સંતોષને\N_NN વધુ\QT_QTF મહત્ત્વ\N_NN આપે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD921	મૂડી\N_NN સાધનોનું\N_NN ઉત્પાદન\N_NN વધતા\V_VAUX_VNP ભવિષ્યમાં\N_NN વધુ\QT_QTF વપરાશી\JJ વસ્તુઓનું\N_NN ઉત્પાદન\N_NN કરી\V_VM શકાશે\V_VAUX .\RD_PUNC
+GJECD922	વર્તમાન\JJ વપરાશનું\N_NN બલિદાન\N_NN આપીને\V_VAUX_VNP સમાજ\N_NN ભવિષ્યમાં\N_NN વધુ\QT_QTF વપરાશી\JJ વસ્તુઓ\N_NN મેળવી\V_VM શકશે\V_VAUX .\RD_PUNC
+GJECD923	સંતોષની\N_NN વધુ\QT_QTF ઊંચી\JJ સપાટી\N_NN પ્રાપ્ત\JJ કરશે\V_VM .\RD_PUNC
+GJECD924	સિંચાઈની\N_NN નાની\JJ યોજના\N_NN શ્રમપ્રચુર\JJ હોય\V_VAUX છે\V_VAUX અને\CC_CCD મોટી\JJ યોજના\N_NN મૂડીપ્રચુર\JJ હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD925	આમ\PSP ,\RD_PUNC કઈ\DM_DMI રીતે\N_NN ઉત્પાદન\N_NN કરવું\V_VAUX_VNP એ\DM_DMD પ્રશ્ન\N_NN ઉત્પાદન\N_NN પદ્ધતિની\N_NN પસંદગીનો\N_NN પ્રશ્ન\N_NN છે\V_VAUX .\RD_PUNC
+GJECD926	ઉત્પાદનની\N_NN પદ્ધતિ\N_NN એટલે\PSP સાધનોનું\N_NN ચોક્કસ\JJ સંયોજન\N_NN .\RD_PUNC
+GJECD927	ઉત્પાદનની\N_NN જુદી\JJ જુદી\JJ પદ્ધતિઓમાં\N_NN સાધનોનું\N_NN સંયોજન\N_NN જુદું\JJ જુદું\JJ હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD928	સાધનોની\N_NN અછત\N_NN છે\V_VAUX તેથી\PSP સાધનોનો\N_NN ઉપયોગ\N_NN કરકસરભર્યો\JJ થવો\V_VAUX_VNP જોઈએ\V_VAUX .\RD_PUNC
+GJECD929	સાધનોનો\N_NN કરકસરભર્યો\JJ ઉપયોગ\N_NN કરીને\V_VAUX_VNP જ\RP_RPD મહત્તમ\JJ ઉત્પાદન\N_NN મેળવી\V_VM શકાય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD930	મૂડીની\N_NN સરખામણીમાં\N_NN શ્રમ\N_NN વધુ\QT_QTF ઉપલબ્ધ\JJ હોય\V_VAUX તો\CC_CCD મૂડીપ્રચુર\JJ પદ્ધતિ\N_NN પસંદ\JJ કરવી\V_VAUX_VNP જોઈએ\V_VAUX .\RD_PUNC
+GJECD931	કારણકે\CC_CCS અર્થતંત્રને\N_NN ઉત્પાદનક્ષમતાનો\N_NN આધાર\N_NN અમુક\PSP અંશે\N_NN ઉત્પાદન\N_NN પદ્ધતિ\N_NN પર\PSP હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD932	વસ્તુઓ\N_NN -\RD_PUNC સેવાઓની\N_NN વહેંચણી\N_NN કઈ\DM_DMI રીતે\N_NN કરવી\V_VAUX_VNP ?\RD_PUNC
+GJECD933	સમાજના\N_NN જુદા\JJ જુદા\JJ વર્ગો\N_NN વચ્ચે\N_NST રાષ્ટ્રીય\JJ ઉત્પાદનની\N_NN વહેંચણીનો\N_NN આધાર\N_NN મુખ્યત્વે\JJ આવકની\N_NN વહેંચણી\N_NN પર\PSP હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD934	જે\PR_PRL લોકોની\N_NN આવક\N_NN વધુ\QT_QTF હોય\V_VAUX છે\V_VAUX તેમની\PR_PRP ખરીદશક્તિ\N_NN વધુ\QT_QTF હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD935	તેઓ\PR_PRP રાષ્ટ્રીય\JJ ઉત્પાદનનો\N_NN વધુ\QT_QTF હિસ્સો\N_NN લઈ\V_VM જાય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD936	જે\PR_PRL લોકોની\N_NN આવક\N_NN ઓછી\QT_QTF હોય\V_VAUX છે\V_VAUX તેમની\PR_PRP ખરીદશક્તિ\N_NN ઓછી\QT_QTF હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD937	તેમની\PR_PRP પાસે\PSP રાષ્ટ્રીય\JJ આવકનો\N_NN ઓછો\QT_QTF હિસ્સો\N_NN આવે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD938	આવકની\N_NN વહેંચણી\N_NN જેમ\PSP વધુ\QT_QTF અસમાન\JJ તેમ\PSP રાષ્ટ્રીય\JJ ઉત્પાદનની\N_NN વહેંચણીમાં\N_NN અસમાનતા\N_NN વધુ\QT_QTF હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD939	આમ\PSP ,\RD_PUNC રાષ્ટ્રીય\JJ ઉત્પાદનની\N_NN વહેંચણીનો\N_NN પ્રશ્ન\N_NN શુદ્ધ\JJ આર્થિક\JJ પ્રશ્ન\N_NN નથી\RP_NEG .\RD_PUNC
+GJECD940	એમાં\DM_DMD સામાજિક\JJ ન્યાયનો\N_NN પ્રશ્ન\N_NN પણ\RP_RPD સમાયેલો\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJECD941	લોકો\N_NN ઉત્પાદનની\N_NN પ્રક્રિયામાં\N_NN ફાળો\N_NN આપીને\V_VAUX_VNP આવક\N_NN મેળવે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD942	શ્રમ\N_NN પૂરો\JJ પાડતા\V_VAUX_VNP લોકોને\N_NN વેતનના\N_NN સ્વરૂપમાં\N_NN આવક\N_NN મળે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD943	આથી\PSP આવકની\N_NN વહેંચણીનો\N_NN આધાર\N_NN મહદઅંશે\N_NN સાધનોની\N_NN બજાર\N_NN કિંમતો\N_NN પર\PSP હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD944	આમ\PSP ,\RD_PUNC રાષ્ટ્રીય\JJ ઉત્પાદનની\N_NN વહેંચણીનો\N_NN પ્રશ્ન\N_NN એ\DM_DMD સાધન\N_NN કિંમતોના\N_NN નિર્ધારણનો\N_NN પ્રશ્ન\N_NN છે\V_VAUX .\RD_PUNC
+GJECD945	શું\PR_PRQ સાધનોનો\N_NN કાર્યક્ષમતાપૂર્વક\JJ ઉપયોગ\N_NN થાય\V_VM છે\V_VAUX ?\RD_PUNC
+GJECD946	સાધનોની\N_NN અછત\N_NN છે\V_VAUX એટલે\PSP તેમનો\PR_PRP ઉપયોગ\N_NN કાર્યક્ષમતાપૂર્વક\JJ થવો\V_VAUX_VNP જોઈએ\V_VAUX .\RD_PUNC
+GJECD947	કઈ\DM_DMI વસ્તુઓ\N_NN ઉત્પન્ન\JJ કરવી\V_VAUX_VNP ?\RD_PUNC
+GJECD948	કઈ\DM_DMI રીતે\N_NN ?\RD_PUNC
+GJECD949	અને\CC_CCD તેમની\PR_PRP વહેંચણી\N_NN કઈ\DM_DMI રીતે\N_NN કરવી\V_VAUX_VNP ?\RD_PUNC
+GJECD950	આ\DM_DMD બધા\QT_QTF પ્રશ્નોના\N_NN ઉકેલ\N_NN મેળવ્યા\V_VAUX_VNP પછી\PSP એ\DM_DMD તપાસવું\V_VAUX_VNP જરૂરી\JJ છે\V_VAUX કે\CC_CCS ઉકેલો\N_NN કાર્યક્ષમ\JJ છે\V_VAUX કે\CC_CCS નહીં\RP_NEG .\RD_PUNC
+GJECD951	ઉત્પાદન\N_NN અને\CC_CCD વહેંચણીના\N_NN નિર્ણયોમાં\N_NN કાર્યક્ષમતાનો\N_NN અભાવ\N_NN તો\RP_RPD નથી\RP_NEG ?\RD_PUNC
+GJECD952	ઉત્પાદનની\N_NN કાર્યક્ષમતા\N_NN એટલે\PSP સાધનોની\N_NN એવી\JJ ફાળવણી\N_NN કે\CC_CCS જેમાં\PR_PRL ફેરફાર\N_NN કરવામાં\V_VAUX_VNP આવે\V_VAUX તો\CC_CCD કુલ\JJ ઉત્પાદન\N_NN ઘટી\V_VM જાય\V_VAUX .\RD_PUNC
+GJECD953	અહીં\N_NST ટેકનિકલ\JJ કાર્યક્ષમતા\N_NN અને\CC_CCD આર્થિક\JJ કાર્યક્ષમતા\N_NN વચ્ચેનો\JJ તફાવત\N_NN નોંધી\V_VM લેવો\V_VAUX_VNP જોઈએ\V_VAUX .\RD_PUNC
+GJECD954	આમ\PSP ,\RD_PUNC આર્થિક\JJ કાર્યક્ષમતાનો\N_NN સમાવેશ\N_NN થઈ\V_VM જાય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD955	આર્થિક\JJ કાર્યક્ષમતા\N_NN સિદ્ધ\JJ કરવામાં\V_VAUX_VNP આવે\V_VAUX ત્યારે\N_NST ટેકનિકલ\JJ કાર્યક્ષમતા\N_NN પણ\RP_RPD સિદ્ધ\JJ થઈ\V_VM ગઈ\V_VAUX હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD956	શું\PR_PRQ ઉપલબ્ધ\JJ સાધનોનો\N_NN પૂર્ણતમ\JJ ઉપયોગ\N_NN થાય\V_VM છે\V_VAUX ?\RD_PUNC
+GJECD957	કામ\N_NN કરવાની\V_VAUX_VNP શક્તિ\N_NN અને\CC_CCD ઈચ્છા\N_NN ધરાવતા\V_VAUX_VNP બધા\QT_QTF કામદારોને\N_NN ઉત્પાદક\N_NN રોજગારી\N_NN મળવી\V_VAUX_VNP જોઈએ\V_VAUX .\RD_PUNC
+GJECD958	ઉદ્યોગોમાં\N_NN અને\CC_CCD ખેતરોમાં\N_NN ઉત્પાદનક્ષમતાનો\N_NN પૂર્ણતમ\JJ ઉપયોગ\N_NN થવો\V_VAUX_VNP જોઈએ\V_VAUX .\RD_PUNC
+GJECD959	વાસ્તવિક\JJ ઉત્પાદન\N_NN અર્થતંત્રની\N_NN ઉત્પાદનક્ષમતા\N_NN બરાબર\JJ હોવું\V_VAUX_VNP જોઈએ\V_VAUX .\RD_PUNC
+GJECD960	અર્થશાસ્ત્રની\N_NN પરિભાષામાં\N_NN કહીએ\V_VM તો\CC_CCD અનૈચ્છિક\JJ બેરોજગારી\N_NN શૂન્ય\QT_QTF હોવી\V_VAUX_VNP જોઈએ\V_VAUX .\RD_PUNC
+GJECD961	ઈચ્છા\N_NN વિરુદ્ધ\PSP શ્રમિકો\N_NN અને\CC_CCD અન્ય\JJ સાધનમાલિકો\N_NN બેરોજગાર\JJ ન\RP_NEG હોવા\V_VAUX_VNP જોઈએ\V_VAUX .\RD_PUNC
+GJECD962	અર્થતંત્ર\N_NN પૂર્ણ\JJ રોજગારીની\N_NN સપાટીએ\N_NN કામ\N_NN કરતું\V_VAUX_VNP હોવું\V_VAUX જોઈએ\V_VAUX .\RD_PUNC
+GJECD963	વાસ્તવમાં\N_NN પૂર્ણ\JJ રોજગારીનો\N_NN પ્રશ્ન\N_NN કાર્યક્ષમતાનો\N_NN જ\RP_RPD પ્રશ્ન\N_NN છે\V_VAUX .\RD_PUNC
+GJECD964	આ\DM_DMD પ્રકારની\N_NN બિનકાર્યક્ષમતા\N_NN મૂડીવાદી\JJ અર્થવ્યવસ્થાની\N_NN ગંભીરતમ\JJ ત્રુટી\N_NN છે\V_VAUX .\RD_PUNC
+GJECD965	અહીં\N_NST ઉત્પાદક\N_NN અને\CC_CCD ઉપભોક્તા\N_NN બંને\JJ ભૂમિકાઓ\N_NN એક\JJ જ\RP_RPD વ્યક્તિ\N_NN અદા\JJ કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD966	તે\PSP જેટલું\JJ કામ\N_NN કરવાની\V_VAUX_VNP ઈચ્છા\N_NN ધરાવે\V_VM છે\V_VAUX એટલું\JJ કામ\N_NN કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD967	અહીં\N_NST અનૈચ્છિક\JJ બેકારી\N_NN નથી\RP_NEG .\RD_PUNC
+GJECD968	તેઓ\PR_PRP સ્વતંત્રપણે\JJ ઉત્પાદન\N_NN અને\CC_CCD ઉપયોગ\N_NN અંગેના\PSP નિર્ણયો\N_NN લે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD969	કુલ\JJ માગ\N_NN ઓછી\QT_QTF હોય\V_VAUX છે\V_VAUX ત્યારે\N_NST બેરોજગારી\N_NN સર્જાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD970	કુલ\JJ માગ\N_NN વધુ\QT_QTF હોય\V_VAUX છે\V_VAUX ત્યારે\N_NST ફુગાવો\N_NN સર્જાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD971	બેરોજગારી\N_NN અને\CC_CCD ફુગાવો\N_NN બંને\JJ પરિસ્થિતિઓમાં\N_NN સાધનોને\N_NN દુર્વ્યય\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD972	શું\PR_PRQ અર્થતંત્રની\N_NN ઉત્પાદનક્ષમતા\N_NN સતત\JJ વધે\V_VM છે\V_VAUX ?\RD_PUNC
+GJECD973	અર્થતંત્રની\N_NN ઉત્પાદનક્ષમતા\N_NN વધે\V_VM તેમ\PSP વસ્તુઓ\N_NN સેવાઓનું\N_NN ઉત્પાદન\N_NN વધે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD974	લોકોનું\N_NN જીવનધોરણ\N_NN ઊંચે\JJ જાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD975	જીવનધોરણમાં\N_NN વૈવિધ્ય\N_NN આવે\V_VM છે\V_VAUX અને\CC_CCD લોકો\N_NN સંતોષની\N_NN વધુ\QT_QTF ઊંચી\JJ સપાટી\N_NN પર\PSP ગતિ\N_NN કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD976	સાધન\N_NN પૂરવઠો\N_NN અને\CC_CCD માનવજરૂરિયાતો\N_NN વચ્ચેનું\N_NST અંતર\N_NN ઘટાડવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD977	આર્થિક\JJ વિકાસ\N_NN સાથે\PSP અનુકૂલનનો\N_NN પ્રશ્ન\N_NN પણ\RP_RPD સંકળાયેલો\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJECD978	સાધનોની\N_NN ફાળવણી\N_NN બદલાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD979	જો\CC_CCD સાધનફાળવણીમાં\N_NN ઝડપથી\RB યોગ્ય\JJ ફેરફારો\N_NN કરવામાં\V_VAUX_VNP ન\RP_NEG આવે\V_VAUX તો\CC_CCD કાર્યક્ષમતા\N_NN ઘટે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD980	સાધનોનો\N_NN દુર્વ્યય\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD981	ઉત્પાદનશક્યતા\N_NN રેખાને\N_NN રૂપાંતર\N_NN રેખા\N_NN પણ\RP_RPD કહેવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD982	ઉત્પાદનનાં\N_NN બધાં\QT_QTF સાધનો\N_NN ઉત્પાદનકાર્યમાં\N_NN જોડાયેલાં\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJECD983	અર્થતંત્રમાં\N_NN પૂર્ણ\JJ રોજગારી\N_NN પ્રવર્તે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD984	સાધનોનો\N_NN પૂરવઠો\N_NN સ્થિર\JJ છે\V_VAUX પણ\RP_RPD તેમને\PR_PRP એક\QT_QTC ઉદ્યોગોમાંથી\N_NN બીજા\JJ ઉદ્યોગ\N_NN તરફ\PSP લઈ\V_VM જઈ\V_VAUX_VNP શકાય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD985	સાધનોની\N_NN ફાળવણી\N_NN બદલાય\V_VM છે\V_VAUX .\RD_PUNC
+GJECD986	ઉત્પાદન\N_NN પદ્ધતિઓ\N_NN સ્થિર\JJ છે\V_VAUX .\RD_PUNC
+GJECD987	માત્ર\RP_RPD બે\QT_QTC જ\RP_RPD વસ્તુઓનું\N_NN ઉત્પાદન\N_NN કરવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD988	સાધનોની\N_NN અછત\N_NN છે\V_VAUX ,\RD_PUNC તેથી\PSP બધી\QT_QTF વસ્તુઓનું\N_NN ઉત્પાદન\N_NN એકસાથે\PSP વધારી\V_VM શકાતું\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJECD989	સમાજે\N_NN ઉત્પાદનશક્યતા\N_NN રેખા\N_NN પર\PSP એક\QT_QTC બિંદુએથી\N_NN બીજા\JJ બિંદુએ\N_NN ગતિ\N_NN કરવી\V_VAUX_VNP પડશે\V_VAUX .\RD_PUNC
+GJECD990	તે\DM_DMD ઉત્પાદનશક્યતા\N_NN રેખા\N_NN ઓળંગી\V_VM શકે\V_VAUX નહીં\RP_NEG .\RD_PUNC
+GJECD991	ઉત્પાદનશક્યતા\N_NN રેખા\N_NN પરનું\PSP પ્રત્યેક\JJ બિંદુ\N_NN ચોક્કસ\PSP સાધનફાળવણી\N_NN દર્શાવે\V_VM છે\V_VAUX .\RD_PUNC
+GJECD992	જુદાં\JJ જુદાં\JJ બિંદુઓએ\N_NN સાધનફાળવણી\N_NN જુદી\JJ જુદી\JJ છે\V_VAUX .\RD_PUNC
+GJECD993	કઈ\DM_DMI રીતે\N_NN ઉત્પાદન\N_NN કરવું\V_VAUX_VNP એ\DM_DMD ઉત્પાદન\N_NN પદ્ધતિની\N_NN પસંદગીનો\N_NN પ્રશ્ન\N_NN છે\V_VAUX .\RD_PUNC
+GJECD994	તેને\DM_DMD મહત્તમ\JJ ઉત્પાદન\N_NN પ્રાપ્ત\JJ થશે\V_VM નહીં\RP_NEG .\RD_PUNC
+GJECD995	પણ\CC_CCD પરોક્ષ\JJ રીતે\N_NN એ\DM_DMD અંગે\PSP માહિતી\N_NN મેળવી\V_VM શકાય\V_VAUX .\RD_PUNC
+GJECD996	મોજશોખની\N_NN વસ્તુઓના\N_NN ઉત્પાદન\N_NN માટે\PSP વધુ\QT_QTF સાધનો\N_NN ફાળવવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD997	આવકની\N_NN વહેંચણી\N_NN ઓછી\QT_QTF અસમાન\JJ છે\V_VAUX .\RD_PUNC
+GJECD998	કુલ\JJ ઉત્પાદન\N_NN મહત્તમ\JJ હશે\V_VAUX .\RD_PUNC
+GJECD999	અથવા\CC_CCD બંને\JJ વસ્તુઓનું\N_NN ઉત્પાદન\N_NN એકસાથે\PSP વધારી\V_VM શકાય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJECD1000	બંને\JJ વસ્તુઓનું\N_NN ઉત્પાદન\N_NN વધારી\V_VM શકાય\V_VAUX છે\V_VAUX .\RD_PUNC 

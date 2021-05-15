@@ -1,0 +1,99 @@
+સ્વાર્થ_N_NN બે_QT_QTC વ્યક્તિઓ_N_NN વચ્ચેનો_N_NN હોય_V_VAUX તોય_RP_RPD તેનો_DM_DMD અંજામ_N_NN તો_RP_RPD પાયમાલીમાં_DM_DMI જ_RP_RPD આવવાનો_N_NN ._RD_PUNC  ._.
+સમાધિમાં_N_NN ચિત્ત_N_NN અડોલ_N_NN બની_V_VAUX_VNP જાય_V_VAUX છે_V_VAUX ._RD_PUNC  ._.
+ભરતને_N_NNP અયોધ્યાનું_N_NN રાજ્ય_N_NN તો_RP_RPD શું_PR_PRQ બ્રહ્મલોક_V_VAUX ,_RD_PUNC વૈકુંઠ_N_NNP કે_CC_CCS શિવલોક_N_NN પ્રાપ્ત_N_NN થાય_V_VM ._RD_PUNC  ._.
+સાચી_JJ ભક્તિ_N_NN થાય_V_VM તો_RP_RPD `_RD_PUNC સાહેબ_N_NN `_RD_PUNC રીઝે_N_NN જ_RP_RPD ._RD_PUNC  ._.
+ત્યાં_N_NST ત્યાં_N_NST હું_PR_PRP અચૂક_N_NN ઉપસ્થિત_N_NN રહેવાની_V_VAUX_VNP કોશિશ_N_NN કરું_N_NN છું_V_VAUX ._RD_PUNC  ._.
+આ_DM_DMD સંત_N_NN પૃથ્વી_N_NN ઉપર_PSP મનુષ્ય_N_NN સ્વરૂપે_N_NN રહ્યા_V_VAUX ત્યાં_N_NST સુધી_PSP નિત્ય_JJ રોટલો_N_NN ને_RP_RPD છાશ_N_NN જ_RP_RPD જમ્યા_V_VM છે_V_VAUX ._RD_PUNC  ._.
+મોતને_N_NN હરદમ_N_NN વેલકમ_N_NN કહેવા_V_VAUX_VNP હાથ_N_NN લંબાવીએ_N_NN ._RD_PUNC  ._.
+`_RD_PUNC મને_PR_PRP સમર્પિત_JJ શિષ્યો_N_NN મળો_N_NN `_RD_PUNC એવી_JJ લાલસા_N_NN ગુરુમાં_N_NN ન_RP_NEG હોય_V_VAUX તે_PR_PRL સમજાય_V_VM એવું_JJ છે_V_VAUX ._RD_PUNC  ._.
+માટે_PSP હું_PR_PRP પિયરમાં_N_NN નિવાસ_N_NN કરવા_V_VAUX_VNP ચાહતી_N_NN નથી_RP_NEG ._RD_PUNC  ._.
+એ_PR_PRL દ્વારિકામાં_N_NNP શ્રીકૃષ્ણ_N_NNP અને_CC_CCD બલરામ_N_NNP છે_V_VAUX ._RD_PUNC  ._.
+ઈંચની_N_NN પ્રત્યેક_JJ રેખાઓ_N_NN ઉપર_PSP દેવતાઓનો_N_NN વાસ_N_NN છે_V_VAUX ._RD_PUNC  ._.
+તેમને_PR_PRP બાળપણથી_N_NN જ_RP_RPD ભગવાન_N_NN રામ_N_NN પ્રત્યે_PSP અપાર_JJ પ્રીતિ_N_NN હતી_V_VAUX ._RD_PUNC  ._.
+ત્યારપછી_PSP પ્રાણાયામ_N_NN આવે_V_VM છે_V_VAUX ._RD_PUNC  ._.
+શિવજીને_N_NNP `_RD_PUNC રૂદ્ર_N_NN `_RD_PUNC પણ_RP_RPD કહે_V_VM છે_V_VAUX ._RD_PUNC  ._.
+શિવજીના_N_NNP હાથનું_N_NN ડમરુ_N_NN એ_PR_PRL સંગીતનું_N_NN સૂરનું_N_NN પ્રતીક_N_NN છે_V_VAUX ._RD_PUNC  ._.
+આ_DM_DMD શબ્દ_N_NN મુખ્યત્વે_N_NN જૈન_N_NN આરાધકવર્ગમાં_N_NN ખૂબ_QT_QTF ખૂબ_QT_QTF પ્રસિદ્ધ_JJ છે_V_VAUX ._RD_PUNC  ._.
+તેથી_PSP સઘળી_JJ માનવ_N_NN જાતે_N_NN પોતાનો_PR_PRF ઉત્થાનનો_N_NN દિવસ_N_NN માની_V_VM ઉત્સવ_N_NN મનાવવો_N_NN જોઈએ_V_VAUX ._RD_PUNC  ._.
+સંસારની_N_NN સઘળી_JJ ઘટનાઓનો_N_NN મર્મ_N_NN પામી_N_NN શકે_V_VAUX છે_V_VAUX ._RD_PUNC  ._.
+લગ્નની_N_NN ઉતાવળમાં_N_NN સંબંધો_N_NN કેવા_DM_DMQ ભગ્ન_N_NN થઈ_V_VM જાય_V_VAUX છે_V_VAUX ,_RD_PUNC લઘુબંધુ_N_NN ._RD_PUNC  ._.
+ઉપાધ્યાયજી_N_NN મહારાજે_N_NN તેથી_PSP જ_RP_RPD કહ્યું_V_VM :_RD_PUNC `_RD_PUNC ક્લેશરહિત_N_NN મન_N_NN તે_PR_PRL ભવ_N_NN -_RD_PUNC પાર_N_NN ._RD_PUNC `_RD_PUNC  ._.
+સાથે_PSP ખેતી_N_NN માટે_PSP ઓજારો_N_NN બનાવી_V_VAUX_VNP આપ્યા_V_VM ._RD_PUNC  ._.
+વિશ્વકર્મા_N_NNP વંશ_N_NN જ_RP_RPD દાદાનો_N_NN જીજ્ઞાસુ_N_NN ભગત_V_VM છે_V_VAUX ._RD_PUNC  ._.
+૨૨_N_NN વર્ષ_N_NN સુધી_PSP શ્રીજી_N_NN મહારાજની_N_NNP સાથે_PSP રહી_V_VAUX સેવા_N_NN કરી_V_VM છે_V_VAUX ._RD_PUNC  ._.
+સ્વામિનારાયણ_N_NNP સંપ્રદાયમાં_N_NN સદ્_N_NN શ્રી_N_NN ઈશ્વરચરણદાસજી_N_NNP સ્વામી_N_NN અને_DM_DMD શ્રીજી_N_NN સંકલ્પ_N_NN મૂર્તિ_N_NN જીવનપ્રાણ_N_NNP બાપાશ્રીએ_N_NN સંપ્રદાયમાં_N_NN દેવની_N_NN મિલ્કત_N_NN દેવની_N_NN જ_RP_RPD રહે_V_VAUX તે_PR_PRL માટે_PSP મહાસભાની_N_NN સ્થાપના_N_NN કરી_V_VAUX_VNP હતી_V_VAUX ._RD_PUNC  ._.
+આમ_PSP ,_RD_PUNC તેઓ_PR_PRP સામેથી_N_NN દુઃખ_N_NN માંગીને_N_NN જીવન_N_NN જીવતા_N_NN ._RD_PUNC  ._.
+ગામ_N_NN અને_DM_DMD શહેરો_N_NN શહેર_N_NN વિચરણ_N_NN કર્યું_V_VM છે_V_VAUX ને_RP_RPD અહેલક_N_NN વગાડી_V_VM છે_V_VAUX ._RD_PUNC  ._.
+આમ_PSP છતાં_RP_RPD આ_DM_DMD વિવાદ_N_NN ન_RP_NEG જ_RP_RPD શમ્યો_N_NN ._RD_PUNC  ._.
+નિયમ_N_NN -_RD_PUNC ધર્મની_N_NN બાબતમાં_N_NN તેઓ_PR_PRP ખૂબ_QT_QTF જ_RP_RPD કડક_N_NN હતા_V_VAUX ._RD_PUNC  ._.
+તેમાં_DM_DMD દિગંબર_N_NNP -_RD_PUNC શ્વેતાબંર_N_NN બન્ને_JJ સંપ્રદાયનો_N_NN સંબંધ_N_NN જોડાયેલો_V_VM છે_V_VAUX ._RD_PUNC  ._.
+પણ_RP_RPD તમે_PR_PRP જો_CC_CCD થોડા_QT_QTF દિવસ_N_NN અમારી_PR_PRP સાથે_PSP રહી_V_VM જાવ_V_VM તો_RP_RPD અમે_PR_PRP તમને_PR_PRP પાક્કા_N_NN આર્યસમાજી_N_NN બનાવી_V_VAUX_VNP દઈશું_N_NN એ_PR_PRL નક્કી_JJ !_RD_PUNC  ._.
+પોતાનું_PR_PRF અનિષ્ટ_N_NN કરનાર_V_VAUX_VNP પરત્વે_N_NN પણ_RP_RPD દયાભાવ_N_NN રાખવો_N_NN ._RD_PUNC  ._.
+તેઓ_N_NN જે_N_NN રીતે_N_NN નર્તક_N_NN છે_N_NN ,_N_NN તે_N_NN રીતે_N_NN તેઓ_N_NN તેના_N_NN સાક્ષી_N_NN પણ_N_NN છે_N_NN ._N_NN  ._.
+એ_DM_DMD માટે_PSP તેણે_PR_PRP ભૂતકાળને_N_NN ભૂતકાળ_N_NN અને_DM_DMD ભવિષ્યને_N_NN ભવિષ્યકાળમાં_N_NN જ_RP_RPD રહેવા_V_VAUX_VNP દેવો_N_NN જોઈએ_V_VAUX ._RD_PUNC  ._.
+કોઈ_DM_DMI પણ_RP_RPD વ્યક્તિ_N_NN ,_N_NN સ્થિતિ_N_NN કે_RP_RPD સ્થળમાં_N_NN હોઈશ_N_NN ,_RD_PUNC તો_CC_CCD પણ_RP_RPD હું_PR_PRP ચિંતામુક્ત_N_NN નહીં_RP_NEG હોઉં_V_VAUX ._RD_PUNC  ._.
+પણ_RP_RPD આ_DM_DMD યુદ્ધમાં_N_NN હજારો_N_NN મનુષ્યોનું_N_NN નિકંદન_N_NN નીકળી_N_NN રહ્યાં_V_VM છે_V_VAUX તેના_DM_DMD અંગે_PSP કોઈની_PR_PRI ય_RP_RPD સંવેદના_N_NN ઘવાઈ_N_NN હશે_V_VAUX ખરી_JJ ?_RD_PUNC  ._.
+ચુસ્ત_N_NN નિયમ_N_NN પાલન_N_NN ._RD_PUNC  ._.
+તેઓ_PR_PRP વચન_N_NN સિદ્ધ_JJ પણ_RP_RPD હતા_V_VAUX ._RD_PUNC  ._.
+અપેક્ષા_N_NN પાપમાં_N_NN પરોવે_V_VM છે_V_VAUX ._RD_PUNC  ._.
+મારું_PR_PRP હૃદયબળ_N_NN મારામાં_N_NN સંકલ્પ_N_NN જગાવે_V_VM છે_V_VAUX ._RD_PUNC  ._.
+વિરાટ_JJ વિશ્વકર્માનું_N_NNP આ_DM_DMD શુભ_JJ દિવસે_N_NN દેવલોકમાંથી_N_NN પૃથ્વીલોકમાં_N_NN આવાગમન_N_NN થયું_V_VM છે_V_VAUX ._RD_PUNC  ._.
+તો_RP_RPD મારાથી_PR_PRP સવારી_N_NN પર_PSP કેમ_DM_DMQ બેસાય_N_NN ?_RD_PUNC  ._.
+યુગ_N_NN પૂર્વે_N_NST થઈ_V_VM ગયેલ_V_VAUX_VNP પૃથુરાજાના_N_NNP રાજ્યમાં_N_NN જ્યારે_N_NST અનહદ_N_NN અરાજકાતા_N_NN સાથે_PSP દુઃખ_N_NN છવાતું_N_NN રહ્યું_V_VAUX ત્યારે_N_NST ઋષિમુનિ_N_NN સમૂહે_N_NN મળી_V_VM પૃથુરાજાને_N_NN તપ_N_NN કરી_V_VM ,_RD_PUNC સર્વ_JJ વિદ્યાસ્થાપક_N_NN તેમજ_CC_CCD તે_PR_PRL મુજબ_PSP સર્જન_N_NN કરવા_V_VAUX_VNP સક્ષમ_N_NN શ્રેષ્ઠ_JJ શ્રી_N_NN વિશ્વકર્મા_N_NNP પ્રભુને_N_NNP પસંદ_JJ કરવા_V_VAUX_VNP કહેલું_V_VAUX_VNP ._RD_PUNC  ._.
+પુષ્પ_N_NN -_RD_PUNC ચન્દ્ર_N_NN કે_RP_RPD સૂર્ય_N_NN ચોક્કસ_JJ પ્રકારની_N_NN વિશિષ્ટતાનાં_N_NN કારણે_PSP શ્રેષ્ઠ_JJ સ્થાન_N_NN પામે_V_VM છે_V_VAUX ._RD_PUNC  ._.
+કદાચ_PSP આ_DM_DMD જ_RP_RPD કારણે_PSP આપણા_PR_PRP શાસ્ત્રકારે_N_NN ફરમાવેલું_N_NN કે_RP_RPD મુનિની_N_NN પ્રવૃત્તિ_N_NN પરહિતકારી_N_NN અને_CC_CCD તેથી_PSP નિજનો_N_NN કર્મક્ષય_N_NN કરનારી_N_NN જ_RP_RPD હોય_V_VAUX ._RD_PUNC  ._.
+જેમાં_PR_PRL સંસ્કૃત_N_NN ભાષામાં_N_NN ૫_N_NN ,_N_NN હિન્દી_N_NN ભાષામાં_N_NN ૧૭_N_NNP ,_N_NN ગુજરાતી_N_NNP ભાષામાં_N_NN ૮_N_NN અને_DM_DMD વ્રજ_N_NNP ભાષામાં_N_NN ૨_V_VM છે_V_VAUX ._RD_PUNC  ._.
+વાસ્તવિકતામાં_N_NN સમાધિ_N_NN એ_PR_PRL અસ્તિત્વ_N_NN સાથેની_N_NN તદ્રુપતાની_N_NN અવસ્થા_N_NN છે_V_VAUX ._RD_PUNC  ._.
+તું_PR_PRP કહે_V_VM તો_RP_RPD હું_PR_PRP કરુ_N_NN પણ_RP_RPD આ_DM_DMD સંજોગોમાં_N_NN આપણાથી_N_NN એવું_JJ કરાય_N_NN નહીં_RP_NEG ._RD_PUNC  ._.
+સ્વાર્થની_N_NN સામે_PSP મૂકી_V_VM શકાય_V_VAUX તેવું_JJ તત્ત્વ_N_NN છે_V_VAUX `_RD_PUNC પ્રેમ_N_NN `_RD_PUNC ._RD_PUNC  ._.
+સ્વાર્થ_N_NN માટે_PSP બીજાનો_JJ ભોગ_N_NN લઈ_V_VM શકાય_V_VAUX ._RD_PUNC  ._.
+જે_PR_PRL નૃત્યના_N_NN સમયે_N_NN શરીરમાંના_N_NN ભુવનોનો_N_NN ,_RD_PUNC એટલે_PSP પ્રત્યેક_JJ પેશીનો_N_NN નાદ_N_NN શિવકારક_N_NN હોય_V_VAUX છે_V_VAUX ,_RD_PUNC તેને_DM_DMD `_RD_PUNC તાંડવનૃત્ય_N_NN `_RD_PUNC કહે_V_VM છે_V_VAUX ._RD_PUNC  ._.
+જેમ_JJ વિષવાળા_N_NN દાંત_N_NN પાડી_V_VM નાખેલા_N_NN સર્પ_N_NN નુકશાનકારક_N_NN નથી_N_NN તેમ_N_NN નિર્વિષ_N_NN વિષયો_N_NN પણ_N_NN હાનિકારક_N_NN નથી_N_NN ._N_NN  ._.
+અબજીબાપા_N_NNP જેઓ_PR_PRL શ્રી_N_NN સ્વામીનારાયણ_N_NNP ભગવાનના_N_NN ગૂઢ_N_NN તત્વજ્ઞાનના_N_NN રહસ્યોને_N_NN સુગમ_N_NN કરીને_V_VAUX_VNP સમજાવતા_N_NN હતા_V_VAUX ._RD_PUNC  ._.
+હસ્તિનાપુરમાં_N_NNP વસતા_N_NN શકુનિની_N_NN દરેક_JJ ચાલની_N_NN પાછળના_PSP હેતુની_N_NN એને_PR_PRL આસાનીથી_N_NN ગંધ_N_NN આવે_V_VM છે_V_VAUX ._RD_PUNC  ._.
+હું_N_NN છું_N_NN ને_N_NN હું_N_NN નથી_N_NN એવો_N_NN ભાવ_N_NN લાવવાનો_N_NN છે_N_NN ._N_NN  ._.
+કોઈ_PR_PRI પ્રણિધાનનાં_N_NN કારણે_PSP વિશિષ્ટ_JJ હોય_V_VAUX ,_RD_PUNC કોઈ_PR_PRI પરિણતિનાં_N_NN કારણે_PSP વિશિષ્ટ_JJ હોય_V_VAUX ,_RD_PUNC તો_DM_DMD વળી_PSP કોઈ_PR_PRI વિનિયોગ_N_NN કૌશલ્યનાં_N_NN કારણે_PSP ય_RP_RPD વિશિષ્ટ_JJ હોય_V_VAUX ._RD_PUNC  ._.
+આ_DM_DMD ઉપરાંત_PSP તેમણે_PR_PRP દસથી_N_NN વધુ_QT_QTF ગ્રંથો_N_NN રચ્યા_V_VM છે_V_VAUX ._RD_PUNC  ._.
+પછી_PSP તે_PR_PRL હિન્દુ_N_NNP હોય_V_VAUX કે_CC_CCS ,_RD_PUNC મુસલમાન_N_NN હોય_V_VAUX કે_CC_CCS પારસી_N_NN હોય_N_NN કોઈ_N_NN પણ_N_NN જાતિનો_N_NN હોય_N_NN સૌને_N_NN એમ_N_NN લાગતું_N_NN કે_N_NN ,_N_NN આ_N_NN ગોપાળનંદસ્વામી_N_NN અમારા_N_NN છે_N_NN ._N_NN  ._.
+દિવસે_N_NN પ્રકાશ_N_NN ચાહે_N_NN દિવાનો_N_NN હોય_V_VAUX કે_CC_CCS મશાલનો_N_NN હોય_V_VAUX ,_RD_PUNC મીણબત્તીનો_N_NN હોય_V_VAUX કે_CC_CCS `_RD_PUNC લાઈટનો_N_NN `_RD_PUNC હોય_V_VAUX :_RD_PUNC સૂર્યનું_N_NN પ્રચંડ_N_NN તેજ_N_NN આ_DM_DMD બધામાં_N_NN સર્વોપરિ_N_NN સર્વશ્રેષ્ઠ_N_NN આપોઆપ_N_NN બની_N_NN રહે_N_NN છે_N_NN ._N_NN  ._.
+અમારે_PR_PRP સામૈયાની_N_NN જરૂર_PSP જ_RP_RPD નથી_RP_NEG ._RD_PUNC  ._.
+તો_CC_CCD પછી_PSP એમની_PR_PRP નગરીમાં_N_NN એમના_DM_DMD પરમ_JJ સાન્નિધ્યમાં_N_NN નિવાસ_N_NN કરવાનો_V_VAUX_VNP ઈન્કાર_N_NN શાને_N_NN ?_RD_PUNC  ._.
+જે_PR_PRL ભૂમિની_N_NN પરથારે_N_NN પરમ_JJ કૃપાળુ_N_NN ભગવાનનાં_N_NN અવતરણનું_N_NN સૌભાગ્ય_N_NN લખ્યું_V_VM છે_V_VAUX ._RD_PUNC  ._.
+અશ્વત્થામાને_N_NN દિવ્ય_JJ ખડગ_N_NN ,_N_NN રાવણને_N_NN લંકાનું_N_NN રાજ્ય_N_NN ,_N_NN અર્જુનને_N_NNP પાશુપત્રાસ્ત્રની_N_NN પ્રાપ્તિ_N_NN શિવજી_N_NNP પાસેથી_PSP જ_RP_RPD થવા_V_VAUX_VNP પામી_V_VAUX ._RD_PUNC  ._.
+અન્યોના_N_NN ગુણને_N_NN મસ્તક_N_NN પર_PSP ચંદ્ર_N_NNP દ્વારા_PSP ધારણ_N_NN કરે_V_VM છે_V_VAUX ._RD_PUNC  ._.
+પ્રસ્તુતમાં_N_NN આપણે_N_NN જે_N_NN પ્રથમ_N_NN `_N_NN ખ_N_NN `_N_NN વિચારી_N_NN રહ્યા_N_NN છીએ_N_NN તેવો_N_NN નિર્દેશ_N_NN એ_N_NN છે_N_NN કે_N_NN ઉત્તમ_N_NN -_N_NN વિશિષ્ટ_N_NN સદગુણો_N_NN પ્રત્યે_N_NN હાર્દિક_N_NN આદર_N_NN લગાવ_N_NN ધરાવીને_N_NN અને_N_NN આત્મસાત્_N_NN કરવા_N_NN ._N_NN  ._.
+જોયું_V_VM તો_RP_RPD છે_V_VAUX ને_RP_RPD વિવિધરંગી_N_NN પુષ્પોથી_N_NN શોભતું_N_NN ઉદ્યાન_N_NN ?_RD_PUNC  ._.
+જેઓ_N_NN બધા_N_NN જૈનોને_N_NN આ_N_NN વાક્ય_N_NN લાગુ_N_NN પાડવા_N_NN માંગે_N_NN છે_N_NN ,_N_NN તેઓની_N_NN ધારણા_N_NN ભૂલ_N_NN ભરેલી_N_NN છે_N_NN ._N_NN  ._.
+વળી_PSP તેઓ_PR_PRP સરોદ_N_NN ,_N_NN સિતાર_N_NN ,_N_NN મૃદંગ_N_NN પણ_RP_RPD જ્યારે_N_NST વગાડતા_N_NN ત્યારે_N_NST સભા_N_NN સ્તબ્ધ_N_NN થઈ_V_VM જતી_V_VAUX_VNP એવું_JJ એમનામાં_N_NN કૌશલ્ય_N_NN હતું_V_VAUX ._RD_PUNC  ._.
+માતા_N_NN આવા_JJ શત્રુનગર_N_NN હસ્તિનાપુરમાં_N_NNP તમે_PR_PRP વસવાનું_V_VAUX_VNP વિચારો_N_NN છો_V_VAUX ?_RD_PUNC  ._.
+તે_PR_PRL ક્ષેત્રે_N_NN ઉપયોગી_N_NN લાઈનના_N_NN નિષ્ણાત_N_NN અભ્યાસુ_N_NN સ્થપતિની_N_NN રાહબરીમાં_N_NN કારીગર_N_NN સમૂહદાય_N_NN અને_DM_DMD મજૂર_N_NN સહારે_N_NN ,_N_NN રહેણાંક_N_NN વાણિજ્ય_N_NN અને_DM_DMD ઔદ્યોગિક_N_NN ક્ષેત્રે_N_NN ઉપયોગી_N_NN મકાનોનું_N_NN નિર્માણ_N_NN સદંતર_N_NN ચાલ્યા_V_VM જ_RP_RPD કરે_V_VM છે_V_VAUX ._RD_PUNC  ._.
+ઘણા_QT_QTF ,_N_NN લગભગ_PSP બધા_QT_QTF જ_RP_RPD લોકો_N_NN ,_RD_PUNC આ_DM_DMD સિદ્ધાંતના_N_NN મર્મને_N_NN પામવામાં_N_NN નિષ્ફળ_N_NN જતા_V_VAUX_VNP હોય_V_VAUX છે_V_VAUX ._RD_PUNC  ._.
+બ્રહ્મ_N_NNP મુનિ_N_NN કવિ_N_NN ભાનુ_N_NN જેવા_JJ છે_V_VAUX ._RD_PUNC  ._.
+સંઘના_PR_PRL કોઈ_PR_PRI પ્રશ્નો_N_NN હલ_N_NN થાય_V_VM ખરા_RP_RPD ?_RD_PUNC  ._.
+શ્રીકૃષ્ણએ_N_NN સ્વધર્મ_N_NN ન_RP_NEG છોડવા_N_NN બહુ_QT_QTF કહ્યું_V_VM છે_V_VAUX ,_RD_PUNC સ્વધર્મમાં_N_NN જ_RP_RPD રહેવું_V_VAUX_VNP તેમ_PSP આગ્રહ_N_NN કર્યો_V_VM છે_V_VAUX ._RD_PUNC  ._.
+પોતાની_PR_PRF જાતે_N_NN જ_RP_RPD હલકા_JJ થવાની_V_VAUX_VNP જોગવાઈ_N_NN આ_DM_DMD અભિમાન_N_NN પૂરી_JJ પાડે_V_VM છે_V_VAUX ._RD_PUNC  ._.
+કલેશનાં_DM_DMI બે_QT_QTC કારણ_N_NN છે_V_VAUX :_RD_PUNC અહં_N_NN અને_DM_DMD ઈચ્છા_N_NN ._RD_PUNC  ._.
+ચિંતનનો_N_NN દોર_N_NN પછી_PSP તો_RP_RPD બહુ_QT_QTF લંબાયો_N_NN ._RD_PUNC  ._.
+શુદ્ધ_JJ ચૈતન્યરૂપ_N_NN એ_PR_PRL પરમ_JJ -_RD_PUNC આત્માને_N_NN આપણે_PR_PRP પરમ_JJ સત્તા_N_NN અથવા_CC_CCD ભગવાન_N_NN તરીકે_N_NN ઓળખીએ_N_NN છીએ_V_VAUX ._RD_PUNC  ._.
+બન્નેનો_N_NN નિકાલ_N_NN થવો_N_NN જોઈએ_V_VAUX ._RD_PUNC  ._.
+આ_DM_DMD વાત_N_NN જો_CC_CCD ખ્યાલમાં_N_NN રાખવામાં_N_NN આવે_V_VAUX ,_RD_PUNC તો_DM_DMD આજકાલ_N_NST જે_PR_PRL ચર્ચા_N_NN ચકડોળે_N_NN ચડાવવામાં_N_NN આવી_V_VM છે_V_VAUX એ_PR_PRL શાંત_JJ થઈ_V_VM જાય_V_VAUX ._RD_PUNC  ._.
+બધે_DM_DMI જ_RP_RPD ઉદ્વેગ_N_NN અને_V_VM `_RD_PUNC કાલે_N_NN શું_PR_PRQ થશે_V_VAUX ?_RD_PUNC `_RD_PUNC તેની_PR_PRL દહેશત_N_NN છવાયેલ_V_VM છે_V_VAUX ._RD_PUNC  ._.
+ગાંધીજીએ_N_NNP જ્યારે_N_NST આ_DM_DMD રીતે_N_NN શ્રી_N_NN રામવિજયજી_N_NNP મહારાજની_N_NNP વાત_N_NN પર_PSP સચ્ચાઈનો_N_NN સિક્કો_N_NN માર્યો_N_NN ,_RD_PUNC ત્યારે_N_NST વિરોધીઓનો_N_NN વિરોધ_N_NN હવા_N_NN વિનાના_N_NN ફુગ્ગા_N_NN જેવો_JJ નિષ્પ્રાણ_N_NN બની_V_VAUX_VNP જવા_V_VAUX_VNP પામ્યો_V_VAUX ._RD_PUNC  ._.
+તેમ_PSP ક્લેશવિહોણો_N_NN સંસાર_N_NN પણ_RP_RPD અલૂણો_N_NN ,_N_NN નિષ્પ્રાણ_N_NN ,_N_NN વ્યર્થ_N_NN બની_V_VAUX_VNP રહે_V_VAUX ._RD_PUNC  ._.
+જેમના_PR_PRL હાથમાં_N_NN પૃથ્વી_N_NN છે_V_VAUX ._RD_PUNC  ._.
+ભારતીય_JJ દરેક_JJ તહેવારોમાં_N_NN વિશ્વકર્મા_N_NNP જયંતીનું_N_NN અનોખું_N_NN મહત્ત્વ_N_NN છે_V_VAUX ._RD_PUNC  ._.
+કેટકેટલાય_N_NN સંતો_N_NN મહંતોને_N_NN મળ્યા_V_VM હતા_V_VAUX ._RD_PUNC  ._.
+નટરાજનું_N_NNP નૃત્ય_N_NN આ_DM_DMD સૃષ્ટિ_N_NN ,_N_NN સ્થિતિ_N_NN ,_N_NN સંહાર_N_NN ,_N_NN તિરોભાવ_N_NN (_RD_SYM માયાનું_N_NN આવરણ_N_NN )_RD_SYM અને_CC_CCD અનુગ્રહ_N_NN આ_DM_DMD પાંચ_N_NN ઈશ્વરી_N_NN ક્રિયાઓનું_N_NN દ્યોતક_N_NN માનવામાં_V_VAUX_VNP આવે_V_VAUX છે_V_VAUX ._RD_PUNC  ._.
+એટલે_PSP પ્રવેશના_N_NN સામૈયાં_N_NN માટે_PSP બેન્ડ_N_NN -_RD_PUNC સાંબેલા_N_NN વગેરે_PSP તૈયારી_N_NN વહેલાસર_N_NN કરવાની_V_VAUX_VNP થઈ_V_VM ._RD_PUNC  ._.
+અર્થ_N_NN -_RD_PUNC અવતરી_N_NN વિશ્વકર્માને_N_NNP ચાર_QT_QTC હાથ_N_NN છે_V_VAUX ,_RD_PUNC યક્ષ_N_NN માળા_N_NN પહેરી_V_VM છે_V_VAUX ._RD_PUNC  ._.
+હમણાં_N_NST વળી_PSP નવી_N_NN ઘટનાઓ_N_NN શરૂ_JJ થઈ_V_VM છે_V_VAUX ,_RD_PUNC ચમત્કારોની_N_NN ._RD_PUNC  ._.
+શાસ્ત્રવિદોએ_N_NN શિલ્પકલાને_N_NN વેદવિદ્યાની_N_NN બહેન_N_NN ગણેલી_V_VM છે_V_VAUX ._RD_PUNC  ._.
+શ્રીજીમહારાજ_N_NN અંતર્ધાન_N_NN થઈ_V_VM ગયા_V_VAUX ._RD_PUNC  ._.
+ત્યાં_N_NST તે_PR_PRL પોતાનામાં_N_NN જ_RP_RPD સ્થિતિ_N_NN કરીને_V_VAUX_VNP અસ્તિત્વનો_N_NN આનંદ_N_NN માણે_V_VM છે_V_VAUX ._RD_PUNC  ._.
+ભૌતિક_JJ સંદર્ભમાં_N_NN જે_PR_PRL ધોરણો_N_NN પ્રત્યેક_JJ આત્માને_N_NN ,_N_NN અર્થાત્_PSP સમગ્ર_JJ જીવજગતને_N_NN લાગુ_JJ પડે_V_VM છે_V_VAUX ._RD_PUNC  ._.
+તેઓ_PR_PRP પ્રખર_JJ વિદ્વાન_N_NN તો_RP_RPD હતા_V_VAUX જ_RP_RPD પરંતુ_CC_CCD તેની_DM_DMD સાથે_PSP -_RD_PUNC સાથે_PSP શ્રી_N_NN સ્વામીનારાયણ_N_NNP ભગવાનના_N_NN પરમ_JJ ઉપાસક_N_NN હતા_V_VAUX ._RD_PUNC  ._.
+ક્યારેય_N_NST ખુલ્લા_N_NN પગે_N_NN ચાલ્યા_V_VM ન_RP_NEG હોવાથી_V_VAUX_VNP જ્યારે_N_NST વનમાં_N_NN ખુલ્લા_N_NN પગે_N_NN ચાલીને_V_VAUX_VNP રામને_N_NNP મળવા_N_NN જાય_V_VAUX છે_V_VAUX ._RD_PUNC  ._.
+એક_JJ દિવસ_N_NN તેઓ_PR_PRP બિમાર_N_NN પડ્યા_N_NN ._RD_PUNC  ._.
+ભરતને_N_NNP પણ_RP_RPD આવા_JJ સંત_N_NN માનવા_N_NN પડે_V_VAUX ._RD_PUNC  ._.
+આ_DM_DMD એક_QT_QTC જ_RP_RPD દાદાની_N_NN મોટી_N_NN સેવા_N_NN છે_V_VAUX ._RD_PUNC  ._.
+આપણી_PR_PRP જાણ_N_NN બહાર_N_NST સમય_N_NN -_RD_PUNC સ્થળ_N_NN અને_DM_DMD સંજોગના_N_NN આગોતરા_JJ આયોજન_N_NN સાથે_PSP એની_DM_DMD સવારી_N_NN ચોક્કસ_JJ આવવાની_V_VM છે_V_VAUX ._RD_PUNC  ._.

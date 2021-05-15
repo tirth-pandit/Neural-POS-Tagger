@@ -1,0 +1,1000 @@
+GJPHD1001	ભારતીય\JJ તત્ત્વવિચારની\N_NN ગંગોત્રી\N_NN વેદ\N_NNP છે\V_VAUX .\RD_PUNC
+GJPHD1002	ભારતીય\JJ તત્ત્વવિચારની\N_NN મુખ્ય\JJ અને\CC_CCD મહત્ત્વની\JJ શાખાઓ\N_NN વેદ\N_NNP -\RD_PUNC આધારિત\JJ છે\V_VAUX .\RD_PUNC
+GJPHD1003	એ\DM_DMD વેદને\N_NNP પ્રમાણભૂત\JJ માનીને\V_VAUX_VNP ચાલે\V_VM છે\V_VAUX અને\CC_CCD વેદના\N_NNP અર્થઘટન\N_NN ને\CC_CCD વિસ્તરણ\N_NN રૂપે\N_NN વિકસે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1004	એ\DM_DMD આસ્તિક\JJ દર્શનો\N_NN કહેવાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1005	આસ્તિક\JJ એટલે\PSP ઈશ્વરમાં\N_NN માનનાર\V_VAUX_VNP એવો\JJ અર્થ\N_NN અહીં\N_NST નથી\RP_NEG .\RD_PUNC
+GJPHD1006	આ\DM_DMD બધા\QT_QTF દર્શનો\N_NN જગતકર્તા\N_NN ઈશ્વરમાં\N_NN માનનારાં\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJPHD1007	વેદને\N_NNP પ્રમાણભૂત\JJ ન\RP_NEG માનનાર\V_VAUX_VNP અને\CC_CCD એનાથી\DM_DMD ફંટાઈને\V_VAUX_VNP પ્રવર્તનાર\V_VAUX_VNP દર્શનો\N_NN તે\DM_DMD નાસ્તિક\JJ દર્શનો\N_NN કહેવાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1008	જેમકે\CC_CCS_UT ચાર્વાક\N_NNP ,\RD_PUNC બૌદ્ધ\N_NNP અને\CC_CCD જૈન\N_NNP દર્શનો\N_NN તે\DM_DMD નાસ્તિક\JJ દર્શનો\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1009	આ\DM_DMD વર્ગીકરણ\N_NN ભારતીય\JJ તત્ત્વવિચારના\N_NN કેન્દ્રમાં\N_NN વેદ\N_NNP છે\V_VAUX તેનું\DM_DMD જ\RP_RPD સમર્થન\N_NN કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1010	વેદ\N_NNP એ\DM_DMD ભારતનું\N_NNP પ્રાચીનતમ\JJ સાહિત્ય\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1011	વેદનો\N_NNP અર્થ\N_NN જ્ઞાન\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1012	ભારતમાં\N_NNP તત્ત્વદર્શન\N_NN ઉપરાંત\PSP ભાષા\N_NN ,\RD_PUNC સાહિત્ય\N_NN ,\RD_PUNC સંગીત\N_NN ,\RD_PUNC ગણિત\N_NN ,\RD_PUNC ખગોળવિદ્યા\N_NN આદિ\PSP અનેક\JJ ક્ષેત્રોમાં\N_NN જે\PR_PRL કંઈ\DM_DMI વિચારણાઓ\N_NN થઈ\V_VM છે\V_VAUX તેનાં\DM_DMD બીજ\N_NN વેદમાં\N_NNP જોવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1013	એ\DM_DMD રીતે\N_NN એનું\DM_DMD `\RD_PUNC વેદ\N_NNP `\RD_PUNC એ\DM_DMD નામ\N_NN સાર્થક\JJ ઠરે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1014	વેદ\N_NNP એ\DM_DMD કોઈ\PR_PRI વ્યક્તિ\N_NN કે\CC_CCS પુરુષવિશેષનું\JJ સર્જન\N_NN નથી\RP_NEG .\RD_PUNC
+GJPHD1015	તેથી\PSP એને\DM_DMD `\RD_PUNC અનાદિ\N_NN `\RD_PUNC અને\CC_CCD `\RD_PUNC અપૌરુષેય\JJ `\RD_PUNC ગણવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1016	એ\DM_DMD ઈશ્વરપ્રણીત\JJ હોવાનું\V_VAUX_VNP પણ\RP_RPD કહેવાય\V_VM છે\V_VAUX ને\CC_CCD પરમાત્મા\N_NN પાસેથી\PSP ઋષિઓએ\N_NN સાંભળેલા\V_VAUX_VNP આ\DM_DMD મંત્રો\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1017	દિવ્યતાની\N_NN આરાધના\N_NN કરતા\V_VAUX_VNP વેદગ્રંથો\N_NNP ભારતના\N_NNP આદિ\JJ ધર્મગ્રંથો\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1018	`\RD_PUNC હિન્દુધર્મની\N_NNP `\RD_PUNC વિશાળ\JJ સંજ્ઞાથી\N_NN ઓળખાતા\V_VAUX_VNP ધર્મની\N_NN એક\QT_QTC મહત્ત્વની\JJ શાખા\N_NN તે\DM_DMD આ\DM_DMD વેદધર્મ\N_NNP છે\V_VAUX .\RD_PUNC
+GJPHD1019	એને\DM_DMD બ્રાહ્મણધર્મ\N_NN પણ\RP_RPD કહેવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1020	આદિકાળમાં\N_NN વેદ\N_NNP એક\QT_QTC જ\RP_RPD હતો\V_VAUX .\RD_PUNC
+GJPHD1021	પછીથી\PSP હજારોની\N_NN સંખ્યામાં\N_NN વેદમંત્રો\N_NNP પ્રગટ\JJ થયા\V_VM ત્યારે\N_NST એને\DM_DMD ચાર\QT_QTC જુદા\JJ જુદા\JJ જૂથોમાં\N_NN (\RD_SYM સંહિતા\N_NN )\RD_SYM વહેંચવામાં\V_VM આવ્યા\V_VAUX .\RD_PUNC
+GJPHD1022	આ\DM_DMD વર્ગીકરણ\N_NN યજ્ઞમાં\N_NN હોતા\N_NNP ,\RD_PUNC અધ્વર્યુ\N_NNP ,\RD_PUNC ઉદ્દગાતા\N_NNP અને\CC_CCD બ્રહ્મા\N_NNP એમ\PSP ચાર\QT_QTC ઋત્વિજો\N_NN ભાગ\N_NN લેતા\V_VAUX_VNP હતા\V_VAUX .\RD_PUNC
+GJPHD1023	આ\DM_DMD રીતે\N_NN નીચેના\JJ ચાર\QT_QTC વેદો\N_NNP અસ્તિત્વમાં\N_NN આવ્યા\V_VM .\RD_PUNC
+GJPHD1024	ઋગ્વેદસંહિતા\N_NNP :\RD_PUNC ઋક્\N_NN નામના\N_NN છંદોબદ્ધ\JJ મંત્રનો\N_NN (\RD_SYM ઋચાઓ\N_NN )\RD_SYM સમૂહ\N_NN .\RD_PUNC
+GJPHD1025	એમાં\DM_DMD મુખ્યત્વે\JJ દેવતાઓની\N_NN સ્તુતિ\N_NN અને\CC_CCD તેમને\DM_DMD કરવામાં\V_VAUX_VNP આવેલી\V_VAUX_VNP પ્રાર્થનાઓ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1026	એ\DM_DMD દ્વારા\PSP ઐહિક\JJ સુખોની\N_NN તેમ\PSP પવિત્ર\JJ જીવન\N_NN અને\CC_CCD દિવ્યતાની\N_NN પણ\RP_RPD અભીપ્સા\N_NN વ્યક્ત\JJ થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1027	ઋગ્વેદ\N_NNP સર્વ\JJ વેદોમાં\N_NNP પ્રાચીન\JJ ગણાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1028	યજુર્વેદસંહિતા\N_NNP :\RD_PUNC યજુષ\N_NN નામના\N_NN ગદ્યાત્મક\JJ મંત્રોનો\N_NN સમૂહ\N_NN એના\DM_DMD નામ\N_NN પ્રમાણે\PSP આ\DM_DMD યજ્ઞનો\N_NN વેદ\N_NNP હોઈ\V_VAUX એમાં\DM_DMD યજ્ઞની\N_NN ક્રિયાનું\N_NN પ્રાધાન્ય\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1029	ઋગ્વેદની\N_NNP ઋચાઓનો\N_NN યજ્ઞમાં\N_NN ક્યાં\N_NST ઉપયોગ\N_NN કરવો\V_VAUX_VNP તે\DM_DMD એમાં\DM_DMD બતાવવામાં\V_VAUX_VNP આવ્યું\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1030	ઋગ્વેદમાં\N_NNP યજ્ઞ\N_NN જે\PR_PRL સાદા\JJ રૂપમાં\N_NN હતો\V_VAUX તે\DM_DMD અહીં\N_NST પુષ્કળ\JJ વિસ્તાર\N_NN પામ્યો\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1031	તે\DM_DMD ઉપરાંત\PSP દેવતાઓનાં\N_NN સ્વરૂપ\N_NN તથા\CC_CCD પરમાત્માની\N_NN એકતા\N_NN વિશે\PSP એમાં\DM_DMD નવું\JJ ચિંતન\N_NN પણ\RP_RPD છે\V_VAUX .\RD_PUNC
+GJPHD1032	આ\DM_DMD સંહિતાના\N_NN બે\QT_QTC વિભાગ\N_NN છે\V_VAUX શુકલસંહિતા\N_NNP અથવા\CC_CCD વાજસનેયસંહિતા\N_NNP અને\CC_CCD કૃષ્ણસંહિતા\N_NNP અથવા\CC_CCD તૈત્તરીયસંહિતા\N_NNP .\RD_PUNC
+GJPHD1033	સામવેદસંહિતા\N_NNP :\RD_PUNC યજ્ઞયાગાદિ\N_NN કર્મ\N_NN કરતી\V_VAUX_VNP વખતે\N_NN સુસ્વર\N_NN ગાવાના\V_VAUX_VNP સામન્\N_NNP નામના\N_NN મંત્રોનો\N_NN સમૂહ\N_NN .\RD_PUNC
+GJPHD1034	આ\DM_DMD સંહિતા\N_NN ગાન\N_NN માટે\PSP જ\RP_RPD હોઈ\V_VAUX એમાં\DM_DMD લગભગ\PSP બધી\QT_QTF ઋગ્વેદની\N_NNP જ\RP_RPD ઋચાઓ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1035	એના\DM_DMD બે\QT_QTC ભાગ\N_NN પડે\V_VM છે\V_VAUX -\RD_PUNC પૂર્વઆર્ચિક\N_NNP અને\CC_CCD ઉત્તરઆર્ચિક\N_NNP .\RD_PUNC
+GJPHD1036	ઉત્તરઆર્ચિકમાં\N_NNP ઋગ્વેદની\N_NNP કેટલીક\QT_QTF ઋચાઓ\N_NN સોમયજ્ઞ\N_NN વખતે\N_NN ગાવા\V_VAUX_VNP માટે\PSP જ\RP_RPD ક્રમમાં\N_NN જોઈએ\V_VM તે\DM_DMD ક્રમમાં\N_NN ગોઠવેલી\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJPHD1037	અર્થવેદસંહિતા\N_NNP અથવા\CC_CCD અથર્વાંગિરોવેદ\N_NNP :\RD_PUNC રોગનિવારણ\N_NN ,\RD_PUNC ધન\N_NN ,\RD_PUNC ધાન્ય\N_NN ,\RD_PUNC સંતતિ\N_NN વગેરેની\PSP પુષ્ટિ\N_NN કરનારા\V_VAUX_VNP અથર્વન્\N_NNP નામના\N_NN ઉપકારક\JJ મંત્રો\N_NN તથા\CC_CCD શત્રુનાશ\N_NN ,\RD_PUNC વશીકરણ\N_NN ,\RD_PUNC ઉચ્ચાટન\N_NN જેવા\JJ અપકારક\JJ અંગિરસ્\N_NNP નામના\N_NN મંત્રોનો\N_NN સમૂહ\N_NN .\RD_PUNC
+GJPHD1038	એમાં\DM_DMD પણ\RP_RPD ઋગ્વેદની\N_NNP કેટલીક\QT_QTF ઋચાઓ\N_NN ફરીને\RB દર્શન\N_NN દે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1039	પણ\CC_CCD એનાથી\DM_DMD સમજાય\V_VM છે\V_VAUX કે\CC_CCS ઋગ્વેદની\N_NNP કઈ\DM_DMI કઈ\DM_DMI ધાર્મિક\JJ અને\CC_CCD સાંસારિક\JJ ભાવનાઓ\N_NN અથર્વેદસંહિતાના\N_NNP સમય\N_NN સુધીમાં\PSP ખાસ\JJ પ્રિય\JJ થઈ\V_VM પડી\V_VAUX હતી\V_VAUX .\RD_PUNC
+GJPHD1040	આ\DM_DMD ઉપરાંત\PSP એમાં\DM_DMD વિવિધરંગી\JJ વિષયો\N_NN એકત્ર\N_NN સમાવ્યા\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1041	બ્રાહ્મણધર્મમાં\N_NNP અથર્વેદના\N_NNP અભિચારપ્રયોગ\N_NN પ્રત્યે\PSP હમેશાં\PSP અરુચિ\N_NN દર્શાવવામાં\V_VAUX_VNP આવી\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1042	કેટલાકને\QT_QTF એમાં\DM_DMD અનાર્યધર્મની\N_NN અસર\N_NN હોવાનો\V_VAUX_VNP સંભવ\N_NN જણાયો\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1043	વેદના\N_NNP ત્રણ\QT_QTC ભાગ\N_NN :\RD_PUNC પ્રથમ\QT_QTO સંહિતા\N_NN ,\RD_PUNC તેમાં\DM_DMD બીજા\N_NN ગ્રંથો\N_NN ઉમેરાઈ\V_VM દરેક\JJ વેદના\N_NNP ત્રણ\QT_QTC ત્રણ\QT_QTC વિભાગ\N_NN પાડ્યા\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1044	જેમકે\CC_CCS_UT ઋગ્વેદસંહિતા\N_NNP ,\RD_PUNC તેનાં\DM_DMD `\RD_PUNC ઐતરેય\N_NNP `\RD_PUNC અને\CC_CCD `\RD_PUNC કૌષીતકિ\N_NNP `\RD_PUNC એ\DM_DMD નામનાં\N_NN બ્રાહ્મણો\N_NNP ,\RD_PUNC એ\DM_DMD જ\RP_RPD નામનાં\N_NN એનાં\DM_DMD બે\QT_QTC આરણ્યકો\N_NNP અને\CC_CCD એ\DM_DMD જ\RP_RPD નામનાં\N_NN એનાં\DM_DMD બે\QT_QTC ઉપનિષદો\N_NNP છે\V_VAUX .\RD_PUNC
+GJPHD1045	સંહિતામાં\N_NN બ્રાહ્મણ\N_NNP ,\RD_PUNC આરણ્યક\N_NNP અને\CC_CCD ઉપનિષદ\N_NNP ઉમેરી\V_VM ,\RD_PUNC સર્વને\JJ એકત્ર\JJ કરી\V_VM ,\RD_PUNC એમને\DM_DMD `\RD_PUNC વેદ\N_NNP `\RD_PUNC અથવા\CC_CCD `\RD_PUNC શ્રુતિને\N_NN `\RD_PUNC નામે\N_NN પ્રમાણ\N_NN માનવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1046	`\RD_PUNC વેદ\N_NNP `\RD_PUNC એટલે\PSP સંહિતા\N_NN એ\DM_DMD સંકુચિત\JJ અર્થ\N_NN ,\RD_PUNC તો\RP_RPD `\RD_PUNC વેદ\N_NNP `\RD_PUNC એટલે\PSP આ\DM_DMD બધા\QT_QTF ગ્રંથો\N_NN તે\DM_DMD વિશાળ\JJ અર્થ\N_NN -\RD_PUNC એમ\PSP બન્ને\JJ રીતે\N_NN `\RD_PUNC વેદ\N_NN `\RD_PUNC સંજ્ઞા\N_NN વપરાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1047	આમ\PSP કરવાનું\V_VAUX_VNP કારણ\N_NN એ\DM_DMD છે\V_VAUX કે\CC_CCS ત્રણે\QT_QTC ભાગને\N_NN એકઠા\JJ કરીને\V_VAUX_VNP લેતાં\V_VAUX_VNP જ\RP_RPD ધર્મનું\N_NN પૂરેપૂરું\JJ સ્વરૂપ\N_NN બંધાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1048	ધર્મનાં\N_NN ત્રણ\QT_QTC અંગ\N_NN છે\V_VAUX ભક્તિ\N_NN ,\RD_PUNC કર્મ\N_NN અને\CC_CCD જ્ઞાન\N_NN .\RD_PUNC
+GJPHD1049	બ્રાહ્મણગ્રંથો\N_NNP :\RD_PUNC `\RD_PUNC બ્રહ્મન\N_NN `\RD_PUNC એટલે\PSP ધર્મનું\N_NN તત્ત્વ\N_NN ,\RD_PUNC તેનો\DM_DMD સ્થૂળ\JJ આકાર\N_NN યજ્ઞ\N_NN સંહિતાઓમાં\N_NN યજ્ઞનું\N_NN વિધાન\N_NN હતું\V_VAUX એટલે\PSP હવે\N_NST યજ્ઞ\N_NN તે\DM_DMD શું\PR_PRQ છે\V_VAUX એના\DM_DMD ઉત્તર\N_NST આ\DM_DMD બ્રાહ્મણ\N_NNP ગ્રંથમાં\N_NNP અપાવા\V_VAUX_VNP લાગ્યા\V_VAUX .\RD_PUNC
+GJPHD1050	એ\DM_DMD રીતે\N_NN બ્રાહ્મણ\N_NNP એ\DM_DMD સંહિતામાં\N_NN દર્શાવાયેલા\V_VAUX_VNP ધર્મનું\N_NN વિવરણ\N_NN રજૂ\JJ કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1051	આમ\PSP કરતાં\V_VAUX_VNP આ\DM_DMD ગ્રંથોમાં\N_NN કેટલીક\QT_QTF શબ્દોની\N_NN વ્યુત્પત્તિઓ\N_NN અને\CC_CCD કેટલીક\QT_QTF રસિક\JJ આખ્યાયિકાઓ\N_NN અપાયેલી\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJPHD1052	યજ્ઞના\N_NN રહસ્ય\N_NN સંબંધી\PSP કેટલાક\QT_QTF વિચારો\N_NN પણ\RP_RPD દર્શાવાયા\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1053	જેમકે\CC_CCS_UT યજ્ઞને\N_NN સૃષ્ટિના\N_NN રૂપક\N_NN તરીકે\PSP જોવામાં\V_VAUX_VNP આવેલ\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJPHD1054	એ\DM_DMD ઉપરાંત\PSP યજ્ઞક્રિયાઓ\N_NN પાછળની\JJ ભાવનાઓ\N_NN પણ\RP_RPD સ્ફૂટ\JJ કરવામાં\V_VAUX_VNP આવી\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1055	યજ્ઞ\N_NN દ્વારા\PSP વિશ્વનું\N_NN સ્વરૂપ\N_NN દર્શાવવું\V_VAUX_VNP અને\CC_CCD એક\QT_QTC પ્રજાતિનું\N_NN સ્મરણ\N_NN જાગતું\V_VAUX_VNP રાખવું\V_VAUX_VNP એ\DM_DMD બ્રાહ્મણગ્રંથની\N_NN મુખ્ય\JJ પ્રવૃત્તિ\N_NN હતી\V_VAUX .\RD_PUNC
+GJPHD1056	આરણ્યક\N_NNP :\RD_PUNC એ\DM_DMD બ્રાહ્મણ\N_NNP અને\CC_CCD ઉપનિષદ\N_NNP કડી\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1057	સામાન્ય\JJ સંસારવ્યવહાર\N_NN છોડી\V_VM અરણ્યમાં\N_NN જઈ\V_VM ધર્મપરાયણ\JJ જીવન\N_NN ગાળનાર\V_VAUX_VNP અને\CC_CCD પરમાત્માના\N_NN સ્વરૂપ\N_NN વિશે\PSP ચિંતન\N_NN કરનાર\V_VAUX_VNP જનોના\N_NN એ\DM_DMD ગ્રંથો\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1058	એ\DM_DMD ગ્રંથોમાં\N_NN હજી\N_NST યજ્ઞ\N_NN સ્થાન\N_NN ભોગવે\V_VM છે\V_VAUX પણ\RP_RPD તે\DM_DMD સાથે\PSP તત્ત્વચિંતન\N_NN પણ\RP_RPD શરૂ\JJ થઈ\V_VM ચૂક્યું\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1059	ઉપનિષદ\N_NNP :\RD_PUNC `\RD_PUNC ઉપનિષદ\N_NNP `\RD_PUNC શબ્દના\N_NN `\RD_PUNC ગુરુ\N_NN પાસે\PSP બેસવું\V_VAUX_VNP `\RD_PUNC ,\RD_PUNC `\RD_PUNC ઉપાસના\N_NN `\RD_PUNC ,\RD_PUNC `\RD_PUNC રહસ્ય\N_NN `\RD_PUNC એવા\JJ જુદા\JJ જુદા\JJ અર્થ\N_NN કરવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1060	ખરું\PSP જોતાં\V_VAUX_VNP આ\DM_DMD સર્વ\N_NN અર્થો\N_NN ઉપનિષદ\N_NNP શબ્દમાં\N_NN ભળેલા\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJPHD1061	અજ્ઞાનનો\N_NN નાશ\N_NN કરી\V_VM પરમાત્મા\N_NN સુધી\PSP પહોંચાડનારી\V_VAUX_VNP વિદ્યા\N_NN -\RD_PUNC જે\PR_PRL ગુરુ\N_NN પાસે\PSP બેસીને\V_VAUX_VNP પૂર્ણ\JJ જિજ્ઞાસાથી\N_NN અને\CC_CCD વૃત્તિઓ\N_NN વશ\N_NN કરીને\V_VAUX_VNP પ્રાપ્ત\JJ કરવાની\V_VAUX_VNP છે\V_VAUX ,\RD_PUNC  .\RD_PUNC
+GJPHD1062	આ\DM_DMD રીતે\N_NN ઉપનિષદોમાં\N_NNP ઐહિક\JJ કે\CC_CCS સાંસારિક\JJ સુખોને\N_NN સ્થાને\N_NN અમૃતત્વની\N_NN અભીપ્સા\N_NN વ્યક્ત\JJ થઈ\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1063	ઉપનિષદોમાં\N_NNP ધર્મ\N_NN તત્વજ્ઞાનનું\N_NN સ્વરૂપ\N_NN લે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1064	પ્રાચીન\JJ ઉપનિષદો\N_NNP જ્ઞાનને\N_NN લગતાં\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJPHD1065	જીવ\N_NN એ\DM_DMD પંચમહાભૂતના\N_NN બનેલા\V_VAUX_VNP જડ\N_NN પદાર્થોથી\N_NN ભિન્ન\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1066	વેદાંગ\N_NNP :\RD_PUNC `\RD_PUNC વેદાંગ\N_NNP `\RD_PUNC એટલે\PSP વેદનાં\N_NNP અંગ\N_NN -\RD_PUNC સાધન\N_NN ;\RD_PUNC વેદને\N_NNP મદદગાર\JJ થનારાં\V_VAUX_VNP પુસ્તકો\N_NN વેદાંગ\N_NNP છ\QT_QTC છે\V_VAUX .\RD_PUNC
+GJPHD1067	શિક્ષા\N_NN :\RD_PUNC વેદના\N_NNP સ્વરસહિત\JJ ઉચ્ચાર\N_NN કરવાનું\V_VAUX_VNP શીખવનાર\V_VAUX_VNP ગ્રંથ\N_NN .\RD_PUNC
+GJPHD1068	તેના\DM_DMD મૂળ\JJ ગ્રંથો\N_NN `\RD_PUNC પ્રાતિશાખ્ય\N_NNP `\RD_PUNC -\RD_PUNC એટલેકે\PSP જુદી\JJ જુદી\JJ શાખાના\N_NN ઉચ્ચાર\N_NN કરવાના\V_VAUX_VNP ગ્રંથો\N_NN એ\DM_DMD નામે\N_NN પણ\RP_RPD ઓળખાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1069	કલ્પ\N_NNP :\RD_PUNC યજ્ઞયાગની\N_NN ક્રિયાઓનો\N_NN વિધિ\N_NN બતાવનાર\V_VAUX_VNP ગ્રંથ\N_NN .\RD_PUNC
+GJPHD1070	આશ્વલાયન\N_NNP વગેરે\PSP ઋષિઓના\N_NN બનાવેલા\V_VAUX_VNP મળે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1071	વ્યાકરણ\N_NNP :\RD_PUNC અત્યારે\N_NST પાણિનિનું\N_NNP જ\RP_RPD વ્યાકરણ\N_NN સૌથી\JJ જૂનું\JJ હયાત\JJ છે.\N_NN
+GJPHD1072	એ\DM_DMD વેદાંગ\N_NNP તરીકે\PSP મનાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1073	છંદ\N_NN :\RD_PUNC આ\DM_DMD સંબંધી\PSP વેદાંગગ્રંથ\N_NNP પિંગલ\N_NNP નામના\N_NN આચાર્યે\N_NN રચેલો\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJPHD1074	જ્યોતિ\N_NNP :\RD_PUNC આની\DM_DMD (\RD_SYM જ્યોતિષશાસ્ત્ર\N_NNP )\RD_SYM રચના\N_NN ગર્ગાચાર્યે\N_NNP કરી\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1075	નિરુક્ત\N_NNP :\RD_PUNC આ\DM_DMD ગ્રંથની\N_NN રચના\N_NN યાસ્કમુનિએ\N_NNP કરી\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1076	તેમાં\DM_DMD કઠિન\JJ તથા\CC_CCD જાણવા\V_VAUX_VNP જેવા\JJ વેદના\N_NNP શબ્દોની\N_NN વ્યુત્પત્તિ\N_NN અને\CC_CCD તેના\DM_DMD અર્થ\N_NN કરવાની\V_VAUX_VNP રીત\N_NN આપી\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1077	તેમજ\CC_CCD તેમાં\DM_DMD વેદના\N_NNP દેવતાઓનું\N_NN સ્વરૂપ\N_NN પણ\RP_RPD સમજાવ્યું\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1078	સૂત્રો\N_NN :\RD_PUNC થોડા\QT_QTF શબ્દમાં\N_NN સઘળો\JJ અર્થ\N_NN સૂચવનાર\V_VAUX_VNP વાક્યો\N_NN તે\DM_DMD સૂત્રો\N_NN .\RD_PUNC
+GJPHD1079	સંહિતાથી\N_NNP ઉપનિષદ\N_NNP સુધીનો\PSP વેદધર્મ\N_NNP સૂત્રકાળમાં\N_NST વ્યવસ્થા\N_NN પામ્યો\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1080	ઉપર\PSP વેદાંગરૂપ\N_NNP કલ્પગ્રંથોનો\N_NNP ઉલ્લેખ\N_NN કર્યો\V_VM તે\DM_DMD સૂત્ર\N_NN રૂપે\N_NN પ્રાપ્ત\JJ થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1081	એના\DM_DMD ચાર\QT_QTC પેટાવિભાગો\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1082	શ્રોતસૂત્ર\N_NNP :\RD_PUNC એમાં\DM_DMD અશ્વમેધાદિ\N_NN યજ્ઞની\N_NN ક્રિયાઓ\N_NN બતાવવામાં\V_VAUX_VNP આવેલી\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJPHD1083	ગૃહ્યસૂત્ર\N_NNP :\RD_PUNC એમાં\DM_DMD ગૃહસ્થાન\N_NN ઘરમાં\N_NN કરવાના\V_VAUX_VNP યજ્ઞો\N_NN અને\CC_CCD ઉપનયન\N_NN -\RD_PUNC વિવાહાદિ\N_NN સંસ્કારોનો\N_NN વિધિ\N_NN બતાવવામાં\V_VAUX_VNP આવ્યો\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1084	ધર્મસૂત્ર\N_NNP :\RD_PUNC એમાં\DM_DMD વર્ણાશ્રમના\N_NN ધર્મો\N_NN તથા\CC_CCD સમાજના\N_NN ન્યાય\N_NN તથા\CC_CCD કાયદાને\N_NN લગતી\V_VAUX_VNP બાબતો\N_NN ચર્ચવામાં\V_VAUX_VNP આવી\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1085	શુલ્વસૂત્ર\N_NNP :\RD_PUNC એમાં\DM_DMD યજ્ઞવેદીની\N_NNP રચના\N_NN વિષયક\JJ વિવરણ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1086	દર્શનસૂત્રો\N_NNP પણ\RP_RPD આ\DM_DMD સૂત્રયુગમાં\N_NN જ\RP_RPD રચાયેલાં\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJPHD1087	સંહિતા\N_NNP ,\RD_PUNC બ્રાહ્મણ\N_NNP ,\RD_PUNC આરણ્યક\N_NNP તથા\CC_CCD ઉપનિષદ\N_NNP એ\DM_DMD વેદકાળના\N_NST ગ્રંથો\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1088	સંસ્કૃતકાળના\N_NST પ્રતિષ્ઠિત\JJ ઋષિમુનિઓના\N_NN રચેલા\V_VAUX_VNP ગ્રંથો\N_NN તે\DM_DMD સર્વ\JJ `\RD_PUNC સ્મૃતિ\N_NNP `\RD_PUNC .\RD_PUNC
+GJPHD1089	ઋષિઓને\N_NN પરમાત્મા\N_NN પાસેથી\PSP પોતાના\PR_PRF અંતરાત્મામાં\N_NN સાક્ષાત\JJ સંભળાવાનું\V_VAUX_VNP બંધ\JJ થયું\V_VM તે\DM_DMD પછીના\PSP ઋષિઓમાં\N_NN માત્ર\RP_RPD એનું\DM_DMD સ્મરણ\N_NN રહ્યું\V_VM .\RD_PUNC
+GJPHD1090	એ\DM_DMD સ્મરણને\N_NN આધારે\N_NN તેમણે\PR_PRP અનેક\JJ ગ્રંથો\N_NN રચ્યા\V_VM તે\DM_DMD ગ્રંથો\N_NN `\RD_PUNC સ્મૃતિ\N_NNP `\RD_PUNC કહેવાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1091	આમ\PSP ,\RD_PUNC વ્યાપક\JJ રીતે\N_NN `\RD_PUNC સ્મૃતિમાં\N_NNP `\RD_PUNC ધર્મશાસ્ત્રો\N_NN ,\RD_PUNC દર્શનશાસ્ત્રો\N_NN ,\RD_PUNC ઇતિહાસ\N_NN તથા\CC_CCD પુરાણનો\N_NN સમાવેશ\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1092	મનુ\N_NNP ,\RD_PUNC યાજ્ઞવલ્કય\N_NNP ,\RD_PUNC પરાશરની\N_NNP સ્મૃતિઓ\N_NNP વધારે\QT_QTF જાણીતી\JJ છે\V_VAUX .\RD_PUNC
+GJPHD1093	તેમાં\DM_DMD હિંદુધર્મનાં\N_NN બધાં\QT_QTF તત્ત્વો\N_NN સમાયેલા\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJPHD1094	દર્શન\N_NN એટલે\PSP જોવાનું\V_VAUX_VNP સાધન\N_NN .\RD_PUNC
+GJPHD1095	વેદના\N_NNP સત્યો\N_NN જોવા\V_VAUX_VNP માટે\PSP બ્રાહ્મણ\N_NNP શાસ્ત્રકારોએ\N_NN છ\QT_QTC જુદાં\JJ જુદાં\JJ શાસ્ત્રો\N_NN રચ્યાં\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1096	એ\DM_DMD `\RD_PUNC ષડદર્શન\N_NN `\RD_PUNC કહેવાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1097	ઈ.સ.\N_NN પૂર્વે\N_NST ૬૦૦ના\QT_QTC અરસામાં\N_NN મહાવીરસ્વામી\N_NNP અને\CC_CCD ગૌતમ\N_NNP બુદ્ધ\N_NNP થયા\V_VM તે\DM_DMD સમયમાં\N_NN આ\DM_DMD દર્શનોની\N_NN ઉત્પત્તિ\N_NN થઈ\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1098	એ\DM_DMD રીતે\N_NN આ\DM_DMD દર્શનોનું\N_NN તત્ત્વજ્ઞાન\N_NN પ્રાચીન\JJ છે\V_VAUX .\RD_PUNC
+GJPHD1099	બ્રાહ્મણ\N_NNP અને\CC_CCD ઉપનિષદ\N_NNP ગ્રંથોમાં\N_NN કર્મ\N_NN અને\CC_CCD જ્ઞાનનો\N_NN ઉપદેશ\N_NN થયો\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1100	આ\DM_DMD છ\QT_QTC દર્શનનાં\N_NN બે\QT_QTC -\RD_PUNC બે\QT_QTC એમ\PSP ત્રણ\QT_QTC જોડકાં\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1101	બે\QT_QTC સાંખ્ય\N_NNP ,\RD_PUNC બે\QT_QTC ન્યાય\N_NNP અને\CC_CCD બે\QT_QTC મીમાંસા\N_NNP .\RD_PUNC
+GJPHD1102	બે\QT_QTC સાંખ્ય\N_NNP તે\DM_DMD એક\QT_QTC સાંખ્ય\N_NNP અને\CC_CCD બીજું\JJ યોગ\N_NNP .\RD_PUNC
+GJPHD1103	આમાંનું\DM_DMD પહેલું\QT_QTO નિરીશ્વરસાંખ્ય\N_NNP અને\CC_CCD બીજું\JJ સેશ્વરસાંખ્યને\N_NNP નામે\N_NN ઓળખાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1104	બે\QT_QTC ન્યાય\N_NNP તે\DM_DMD એક\QT_QTC વૈશેષિક\N_NNP અને\CC_CCD બીજું\JJ ન્યાય\N_NNP .\RD_PUNC
+GJPHD1105	બે\QT_QTC મીમાંસા\N_NN તે\DM_DMD એક\QT_QTC પૂર્વમીમાંસા\N_NN અથવા\CC_CCD ધર્મમીમાંસા\N_NN અથવા\CC_CCD કર્મમીમાંસા\N_NN .\RD_PUNC
+GJPHD1106	દર્શનો\N_NN મૂળ\JJ સૂત્ર\N_NN રૂપે\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1107	પછીથી\PSP એ\DM_DMD સૂત્રગ્રંથો\N_NN પર\PSP ભાષ્યો\N_NN થયાં\V_VAUX_VNP છે\V_VAUX અને\CC_CCD તેમાં\DM_DMD ભાષ્યકારોએ\N_NN પોતાનાં\PR_PRF દ્રષ્ટિબિંદુ\N_NN મુજબ\PSP અર્થઘટન\N_NN કર્યું\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1108	એથી\PSP દર્શનોના\N_NN જુદા\JJ જુદા\JJ ફાંટાઓ\N_NN અસ્તિત્વમાં\N_NN આવ્યા\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1109	જેમકે\CC_CCS_UT બ્રહ્મસૂત્ર\N_NNP ઉપર\N_NST શંકર\N_NNP ,\RD_PUNC રામાનુજ\N_NNP ,\RD_PUNC વલ્લભ\N_NNP આદિએ\PSP ભાષ્યો\N_NN રચ્યાં\V_VM છે\V_VAUX અને\CC_CCD વેદાંતના\N_NNP વિવિધ\JJ સંપ્રદાયો\N_NN અસ્તિત્વમાં\N_NN આવ્યા\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1110	તેના\DM_DMD પ્રણેતા\N_NN કપિલમુનિ\N_NNP છે\V_VAUX પણ\RP_RPD તેમણે\PR_PRP લખેલો\V_VAUX_VNP ગ્રંથ\N_NN ઉપલબ્ધ\JJ નથી\RP_NEG .\RD_PUNC
+GJPHD1111	ઈશ્વરકૃષ્ણ\N_NNP રચિત\JJ સાંખ્યકારિકા\N_NN આ\DM_DMD દર્શનનો\N_NN પ્રધાન\N_NN ગ્રંથ\N_NN મનાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1112	સાંખ્યસૂત્રો\N_NNP પ્રમાણમાં\N_NN અર્વાચીન\JJ છે\V_VAUX .\RD_PUNC
+GJPHD1113	આ\DM_DMD દર્શન\N_NN કુલ\JJ ૨૫\QT_QTC તત્ત્વોમાં\N_NN માને\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1114	આ\DM_DMD તત્ત્વગણનાને\N_NN કારણે\PSP એ\DM_DMD `\RD_PUNC સાંખ્ય\N_NN `\RD_PUNC નામ\N_NN પામ્યું\V_VM જણાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1115	અથવા\CC_CCD સાંખ્ય\N_NN એટલે\PSP વિવેકજ્ઞાન\N_NN .\RD_PUNC
+GJPHD1116	એમાં\DM_DMD મુક્તિનું\N_NN સાધન\N_NN વિવેકજ્ઞાનને\N_NN માનેલું\V_VAUX_VNP હોવાથી\V_VAUX_VNP `\RD_PUNC સાંખ્ય\N_NN `\RD_PUNC નામ\N_NN મળ્યું\V_VM હોય\V_VAUX .\RD_PUNC
+GJPHD1117	આ\DM_DMD દર્શનોએ\N_NN સ્વીકારેલાં\V_VAUX_VNP ૨૫\QT_QTC તત્ત્વો\N_NN આ\DM_DMD મુજબ\PSP છે\V_VAUX .\RD_PUNC
+GJPHD1118	મૂળ\JJ પ્રકૃતિ\N_NN ,\RD_PUNC મહત\JJ તત્ત્વ\N_NN ,\RD_PUNC અહંકાર\N_NN ;\RD_PUNC ૪થી\QT_QTC ૮\QT_QTC પાંચ\QT_QTC તન્માત્રાઓ\N_NN ;\RD_PUNC ૯થી\QT_QTC ૧૩\QT_QTC .\RD_PUNC
+GJPHD1119	પાંચ\QT_QTC જ્ઞાનેન્દ્રિયો\N_NN ;\RD_PUNC ૧૪થી\QT_QTC ૧૮\QT_QTC .\RD_PUNC
+GJPHD1120	પાંચ\QT_QTC કર્મેન્દ્રિયો\N_NN ;\RD_PUNC ૧૯\QT_QTC .\RD_PUNC મન\N_NN ;\RD_PUNC ૨૦થી\QT_QTC ૨૪\QT_QTC .\RD_PUNC પાંચ\QT_QTC મહાભૂત\N_NN .\RD_PUNC
+GJPHD1121	આમ\PSP એક\QT_QTC પ્રકૃતિ\N_NN પોતે\PR_PRF અને\CC_CCD બીજાં\JJ પ્રકૃતિથી\N_NN જ\RP_RPD ઉત્પન્ન\JJ થનારાં\V_VAUX_VNP ૨૩\QT_QTC તત્ત્વો\N_NN મળીને\V_VAUX_VNP કુલ\JJ ૨૪\QT_QTC અને\CC_CCD પચ્ચીસમો\QT_QTO પુરુષ\N_NN અર્થાત્\CC_CCD આત્મા\N_NN .\RD_PUNC
+GJPHD1122	સાંખ્યની\N_NNP દ્રષ્ટિએ\N_NN પ્રકૃતિ\N_NN (\RD_SYM કે\CC_CCS પ્રધાન\N_NN )\RD_SYM જડ\JJ છે\V_VAUX અને\CC_CCD જગતનું\N_NN કારણ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1123	પુરુષ\N_NN અથવા\CC_CCD આત્મા\N_NN શુદ્ધ\JJ ચૈતન્યરૂપ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1124	એ\DM_DMD અવિકારી\JJ ,\RD_PUNC તટસ્થ\JJ ,\RD_PUNC નિત્ય\N_NN અને\CC_CCD વ્યાપક\JJ છે\V_VAUX .\RD_PUNC
+GJPHD1125	પ્રકૃતિ\N_NN એક\QT_QTC છે\V_VAUX ,\RD_PUNC ત્યારે\N_NST પુરુષ\N_NN -\RD_PUNC જીવાત્મા\N_NN અનેક\JJ છે\V_VAUX .\RD_PUNC
+GJPHD1126	પ્રકૃતિ\N_NN પુરુષની\N_NN આ\DM_DMD ભિન્નતાની\N_NN માન્યતાને\N_NN કારણે\PSP સાંખ્યદર્શન\N_NNP દ્વૈતવાદી\JJ દર્શન\N_NN ગણાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1127	સાંખ્યમતે\N_NN પ્રકૃતિ\N_NN અને\CC_CCD પુરુષના\N_NN સંયોગથી\N_NN સૃષ્ટિ\N_NN ઉત્પન્ન\JJ થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1128	પ્રકૃતિ\N_NN જડ\JJ હોવાથી\V_VAUX_VNP કેવળ\PSP તેનાથી\DM_DMD જગતનું\N_NN નિર્માણ\N_NN થઈ\V_VM શકે\V_VAUX નહીં\RP_NEG .\RD_PUNC
+GJPHD1129	તેમજ\CC_CCD પુરુષ\N_NN સ્વભાવથી\N_NN નિષ્ક્રિય\JJ હોવાથી\V_VAUX_VNP તેનાથી\DM_DMD પણ\RP_RPD તે\DM_DMD ઉત્પન્ન\JJ થઈ\V_VM શકે\V_VAUX નહીં\RP_NEG .\RD_PUNC
+GJPHD1130	પ્રકૃતિ\N_NN સત્ત્વ\N_NN ,\RD_PUNC રજસ્\N_NN અને\CC_CCD તમસ્\N_NN એ\DM_DMD ત્રણ\QT_QTC ગુણોની\N_NN બનેલી\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJPHD1131	એ\DM_DMD ત્રણ\QT_QTC ગુણોની\N_NN એમાં\DM_DMD સામ્યાવસ્થા\N_NN હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1132	પરંતુ\CC_CCD જ્યારે\N_NST પ્રકૃતિ\N_NN સાથે\PSP પુરુષનો\N_NN સંયોગ\N_NN થાય\V_VM છે\V_VAUX ત્યારે\N_NST આ\DM_DMD ગુણોમાં\N_NN વૈષમ્ય\N_NN આવે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1133	પ્રકૃતિથી\N_NN ઉત્પન્ન\JJ થતાં\V_VAUX_VNP તત્ત્વો\N_NN કયા\DM_DMQ ક્રમે\N_NN ઉત્પન્ન\JJ થાય\V_VM છે\V_VAUX તેનું\DM_DMD વર્ણન\N_NN સાંખ્યદર્શન\N_NNP કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1134	સાંખ્યદર્શનને\N_NNP મતે\N_NN કારણની\N_NN (\RD_SYM પ્રકૃતિ\N_NN )\RD_SYM જેમ\PSP કાર્ય\N_NN (\RD_SYM જગત\N_NN )\RD_SYM પણ\RP_RPD સત્\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1135	આથી\PSP સાંખ્યસિદ્ધાન્તને\N_NN સત્કાર્યવાદ\N_NN કહેવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1136	વળી\PSP ,\RD_PUNC એમાં\DM_DMD કારણ\N_NN જ\RP_RPD કાર્ય\N_NN રૂપે\N_NN પરિણમે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1137	તેથી\PSP એ\DM_DMD પરિણામવાદ\N_NN પણ\RP_RPD છે\V_VAUX .\RD_PUNC
+GJPHD1138	સાંખ્યદર્શનનો\N_NNP મુખ્ય\JJ સિદ્ધાંત\N_NN એ\DM_DMD છે\V_VAUX કે\CC_CCS આ\DM_DMD સંસાર\N_NN આધ્યાત્મિક\JJ ,\RD_PUNC આધિદૈવિક\JJ અને\CC_CCD આધિભૌતિક\JJ એમ\PSP ત્રણ\QT_QTC પ્રકારના\N_NN તાપથી\N_NN (\RD_SYM દુ:ખ\N_NN )\RD_SYM ભરેલો\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJPHD1139	આનું\DM_DMD કારણ\N_NN પુરુષનો\N_NN પ્રકૃતિ\N_NN સાથેનો\PSP સંયોગ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1140	પુરુષ\N_NN -\RD_PUNC આત્મા\N_NN સાક્ષીરૂપ\N_NN ચૈતન્ય\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1141	એનાં\DM_DMD સુખદુ:ખ\N_NN એ\DM_DMD પોતાના\N_NN સુખદુ:ખ\N_NN માની\V_VM લે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1142	એટલેકે\PSP પોતાની\PR_PRF સ્વતંત્રતા\N_NN ગુમાવી\V_VM જડ\JJ પ્રકૃતિથી\N_NN બદ્ધ\JJ બને\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1143	આમ\PSP આત્મા\N_NN અને\CC_CCD અનાત્મા\N_NN વચ્ચેનો\JJ અવિવેક\N_NN એ\DM_DMD બધાં\QT_QTF દુ:ખોનું\N_NN કારણ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1144	આથી\PSP જ\RP_RPD સર્વ\JJ દુ:ખોમાંથી\N_NN મુક્ત\JJ થવાનું\V_VAUX_VNP સાધન\N_NN છે\V_VAUX વિવેકજ્ઞાન\N_NN -\RD_PUNC આત્મા\N_NN અનાત્મા\N_NN વચ્ચેનો\JJ વિવેક\N_NN ,\RD_PUNC જેને\PR_PRL સાંખ્યદર્શન\N_NNP `\RD_PUNC વિવેકખ્યાતિ\N_NN `\RD_PUNC તરીકે\PSP ઓળખાવે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1145	પુરુષ\N_NN જડ\JJ તત્ત્વોના\N_NN ધર્મો\N_NN પોતાના\PR_PRF પર\PSP આરોપતો\N_NN બંધ\JJ થઈ\V_VM જાય\V_VAUX એટલે\PSP એમાંથી\DM_DMD જન્મતાં\V_VAUX_VNP દુ:ખોમાંથી\N_NN એ\DM_DMD બચી\V_VM જાય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1146	વિવેકજ્ઞાન\N_NN પ્રાપ્ત\JJ કરનાર\V_VAUX_VNP મનુષ્ય\N_NN આ\DM_DMD જીવનમાં\N_NN જે\PR_PRL મુક્તિનો\N_NN અનુભવ\N_NN કરે\V_VM છે\V_VAUX તેને\DM_DMD જીવનમુક્તિ\N_NN કહે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1147	જીવન\N_NN આ\DM_DMD જીવનમાં\N_NN જે\PR_PRL મુક્તિનો\N_NN અનુભવ\N_NN કરે\V_VM છે\V_VAUX તેને\DM_DMD જીવન્મુક્તિ\N_NN કહે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1148	જીવનમુક્ત\JJ વ્યક્તિ\N_NN કર્મ\N_NN વ્યાપારોમાંથી\N_NN વિરત\JJ થતી\V_VAUX_VNP નથી\RP_NEG ,\RD_PUNC એ\PR_PRP પ્રારબ્ધકર્મ\N_NN કરતી\V_VAUX_VNP રહે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1149	શરીરનો\N_NN નાશ\N_NN થતાં\V_VAUX_VNP વ્યક્તિના\N_NN દુ:ખનો\N_NN એકાંતિક\JJ અને\CC_CCD આત્યંતિક\JJ નાશ\N_NN થાય\V_VM છે\V_VAUX ,\RD_PUNC તેને\DM_DMD વિદેહમુક્તિ\N_NN કહે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1150	સાંખ્યની\N_NNP દ્રષ્ટિએ\N_NN પ્રકૃતિનું\N_NN જ\RP_RPD કર્તૃત્વ\N_NN છે\V_VAUX ,\RD_PUNC જીવોનું\N_NN નહીં\RP_NEG .\RD_PUNC
+GJPHD1151	તેથી\PSP જીવોને\N_NN ઈન્દ્રિયજન્ય\JJ જ્ઞાન\N_NN અને\CC_CCD વિવેકખ્યાતિ\N_NN બંનેનો\JJ ભોગ\N_NN કરાવનાર\V_VAUX_VNP પ્રકૃતિ\N_NN જ\RP_RPD છે\V_VAUX .\RD_PUNC
+GJPHD1152	સાંખ્યનું\N_NNP મુખ્ય\JJ વલણ\N_NN ઈશ્વરના\N_NN ખ્યાલ\N_NN વિના\PSP ચલાવી\V_VM લેવાનું\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJPHD1153	એની\DM_DMD દૃષ્ટિએ\N_NN જગતનો\N_NN ખુલાસો\N_NN કરવાને\V_VAUX_VNP માટે\PSP ઈશ્વરની\N_NN જરૂર\N_NN નથી\RP_NEG .\RD_PUNC
+GJPHD1154	પ્રકૃતિ\N_NN એ\DM_DMD જગતનું\N_NN પર્યાપ્ત\JJ કારણ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1155	શાશ્વત\JJ અને\CC_CCD અવિકારી\JJ ઈશ્વર\N_NN જગતનો\N_NN કર્તા\N_NN હોઈ\V_VAUX શકે\V_VAUX નહીં\RP_NEG ,\RD_PUNC કેમકે\CC_CCS વિકાર\N_NN વિના\PSP પરિણામ\N_NN ઉત્પન્ન\JJ થતું\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJPHD1156	કેટલાક\QT_QTF સાંખ્યવિચારકો\N_NN અલબત્ત\PSP એમ\PSP બતાવવાની\V_VAUX_VNP કોશિશ\N_NN કરે\V_VM છે\V_VAUX કે\CC_CCS સાંખ્યદર્શનને\N_NNP કર્તારૂપ\N_NN નહીં\RP_NEG પણ\RP_RPD સાક્ષીરૂપ\N_NN પરમપુરુષ\N_NN તરીકે\PSP ઈશ્વર\N_NN માન્ય\JJ છે\V_VAUX .\RD_PUNC
+GJPHD1157	અહીં\N_NST એ\DM_DMD નોંધવું\V_VAUX_VNP જોઈએ\V_VAUX કે\CC_CCS ચોવીસ\QT_QTC તત્ત્વવાદી\N_NN અને\CC_CCD છવીસ\QT_QTC તત્ત્વવાદી\JJ સાંખ્યના\N_NNP નિર્દેશો\N_NN પણ\RP_RPD મળે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1158	ચોવીસ\QT_QTC તત્ત્વવાદી\N_NN સાંખ્ય\N_NN જ્ઞાતા\N_NN અને\CC_CCD ભોક્તા\N_NN ,\RD_PUNC જ્ઞાન\N_NN અને\CC_CCD ભોગસાધન\N_NN તથા\CC_CCD જ્ઞેય\JJ અને\CC_CCD ભોગ્ય\JJ વસ્તુઓ\N_NN બધાંનું\N_NN કારણ\N_NN પ્રકૃતિને\N_NN માને\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1159	એટલેકે\PSP એમાં\DM_DMD પુરુષની\N_NN અલગ\JJ સત્તા\N_NN સ્વીકાર્ય\JJ નથી\RP_NEG .\RD_PUNC
+GJPHD1160	છવીસ\QT_QTC તત્ત્વવાદી\N_NN સાંખ્ય\N_NN પુરુષવિશેષની\N_NN કલ્પના\N_NN કરે\V_VM છે\V_VAUX ,\RD_PUNC જે\PR_PRL પ્રકૃતિનું\N_NN તેમ\PSP જ્ઞાતાભોક્તા\N_NN જીવનું\N_NN પ્રભવસ્થાન\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1161	પ્રકટ\JJ સત્ત્વના\N_NN આશ્રયથી\N_NN એ\DM_DMD પ્રાણીઓના\N_NN ઉદ્ધારકનું\N_NN પદ\N_NN પ્રાપ્ત\JJ કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1162	આ\DM_DMD છવીસ\QT_QTC તત્ત્વવાદી\N_NN સાંખ્ય\N_NNP તે\DM_DMD યોગ\N_NNP .\RD_PUNC
+GJPHD1163	યોગદર્શનની\N_NNP રચના\N_NN મહર્ષિ\N_NN પતંજલિએ\N_NNP કરી\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1164	પરંતુ\CC_CCD આ\DM_DMD દર્શનનાં\N_NN મૂળતત્ત્વો\N_NN છેક\PSP ઉપનિષદમાં\N_NN મળે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1165	યોગદર્શન\N_NNP બહુધા\JJ સાંખ્યદર્શનનો\N_NNP તત્ત્વવિચાર\N_NN સ્વીકારે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1166	આથી\PSP એ\DM_DMD સાંખ્યયોગ\N_NNP તરીકે\PSP પણ\RP_RPD ઓળખાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1167	સાંખ્યદર્શનને\N_NNP પ્રકૃતિ\N_NN અને\CC_CCD પુરુષનો\N_NN વિવેક\N_NN કરવાનું\V_VAUX_VNP કહ્યું\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1168	તે\DM_DMD કઈ\DM_DMI રીતે\N_NN કરવો\V_VAUX_VNP તે\DM_DMD માટેનાં\PSP સાધનો\N_NN યોગદર્શને\N_NNP બતાવ્યાં\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1169	એ\DM_DMD રીતે\N_NN યોગદર્શન\N_NNP `\RD_PUNC સાધનગ્રંથ\N_NN `\RD_PUNC છે\V_VAUX .\RD_PUNC
+GJPHD1170	એમાં\DM_DMD સાધનોની\N_NN ચર્ચા\N_NN હોવાથી\V_VAUX_VNP લગભગ\PSP દરેક\JJ માર્ગના\N_NN સાધકને\N_NN તેમાંથી\DM_DMD યોગ્ય\JJ માર્ગદર્શન\N_NN મળી\V_VM રહે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1171	શુદ્ધ\JJ ચૈતન્યરૂપ\N_NN અને\CC_CCD સ્વતંત્ર\JJ પુરુષ\N_NN અજ્ઞાનદશામાં\N_NN ચિત્તથી\N_NN સંબદ્ધ\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1172	ચિત્ત\N_NN પ્રકૃતિમાંથી\N_NN ઉત્પન્ન\JJ થયેલ\V_VAUX_VNP હોવાથી\V_VAUX_VNP તે\DM_DMD વસ્તુત:\PSP અચેતન\JJ છે\V_VAUX .\RD_PUNC
+GJPHD1173	ચિત્ત\N_NN જે\PR_PRL વસ્તુ\N_NN સાથે\PSP સંબંધમાં\N_NN આવે\V_VM છે\V_VAUX તેનું\DM_DMD સ્વરૂપ\N_NN ગ્રહણ\N_NN કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1174	પુરુષને\N_NN પદાર્થોના\N_NN સ્વરૂપનું\N_NN જ્ઞાન\N_NN થાય\V_VM છે\V_VAUX તે\DM_DMD ચિત્તમાં\N_NN જાતજાતનાં\JJ પરિવર્તનોને\N_NN કારણે\PSP થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1175	આ\DM_DMD પરિવર્તનોને\N_NN વૃત્તિ\N_NN કહે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1176	જે\PR_PRP પ્રમાણે\PSP પાણીની\N_NN સપાટી\N_NN પર\PSP ઊઠતી\V_VAUX_VNP લહરીઓને\N_NN કારણે\PSP તેમાં\DM_DMD પ્રતિબિંબત\JJ થતો\V_VAUX_VNP ચંદ્ર\N_NNP સ્થિર\JJ હોવા\V_VAUX_VNP છતાં\RP_RPD ચંચલ\JJ ભાસે\V_VM છે\V_VAUX તે\DM_DMD પ્રમાણે\PSP પરિણામશીલ\JJ ન\RP_NEG હોનારો\V_VAUX_VNP પુરુષ\N_NN પરિવર્તનશીલ\JJ ભાસે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1177	આમ\PSP પુરુષ\N_NN સંસારના\N_NN બંધનમાં\N_NN બંધાય\V_VM છે\V_VAUX તેનું\DM_DMD કારણ\N_NN ચિત્ત\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1178	ચિત્તનો\N_NN નિગ્રહ\N_NN કરવાથી\V_VAUX_VNP સંસારનું\N_NN બંધન\N_NN થતું\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJPHD1179	ચિત્તવૃત્તિનો\N_NN આ\DM_DMD નિરોધ\N_NN તે\DM_DMD યોગ\N_NN .\RD_PUNC
+GJPHD1180	યોગનાં\N_NN આઠ\QT_QTC અંગો\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1181	અષ્ટાંગયોગની\N_NN સાધનાથી\N_NN મનને\N_NN બાહ્ય\JJ વિષયોમાંથી\N_NN ખેંચી\V_VM શકાય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1182	યોગનાં\N_NN આઠ\QT_QTC અંગ\N_NN તે\DM_DMD યમ\N_NN ,\RD_PUNC નિયમ\N_NN ,\RD_PUNC આસન\N_NN ,\RD_PUNC પ્રાણાયમ\N_NN ,\RD_PUNC પ્રત્યાહાર\N_NN ,\RD_PUNC ધારણા\N_NN ,\RD_PUNC ધ્યાન\N_NN અને\CC_CCD સમાધિ\N_NN .\RD_PUNC
+GJPHD1183	પરિણામે\PSP મોક્ષસિદ્ધિ\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1184	યોગદર્શનમાં\N_NNP પાંચ\QT_QTC પ્રકારની\N_NN ચિત્તભૂમિઓ\N_NN કે\CC_CCS ચિત્તાવસ્થાઓ\N_NN વર્ણવાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1185	ક્ષિપ્ત\N_NN ,\RD_PUNC મૂઢ\N_NN ,\RD_PUNC વિક્ષિપ્ત\N_NN -\RD_PUNC આ\DM_DMD ત્રણ\QT_QTC ચિત્તાવસ્થામાં\N_NN યોગ\N_NN શક્ય\JJ નથી\RP_NEG .\RD_PUNC
+GJPHD1186	એકાગ્ર\JJ અને\CC_CCD અનિરુદ્ધ\N_NN એ\DM_DMD યોગને\N_NN ઉપકારક\JJ ચિત્તાવસ્થાઓ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1187	યોગ\N_NN કે\CC_CCS સમાધિના\N_NN બે\QT_QTC પ્રકાર\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1188	એક\QT_QTC સંપ્રજ્ઞાન\N_NN ,\RD_PUNC જેમાં\PR_PRL સઘળાં\JJ માનસિક\JJ સંચાલનો\N_NN વિરમી\V_VM જાય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1189	સંપ્રજ્ઞાત\JJ સમાધિ\N_NN અનેક\JJ પ્રકારની\N_NN સિદ્ધિઓ\N_NN આપે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1190	આઠ\QT_QTC પ્રકારની\N_NN મહાસિદ્ધિઓ\N_NN લોકશાસ્ત્રમાં\N_NN જાણીતી\JJ છે\V_VAUX .\RD_PUNC
+GJPHD1191	અસંપ્રજ્ઞાત\JJ સમાધિ\N_NN મુક્તિની\N_NN અવસ્થા\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1192	ચિત્તવૃત્તિઓનો\N_NN ક્ષય\N_NN થયા\V_VAUX_VNP પછી\PSP પણ\RP_RPD એ\DM_DMD સંસ્કાર\N_NN રૂપે\N_NN રહી\V_VM શકે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1193	એથી\PSP કેવળ\PSP ચિત્તવૃત્તિના\N_NN નિરોધમાં\N_NN યોગ\N_NN પૂરો\JJ થતો\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJPHD1194	વૃત્તિઓ\N_NN તેમજ\CC_CCD એના\DM_DMD સંસ્કારોનો\N_NN પણ\RP_RPD નિરોધ\N_NN થાય\V_VM ત્યારે\N_NST જ\RP_RPD પૂર્ણયોગ\N_NN સિદ્ધ\JJ થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1195	ચિત્તનિરોધરૂપ\N_NN સમાધિ\N_NN સાધ્ય\JJ બને\V_VM તે\DM_DMD માટે\PSP પતંજલિએ\N_NNP આભ્યાસ\N_NN અને\CC_CCD વૈરાગ્ય\N_NN ઉપરાંત\PSP ઈશ્વરપ્રણિધાન\N_NN એ\DM_DMD ઉપાય\N_NN બતાવેલ\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJPHD1196	આમ\PSP યોગદર્શનમાં\N_NNP ઈશ્વરનો\N_NN સ્વીકાર\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1197	સાંખ્યદર્શનથી\N_NNP આ\DM_DMD બાબતમાં\N_NN યોગદર્શન\N_NN જુદું\JJ પડે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1198	યોગદર્શન\N_NNP તે\DM_DMD છવીસ\QT_QTC તત્ત્વવાદી\N_NN સાંખ્યદર્શન\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1199	પાતંજલસૂત્રોમાં\N_NNP ઈશ્વરનું\N_NN સ્થાન\N_NN સાક્ષી\N_NN કે\CC_CCS ઉપાસ્યના\N_NN રૂપનું\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1200	એમાં\DM_DMD ચિત્તવૃત્તિના\N_NN નિરોધની\N_NN આખી\JJ ય\RP_RPD પ્રક્રિયાને\N_NN માટે\PSP ઈશ્વરના\N_NN આલંબનની\N_NN જરૂર\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1201	તે\DM_DMD ધ્યાનનો\N_NN વિષય\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1202	તે\DM_DMD સિવાય\PSP ઈશ્વરની\N_NN જરૂર\N_NN નથી\RP_NEG ,\RD_PUNC કારણકે\CC_CCS સમાધિની\N_NN અંતિમ\JJ દશામાં\N_NN તો\RP_RPD આત્મચૈતન્ય\N_NN જ\RP_RPD રહે\V_VAUX છે\V_VAUX અને\CC_CCD એ\DM_DMD જ\RP_RPD મોક્ષની\N_NN સ્થિતિ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1203	પરંતુ\CC_CCD યોગસૂત્રોના\N_NNP ભાષ્યકારોએ\N_NN ઉદ્ધારકરૂપ\N_NN ઈશ્વરની\N_NN પણ\RP_RPD કલ્પના\N_NN કરી\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1204	પુરુષના\N_NN પ્રકૃતિ\N_NN સાથેના\PSP યોગથી\N_NN જગત\N_NN ઉદ્દભવે\V_VM છે\V_VAUX અને\CC_CCD વિયોગથી\N_NN જગતનો\N_NN નાશ\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1205	પણ\CC_CCD આ\DM_DMD સંયોગ\N_NN કે\CC_CCS વિયોગ\N_NN પ્રકૃતિ\N_NN અને\CC_CCD પુરુષને\N_NN માટે\PSP નૈસર્ગિક\JJ નથી\RP_NEG .\RD_PUNC
+GJPHD1206	તેથી\PSP પ્રકૃતિ\N_NN અને\CC_CCD પુરુષના\N_NN આ\DM_DMD પ્રકારના\N_NN સંબંધો\N_NN નિપજાવવા\V_VAUX_VNP શક્તિમાન\JJ કોઈ\DM_DMI પરમતત્ત્વ\N_NN હોવું\V_VAUX_VNP જોઈએ\V_VAUX .\RD_PUNC
+GJPHD1207	સત્ત્વગુણના\N_NN પ્રકર્ષથી\N_NN પુરુષવિશેષ\N_NN ઈશ્વર\N_NN પુરુષપ્રકૃતિનો\N_NN વિયોગ\N_NN કરાવી\V_VM પ્રાણીઓનો\N_NN ઉદ્ધાર\N_NN કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1208	યોગના\N_NN જુદા\JJ જુદા\JJ પ્રકારો\N_NN વિકસ્યા\V_VM છે\V_VAUX તેમાં\DM_DMD મંત્રયોગ\N_NN ,\RD_PUNC લયયોગ\N_NN ,\RD_PUNC હઠયોગ\N_NN અને\CC_CCD રાજયોગ\N_NN એ\DM_DMD જાણીતા\JJ છે\V_VAUX .\RD_PUNC
+GJPHD1209	હઠયોગમાં\N_NN પ્રાણનિયમન\N_NN દ્વારા\PSP ચિત્તવૃત્તિનો\N_NN નિરોધ\N_NN કરવા\V_VAUX_VNP ઉપર\PSP ભાર\N_NN મૂકવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1210	એના\DM_DMD પ્રણેતા\N_NN કણાદ\N_NNP મુનિ\N_NNP છે\V_VAUX .\RD_PUNC
+GJPHD1211	કણાદ\N_NNP મુનિએ\N_NNP સૃષ્ટિમાં\N_NN છ\QT_QTC પદાર્થ\N_NN માન્યા\V_VM હતા\V_VAUX .\RD_PUNC
+GJPHD1212	એમાં\DM_DMD `\RD_PUNC અભાવ\N_NN `\RD_PUNC ઉમેરાયા\V_VAUX_VNP પછી\PSP સાત\QT_QTC પદાર્થો\N_NN થયા\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1213	આમાં\DM_DMD પહેલો\QT_QTO જે\PR_PRL `\RD_PUNC દ્રવ્ય\N_NN `\RD_PUNC નામનો\N_NN પદાર્થ\N_NN છે\V_VAUX તે\DM_DMD બાકીના\JJ બધા\QT_QTF પદાર્થોનો\N_NN આધાર\N_NN બને\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1214	દ્રવ્ય\N_NN વિના\PSP અન્ય\JJ પદાર્થોની\N_NN સ્થિતિ\N_NN રહી\V_VM શકતી\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJPHD1215	પ્રલયકાળમાં\N_NST દ્રવ્યના\N_NN અણુઓને\N_NN પૃથક્\N_NN રાખ્યા\V_VAUX_VNP કરનાર\V_VAUX_VNP `\RD_PUNC વિશેષ\JJ `\RD_PUNC નામનો\N_NN પદાર્થ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1216	અન્ય\JJ કોઈ\DM_DMI દર્શનમાં\N_NN આ\DM_DMD `\RD_PUNC વિશેષ\JJ `\RD_PUNC નામનો\N_NN પદાર્થ\N_NN સ્વીકારાયો\V_VM નથી\RP_NEG તેથી\PSP આ\DM_DMD દર્શનને\N_NN `\RD_PUNC વૈશેષિક\N_NNP `\RD_PUNC એવું\JJ નામ\N_NN મળ્યું\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1217	વૈશેષિકમાં\N_NNP નવ\QT_QTC પ્રકારનાં\N_NN દ્રવ્ય\N_NN સ્વીકારવામાં\V_VAUX_VNP આવ્યાં\V_VAUX છે\V_VAUX -\RD_PUNC પૃથ્વી\N_NN ,\RD_PUNC જલ\N_NN ,\RD_PUNC તેજ\N_NN ,\RD_PUNC વાયુ\N_NN ,\RD_PUNC આકાશ\N_NNP ,\RD_PUNC કાળ\N_NN ,\RD_PUNC દિક્\N_NN ,\RD_PUNC આત્મા\N_NN અને\CC_CCD મન\N_NN .\RD_PUNC
+GJPHD1218	તેમાંથી\DM_DMD પહેલાં\N_NST પાંચ\QT_QTC મહાભૂતો\N_NN કહેવાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1219	એ\DM_DMD પાંચમાંથી\QT_QTC પૃથ્વી\N_NN ,\RD_PUNC જલ\N_NN ,\RD_PUNC તેજ\N_NN અને\CC_CCD વાયુ\N_NN એ\DM_DMD ચાર\QT_QTC દ્રવ્યોનાં\N_NN સૂક્ષ્મ\JJ પરમાણુઓ\N_NN હોય\V_VAUX છે\V_VAUX ,\RD_PUNC જેના\PR_PRL સંયોજનથી\N_NN સૃષ્ટિના\N_NN પદાર્થો\N_NN ઉત્પન્ન\JJ થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1220	પરમાણુઓ\N_NN નિત્ય\JJ છે\V_VAUX પણ\CC_CCD એમાંથી\DM_DMD ઉત્પન્ન\JJ થતા\V_VAUX_VNP પદાર્થો\N_NN અનિત્ય\JJ છે\V_VAUX -\RD_PUNC એમનો\PR_PRP નાશ\N_NN થઈ\V_VM શકે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1221	આ\DM_DMD રીતે\N_NN આ\DM_DMD ચાર\QT_QTC દ્રવ્યો\N_NN નિત્યાનિત્ય\N_NN કહેવાય\V_VM છે\V_VAUX ,\RD_PUNC ત્યારે\N_NST આકાશ\N_NNP નિત્ય\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1222	કાળ\N_NN ,\RD_PUNC દિશા\N_NN ,\RD_PUNC આત્મા\N_NN અને\CC_CCD મન\N_NN પણ\RP_RPD નિત્ય\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1223	વૈશેષિકદર્શન\N_NNP અનુસાર\PSP જગત\N_NN પરમાણુઓનું\N_NN કાર્ય\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1224	બે\QT_QTC પરમાણુઓના\N_NN સંયોગથી\N_NN એક\QT_QTC `\RD_PUNC દ્વયણુક\N_NN `\RD_PUNC બને\V_VM છે\V_VAUX ,\RD_PUNC ત્રણ\QT_QTC દ્વયણુકના\N_NN સંયોગથી\N_NN એક\QT_QTC `\RD_PUNC ત્ર્યણુક\N_NN `\RD_PUNC બને\V_VM છે\V_VAUX ,\RD_PUNC ચાર\QT_QTC ત્ર્યણુકના\N_NN સંયોગથી\N_NN એક\QT_QTC `\RD_PUNC ચતુરણક\N_NN `\RD_PUNC બને\V_VM છે\V_VAUX -\RD_PUNC .\RD_PUNC
+GJPHD1225	પરમાણુ\N_NN અદૃષ્ટ\JJ છે\V_VAUX .\RD_PUNC
+GJPHD1226	ત્ર્યણુક\N_NN એ\PR_PRP પરમાણુઓનું\N_NN નાનામાં\JJ નાનું\JJ દૃષ્ટ\JJ સ્વરૂપ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1227	એને\DM_DMD ત્રસરેણુ\N_NN કહેવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1228	આમ\PSP પરમાણુ\N_NN એટલે\PSP ત્રસરેણુનો\N_NN છઠ્ઠો\QT_QTO ભાગ\N_NN .\RD_PUNC
+GJPHD1229	વૈશેષિકદર્શન\N_NNP પરમાણુવાદી\N_NN છે\V_VAUX ,\RD_PUNC તેમ\PSP આરંભવાદી\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1230	એટલેકે\PSP એ\DM_DMD કાર્યને\N_NN કારણથી\N_NN સર્વથા\JJ ભિન્ન\JJ માને\V_VM છે\V_VAUX અને\CC_CCD એ\DM_DMD નવું\JJ જ\RP_RPD ઉત્પન્ન\JJ થાય\V_VM છે\V_VAUX એમ\PSP માને\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1231	કારણમાં\N_NN કાર્ય\N_NN અવ્યક્ત\JJ રૂપમાં\N_NN હોય\V_VAUX છે\V_VAUX એમ\PSP એ\DM_DMD માનતું\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJPHD1232	એટલેકે\PSP એ\DM_DMD પરિણામવાદી\N_NN નથી\RP_NEG .\RD_PUNC
+GJPHD1233	પરમાણુઓ\N_NN સ્વભાવથી\N_NN શાંત\JJ અવસ્થામાં\N_NN નિસ્પંદ\JJ રૂપે\N_NN રહે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1234	પ્રાણીઓના\N_NN ધર્માધર્મરૂપ\N_NN અદૃષ્ટને\JJ કારણે\PSP તેમાં\DM_DMD પ્રથમ\QT_QTO પરિસ્પંદ\N_NN ઉત્પન્ન\JJ થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1235	એટલેકે\CC_CCS પ્રાણીઓનાં\N_NN કર્મ\N_NN ફલોન્મુખ\JJ થાય\V_VM છે\V_VAUX અને\CC_CCD અદૃષ્ટ\JJ કાર્ય\N_NN કરવા\V_VAUX_VNP લાગે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1236	પરમાણુઓમાં\N_NN સ્પંદ\N_NN જાગતાં\V_VAUX_VNP એનાં\DM_DMD સંયોજનો\N_NN થાય\V_VM છે\V_VAUX અને\CC_CCD સૃષ્ટિનું\N_NN નિર્માણ\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1237	પ્રણયકાળે\N_NN અણુઓનું\N_NN વિભાજન\N_NN થતાં\V_VAUX_VNP સૃષ્ટિ\N_NN નષ્ટ\JJ થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1238	આમ\PSP આ\DM_DMD સૃષ્ટિ\N_NN ઉત્પન્ન\JJ થાય\V_VM છે\V_VAUX તે\DM_DMD જીવોના\N_NN ભોગાર્થે\N_NN હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1239	પોતાના\PR_PRF પૂર્વજન્મોનાં\N_NN કર્મ\N_NN ભોગવવા\V_VAUX_VNP જીવ\N_NN ઉત્પન્ન\JJ થાય\V_VM છે\V_VAUX અને\CC_CCD એના\DM_DMD ભોગને\N_NN અનુકૂળ\JJ શરીર\N_NN ,\RD_PUNC યોનિ\N_NN ,\RD_PUNC કુળ\N_NN વગેરે\PSP તેને\DM_DMD મળે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1240	જેવો\JJ તે\DM_DMD ભોગ\N_NN ભોગવી\V_VM લે\V_VAUX છે\V_VAUX કે\CC_CCS તેનું\DM_DMD મૃત્યુ\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1241	વૈશેષિકદર્શન\N_NNP માને\V_VM છે\V_VAUX કે\CC_CCS પ્રત્યેક\PSP શરીરમાં\N_NN ભિન્ન\N_NN આત્મા\N_NN વસે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1242	આત્મા\N_NN નિત્ય\N_NN છે\V_VAUX પણ\CC_CCD અનેક\JJ છે\V_VAUX .\RD_PUNC
+GJPHD1243	મનની\N_NN સહાયથી\N_NN આત્મા\N_NN સુખદુ:ખ\N_NN અનુભવે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1244	આત્મા\N_NN જ્ઞાનનો\N_NN આશ્રય\N_NN પણ\RP_RPD છે\V_VAUX .\RD_PUNC
+GJPHD1245	એ\DM_DMD પદાર્થોના\N_NN વિશેષોને\N_NN એટલે\PSP ગુણધર્મોને\N_NN જાણે\V_VM છે\V_VAUX અને\CC_CCD એ\DM_DMD નિષ્કામભાવે\N_NN કર્મ\N_NN કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1246	આ\DM_DMD રીતે\N_NN વૈશેષિકદર્શન\N_NNP અનુસાર\PSP પદાર્થોનું\N_NN જ્ઞાન\N_NN -\RD_PUNC તત્ત્વજ્ઞાન\N_NN એ\DM_DMD મોક્ષનું\N_NN સાધન\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1247	કણાદનાં\N_NNP સૂત્રોમાં\N_NN ઈશ્વરતત્ત્વની\N_NN કોઈ\DM_DMI સ્પષ્ટ\JJ ચર્ચા\N_NN નથી\RP_NEG .\RD_PUNC
+GJPHD1248	પરંતુ\CC_CCD પ્રશસ્તપાદના\N_NNP ભાષ્યમાં\N_NN સૃષ્ટિના\N_NN કર્તા\N_NN અને\CC_CCD સંહર્તાને\N_NN રૂપે\N_NN મહેશ્વરનું\N_NN વિસ્તૃત\JJ વર્ણન\N_NN આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1249	એમાં\DM_DMD એમ\PSP પણ\RP_RPD સૂચવાયું\V_VM છે\V_VAUX કે\CC_CCS પ્રાણીઓના\N_NN શુભાશુભ\JJ કર્મને\N_NN અનુસરીને\V_VAUX_VNP મહેશ્વર\N_NNP સર્જન\N_NN -\RD_PUNC સંહાર\N_NN કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1250	વૈશેષિકની\N_NNP ઈશ્વરવાદી\N_NN પરંપરામાં\N_NN પ્રાણીઓના\N_NN ધર્માધર્મરૂપ\N_NN અદૃષ્ટની\JJ સાથે\PSP ઈશ્વરની\N_NN ઈચ્છાને\N_NN સાંકળવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1251	ન્યાયદર્શનનાં\N_NNP સૂત્રો\N_NN ગૌતમમુનિએ\N_NNP બનાવેલાં\V_VAUX_VNP મળે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1252	ન્યાયદર્શનનું\N_NNP તત્ત્વજ્ઞાન\N_NN વૈશેષિકદર્શનને\N_NN અનુસરે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1253	એ\DM_DMD સાત\QT_QTC પદાર્થોને\N_NN સ્વીકારે\V_VM છે\V_VAUX અને\CC_CCD પરમાણુવાદને\N_NN પણ\RP_RPD માન્ય\JJ કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1254	આકાશ\N_NNP સિવાયના\PSP ચારે\QT_QTC ભૂતોનાં\N_NN પરમાણુઓથી\N_NN ભૂ\N_NN -\RD_PUNC ભૌતિક\N_NN રચનાઓ\N_NN થાય\V_VM છે\V_VAUX એમ\PSP પણ\RP_RPD એ\DM_DMD કહે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1255	ન્યાયદર્શન\N_NNP માને\V_VM છે\V_VAUX કે\CC_CCS મિથ્યાજ્ઞાનને\N_NN કારણે\PSP નીપજતા\V_VAUX_VNP રાગ\N_NN ,\RD_PUNC દ્વેષ\N_NN અને\CC_CCD મોહના\N_NN દોષો\N_NN આત્માને\N_NN સારાં\JJ કે\CC_CCS ખરાબ\JJ કાર્યો\N_NN કરવા\V_VAUX_VNP પ્રેરે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1256	આનો\DM_DMD ઉપાય\N_NN યથાર્થ\JJ જ્ઞાન\N_NN મેળવવું\V_VAUX_VNP એ\DM_DMD છે\V_VAUX .\RD_PUNC
+GJPHD1257	યથાર્થ\JJ જ્ઞાન\N_NN તર્કથી\N_NN ,\RD_PUNC બુદ્ધિ\N_NN દ્વારા\PSP ખરા\JJ વિચાર\N_NN કરવાથી\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1258	આથી\PSP ન્યાયદર્શન\N_NNP સત્યજ્ઞાનની\N_NN પ્રક્રિયાઓનું\N_NN વિગતે\N_NN વર્ણન\N_NN કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1259	એ\DM_DMD જ્ઞાનના\N_NN સોળ\QT_QTC પ્રકાર\N_NN બતાવે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1260	જ્ઞાનની\N_NN આ\DM_DMD પ્રક્રિયાઓ\N_NN પછીથી\PSP સર્વ\JJ વિચારપ્રણાલીઓનો\N_NN ભાગ\N_NN બની\V_VM ગઈ\V_VAUX છે\V_VAUX એમાં\DM_DMD ન્યાયદર્શનનું\N_NNP મહત્ત્વ\N_NN રહેલું\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJPHD1261	ન્યાયસૂત્રમાં\N_NNP ઈશ્વર\N_NN સંબંધી\PSP સંદિગ્ધ\JJ માહિતી\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1262	એમાં\DM_DMD ઈશ્વર\N_NN જગતનો\N_NN કર્તા\N_NN છે\V_VAUX ,\RD_PUNC પણ\CC_CCD એ\DM_DMD શૂન્યમાંથી\N_NN સર્જન\N_NN કરનાર\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJPHD1263	દ્રવ્યો\N_NN નિત્ય\N_NN છે\V_VAUX તેથી\PSP એ\DM_DMD હંમેશા\PSP વિદ્યમાન\JJ હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1264	ઈશ્વર\N_NN એમાંથી\DM_DMD જગતનું\N_NN સર્જન\N_NN કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1265	આ\DM_DMD રીતે\N_NN દ્રવ્યના\N_NN પરમાણુઓ\N_NN એ\DM_DMD જગતનું\N_NN સમવાયીકારણ\N_NN કે\CC_CCS ઉપાદાનકારણ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1266	ઈશ્વર\N_NN વિશ્વરચના\N_NN કરે\V_VM છે\V_VAUX તે\DM_DMD જીવાત્માઓના\N_NN કર્મોના\N_NN પરિપાકને\N_NN અનુલક્ષીને\V_VAUX_VNP .\RD_PUNC
+GJPHD1267	તેથી\PSP એ\DM_DMD કર્મફળ\N_NN આપનાર\V_VAUX_VNP ,\RD_PUNC નૈતિક\JJ શાસન\N_NN કરનાર\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJPHD1268	એ\DM_DMD અનુગ્રહ\N_NN કરનાર\V_VAUX_VNP પણ\RP_RPD છે\V_VAUX .\RD_PUNC
+GJPHD1269	એના\DM_DMD અનુગ્રહ\N_NN વિના\PSP યથાર્થ\JJ જ્ઞાન\N_NN થતું\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJPHD1270	યથાર્થ\JJ જ્ઞાનથી\N_NN દુ:ખનો\N_NN અંત\N_NN આવે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1271	દુ:ખનો\N_NN અંત\N_NN તે\DM_DMD જ\RP_RPD મોક્ષ\N_NN .\RD_PUNC
+GJPHD1272	સુખ\N_NN જેવી\JJ કોઈ\DM_DMI ચીજ\N_NN નથી\RP_NEG એમ\PSP ન્યાયદર્શન\N_NNP માને\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1273	ન્યાયદર્શન\N_NNP અનુસાર\PSP જીવાત્મા\N_NN અને\CC_CCD પરમાત્મા\N_NN પોતપોતાના\PR_PRF ક્ષેત્રોમાં\N_NN નિરપેક્ષ\JJ અને\CC_CCD એકબીજાથી\PR_PRC સ્વતંત્ર\JJ છે\V_VAUX .\RD_PUNC
+GJPHD1274	આ\DM_DMD રીતે\N_NN આ\DM_DMD દ્વૈતવાદી\N_NN દર્શન\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1275	વેદના\N_NNP પૂર્વકાંડની\N_NN યજ્ઞકર્મની\N_NN ભાવનાની\N_NN વિચારણા\N_NN કરતું\V_VAUX_VNP હોવાથી\V_VAUX_VNP આ\DM_DMD દર્શન\N_NN પૂર્વમીમાંસા\N_NN કે\CC_CCS ધર્મમીમાંસાને\N_NN નામે\N_NN ઓળખાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1276	એના\DM_DMD પ્રવર્તક\N_NN જૈમિનિ\N_NNP ઋષિ\N_NNP છે\V_VAUX .\RD_PUNC
+GJPHD1277	વેદના\N_NNP બ્રાહ્મણભાગમાં\N_NN યજ્ઞને\N_NN લગતાં\V_VAUX_VNP જે\PR_PRL વાક્યો\N_NN છે\V_VAUX એનું\DM_DMD સ્પષ્ટીકરણ\N_NN કરતું\V_VAUX_VNP અને\CC_CCD યજ્ઞયાગાદિકની\N_NN વિધિઓ\N_NN વર્ણવતું\V_VAUX_VNP આ\DM_DMD દર્શન\N_NN વેદવિહિત\JJ કર્મો\N_NN કરવાનો\V_VAUX_VNP ઉપદેશ\N_NN આપે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1278	એને\DM_DMD માટે\PSP વેદો\N_NNP સ્વત:\JJ સિદ્ધ\JJ છે\V_VAUX અને\CC_CCD એમનું\DM_DMD પ્રામાણ્ય\N_NN નિર્વિવાદ\JJ છે\V_VAUX .\RD_PUNC
+GJPHD1279	વૈદિક\JJ આજ્ઞાનુસાર\N_NN કરેલાં\V_VAUX_VNP કર્મોથી\N_NN ઈષ્ટફલની\N_NN પ્રાપ્તિ\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1280	વેદવિહિત\JJ કર્મો\N_NN નિષ્કામભાવે\N_NN કરવાથી\V_VAUX_VNP મોક્ષ\N_NN મળે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1281	મીમાંસાદર્શન\N_NN સંપૂર્ણ\JJ કર્મવાદી\N_NN દર્શન\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1282	એની\DM_DMD દ્રષ્ટિએ\N_NN કર્મનો\N_NN નિયમ\N_NN જગત\N_NN પર\PSP શાસન\N_NN કરતો\V_VAUX_VNP સ્વયં\PR_PRF સંચાલિત\JJ ,\RD_PUNC નૈસર્ગિક\JJ અને\CC_CCD નૈતિક\JJ નિયમ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1283	આજનાં\N_NST કર્મ\N_NN કાલાન્તરે\N_NN પણ\RP_RPD ફળ\N_NN આપે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1284	કર્મ\N_NN થાય\V_VM તેનું\DM_DMD અદૃષ્ટ\JJ બને\V_VM છે\V_VAUX અને\CC_CCD અદ્રષ્ટ\JJ સમય\N_NN આવ્યે\V_VAUX_VNP ફળ\N_NN આપે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1285	આમ\PSP કર્મનું\N_NN ફળ\N_NN અવશ્ય\JJ ભોગવવું\V_VAUX_VNP પડે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1286	વેદવિહિત\JJ એટલેકે\CC_CCS નિત્યનૈમિત્તિક\JJ કર્મ\N_NN જીવને\N_NN બંધનરૂપ\N_NN થતાં\V_VAUX_VNP નથી\RP_NEG તેથી\PSP દોષરહિત\JJ છે\V_VAUX અને\CC_CCD સુખ\N_NN આપે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1287	વેદનિષિદ્ધ\JJ અને\CC_CCD કામ્ય\JJ કર્મ\N_NN બંધનરૂપ\N_NN થતાં\V_VAUX_VNP હોવાથી\V_VAUX_VNP દોષયુક્ત\JJ છે\V_VAUX અને\CC_CCD તે\DM_DMD દુ:ખ\N_NN આપે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1288	સુખ\N_NN ભોગવવાના\V_VAUX_VNP સ્થળનું\N_NN નામ\N_NN સ્વર્ગ\N_NN અને\CC_CCD દુ:ખ\N_NN વિશેષ\JJ ભોગવવાનું\V_VAUX_VNP સ્થળ\N_NN તે\DM_DMD નર્ક\N_NN .\RD_PUNC
+GJPHD1289	કર્મનું\N_NN ફળ\N_NN અનંત\JJ હોઈ\V_VAUX શકે\V_VAUX જ\RP_RPD નહીં\RP_NEG -\RD_PUNC લાંબા\JJ સમય\N_NN પછી\PSP પણ\RP_RPD ફળ\N_NN પુરૂં\JJ થાય\V_VM જ\RP_RPD .\RD_PUNC
+GJPHD1290	ફળભોગ\N_NN પૂર્ણ\JJ થયા\V_VAUX_VNP પછી\PSP જીવાત્મા\N_NN પાછો\RB અન્ય\JJ ભોજ્યકર્મો\N_NN પ્રમાણે\PSP જન્મ\N_NN લે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1291	આમ\PSP મીમાંસકોને\N_NN મતે\N_NN કોઈ\DM_DMI પણ\RP_RPD જીવાત્માનો\N_NN કાયમને\JJ માટે\PSP મોક્ષ\N_NN થતો\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJPHD1292	સ્વર્ગાદિમાં\N_NN અમુક\PSP સમય\N_NN પૂરતા\JJ જ\RP_RPD જવાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1293	મીમાંસાના\N_NN આરંભકાળમાં\N_NN મુક્તિ\N_NN એટલે\PSP નિરતિશય\JJ સુખની\N_NN સ્થિતિ\N_NN અથવા\CC_CCD સ્વર્ગ\N_NN એવો\JJ ઉપર\PSP બતાવેલો\V_VAUX_VNP અર્થ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1294	એટલેકે\CC_CCS મોક્ષદશામાં\N_NN આત્મા\N_NN આનંદનો\N_NN અનુભવ\N_NN કરતો\V_VAUX_VNP નથી\RP_NEG ,\RD_PUNC આત્મા\N_NN સુખદુ:ખથી\N_NN નિરપેક્ષરીતે\JJ પોતાના\PR_PRF વિશુદ્ધ\JJ રૂપમાં\N_NN રહે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1295	મીમાંસા\N_NN પ્રત્યક્ષ\JJ જ્ઞાનને\N_NN આધારે\N_NN ભૌતિક\JJ જગતની\N_NN સત્યતામાં\N_NN માને\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1296	જગત\N_NN હંમેશ\PSP જેમ\PSP છે\V_VAUX એમ\PSP રહે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1297	એને\DM_DMD આદિ\N_NN નથી\RP_NEG કે\CC_CCS અંત\N_NN નથી\RP_NEG .\RD_PUNC
+GJPHD1298	એટલેકે\PSP સર્જન\N_NN વિસર્જનનું\N_NN ચક્ર\N_NN ચાલતું\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJPHD1299	જગતમાં\N_NN ત્રણ\QT_QTC પ્રકારની\N_NN વસ્તુનું\N_NN જ્ઞાન\N_NN આપણને\PR_PRP થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1300	શરીર\N_NN ,\RD_PUNC જ્યાં\N_NST રહીને\V_VAUX_VNP આત્મા\N_NN સુખદુ:ખના\N_NN અનુભવ\N_NN કરે\V_VM છે\V_VAUX ,\RD_PUNC આત્મા\N_NN ,\RD_PUNC પદાર્થ\N_NN ,\RD_PUNC જેનો\PR_PRL આત્મા\N_NN ભોક્તા\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1301	સંસાર\N_NN અનાદિ\JJ અનંત\JJ છે\V_VAUX ,\RD_PUNC પણ\CC_CCD વ્યક્તિ\N_NN ઉત્પન્ન\JJ થાય\V_VM છે\V_VAUX અને\CC_CCD નાશ\N_NN પામે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1302	આત્મા\N_NN નિત્ય\JJ છે\V_VAUX ,\RD_PUNC તે\DM_DMD વ્યાપક\JJ હોઈને\V_VAUX_VNP પ્રત્યેક\JJ શરીરથી\N_NN ભિન્ન\JJ છે\V_VAUX .\RD_PUNC
+GJPHD1303	મીમાંસકો\N_NN ઈશ્વરનું\N_NN અસ્તિત્વ\N_NN સ્વીકારતા\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJPHD1304	ફલેચ્છુ\N_NN જીવોમાં\N_NN કર્તૃત્વ\N_NN છે\V_VAUX અને\CC_CCD વૈદિક\JJ આજ્ઞા\N_NN અનુસાર\PSP કરવામાં\V_VAUX_VNP આવેલું\V_VAUX_VNP કાર્ય\N_NN એટલું\JJ તો\RP_RPD શક્તિસંપન્ન\JJ હોય\V_VAUX છે\V_VAUX કે\CC_CCS એ\DM_DMD પોતે\PR_PRF જ\RP_RPD પુરુષના\N_NN ઈષ્ટ\JJ ફળનું\N_NN જનક\N_NN બને\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1305	તેથી\PSP આ\DM_DMD પરંપરામાં\N_NN ઈશ્વરના\N_NN અનુગ્રહનો\N_NN પ્રશ્ન\N_NN જ\RP_RPD ઉપસ્થિત\JJ થતો\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJPHD1306	આ\DM_DMD પરંપરામાં\N_NN મંત્ર\N_NN ,\RD_PUNC દેવતા\N_NN ,\RD_PUNC વિધિવત\JJ કર્મ\N_NN અને\CC_CCD સામગ્રીજન્ય\JJ શક્તિ\N_NN -\RD_PUNC એ\DM_DMD ઈશ્વરના\N_NN કર્તૃત્વનું\N_NN સ્થાન\N_NN લે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1307	જોકે\CC_CCS ઉત્તરકાલીન\JJ મીમાંસકો\N_NN યજ્ઞપતિના\N_NN સ્વરૂપે\N_NN ઈશ્વરનો\N_NN સ્વીકાર\N_NN કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1308	આપણે\PR_PRP આગળ\PSP જોયું\V_VM કે\CC_CCS વ્યાપક\JJ રીતે\N_NN `\RD_PUNC વેદમાં\N_NNP `\RD_PUNC સંહિતા\N_NNP ઉપરાંત\PSP બ્રાહ્મણો\N_NNP અને\CC_CCD આરણ્યકો\N_NNP -\RD_PUNC ઉપનિષદોનો\N_NNP સમાવેશ\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1309	આ\DM_DMD રીતે\N_NN ઉપનિષદો\N_NNP તે\DM_DMD વૈદિક\JJ વિચારધારાનું\N_NN અંતિમ\JJ નિર્વહણ\N_NN ,\RD_PUNC વેદનો\N_NNP છેડો\N_NN ,\RD_PUNC એટલેકે\PSP `\RD_PUNC વેદાન્ત\N_NNP `\RD_PUNC .\RD_PUNC
+GJPHD1310	વેદનો\N_NNP છેડો\N_NN કાલક્રમની\N_NN દૃષ્ટિએ\N_NN અને\CC_CCD વેદનો\N_NNP સાર\N_NN પણ\RP_RPD .\RD_PUNC
+GJPHD1311	ઉપનિષદોમાં\N_NNP વેદના\N_NNP ઉત્તરકાંડની\N_NN જ્ઞાનની\N_NN -\RD_PUNC બ્રહ્મતત્ત્વની\N_NN ભાવના\N_NN અભિવ્યક્તિ\N_NN થઈ\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1312	આથી\PSP આ\DM_DMD દર્શન\N_NN `\RD_PUNC ઉત્તરમીમાંસા\N_NNP `\RD_PUNC ,\RD_PUNC `\RD_PUNC જ્ઞાનમીમાંસા\N_NNP `\RD_PUNC ,\RD_PUNC `\RD_PUNC બ્રહ્મમીમાંસા\N_NNP `\RD_PUNC ,\RD_PUNC `\RD_PUNC શારીરિકદર્શન\N_NNP `\RD_PUNC એવાં\JJ નામોથી\N_NN પણ\RP_RPD ઓળખાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1313	બાદરાયણપ્રણીત\JJ `\RD_PUNC બ્રહ્મસૂત્ર\N_NNP `\RD_PUNC એ\DM_DMD વેદાન્તદર્શનનો\N_NNP મૂલ\JJ ગ્રંથ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1314	એમાં\DM_DMD ઉપનિષદોમાં\N_NNP આવેલાં\V_VAUX_VNP પરસ્પર\PSP વિરોધી\JJ ભાસતાં\V_VAUX_VNP વાક્યોની\N_NN એકવાક્યતા\N_NN સિદ્ધ\JJ કરી\V_VM બ્રહ્મજ્ઞાનની\N_NN શાસ્ત્રીય\JJ મીમાંસા\N_NN કરવામાં\V_VAUX_VNP આવી\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1315	બ્રહ્મસૂત્ર\N_NNP `\RD_PUNC પર\PSP વિવિધ\JJ ભાષ્ય\N_NN રચાયાં\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1316	આમાંથી\DM_DMD શંકરાચાર્યના\N_NNP કેવલાદ્વૈત\N_NNP વેદાંતનો\N_NNP પ્રભાવ\N_NN ભારતીય\JJ તત્ત્વ\N_NN વિચાર\N_NN પરંપરા\N_NN પર\PSP એટલો\JJ પ્રગાઢ\JJ પડ્યો\V_VM છે\V_VAUX કે\CC_CCS `\RD_PUNC કેવલાદ્વૈતને\N_NNP `\RD_PUNC જ\RP_RPD ઘણી\QT_QTF વાર\N_NN `\RD_PUNC વેદાન્તના\N_NNP `\RD_PUNC પર્યાયરૂપ\N_NN ગણવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1317	એટલેકે\PSP વેદાન્તદર્શન\N_NNP તે\DM_DMD કેવલાદ્વૈત\N_NNP વેદાંતદર્શન\N_NNP ,\RD_PUNC શાંકરવેદાંત\N_NNP ,\RD_PUNC શાંકરદર્શન\N_NNP .\RD_PUNC
+GJPHD1318	સમગ્ર\JJ વિશ્વને\N_NN વ્યાપતા\N_NN ને\CC_CCD છતાં\RP_RPD તેની\DM_DMD ઉપર\PSP રહેતા\V_VAUX_VNP એક\QT_QTC પરમ\JJ પુરુષની\N_NN કલ્પના\N_NN ઋગ્વેદના\N_NNP એક\QT_QTC સૂક્તમાં\N_NN જોવા\V_VAUX_VNP મળે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1319	વિશ્વના\N_NN સર્વ\JJ પદાર્થો\N_NN -\RD_PUNC સજીવ\JJ કે\CC_CCS નિર્જીવ\JJ ,\RD_PUNC માનવો\N_NN કે\CC_CCS દેવો\N_NN -\RD_PUNC તેમાં\DM_DMD એ\DM_DMD પુરુષના\N_NN અંગો\N_NN તરીકે\PSP કાવ્યાત્મક\JJ રીતે\N_NN વર્ણવાયા\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1320	ઉપનિષદોમાં\N_NNP અસ્તિત્વનું\N_NN આ\DM_DMD એકત્વ\N_NN ,\RD_PUNC એક\QT_QTC નિર્વૈર્યક્તિક\N_NN સતની\N_NN વિભાવના\N_NN રૂપે\N_NN કે\CC_CCS એક\QT_QTC આત્મા\N_NN -\RD_PUNC એક\QT_QTC બ્રહ્મની\N_NNP વિભાવના\N_NN રૂપે\N_NN વિકસે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1321	આ\DM_DMD આત્મા\N_NN કે\CC_CCS બ્રહ્મ\N_NNP એ\DM_DMD જ\RP_RPD સત્ય\N_NN છે\V_VAUX ,\RD_PUNC એ\DM_DMD અપરિમિતજ્ઞાનરૂપ\JJ અને\CC_CCD આનંદરૂપ\N_NN છે\V_VAUX એમ\PSP ત્યાં\N_NST કહેવામાં\V_VAUX_VNP આવ્યું\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1322	શંકરાચાર્ય\N_NNP ઉપનિષદો\N_NNP અને\CC_CCD બ્રહ્મસૂત્રોનું\N_NNP એ\DM_DMD રીતે\N_NN અર્થઘટન\N_NN કરે\V_VM છે\V_VAUX કે\CC_CCS એમાં\DM_DMD કેવલાદ્વૈતનો\N_NNP બોધ\N_NN રહેલો\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJPHD1323	શંકરાચાર્યના\N_NNP મહાસિદ્ધાંતનો\N_NN સાર\N_NN આ\DM_DMD અર્ધા\JJ શ્લોકમાં\N_NN સમાઈ\N_NN જાય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1324	બ્રહ્મ\N_NNP સત્ય\N_NN છે\V_VAUX ,\RD_PUNC એક\QT_QTC અદ્વિતીય\JJ છે\V_VAUX .\RD_PUNC
+GJPHD1325	એ\DM_DMD સજાતીય\JJ ,\RD_PUNC વિજાતીય\JJ અને\CC_CCD સ્વગત\JJ એવા\JJ ત્રણે\QT_QTC પ્રકારના\N_NN ભેદ\N_NN વગરનું\PSP છે\V_VAUX .\RD_PUNC
+GJPHD1326	એટલેકે\PSP એના\DM_DMD જેવું\JJ કંઈ\DM_DMI નથી\RP_NEG .\RD_PUNC
+GJPHD1327	એનામાં\DM_DMD ગુણ\N_NN ,\RD_PUNC ક્રિયા\N_NN ,\RD_PUNC ધર્મ\N_NN ,\RD_PUNC વિશેષ\JJ એવું\JJ કાંઈ\DM_DMI જ\RP_RPD નથી\RP_NEG .\RD_PUNC
+GJPHD1328	જે\PR_PRL છે\V_VAUX તે\PR_PRL એ\DM_DMD જ\RP_RPD છે\V_VAUX ,\RD_PUNC એટલું\JJ જ\RP_RPD છે\V_VAUX .\RD_PUNC
+GJPHD1329	નિર્વિકલ્પ\N_NN ,\RD_PUNC નિરુપાધિક\N_NN ,\RD_PUNC નિર્વિકાર\N_NN એવી\JJ આત્મસત્તા\N_NN ,\RD_PUNC ચૈતન્ય\N_NN તે\DM_DMD બ્રહ્મ\N_NNP .\RD_PUNC
+GJPHD1330	એ\DM_DMD સત્\N_NN અને\CC_CCD આનંદરૂપ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1331	બ્રહ્મ\N_NNP સિવાય\PSP જે\PR_PRL કંઈ\DM_DMI છે\V_VAUX એમ\PSP ભાસે\V_VM છે\V_VAUX -\RD_PUNC જગત\N_NN ને\CC_CCD જીવ\N_NN -\RD_PUNC તે\DM_DMD વસ્તુત:\PSP મિથ્યા\JJ છે\V_VAUX ,\RD_PUNC આભાસ\JJ છે\V_VAUX .\RD_PUNC
+GJPHD1332	આ\DM_DMD માયાના\N_NNP સ્વીકારને\N_NN કારણે\PSP શાંકરવેદાંત\N_NNP માયાવાદ\N_NNP તરીકે\PSP ઓળખાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1333	માયા\N_NNP સત્યરૂપ\N_NN બ્રહ્મને\N_NNP ઢાંકીને\V_VAUX_VNP ઘણા\QT_QTF પદાર્થો\N_NN રૂપે\N_NN -\RD_PUNC જગત\N_NN રૂપે\N_NN દર્શાવે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1334	આમ\PSP માયાની\N_NNP શક્તિનાં\N_NN બે\QT_QTC પાસાં\N_NN છે\V_VAUX -\RD_PUNC બ્રહ્મના\N_NNP શુદ્ધ\JJ સ્વરૂપને\N_NN ઢાંકી\V_VM દેનારી\V_VAUX_VNP આવરણશક્તિ\N_NN અને\CC_CCD બ્રહ્મને\N_NNP સ્થાને\N_NN ભૌતિક\JJ જગતનો\N_NN ભાસ\N_NN કરાવનારી\V_VAUX_VNP વિક્ષેપશક્તિ\N_NN .\RD_PUNC
+GJPHD1335	માયા\N_NNP એ\DM_DMD બ્રહ્મની\N_NNP શક્તિ\N_NN -\RD_PUNC ઈચ્છાશક્તિ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1336	અગ્નિથી\N_NN એની\DM_DMD દહનશક્તિ\N_NN જુદી\JJ નથી\RP_NEG તેમ\PSP બ્રહ્મથી\N_NNP એની\DM_DMD માયાશક્તિ\N_NN જુદી\JJ નથી\RP_NEG .\RD_PUNC
+GJPHD1337	આથી\PSP માયાના\N_NNP સ્વીકારને\N_NN કારણે\PSP કેવલાદ્વૈત\N_NNP સિદ્ધાંતને\N_NNP બાધ\N_NN આવતો\V_VAUX_VNP ગણાતો\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJPHD1338	જાદુગર\N_NN જે\PR_PRL ભ્રાન્તિ\N_NN ઉપજાવે\V_VM છે\V_VAUX તેમાં\DM_DMD એ\DM_DMD સપડાતો\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJPHD1339	આથી\PSP જ\RP_RPD માયાને\N_NNP અવિદ્યા\N_NN કે\CC_CCS અજ્ઞાન\N_NN તરીકે\PSP પણ\RP_RPD ઓળખવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1340	બ્રહ્મને\N_NNP પક્ષે\N_NN જે\PR_PRL માયા\N_NNP તે\PR_PRL જીવને\N_NN પક્ષે\N_NN અવિદ્યા\N_NN કે\CC_CCS અજ્ઞાન\N_NN -\RD_PUNC એવો\JJ ભેદ\N_NN પણ\RP_RPD કેટલીક\QT_QTF વાર\N_NN કરવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1341	ઉપનિષદાદિમાં\N_NNP માયા\N_NNP કેટલીક\QT_QTF વાર\N_NN ત્રિગુણાત્મક\JJ પ્રકૃતિ\N_NN તરીકે\PSP ઉલ્લેખાયેલી\JJ હોવાનું\V_VAUX_VNP શંકર\N_NNP સ્વીકારે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1342	માયાના\N_NNP સ્વરૂપને\N_NN કારણે\PSP એને\DM_DMD અનિર્વચનીય\JJ કહેવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1343	એ\DM_DMD સત્\JJ પણ\RP_RPD નથી\RP_NEG ,\RD_PUNC અસત્\JJ પણ\RP_RPD નથી\RP_NEG .\RD_PUNC
+GJPHD1344	વેદાન્તમાં\N_NNP બ્રહ્મને\N_NNP જગતનું\N_NN ઉપાદાનકારણ\N_NN તેમજ\CC_CCD નિમિત્તિકારણ\N_NN બન્ને\JJ માનવામાં\V_VAUX_VNP આવેલ\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJPHD1345	પોતાનામાંથી\PR_PRF જ\RP_RPD જાળ\N_NN રચતો\V_VAUX_VNP કરોળિયો\N_NN જાળનું\N_NN ઉપાદાનકારણ\N_NN તેમજ\CC_CCD નિમિત્તકારણ\N_NN બન્ને\JJ છે\V_VAUX તેમ\PSP .\RD_PUNC
+GJPHD1346	જગત\N_NN બ્રહ્મ\N_NNP વડે\PSP એની\DM_DMD માયાશક્તિ\N_NNP વડે\PSP થયું\V_VM છે\V_VAUX તેથી\PSP બ્રહ્મ\N_NNP નિમિત્તકારણ\N_NN .\RD_PUNC
+GJPHD1347	અને\CC_CCD બ્રહ્મ\N_NNP જ\RP_RPD જગતરૂપે\N_NN ભાસે\V_VM છે\V_VAUX ,\RD_PUNC જગત\N_NN બ્રહ્મનો\N_NNP વિવર્ત\N_NN છે\V_VAUX તેથી\PSP બ્રહ્મ\N_NNP ઉપાદાનકારણ\N_NN .\RD_PUNC
+GJPHD1348	તાત્ત્વિક\JJ -\RD_PUNC ખરેખરું\JJ પરિવર્તન\N_NN તે\DM_DMD વિકાર\N_NN કે\CC_CCS પરિણામ\N_NN .\RD_PUNC
+GJPHD1349	જેમકે\CC_CCS દૂધમાંથી\N_NN દહીં\N_NN થવું\V_VAUX_VNP તે\DM_DMD .\RD_PUNC
+GJPHD1350	અતાત્ત્વિક\JJ કે\CC_CCS આભાસી\JJ પરિવર્તન\N_NN તે\DM_DMD વિવર્ત\N_NN .\RD_PUNC
+GJPHD1351	દોરડું\N_NN સર્પ\N_NN રૂપે\N_NN ભાસે\V_VM તે\DM_DMD વિવર્ત\N_NN .\RD_PUNC
+GJPHD1352	પ્રકૃતિમાંથી\N_NN જગતની\N_NN વાસ્તવિક\JJ ઉત્પત્તિ\N_NN માનતા\N_NN સાંખ્યવાદી\JJ પરિણામવાદીઓ\N_NN કહેવાય\V_VM ત્યારે\N_NST કેવલાદ્વત\N_NNP વેદાંત\N_NNP વિવર્તવાદી\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1353	એક\QT_QTC તરફથી\PSP જોતાં\V_VAUX_VNP જે\PR_PRL માયાનું\N_NNP કાર્ય\N_NN છે\V_VAUX ,\RD_PUNC તે\DM_DMD બીજી\JJ તરફથી\PSP જોતાં\V_VAUX_VNP જીવના\N_NN અજ્ઞાનનું\N_NN કાર્ય\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1354	અજ્ઞાની\JJ રજ્જુમાં\N_NN સર્પની\N_NN ભ્રાંતિ\N_NN કરે\V_VM છે\V_VAUX તેમ\PSP અજ્ઞાની\JJ જ\RP_RPD બ્રહ્મ\N_NNP એ\DM_DMD અધિષ્ઠાન\N_NN પર\PSP જગતની\N_NN ભ્રાંતિ\N_NN કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1355	આ\DM_DMD જીવનું\N_NN માનસિક\JJ આરોપણ\N_NN છે\V_VAUX ,\RD_PUNC જેને\PR_PRL શંકરાચાર્ય\N_NNP અધ્યારોપ\N_NN કે\CC_CCS અધ્યાસ\N_NN તરીકે\PSP ઓળખાવે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1356	મિથ્યાત્વના\N_NN સિદ્ધાંતને\N_NN લઈને\V_VAUX_VNP શાંકરવેદાંતમાં\N_NNP આ\DM_DMD જગતને\N_NN ઘણી\QT_QTF વાર\N_NN `\RD_PUNC સ્વપ્ન\N_NN `\RD_PUNC સાથે\PSP સરખાવવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1357	પણ\CC_CCD આ\DM_DMD સરખામણી\N_NN જ\RP_RPD છે\V_VAUX .\RD_PUNC
+GJPHD1358	જેમ\PSP સ્વપ્ન\N_NN દેખાય\V_VM છે\V_VAUX ,\RD_PUNC પણ\CC_CCD જાગ્રત\JJ સાથે\PSP સરખાવતા\V_VAUX_VNP એ\DM_DMD વસ્તુત:\PSP નથી\RP_NEG એમ\PSP સિદ્ધ\JJ થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1359	વસ્તુત:\PSP શંકર\N_NNP જાણે\V_VM છે\V_VAUX કે\CC_CCS આ\DM_DMD જગતનો\N_NN આધાર\N_NN જાગ્રદવસ્થાનો\N_NN અનુભવ\N_NN છે\V_VAUX અને\CC_CCD એ\DM_DMD સ્વપ્નાનુભવથી\N_NN અલગ\JJ પ્રકારનો\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1360	સ્વપ્નાવસ્થા\N_NN જેને\PR_PRL કારણે\PSP નીપજે\V_VM છે\V_VAUX તે\PR_PRL વૈયક્તિક\JJ અને\CC_CCD ક્ષણિક\JJ અજ્ઞાન\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1361	એ\DM_DMD વધારે\QT_QTF સત્યતા\N_NN ધરાવે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1362	આથી\PSP એ\DM_DMD ત્રણ\QT_QTC પ્રકારની\N_NN સત્તાનો\N_NN ભેદ\N_NN કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1363	પ્રાતિભાસિક\JJ સત્તા\N_NN :\RD_PUNC જે\PR_PRL પદાર્થો\N_NN ભ્રાન્ત\N_NN મનોદશામાં\N_NN કે\CC_CCS સ્વપ્નમાં\N_NN ક્ષણિક\JJ અસ્તિત્વ\N_NN ધરાવે\V_VM છે\V_VAUX અને\CC_CCD સ્વસ્થ\JJ જાગ્રદવસ્થામાં\N_NN લય\N_NN પામી\V_VM જાય\V_VAUX છે\V_VAUX તેમની\PR_PRP સત્તા\N_NN પ્રાતિભાસિક\JJ કહેવાય\V_VM .\RD_PUNC
+GJPHD1364	રજ્જુમાં\N_NN દેખાતા\V_VAUX_VNP સર્પની\N_NN સત્તા\N_NN પ્રાતિભાસિક\JJ છે\V_VAUX .\RD_PUNC
+GJPHD1365	સ્વપ્નના\N_NN પદાર્થોની\N_NN સત્તા\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1366	વ્યાવહારિક\JJ સત્તા\N_NN :\RD_PUNC જે\PR_PRL પદાર્થો\N_NN સામાન્ય\JJ જાગ્રદવસ્થામાં\N_NN અસ્તિત્વ\N_NN ધરાવે\V_VM છે\V_VAUX ,\RD_PUNC વ્યવહારકાળે\N_NN જે\PR_PRL સત્યરૂપ\N_NN છે\V_VAUX ,\RD_PUNC પણ\CC_CCD જેમને\PR_PRL સંપૂર્ણ\JJ સત્ય\N_NN તરીકે\PSP સ્વીકારી\V_VM શકાય\V_VAUX તેમ\PSP નથી\RP_NEG તેની\DM_DMD સત્તા\N_NN વ્યાવહારિક\JJ કહેવાય\V_VM .\RD_PUNC
+GJPHD1367	આપણા\PR_PRP વ્યવહારજીવનના\N_NN આધારરૂપ\N_NN બનતા\V_VAUX_VNP સર્વ\JJ નામરૂપાત્મક\N_NN ને\CC_CCD પરિવર્તનશીલ\JJ પદાર્થોની\N_NN સત્તા\N_NN વ્યાવહારિક\JJ છે\V_VAUX .\RD_PUNC
+GJPHD1368	પારમાર્થિક\JJ સત્તા\N_NN :\RD_PUNC સર્વ\JJ સત્તામાં\N_NN અનુસ્યુત\JJ શુદ્ધ\JJ સત્તા\N_NN ,\RD_PUNC જેનો\PR_PRL નિષેધ\N_NN થઈ\V_VM શકતો\V_VAUX_VNP નથી\RP_NEG ,\RD_PUNC તે\DM_DMD પારમાર્થિક\JJ સત્તા\N_NN .\RD_PUNC
+GJPHD1369	બ્રહ્મ\N_NNP પારમાર્થિક\JJ સત્તા\N_NN ધરાવે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1370	સઘળા\JJ નામ\N_NN -\RD_PUNC રૂપાત્મક\JJ પદાર્થોની\N_NN પાછળ\PSP આ\DM_DMD સત્તા\N_NN રહેલી\V_VAUX_VNP છે\V_VAUX ,\RD_PUNC એ\DM_DMD વિશેષ\JJ પદાર્થોને\N_NN રૂપે\N_NN જ\RP_RPD જગત\N_NN મિથ્યા\JJ છે\V_VAUX .\RD_PUNC
+GJPHD1371	શંકર\N_NNP કેવળ\PSP બ્રહ્મમાં\N_NNP માને\V_VM છે\V_VAUX એટલે\PSP જીવ\N_NN એની\DM_DMD દૃષ્ટિએ\N_NN બ્રહ્મ\N_NNP સિવાય\PSP બીજું\JJ કંઈ\DM_DMI નથી\RP_NEG .\RD_PUNC
+GJPHD1372	જીવ\N_NN અને\CC_CCD બ્રહ્મનો\N_NNP ભેદ\N_NN ભ્રાન્તિમૂલક\JJ છે\V_VAUX અને\CC_CCD તે\DM_DMD માયાથી\N_NNP અજ્ઞાનથી\N_NN ઊભો\V_VM થયેલો\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJPHD1373	અજ્ઞાનને\N_NN કારણે\PSP આત્મા\N_NN પોતાને\PR_PRF દેહ\N_NN અને\CC_CCD અંત:કરણને\N_NN તદ્રૂપ\JJ માને\V_VM છે\V_VAUX અને\CC_CCD જીવત્વને\N_NN પામે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1374	બ્રહ્મ\N_NNP અને\CC_CCD જીવનો\N_NN સંબંધ\N_NN બિંબ\N_NN પ્રતિબિંબના\N_NN પ્રકારનો\N_NN લેખી\V_VM શકાય\V_VAUX .\RD_PUNC
+GJPHD1375	જેમ\PSP ચંદ્રનું\N_NNP પ્રતિબિંબ\N_NN અનેક\JJ જળાશયોમાં\N_NN પડે\V_VM છે\V_VAUX તેમ\PSP બ્રહ્મનું\N_NNP પ્રતિબિંબ\N_NN અવિદ્યામાં\JJ કે\CC_CCS અવિદ્યાજન્ય\JJ અંત:કરણમાં\N_NN પડે\N_NN છે\V_VAUX અને\CC_CCD જીવ\N_NN રૂપે\N_NN ભાસે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1376	સ્વચ્છ\JJ કે\CC_CCS ગંદા\JJ પાણીમાં\N_NN ,\RD_PUNC સ્થિર\JJ કે\CC_CCS ચંચલ\JJ પાણીમાં\N_NN પડતાં\V_VAUX_VNP ચંદ્રનાં\N_NNP પ્રતિબિંબ\N_NN તેવાં\JJ ભાસે\V_VM છે\V_VAUX ,\RD_PUNC તેમ\PSP જીવ\N_NN અવિદ્યાના\N_NN ફલરૂપ\N_NN દેહ\N_NN અને\CC_CCD અંત:કરણની\N_NN તદ્રૂપતા\N_NN ધારણ\N_NN કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1377	બ્રહ્મ\N_NNP જીવના\N_NN સંબંધની\N_NN આ\DM_DMD સમજૂતીને\N_NN પ્રતિબિંબવાદ\N_NN કહેવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1378	જીવ\N_NN અને\CC_CCD બ્રહ્મના\N_NNP સંબંધને\N_NN ઘણી\QT_QTF વાર\N_NN અવચ્છેદકના\JJ ખ્યાલની\N_NN મદદથી\N_NN સમજાવવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1379	આકાશ\N_NNP એક\QT_QTC ,\RD_PUNC અખંડ\JJ અને\CC_CCD સર્વવ્યાપ્ત\JJ છે\V_VAUX .\RD_PUNC
+GJPHD1380	આ\DM_DMD સમજૂતીને\N_NN અવચ્છેદકવાદ\N_NNP કહેવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1381	પ્રતિબિંબવાદ\N_NN અને\CC_CCD અવચ્છેદકવાદ\N_NNP બંનેમાં\JJ મૂળ\JJ તત્ત્વ\N_NN અવિકૃત\JJ રહે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1382	શાંકરવેદાંતમાં\N_NNP પારમાર્થિક\JJ દૃષ્ટિએ\N_NN કેવલ\PSP બ્રહ્મની\N_NNP સ્થિતિ\N_NN હોઈ\V_VAUX ઈશ્વરને\N_NN માટે\PSP અવકાશ\N_NN નથી\RP_NEG .\RD_PUNC
+GJPHD1383	પણ\CC_CCD આ\DM_DMD ઈશ્વર\N_NN તે\DM_DMD માયાનું\N_NNP પરિણામ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1384	બ્રહ્મ\N_NNP જ્યારે\N_NST માયાશક્તિથી\N_NNP યુક્ત\JJ બને\V_VM છે\V_VAUX ત્યારે\N_NST એ\DM_DMD ઈશ્વર\N_NN કહેવાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1385	આમ\PSP ઈશ્વર\N_NN એટલે\PSP માયાવિશિષ્ટ\JJ ,\RD_PUNC માયાની\N_NNP ઉપાધિવાળું\JJ ,\RD_PUNC માયાવિચ્છિન્ન\JJ બ્રહ્મ\N_NNP ,\RD_PUNC સગુણબ્રહ્મ\N_NNP .\RD_PUNC
+GJPHD1386	એને\DM_DMD કારણબ્રહ્મ\N_NNP પણ\RP_RPD કહેવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1387	જગતકર્તૃત્વ\N_NN એ\DM_DMD બ્રહ્મના\N_NNP સ્વરૂપને\N_NN સ્પર્શતું\JJ લક્ષણ\N_NN નથી\RP_NEG ,\RD_PUNC તટસ્થ\JJ -\RD_PUNC આકસ્મિક\JJ લક્ષણ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1388	બ્રહ્મ\N_NNP સ્વરૂપથી\N_NN તો\RP_RPD સત્\JJ ચિદ્દરૂપ\JJ અને\CC_CCD અનંત\JJ છે\V_VAUX .\RD_PUNC
+GJPHD1389	જગતને\N_NN મિથ્યા\JJ માનતા\V_VAUX_VNP જ્ઞાનીઓની\N_NN દૃષ્ટિએ\N_NN ,\RD_PUNC પારમાર્થિક\JJ દૃષ્ટિએ\N_NN ,\RD_PUNC એના\DM_DMD કારણરૂપ\N_NN આ\DM_DMD સગુણ\JJ બ્રહ્મ\N_NNP ,\RD_PUNC ઈશ્વર\N_NN પણ\RP_RPD મિથ્યા\JJ છે\V_VAUX ,\RD_PUNC કેવળ\PSP નિર્ગુણ\JJ બ્રહ્મ\N_NNP જ\RP_RPD સત્ય\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1390	સૂક્ષ્મ\JJ -\RD_PUNC સ્થૂલના\JJ ક્રમે\N_NN પંચ\N_NN ભૂતોના\N_NN વિવિધ\JJ પ્રકારના\N_NN સંયોજનોથી\N_NN જગતની\N_NN ઉત્પત્તિને\N_NN સમજાવતા\V_VAUX_VNP પંચીકરણના\N_NN સિદ્ધાંતને\N_NN શંકરાચાર્ય\N_NNP સ્વીકારે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1391	પણ\CC_CCD પછીથી\PSP ઈશ્વર\N_NN અને\CC_CCD માયા\N_NNP દ્વારા\PSP જગતની\N_NN ઉત્પત્તિના\N_NN વિવિધ\JJ તબક્કાઓ\N_NN વર્ણવવામાં\V_VAUX_VNP આવ્યા\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1392	એમાં\DM_DMD બીજમાંથી\N_NN છોડના\N_NN વિકાસની\N_NN પ્રક્રિયાનું\N_NN સાદૃશ્ય\JJ રહેલું\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJPHD1393	એ\DM_DMD વિકાસમાં\N_NN પહેલી\QT_QTO સ્થિતિ\N_NN તે\PR_PRP અવિશિષ્ટ\JJ ,\RD_PUNC અવ્યાકૃત\JJ કશા\DM_DMI ભેદ\N_NN વગરની\PSP ,\RD_PUNC બીજની\N_NN સ્થિતિ\N_NN .\RD_PUNC
+GJPHD1394	કારણસ્થિતિ\N_NN ,\RD_PUNC બીજી\JJ સ્થિતિ\N_NN તે\DM_DMD અંકુર\N_NN ફૂટવાની\V_VAUX_VNP સ્થિતિ\N_NN ,\RD_PUNC જેમાં\PR_PRL સૂક્ષ્મ\JJ ભેદો\N_NN હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1395	ત્રીજી\QT_QTO સ્થિતિ\N_NN તે\DM_DMD છોડની\N_NN સ્થિતિ\N_NN ,\RD_PUNC જેમાં\PR_PRL પૂરેપૂરા\JJ વ્યક્ત\JJ ભેદો\N_NN હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1396	શુદ્ધ\JJ પરબ્રહ્મની\N_NNP સ્થિતિ\N_NN તો\RP_RPD અવિકારી\JJ છે\V_VAUX ,\RD_PUNC એમાં\DM_DMD ઉત્ક્રાન્તિ\N_NN કલ્પી\V_VM ન\RP_NEG શકાય\V_VAUX .\RD_PUNC
+GJPHD1397	સઘળી\JJ ઉત્ક્રાન્તિ\N_NN માયાના\N_NNP ક્ષેત્રમાં\N_NN આવે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1398	માયા\N_NNP -\RD_PUNC બ્રહ્મની\N_NNP શક્તિ\N_NN -\RD_PUNC પહેલાં\N_NST અવ્યક્ત\JJ હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1399	બ્રહ્મને\N_NNP જ્યારે\N_NST અવ્યાકૃત\JJ માયાશક્તિયુક્ત\N_NN માનવામાં\V_VAUX_VNP આવે\V_VAUX ત્યારે\N_NST એને\DM_DMD `\RD_PUNC ઈશ્વરનું\N_NN `\RD_PUNC નામ\N_NN અપાય\V_VM છે\V_VAUX અને\CC_CCD એ\DM_DMD સર્વજ્ઞ\JJ તથા\CC_CCD સર્વશક્તિમાન\JJ છે\V_VAUX .\RD_PUNC
+GJPHD1400	આ\DM_DMD રીતે\N_NN ,\RD_PUNC આ\DM_DMD ખરેખરા\JJ સર્જન\N_NN પૂર્વેની\N_NST ,\RD_PUNC પણ\RP_RPD સર્જનની\N_NN ક્ષમતાવાળી\JJ ઈશ્વરની\N_NN વિભાવના\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1401	બ્રહ્મ\N_NNP વિવિધ\JJ ભેદોવાળી\JJ માયાથી\N_NNP મુક્ત\JJ બને\V_VM ત્યારે\N_NST તે\DM_DMD હિરણ્યગર્ભ\N_NNP કહેવાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1402	એટલેકે\PSP સૂક્ષ્મ\JJ સમષ્ટિરૂપ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1403	સ્થૂલ\JJ વ્યક્ત\JJ તત્ત્વોના\N_NN ભેદોવાળી\JJ માયાથી\N_NNP યુક્ત\JJ બ્રહ્મ\N_NNP તે\DM_DMD વૈશ્વાનર\N_NN કહેવાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1404	એટલેકે\PSP એ\DM_DMD સ્થૂલ\JJ સમષ્ટિરૂપ\N_NN છે\V_VAUX ,\RD_PUNC જેમાં\PR_PRL સમગ્ર\JJ વ્યક્ત\JJ જગતનો\N_NN ને\CC_CCD જીવોનો\N_NN સમાવેશ\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1405	ઉત્ક્રાંતિના\N_NN આ\DM_DMD તબક્કાઓને\N_NN કેટલીક\QT_QTF વાર\N_NN નિદ્રા\JJ ,\RD_PUNC સ્વપ્ન\JJ અને\CC_CCD જાગ્રત\JJ એ\DM_DMD અવસ્થાઓની\N_NN સાથે\PSP સરખાવવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1406	ઈશ્વર\N_NN તે\DM_DMD બ્રહ્મની\N_NNP નિદ્રાની\N_NN સ્થિતિ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1407	એ\DM_DMD ખ્યાલમાં\N_NN રાખવું\V_VAUX_VNP જોઈએ\V_VAUX કે\CC_CCS આવા\JJ તબક્કાઓ\N_NN વિચારવામાં\V_VAUX_VNP આવે\V_VM ત્યારે\N_NST ઈશ્વરનો\N_NN અર્થ\N_NN મર્યાદિત\JJ થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1408	એ\DM_DMD સિવાય\PSP ઈશ્વર\N_NN એટલે\PSP બધા\QT_QTF તબક્કાનું\N_NN માયાયુક્ત\JJ બ્રહ્મ\N_NNP .\RD_PUNC
+GJPHD1409	માયોપાધિક\JJ બ્રહ્મ\N_NNP તેમ\PSP અવિદ્યોપાધિક\JJ જીવ\N_NN કે\CC_CCS પ્રત્યગાત્મા\N_NN .\RD_PUNC
+GJPHD1410	એ\DM_DMD જીવચૈતન્યના\N_NN પણ\RP_RPD આવા\JJ ભિન્નભિન્ન\JJ તબક્કાઓ\N_NN પાડવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1411	જગતની\N_NN ઉત્ક્રાન્તિના\N_NN વિવિધ\JJ તબક્કાઓ\N_NN ,\RD_PUNC એમાં\DM_DMD વ્યક્ત\JJ થતું\V_VAUX_VNP વ્યષ્ટિચૈતન્ય\N_NN અને\CC_CCD સમષ્ટિચૈતન્ય\N_NN ,\RD_PUNC તે\DM_DMD તબક્કાઓમાં\N_NN ચૈતન્યનાં\N_NN આવરણો\N_NN અને\CC_CCD અવસ્થાઓની\N_NN તાલિકા\N_NN નીચે\N_NST મુજબ\PSP આપવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1412	અન્નમય\JJ કોશમાં\N_NN સ્થૂલ\JJ દેહનો\N_NN ,\RD_PUNC પ્રાણમય\JJ કોશમાં\N_NN પાંચ\QT_QTC કર્મેન્દ્રિયો\N_NN સાથે\PSP પાંચ\QT_QTC પ્રાણનો\N_NN ,\RD_PUNC મનોમય\JJ કોશમાં\N_NN પાંચ\QT_QTC જ્ઞાનેન્દ્રિયો\N_NN સાથે\PSP મનનો\N_NN ,\RD_PUNC વિજ્ઞાનમય\JJ કોશમાં\N_NN પાંચ\QT_QTC જ્ઞાનેન્દ્રિયો\N_NN સાથે\PSP બુદ્ધિનો\N_NN અને\CC_CCD આનંદમય\JJ કોશમાં\N_NN કશી\DM_DMI સભાનતા\N_NN વગરની\PSP અજ્ઞાનજન્ય\JJ સુખવૃત્તિનો\N_NN સમાવેશ\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1413	જાગ્રદાવસ્થામાં\N_NN દેહવ્યાપારો\N_NN હોય\V_VAUX છે\V_VAUX ,\RD_PUNC સ્વપ્નાવસ્થામાં\N_NN દેહવ્યાપારો\N_NN ન\RP_NEG હોતાં\V_VAUX_VNP પ્રાણમય\JJ ,\RD_PUNC માનસિક\JJ અને\CC_CCD બૌદ્ધિક\JJ વ્યાપારો\N_NN હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1414	સુષુપ્તિ\N_NN અવસ્થાનો\N_NN આ\DM_DMD આનંદ\N_NN પરબ્રહ્મ\N_NNP અવસ્થાના\N_NN આનંદથી\N_NN જુદી\JJ જ\RP_RPD ચીજ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1415	પરબ્રહ્મ\N_NNP -\RD_PUNC અવસ્થાનો\N_NN આનંદ\N_NN જ્ઞાનમય\JJ હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1416	શરીર\N_NN અને\CC_CCD ઈન્દ્રિયસમૂહનો\N_NN અધ્યક્ષ\N_NN અને\CC_CCD કર્મફળનો\N_NN ભોક્તા\N_NN આત્મા\N_NN તે\DM_DMD જીવ\N_NN .\RD_PUNC
+GJPHD1417	આત્મા\N_NN ઈન્દ્રિયોના\N_NN ધર્મોનો\N_NN પોતાના\PR_PRF પર\PSP આરોપ\N_NN કરે\V_VM છે\V_VAUX તે\DM_DMD એનો\DM_DMD અવિદ્યામૂલક\JJ અધ્યાસ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1418	એ\DM_DMD અધ્યાસને\N_NN કારણે\PSP તે\DM_DMD સ્વભાવથી\N_NN મુક્ત\JJ હોવા\V_VAUX_VNP છતાં\RP_RPD સંસારના\N_NN બંધનમાં\N_NN બંધાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1419	જીવ\N_NN અવિદ્યામાંથી\N_NN બહાર\N_NST નીકળી\V_VM જ્ઞાનની\N_NN ભૂમિકા\N_NN પર\PSP આરૂઢ\JJ થાય\V_VM ત્યારે\N_NST એ\DM_DMD પોતાના\PR_PRF અધ્યાસમાંથી\N_NN મુક્ત\JJ થઈ\V_VM શુદ્ધ\JJ આત્મસ્વરૂપ\N_NN બને\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1420	આ\DM_DMD જ\RP_RPD મોક્ષ\N_NN .\RD_PUNC
+GJPHD1421	મોક્ષ\N_NN એટલે\PSP `\RD_PUNC હું\PR_PRP બ્રહ્મ\N_NNP છુંનો\V_VAUX `\RD_PUNC સાક્ષાત્કાર\N_NN .\RD_PUNC
+GJPHD1422	જેને\PR_PRL મોક્ષ\N_NN મળ્યો\V_VM છે\V_VAUX તે\PR_PRL પુરુષ\N_NN સંસારબંધનમાં\N_NN પડતો\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJPHD1423	શોકમોહ\DM_DMD એને\DM_DMD થતા\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJPHD1424	પ્રારબ્ધ\JJ કર્મોના\N_NN ક્ષય\N_NN પર્યંત\PSP એ\DM_DMD દેહ\N_NN ધારણ\N_NN કરે\V_VM છે\V_VAUX પણ\CC_CCD એની\DM_DMD દેહાસક્તિ\N_NN ગળી\V_VM ગયેલી\V_VAUX_VNP હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1425	આવો\JJ પુરુષ\N_NN જીવન\N_NN મુક્ત\JJ કહેવાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1426	જીવંતપણે\JJ `\RD_PUNC હું\PR_PRP કર્તા\N_NN ભોક્તા\N_NN નથી\RP_NEG `\RD_PUNC એવી\JJ પ્રતીતિ\N_NN તે\DM_DMD જીવનમુક્તિ\N_NN .\RD_PUNC
+GJPHD1427	મુક્તિની\N_NN ઉત્પત્તિ\N_NN થતી\V_VAUX_VNP નથી\RP_NEG કે\CC_CCS પ્રાપ્તિ\N_NN થતી\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJPHD1428	એ\DM_DMD એવો\JJ કોઈ\DM_DMI પદાર્થ\N_NN કે\CC_CCS ગુણ\N_NN નથી\RP_NEG જે\PR_PRL કર્મ\N_NN કે\CC_CCS ઉપાસનાથી\N_NN સંપાદિત\JJ થાય\V_VM કે\CC_CCS કરાય\V_VM .\RD_PUNC
+GJPHD1429	મુક્તિ\N_NN નિત્યસિદ્ધિ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1430	માત્ર\RP_RPD અજ્ઞાનથી\N_NN બંધ\JJ ભાસે\V_VM છે\V_VAUX ,\RD_PUNC માટે\PSP જ્ઞાન\N_NN વડે\PSP બંધની\N_NN ભ્રાંતિ\N_NN ટાળવાની\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJPHD1431	જ્ઞાનની\N_NN દ્રષ્ટિએ\N_NN તે\DM_DMD જ\RP_RPD મુક્તિ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1432	આ\DM_DMD રીતે\N_NN શંકરાચાર્યને\N_NNP કેવળ\PSP જ્ઞાનનો\N_NN માર્ગ\N_NN માન્ય\JJ છે\V_VAUX .\RD_PUNC
+GJPHD1433	પણ\CC_CCD વ્યવહારની\N_NN ભૂમિકાએ\N_NN એ\DM_DMD કર્મ\N_NN અને\CC_CCD ભક્તિનો\N_NN સ્વીકાર\N_NN કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1434	નિષ્કામપણે\JJ નિત્યકર્મો\N_NN કરવાથી\V_VAUX_VNP અને\CC_CCD ઈશ્વરભક્તિથી\N_NN ચિત્તશુદ્ધિ\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1435	જ્ઞાનપ્રાપ્તિ\N_NN માટે\PSP શંકરાચાર્યે\N_NNP સાધકોને\N_NN સાધનચતુષ્ટ્ય\N_NN બતાવેલ\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJPHD1436	નિત્યાનિત્યવસ્તુવિવેક\N_NNP :\RD_PUNC બ્રહ્મ\N_NNP કે\CC_CCS આત્મા\N_NN જ\RP_RPD નિત્ય\JJ છે\V_VAUX .\RD_PUNC
+GJPHD1437	વૈરાગ્ય\N_NN :\RD_PUNC આ\DM_DMD લોક\N_NN તેમજ\CC_CCD પરલોકનાં\N_NN ફળ\N_NN ભોગવવા\V_VAUX_VNP પ્રત્યે\PSP વૈરાગ્ય\N_NN .\RD_PUNC
+GJPHD1438	શમદમાદિ\N_NN સાધનસંપત્\N_NN :\RD_PUNC શમ\N_NN ,\RD_PUNC દમ\N_NN ,\RD_PUNC ઉપરાતિ\N_NN ,\RD_PUNC તિતિક્ષા\N_NN ,\RD_PUNC સમાધાન\N_NN અને\CC_CCD શ્રદ્ધા\N_NN એ\DM_DMD છ\QT_QTC સાધનો\N_NN સારી\JJ રીતે\N_NN પ્રાપ્ત\JJ કરવાં\V_VAUX_VNP .\RD_PUNC
+GJPHD1439	મુમુક્ષુત્વ\N_NN :\RD_PUNC મોક્ષની\N_NN ઈચ્છા\N_NN .\RD_PUNC
+GJPHD1440	આત્મસાક્ષાત્કાર\N_NN માટે\PSP શંકરાચાર્ય\N_NNP સંન્યાસને\N_NN આવશ્યક\JJ ગણે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1441	જ્યાં\N_NST સુધી\PSP મારા\PR_PRP તારાનો\PR_PRP ભેદ\N_NN રહે\V_VM ત્યાં\N_NST સુધી\PSP હું\PR_PRP તુંથી\PR_PRP પર\JJ સર્વ\JJ ભેદ\N_NN -\RD_PUNC પરિચ્છેદરહિત\JJ પરમાત્મતત્ત્વનો\N_NN સાક્ષાત્કાર\N_NN થાય\V_VM નહીં\RP_NEG .\RD_PUNC
+GJPHD1442	એ\DM_DMD મારા\PR_PRP -\RD_PUNC તારાના\PR_PRP ભેદની\N_NN પાર\N_NN થવું\V_VAUX_VNP એનું\DM_DMD બાહ્ય\JJ ચિહ્ન\N_NN સંન્યાસ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1443	શાંકરવેદાંત\N_NNP સિવાયની\PSP બીજા\JJ વેદાંતમતોમાં\N_NN રામાનુજાચાર્યના\N_NNP વિશિષ્ટદ્વૈત\N_NN સિદ્ધાંતમાં\N_NN એમ\PSP મનાય\V_VM છે\V_VAUX કે\CC_CCS બ્રહ્મ\N_NNP -\RD_PUNC પરમાત્મા\N_NN સકલ\JJ કલ્યાણગુણ\N_NN ભરપૂર\JJ છે\V_VAUX .\RD_PUNC
+GJPHD1444	ચિત્\N_NN અને\CC_CCD અચિત્\N_NN બ્રહ્મથી\N_NNP ભિન્ન\JJ છે\V_VAUX તેમજ\CC_CCD અભિન્ન\JJ પણ\RP_RPD છે\V_VAUX એમ\PSP માનતો\V_VAUX_VNP નિંબાર્કાચાર્યનો\N_NNP સિદ્ધાંત\N_NN દ્વૈતાદ્વૈત\N_NN સિદ્ધાંત\N_NN તરીકે\PSP ઓળખાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1445	મધ્વાચાર્યનો\N_NNP દ્વૈત\N_NN સિદ્ધાંત\N_NN :\RD_PUNC ઈશ્વર\N_NN અને\CC_CCD જીવ\N_NN વચ્ચે\N_NST ,\RD_PUNC ઈશ્વર\N_NN અને\CC_CCD જડ\N_NN વચ્ચે\N_NST ,\RD_PUNC જીવ\N_NN અને\CC_CCD જડ\N_NN વચ્ચે\N_NST ,\RD_PUNC જીવ\N_NN -\RD_PUNC જીવ\N_NN વચ્ચે\N_NST અને\CC_CCD જડ\N_NN -\RD_PUNC જડ\N_NN વચ્ચે\N_NST સનાતન\N_NN અને\CC_CCD પારમાર્થિક\JJ ભેદ\N_NN હોવાનું\V_VAUX_VNP માને\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1446	તેથી\PSP એ\DM_DMD દ્વૈત\N_NNP સિદ્ધાંત\N_NNP છે\V_VAUX .\RD_PUNC
+GJPHD1447	વલ્લભાચાર્યના\N_NNP શુદ્ધાદ્વૈત\N_NN સિદ્ધાંતમાં\N_NN એવું\JJ પ્રતિપાદન\N_NN છે\V_VAUX કે\CC_CCS બ્રહ્મ\N_NNP સદા\JJ શુદ્ધ\JJ જ\RP_RPD છે\V_VAUX ને\CC_CCD શુદ્ધ\JJ રહીને\V_VAUX_VNP જગત\N_NN રૂપે\N_NN પરિણમે\V_VM છે\V_VAUX  .\RD_PUNC
+GJPHD1448	આ\DM_DMD બધા\QT_QTC મતો\N_NN વત્તેઓછે\JJ અંશે\N_NN ભક્તિમાર્ગી\JJ છે\V_VAUX .\RD_PUNC
+GJPHD1449	શંકરાચાર્યના\N_NNP પ્રગુરુ\N_NN ગણાતા\V_VAUX_VNP ગૌડપાદાચાર્યનો\N_NNP અજાતવાદ\N_NN કેવલાદ્વૈત\N_NNP વેદાંતનું\N_NNP જ\RP_RPD એક\QT_QTC વિશિષ્ટ\JJ રૂપ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1450	ગૌડપાદનો\N_NNP આ\DM_DMD મત\N_NN એમની\PR_PRP `\RD_PUNC માંડૂક્યકારિકામાં\N_NNP `\RD_PUNC અભિવ્યક્ત\JJ થયો\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1451	કેવલાદ્વૈત\N_NNP વેદાંત\N_NNP જેમ\PSP એકમાત્ર\PSP બ્રહ્મને\N_NNP સત્ય\N_NN માને\V_VM છે\V_VAUX તેમ\PSP ગૌડપાદ\N_NNP પણ\RP_RPD એક\QT_QTC જ\RP_RPD તત્ત્વનો\N_NN સ્વીકાર\N_NN કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1452	એ\DM_DMD અદ્વય\N_NN ,\RD_PUNC અજ\N_NN (\RD_SYM ન\RP_NEG જન્મેલું\V_VAUX_VNP )\RD_SYM અને\CC_CCD અચલ\JJ તત્ત્વ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1453	એટલેકે\PSP અંતિમ\JJ પ્રતિપાદન\N_NN તો\RP_RPD બંનેનું\JJ એક\QT_QTC જ\RP_RPD છે\V_VAUX .\RD_PUNC
+GJPHD1454	ખાસ\JJ કરીને\V_VAUX_VNP જગત\N_NN વિશેની\PSP બંનેની\JJ દૃષ્ટિમાં\N_NN સૂક્ષ્મ\JJ ફરક\N_NN છે\V_VAUX ,\RD_PUNC જે\PR_PRL નીચે\N_NST મુજબ\PSP બતાવી\V_VM શકાય\V_VAUX .\RD_PUNC
+GJPHD1455	શંકરાચાર્ય\N_NNP વિવર્તવાદમાં\N_NNP માને\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1456	એ\DM_DMD એક\QT_QTC પ્રકારનો\N_NN કાર્યકારણવાદ\N_NNP છે\V_VAUX .\RD_PUNC
+GJPHD1457	બ્રહ્મ\N_NNP કારણ\N_NN છે\V_VAUX અને\CC_CCD જગત\N_NN કાર્ય\N_NN છે\V_VAUX ,\RD_PUNC કાર્ય\N_NN આભાસ\N_NN છે\V_VAUX અને\CC_CCD તત્ત્વ\N_NN કારણ\N_NN કાર્ય\N_NN એક\QT_QTC જ\RP_RPD છે\V_VAUX તે\DM_DMD જુદી\JJ વાત\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1458	ગૌડપાદ\N_NNP કોઈ\DM_DMI પણ\RP_RPD પ્રકારના\N_NN કાર્યકારણવાદમાં\N_NNP માનતા\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJPHD1459	તે\DM_DMD બતાવે\V_VM છે\V_VAUX કે\CC_CCS સત્\N_NN કે\CC_CCS અસત્\N_NN પદાર્થનું\N_NN સત્\N_NN કે\CC_CCS અસત્\N_NN કોઈ\DM_DMI કારણ\N_NN તાર્કિક\N_NN રીતે\N_NN પૂરવાર\JJ કરી\V_VM શકાય\V_VAUX તેમ\PSP નથી\RP_NEG .\RD_PUNC
+GJPHD1460	તેથી\PSP જાતિવાદ\N_NNP -\RD_PUNC કશુંક\DM_DMI કશાકમાંથી\N_NN જન્મ્યું\V_VM છે\V_VAUX ,\RD_PUNC ઉત્પન્ન\JJ થયું\V_VM છે\V_VAUX તેવો\JJ મત\N_NN -\RD_PUNC અસિદ્ધ\JJ ઠરે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1461	શંકરાચાર્ય\N_NNP જાગ્રદવસ્થાના\N_NN અનુભવને\N_NN સ્વપ્નાવસ્થાથી\N_NN અલગ\JJ પ્રકારનો\N_NN ગણે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1462	એટલેકે\CC_CCS બંનેનું\JJ મિથ્યાત્વ\N_NN જુદી\JJ કોટિનું\N_NN ગણે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1463	ગૌડપાદ\N_NNP સ્વપ્નનો\N_NN અનુભવ\N_NN જાગ્રતમાં\JJ રહેતો\V_VAUX_VNP નથી\RP_NEG અને\CC_CCD જાગ્રતનો\JJ અનુભવ\N_NN સ્વપ્નમાં\N_NN રહેતો\V_VAUX_VNP નથી\RP_NEG એ\DM_DMD રીતે\N_NN બંને\JJ અનુભવને\N_NN સરખા\JJ અસત્\N_NN બતાવે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1464	સ્વપ્નજગતના\N_NN પદાર્થોનું\N_NN કારણ\N_NN જાગ્રત\JJ વિશ્વને\N_NN લેખવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX તેનો\DM_DMD પણ\RP_RPD ગૌડપાદ\N_NNP વિરોધ\N_NN કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1465	એ\DM_DMD કહે\V_VM છે\V_VAUX કે\CC_CCS જાગ્રતમાં\JJ પણ\RP_RPD ભ્રાંતિમાં\N_NN કેટલાક\QT_QTF મનુષ્યો\N_NN અવિદ્યમાન\JJ પદાર્થને\N_NN સાચા\JJ માની\V_VM લે\V_VAUX છે\V_VAUX ,\RD_PUNC
+GJPHD1466	તે\DM_DMD જ\RP_RPD રીતે\N_NN સ્વપ્નમાં\N_NN પણ\RP_RPD અવિદ્યમાન\JJ પદાર્થને\N_NN સાચા\JJ માની\V_VM લે\V_VAUX છે\V_VAUX અને\CC_CCD તેનો\DM_DMD અનુભવ\N_NN કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1467	આથી\PSP બંને\JJ વચ્ચે\N_NST કારણ\N_NN કાર્યનો\N_NN સંબંધ\N_NN જોડી\V_VM શકાય\V_VAUX નહીં\RP_NEG .\RD_PUNC
+GJPHD1468	શંકરાચાર્ય\N_NNP સંસારને\N_NN અનાદિ\JJ માને\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1469	ઉપરાંત\PSP જીવે\N_NN સંસારના\N_NN બંધનમાંથી\N_NN મુક્ત\JJ થઈને\V_VAUX_VNP મોક્ષ\N_NN મેળવવાનો\V_VAUX_VNP છે\V_VAUX એવું\JJ કહે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1470	ગૌડપાદ\N_NNP અનાદિ\JJ તત્ત્વોનો\N_NN અંત\N_NN થાય\V_VM એ\DM_DMD યુક્તિયુક્ત\JJ જ\RP_RPD નથી\RP_NEG એમ\PSP કહી\V_VM આ\DM_DMD જાતિવાદનું\N_NNP ખંડન\N_NN કરી\V_VM અજાતિવાદનું\N_NNP સ્થાપન\N_NN કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1471	મોક્ષ\N_NN વિશેની\PSP એ\DM_DMD માન્યતાને\N_NN પણ\RP_RPD તેઓ\PR_PRP તર્કસંગત\N_NN માનતા\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJPHD1472	શંકરાચાર્ય\N_NNP પ્રાતિભાસિક\JJ ,\RD_PUNC વ્યાવહારિક\JJ અને\CC_CCD પારમાર્થિક\JJ એમ\PSP ત્રણ\QT_QTC સત્તા\N_NN સ્વીકારે\V_VM છે\V_VAUX ,\RD_PUNC ત્યારે\N_NST ગૌડપાદ\N_NNP માત્ર\RP_RPD પારમાર્થિક\JJ સત્તાને\N_NN સ્વીકારે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1473	આ\DM_DMD રીતે\N_NN એમ\PSP કહી\V_VM શકાય\V_VAUX કે\CC_CCS અજાતવાદ\N_NNP એક\QT_QTC આત્યંતિક\JJ અદ્વૈતવાદ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1474	એમાં\DM_DMD નિષેધનું\N_NN તત્ત્વ\N_NN ઘણું\QT_QTF બળવાન\JJ છે\V_VAUX .\RD_PUNC
+GJPHD1475	આથી\PSP જ\RP_RPD બૌદ્ધોના\N_NNP શૂન્યવાદનો\N_NNP એના\DM_DMD પર\PSP પ્રભાવ\N_NN પડેલો\V_VAUX_VNP માનવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1476	ગૌડપાદે\N_NNP પોતાના\PR_PRF મત\N_NN સમજાવવા\V_VAUX_VNP માટે\PSP અલાતચક્રનું\N_NN ઉદાહરણ\N_NN આપ્યું\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1477	અજ\N_NN ,\RD_PUNC અચલ\N_NN ,\RD_PUNC અદ્વય\N_NN એવા\JJ તત્ત્વને\N_NN એ\DM_DMD અહીં\N_NST `\RD_PUNC વિજ્ઞાન\N_NN `\RD_PUNC શબ્દથી\N_NN ઓળખાવે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1478	ઉંબાડિયાને\N_NN વેગથી\N_NN સીધું\JJ ,\RD_PUNC વાંકું\JJ કે\CC_CCS વર્તુલાકાર\JJ ઘુમાવવાથી\V_VAUX_VNP તે\DM_DMD પ્રકારની\N_NN આકૃતિઓ\N_NN ઉત્પન્ન\JJ થતી\V_VAUX_VNP દેખાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1479	ઉંબાડિયું\N_NN ઘૂમતું\V_VAUX_VNP બંધ\JJ થાય\V_VM ત્યારે\N_NST આકૃતિના\N_NN આભાસો\N_NN રહેતા\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJPHD1480	ઉંબાડિયું\N_NN ઘૂમતું\V_VAUX_VNP હોતું\V_VAUX_VNP નથી\RP_NEG ત્યારે\N_NST આકૃતિના\N_NN આભાસો\N_NN સર્જાતા\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJPHD1481	ઘૂમતા\V_VAUX_VNP ઉંબાડિયામાં\N_NN આકૃતિઓ\N_NN બીજે\JJ ક્યાંકથી\N_NST આવતી\V_VAUX_VNP નથી\RP_NEG તેમ\PSP ખરેખર\PSP ઉત્પન્ન\JJ પણ\RP_RPD થતી\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJPHD1482	ઉંબાડિયું\N_NN ઘૂમતું\V_VAUX_VNP બંધ\JJ થાય\V_VM ત્યારે\N_NST એ\DM_DMD આકૃતિઓ\N_NN અન્યત્ર\JJ જતી\V_VAUX_VNP રહેતી\V_VAUX_VNP નથી\RP_NEG કે\CC_CCS ઉંબાડિયામાં\N_NN લય\N_NN પામતી\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJPHD1483	તે\DM_DMD જ\RP_RPD રીતે\N_NN વિજ્ઞાન\N_NN સ્પંદિત\JJ થતાં\V_VAUX_VNP ચિત્ત\N_NN અને\CC_CCD ચિત્તના\N_NN ધર્મો\N_NN ક્યાંકથી\N_NST આવતા\V_VAUX_VNP નથી\RP_NEG કે\CC_CCS વિજ્ઞાનમાંથી\N_NN ઉદ્દભવતાં\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJPHD1484	વિજ્ઞાન\N_NN નિ:સ્પંદ\JJ થતાં\V_VAUX_VNP તે\DM_DMD ક્યાંક\N_NST જતા\V_VAUX_VNP રહેતા\V_VAUX_VNP નથી\RP_NEG કે\CC_CCS વિજ્ઞાનમાં\N_NN પ્રવેશતા\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJPHD1485	આ\DM_DMD આભાસોમાં\N_NN દ્રવ્યત્વનો\N_NN અભાવ\N_NN છે\V_VAUX અને\CC_CCD વિજ્ઞાન\N_NN અને\CC_CCD એ\DM_DMD આભાસો\N_NN વચ્ચે\N_NST કારણકાર્યનો\N_NN ,\RD_PUNC જનકજન્યનો\N_NN સંબંધ\N_NN નથી\RP_NEG .\RD_PUNC
+GJPHD1486	જોઈ\V_VM શકાય\V_VAUX છે\V_VAUX કે\CC_CCS રજ્જુ\N_NN -\RD_PUNC સર્પના\N_NN દૃષ્ટાંત\N_NN કરતાં\V_VAUX_VNP અલાતચક્રનું\N_NN દૃષ્ટાંત\N_NN જગતની\N_NN ઉત્પત્તિનો\N_NN નિષેધ\N_NN વધારે\QT_QTF તીવ્રતાથી\N_NN વ્યક્ત\JJ કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1487	મિથ્યાત્વને\N_NN સ્થાને\N_NN અજાતિ\N_NN અહીં\N_NST કેન્દ્રમાં\N_NN આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1488	આમ\PSP છતાં\RP_RPD ગૌડપાદ\N_NNP પરમાત્મા\N_NN વિશે\PSP થતી\V_VAUX_VNP જીવની\N_NN કલ્પનાને\N_NN સમજાવવા\V_VAUX_VNP રજ્જુસર્પનું\N_NN દૃષ્ટાંત\N_NN અને\CC_CCD વેદાંતમાં\N_NNP જાણીતું\V_VAUX_VNP ઘટાકાશનું\N_NN દૃષ્ટાંત\N_NN પણ\RP_RPD આપે\V_VM જ\RP_RPD છે\V_VAUX .\RD_PUNC
+GJPHD1489	માયા\N_NNP ઉપરાંત\PSP વિપર્યય\N_NN ,\RD_PUNC વિકલ્પ\N_NN ,\RD_PUNC અભૂતાભિનિવેશ\N_NN જેવા\JJ શબ્દ\N_NN પણ\RP_RPD જગતભ્રાન્તિના\N_NN કારણ\N_NN રૂપે\N_NN અહીં\N_NST મળે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1490	શાસ્ત્રોમાં\N_NN મળતી\V_VAUX_VNP જગતની\N_NN ઉત્પત્તિની\N_NN વાતો\N_NN તે\DM_DMD અજાતિના\N_NN વિચારથી\N_NN ભય\N_NN પામનારા\V_VAUX_VNP લોકો\N_NN માટે\PSP શાણા\JJ પુરુષોએ\N_NN કરેલી\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJPHD1491	પણ\CC_CCD અંતે\N_NN એવાં\JJ શ્રુતિવાક્યોને\N_NNP ગૌડપાદ\N_NNP યુક્તિસંગત\JJ માનતા\V_VAUX_VNP નથી\RP_NEG એ\DM_DMD મહત્ત્વનું\JJ બની\V_VM રહે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1492	માયાને\N_NNP જે\PR_PRL મહત્ત્વ\N_NN વેદાંતમતમાં\N_NN સામાન્ય\JJ રીતે\N_NN મળે\V_VM છે\V_VAUX તે\DM_DMD ગૌડપાદમાં\N_NNP મળતું\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJPHD1493	આમ\PSP કેવલાદ્વૈત\N_NNP વેદાંતના\N_NNP મિથ્યાત્વના\N_NN અને\CC_CCD માયાના\N_NNP ખ્યાલોનો\N_NN વિનિયોગ\N_NN છતાં\RP_RPD ગૌડપાદની\N_NNP વિચારધારા\N_NN અજાતિના\N_NN આત્યંતિક\JJ ખ્યાલને\N_NN કારણે\PSP જુદી\JJ તરી\V_VM આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1494	`\RD_PUNC માંડૂક્યકારિકાના\N_NNP `\RD_PUNC પહેલા\QT_QTO `\RD_PUNC આગમપ્રકરણમાં\N_NNP `\RD_PUNC વિવિધ\JJ ઉપાધિઓના\N_NN કારણે\PSP થતી\V_VAUX_VNP પરમાત્માની\N_NN વિવિધ\JJ અવસ્થાઓ\N_NN -\RD_PUNC વિશ્વ\N_NN ,\RD_PUNC તૈજસ\N_NN ,\RD_PUNC પ્રાજ્ઞનું\N_NN નિરૂપણ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1495	આથી\PSP આ\DM_DMD પ્રકરણમાં\N_NN ઉત્પત્તિનો\N_NN સર્વથા\JJ અસ્વીકાર\N_NN દેખાતો\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJPHD1496	પછીનાં\JJ પ્રકરણોમાં\N_NN તો\RP_RPD મનનું\N_NN સ્ફુરણ\N_NN જ\RP_RPD દ્વયાભાસને\N_NN સ્ફુરાવે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1497	વેદઆધારિત\JJ તત્ત્વવિચાર\N_NN પરંપરા\N_NN ષડ્દર્શનો\N_NNP રૂપે\N_NN વ્યવસ્થિત\JJ થઈ\V_VM અને\CC_CCD આ\DM_DMD ષડ્દર્શનો\N_NN ભારતીય\JJ વિચાર\N_NN પરંપરામાં\N_NN સૌથી\JJ પ્રભાવક\JJ બની\V_VM રહ્યાં\V_VAUX .\RD_PUNC
+GJPHD1498	પણ\CC_CCD આ\DM_DMD સાથે\PSP કેટલાક\QT_QTF ભિન્ન\JJ વિચારપ્રવાહો\N_NN પણ\RP_RPD પ્રર્વતતા\V_VAUX_VNP રહ્યા\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1499	વૈદિક\JJ વિચારધારાનો\N_NN કાળક્રમે\N_NN અનેકદેશીય\JJ વિકાસ\N_NN થયો\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1500	છેક\PSP સત્તરમી\QT_QTO સદીમાં\N_NN થયેલા\V_VAUX_VNP અખાજી\N_NNP મુખ્યત્વે\JJ વેદાંતવિચારધારાના\N_NN પુરસ્કારક\N_NN છતાં\RP_RPD એમણે\PR_PRP પોતાની\PR_PRF તત્ત્વચર્ચામાં\N_NN હાનોપાદાનની\N_NN રીતે\N_NN આ\DM_DMD બધા\QT_QTF વિચારપ્રવાહોનો\N_NN લાભ\N_NN લીધો\V_VM હોય\V_VAUX તે\DM_DMD સ્વાભાવિક\RB છે\V_VAUX .\RD_PUNC
+GJPHD1501	આથી\PSP અન્ય\JJ મહત્ત્વના\JJ વિચારપ્રવાહોનો\N_NN ટૂંકમાં\N_NN પરિચય\N_NN કરવો\V_VAUX_VNP આવશ્યક\JJ છે\V_VAUX .\RD_PUNC
+GJPHD1502	ષડ્દર્શનો\N_NNP તે\DM_DMD વેદપ્રામાણ્યને\N_NN સ્વીકારતાં\V_VAUX_VNP આસ્તિક\JJ દર્શનો\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1503	તેમાંથી\DM_DMD ચાર્વાકદર્શન\N_NNP કે\CC_CCS લોકાયતદર્શન\N_NNP જડવાદી\N_NN દર્શન\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1504	પ્રત્યક્ષવાદી\N_NN હોઈને\V_VAUX_VNP એ\DM_DMD ભૌતિક\JJ તત્ત્વોની\N_NN સૃષ્ટિમાં\N_NN જ\RP_RPD માને\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1505	જૈનદર્શન\N_NNP આત્મવાદી\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1506	પણ\CC_CCD એકાત્મવાદી\N_NN -\RD_PUNC બ્રહ્મવાદી\N_NN નહીં\RP_NEG ,\RD_PUNC અનેકાત્મવાદી\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1507	જગતને\N_NN એ\DM_DMD સત્ય\N_NN માને\V_VM છે\V_VAUX ;\RD_PUNC એ\DM_DMD પ્રબળપણે\JJ કર્મવાદી\N_NN છે\V_VAUX તેથી\PSP એમાં\DM_DMD આચારધર્મનો\N_NN અને\CC_CCD વિશેષપણે\JJ તપનો\N_NN મહિમા\N_NN છે\V_VAUX ,\RD_PUNC
+GJPHD1508	તપ\N_NN વિના\PSP કર્મક્ષય\N_NN નથી\RP_NEG ,\RD_PUNC કર્મક્ષય\N_NN વિના\PSP મોક્ષ\N_NN નથી\RP_NEG .\RD_PUNC
+GJPHD1509	આત્મત્વ\N_NN એટલે\PSP જીવત્વની\N_NN એમાં\DM_DMD સૂક્ષ્મ\JJ વિચારણા\N_NN થઈ\V_VM છે\V_VAUX તેથી\PSP એમાં\DM_DMD અહિંસાધર્મને\N_NN ઘણું\QT_QTF મહત્ત્વ\N_NN મળ્યું\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1510	એમ\PSP પ્રતિપાદિત\JJ કરી\V_VM એકાન્તિક\JJ નિર્ણયોના\N_NN દુરાગ્રહોનો\N_NN નિષેધ\N_NN કર્યો\V_VM છે\V_VAUX અને\CC_CCD અન્યમતસહિષ્ણુતાનો\N_NN માર્ગ\N_NN બતાવ્યો\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1511	બૌદ્ધદર્શનનો\N_NNP પાયો\N_NN તો\RP_RPD દુ:ખનિરોધ\N_NN માટે\PSP અષ્ટાંગમાર્ગ\N_NN -\RD_PUNC સમ્યક્\N_NN દ્રષ્ટિ\N_NN ,\RD_PUNC વાણી\N_NN ,\RD_PUNC કર્મ\N_NN ,\RD_PUNC સમાધિ\N_NN વગેરેનું\PSP પ્રતિપાદન\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1512	અષ્ટાંગમાર્ગના\N_NN અનુસરણથી\N_NN અજ્ઞાન\N_NN અને\CC_CCD તૃષ્ણા\N_NN દૂર\JJ થતાં\V_VAUX_VNP ,\RD_PUNC પરમ\JJ શાંતિ\N_NN અને\CC_CCD સ્વસ્થતાની\N_NN સ્થિતિ\N_NN જન્મે\V_VM છે\V_VAUX ,\RD_PUNC જેને\PR_PRL નિર્વાણ\N_NN કહેવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1513	તે\DM_DMD વિના\PSP કર્મોએ\N_NN કરીને\V_VAUX_VNP જન્મમરણનું\N_NN ચક્ર\N_NN ચાલે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1514	જગત\N_NN વિશેનાં\PSP એમાં\DM_DMD વિવિધ\N_NN દૃષ્ટિબિંદુઓ\N_NN ઉદ્દભવ્યાં\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1515	જગત\N_NN અને\CC_CCD આત્મા\N_NN સત્\N_NN છે\V_VAUX પણ\CC_CCD ક્ષણિક\JJ છે\V_VAUX .\RD_PUNC
+GJPHD1516	આ\DM_DMD ત્રણે\QT_QTC દર્શનો\N_NN જગતકર્તા\N_NN -\RD_PUNC સંહર્તા\N_NN ઈશ્વરમાં\N_NN માનતાં\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJPHD1517	ઉપનિષદો\N_NNP અને\CC_CCD `\RD_PUNC બ્રહ્મસૂત્રની\N_NNP `\RD_PUNC સાથે\PSP જેનો\PR_PRL પ્રસ્થાનત્રયીમાં\N_NN સમાવેશ\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1518	તે\DM_DMD ભગવદ્દગીતા\N_NNP વૈદિક\JJ વિચારધારાને\N_NN સારગ્રાહી\JJ પદ્ધતિથી\N_NN ને\CC_CCD સમન્વયવાદી\N_NN દૃષ્ટિથી\N_NN રજૂ\JJ કરતો\V_VAUX_VNP અનુપમ\JJ ગ્રંથ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1519	એમાં\DM_DMD પ્રબળ\JJ આત્મવાદ\N_NN છે\V_VAUX ,\RD_PUNC બ્રહ્મના\N_NNP સગુણ\JJ -\RD_PUNC નિર્ગુણ\JJ બન્ને\JJ સ્વરૂપોનો\N_NN સ્વીકાર\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1520	આ\DM_DMD કારણે\PSP ભગવદ્દગીતા\N_NNP એક\QT_QTC અસાધારણ\JJ જીવનોપયોગી\JJ ગ્રંથ\N_NN બની\V_VM રહ્યો\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1521	ભક્તિને\N_NN પરમાત્માને\N_NN પામવાનું\V_VAUX_VNP મુખ્ય\JJ સાધન\N_NN માનતો\V_VAUX_VNP ભાગવત\N_NN મત\N_NN પણ\RP_RPD એક\QT_QTC પ્રભાવક\JJ પરિબળ\N_NN બનેલ\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJPHD1522	`\RD_PUNC ભાગવત\N_NNP ધર્મ\N_NNP `\RD_PUNC એ\DM_DMD શબ્દ\N_NN વિશેષ\JJ અર્થમાં\N_NN વૈષ્ણવ\N_NN સંપ્રદાયને\N_NN લગાડાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1523	ભક્તિની\N_NN આ\DM_DMD પરંપરા\N_NN ત્રિમૂર્તિ\N_NN ઉપાસના\N_NN અને\CC_CCD પંચાયત\N_NN પૂજા\N_NN સુધી\PSP વિસ્તરી\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1524	પુરાણોએ\N_NN અનેક\RB દેવવાદ\N_NN ,\RD_PUNC અવતારવાદ\N_NN ,\RD_PUNC તીર્થયાત્રા\N_NN ,\RD_PUNC વર્ણાશ્રમધર્મ\N_NN વગેરેનો\PSP પ્રચાર\N_NN કર્યો\V_VM .\RD_PUNC
+GJPHD1525	આથી\PSP મૂર્તિપૂજા\N_NN વ્યાપક\JJ બનતી\V_VAUX_VNP ચાલી\V_VAUX .\RD_PUNC
+GJPHD1526	પુરાણોત્તરકાળમાં\N_NST પ્રચાર\N_NN પામેલો\V_VAUX_VNP એક\QT_QTC વિશિષ્ટ\JJ સાધનામાર્ગ\N_NN તે\DM_DMD તન્ત્રમાર્ગ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1527	તંત્ર\N_NN તે\DM_DMD ધર્મના\N_NN રહસ્યભૂત\JJ મંત્રને\N_NN ક્રિયા\N_NN દ્વારા\PSP સિદ્ધ\JJ કરવાની\V_VAUX_VNP રીતિ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1528	મંત્રનું\N_NN મૂળ\JJ દિક્ષા\N_NN છે\V_VAUX ,\RD_PUNC અને\CC_CCD દિક્ષાનું\N_NN મૂળ\JJ ગુરુ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1529	આથી\PSP તંત્રમાર્ગમાં\N_NN ગુરુનું\N_NN સવિશેષ\JJ માહાત્મ્ય\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1530	તંત્રમાં\N_NN શિવ\N_NNP અને\CC_CCD શક્તિની\N_NNP ઉપાસના\N_NN હોય\V_VAUX છે\V_VAUX તેમાં\DM_DMD ઘણી\QT_QTF વાર\N_NN શિવ\N_NNP કરતાં\V_VAUX_VNP શક્તિનો\N_NNP વિશેષ\JJ મહિમા\N_NN ગણવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1531	તંત્રનો\N_NN કર્મવિધિ\N_NN ઘણે\QT_QTF ભાગે\N_NN યોગથી\N_NN ભરેલો\V_VAUX_VNP છે\V_VAUX ,\RD_PUNC પણ\CC_CCD તે\DM_DMD ઉપરાંત\PSP એમાં\DM_DMD જપસ્તુતિ\N_NN ,\RD_PUNC યંત્રપૂજા\N_NN વગેરેનો\PSP સમાવેશ\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1532	`\RD_PUNC પંચમકારના\N_NN `\RD_PUNC સેવનને\N_NN તાન્ત્રિક\JJ ઉપાસનામાં\N_NN સમાવતો\V_VAUX_VNP વામમાર્ગ\N_NN પણ\RP_RPD અસ્તિત્વમાં\N_NN આવ્યો\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1533	બૌદ્ધધર્મમાં\N_NNP પણ\RP_RPD તાન્ત્રિક\JJ ઉપાસનાના\N_NN વિવિધ\JJ માર્ગો\N_NN દાખલ\JJ થયા\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1534	તંત્રમાર્ગો\N_NN સામાન્ય\JJ રીતે\N_NN અનુભવૈકગમ્ય\N_NN પરમતત્ત્વમાં\N_NN માને\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1535	માનવશરીરને\N_NN સાધનાનું\N_NN મહત્ત્વનું\JJ સ્થાન\N_NN માનતી\V_VAUX_VNP હઠયોગની\N_NN પરંપરા\N_NN પણ\RP_RPD આ\DM_DMD સાથે\PSP મળે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1536	એમાંથી\DM_DMD નાથસંપ્રદાય\N_NNP વગેરે\PSP અનેક\JJ નાનામોટા\JJ સંતસંપ્રદાયો\N_NN અસ્તિત્વમાં\N_NN આવે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1537	ભારતમાં\N_NNP મુસ્લિમ\JJ રાજ્યઅમલ\N_NN વ્યાપક\JJ બનતાં\V_VAUX_VNP ઈસ્લામધર્મનું\N_NNP એક\QT_QTC નવું\JJ પરિબળ\N_NN ઉમેરાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1538	મધ્યકાલીન\JJ સંતપરંપરામાં\N_NN મૂર્તિપૂજાનો\N_NN વિરોધ\N_NN દેખાય\V_VM છે\V_VAUX તે\DM_DMD કદાચ\PSP ઈસ્લામનો\N_NNP પ્રભાવ\N_NN હોય\V_VAUX પણ\CC_CCD સૌથી\JJ વધુ\QT_QTF નોંધપાત્ર\JJ પ્રભાવ\N_NN તો\RP_RPD ઈસ્લામના\N_NNP સૂફીમતનો\N_NN પડ્યો\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1539	વેદાંતને\N_NNP મળતી\V_VAUX_VNP વિચારધારાઓ\N_NN ધરાવતા\V_VAUX_VNP સૂફીમતમાં\N_NN પ્રેમભક્તિનો\N_NN મહિમા\N_NN છે\V_VAUX -\RD_PUNC અલ્લાહ\N_NN માશૂક\JJ છે\V_VAUX ને\CC_CCD સૂફી\N_NN આશિક\JJ છે\V_VAUX .\RD_PUNC
+GJPHD1540	સૂફીમતમાં\N_NN પણ\RP_RPD ગુરુ\N_NN એટલેકે\CC_CCS પીરનું\N_NN ઘણું\QT_QTF મહાત્મ્ય\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1541	અખાજી\N_NNP પૂર્વેની\N_NST મધ્યકાલીન\JJ સંતપરંપરા\N_NN ધર્મ\N_NN તત્ત્વજ્ઞાનના\N_NN આ\DM_DMD બધા\QT_QTF વિવિધ\JJ અને\CC_CCD પરસ્પર\PR_PRC વિરોધી\JJ બનતા\V_VAUX_VNP પ્રવાહોને\N_NN પણ\RP_RPD ઝીલે\V_VM છે\V_VAUX અને\CC_CCD એક\QT_QTC વિશિષ્ટ\JJ આબોહવા\N_NN સર્જે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1542	ધર્મતત્ત્વવિચારનું\N_NN માધ્યમ\N_NN લોકભાષાઓ\N_NN બને\V_VM છે\V_VAUX એ\DM_DMD પણ\RP_RPD એક\QT_QTC પરિબળ\N_NN બને\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1543	એ\DM_DMD સંતપરંપરામાં\N_NN જ્ઞાનમાર્ગી\JJ સંતો\N_NN છે\V_VAUX ,\RD_PUNC ભક્તિમાર્ગી\JJ સંતો\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1544	પણ\CC_CCD કેટલાંક\QT_QTF લક્ષણો\N_NN એમાં\DM_DMD સમાન\JJ છે\V_VAUX .\RD_PUNC
+GJPHD1545	શાસ્ત્રસંમત\JJ ધર્મોમાં\N_NN દેખાતી\V_VAUX_VNP અસહિષ્ણુતા\N_NN ને\CC_CCD જડતા\N_NN એમાં\DM_DMD નથી\RP_NEG .\RD_PUNC
+GJPHD1546	પક્ષાપક્ષીમાં\N_NN પરમેશ્વર\N_NN નથી\RP_NEG એમ\PSP એ\DM_DMD કહે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1547	વર્ણવ્યવસ્થાનો\N_NN ત્યાગ\N_NN કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1548	ઊંચનીચ\N_NN સર્વ\JJ વર્ણોને\N_NN ધર્મ\N_NN સાધનામાં\N_NN સરખા\JJ અધિકારી\N_NN ગણે\V_VM છે\V_VAUX ને\CC_CCD હિંદુ\N_NN -\RD_PUNC મુસલમાન\N_NN જેવા\JJ જાતિભેદોને\N_NN પણ\RP_RPD એ\DM_DMD લોકો\N_NN અવગણે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1549	લોકોને\N_NN ઈશ્વરના\N_NN સ્વરૂપ\N_NN લેખે\V_VM જુએ\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1550	તત્ત્વવિચારથી\N_NN ઉપર\PSP એ\DM_DMD અનુભવને\N_NN સ્થાન\N_NN આપે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1551	કાયાકલેશ\N_NN ને\CC_CCD કર્મકાંડોનો\N_NN એ\DM_DMD પરિહાર\N_NN કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1552	સહજસાધનાને\N_NN પુરસ્કારે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1553	સત્સંગનો\N_NN મહિમા\N_NN કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1554	સદ્દગુરુની\N_NN અપરિહાર્યતા\N_NN મનાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1555	સદ્દગુરુ\N_NN તે\DM_DMD જ\RP_RPD પરમાત્મા\N_NN કે\CC_CCS પરમાત્મા\N_NN તે\DM_DMD જ\RP_RPD સદ્દગુરુ\N_NN .\RD_PUNC
+GJPHD1556	રામાનંદ\N_NNP ,\RD_PUNC જ્ઞાનેશ્વર\N_NNP ,\RD_PUNC નામદેવ\N_NNP ,\RD_PUNC કબીરજી\N_NNP ,\RD_PUNC નાનક\N_NNP શાહ\N_NNP ,\RD_PUNC રૈદાસ\N_NNP ,\RD_PUNC નરસિંહ\N_NNP મહેતા\N_NNP વગેરે\PSP આ\DM_DMD સંતપરંપરાના\N_NN જાણીતા\JJ પ્રતિનિધિઓ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1557	સંતવાણીનું\N_NN મોજું\N_NN ધીમેધીમે\RB કરતાં\V_VAUX_VNP આખા\JJ ભારતમાં\N_NNP ફેલાઈ\V_VM ગયું\V_VAUX .\RD_PUNC
+GJPHD1558	એક\QT_QTC સાધક\N_NN અને\CC_CCD બીજી\JJ કુદરત\N_NN આ\DM_DMD બંનેનો\JJ પરસ્પર\PR_PRC શો\PR_PRQ સંબંધ\N_NN છે\V_VAUX ?\RD_PUNC
+GJPHD1559	શું\PR_PRQ પ્રકૃતિ\N_NN સાધકના\N_NN જીવનમાં\N_NN જરૂરી\JJ છે\V_VAUX ?\RD_PUNC
+GJPHD1560	જો\CC_CCD આપણા\PR_PRP મનમાં\N_NN પ્રકૃતિનું\N_NN ચિંતન\N_NN વૃક્ષ\N_NN -\RD_PUNC છોડ\N_NN ,\RD_PUNC હરિયાળી\N_NN ,\RD_PUNC પહાડ\N_NN ,\RD_PUNC નદી\N_NN ,\RD_PUNC નાળાં\N_NN ,\RD_PUNC સમુદ્ર\N_NN અને\CC_CCD હિમાલય\N_NNP છે\V_VAUX ,\RD_PUNC તો\CC_CCD તે\DM_DMD ખોટું\JJ છે\V_VAUX .\RD_PUNC
+GJPHD1561	તે\DM_DMD પ્રકૃતિ\N_NN નથી\RP_NEG તે\DM_DMD તો\RP_RPD એક\QT_QTC પ્રાણ\N_NN ચેતના\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1562	જેવી\JJ રીતે\N_NN મનુષ્યની\N_NN પ્રાણ\N_NN ચેતના\N_NN છે\V_VAUX તેવી\JJ રીતે\N_NN તે\DM_DMD પથ્થરો\N_NN ,\RD_PUNC હિમાલય\N_NNP ,\RD_PUNC તેની\DM_DMD ઉત્પત્તિઓ\N_NN અથવા\CC_CCD વૃક્ષ\N_NN -\RD_PUNC છોડ\N_NN -\RD_PUNC વનસ્પતિ\N_NN ચેતના\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1563	પ્રકૃતિનું\N_NN મૂળ\JJ તાત્પર્ય\N_NN શંકરાચાર્યએ\N_NNP પ્રથમ\QT_QTO વાર\N_NN સ્પષ્ટ\JJ કર્યું\V_VM અને\CC_CCD એ\DM_DMD જ\RP_RPD પ્રશ્ન\N_NN શંકરાચાર્યની\N_NNP સામે\PSP રાખવામાં\V_VAUX_VNP આવ્યો\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1564	શું\PR_PRQ સાધક\N_NN અને\CC_CCD પ્રકૃતિ\N_NN એક\QT_QTC છે\V_VAUX ?\RD_PUNC
+GJPHD1565	શું\PR_PRQ આ\DM_DMD બંનેમાં\JJ તફાવત\N_NN છે\V_VAUX કે\CC_CCS પરસ્પર\PR_PRC સાહ્ચર્ય\N_NN અને\CC_CCD સંબંધ\N_NN છે\V_VAUX ?\RD_PUNC
+GJPHD1566	`\RD_PUNC શાંકરભાષ્યમાં\N_NNP `\RD_PUNC તેઓએ\PR_PRP બતાવ્યું\V_VM છે\V_VAUX કે\CC_CCS જીવન\N_NN મૂલ્યોને\N_NN પ્રકૃતિ\N_NN કહેવાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1567	આપણા\PR_PRP જીવનમાં\N_NN ચિંતન\N_NN ,\RD_PUNC વિચાર\N_NN ધારણાઓ\N_NN શું\PR_PRQ છે\V_VAUX તેને\DM_DMD પ્રકૃતિ\N_NN કહેવાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1568	આપણે\PR_PRP ઘણી\QT_QTF વાર\N_NN સામાન્ય\JJ બોલીમાં\N_NN કહીએ\V_VM છીએ\V_VAUX કે\CC_CCS તેની\DM_DMD પ્રકૃતિ\N_NN સારી\JJ નથી\RP_NEG .\RD_PUNC
+GJPHD1569	તમે\PR_PRP એને\DM_DMD મળશો\V_VM નહિ\RP_NEG તે\DM_DMD જુદા\JJ જ\RP_RPD પ્રકારનો\N_NN માનવી\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1570	આપણે\PR_PRP આ\DM_DMD પ્રકારનો\N_NN જવાબ\N_NN આપતાં\V_VAUX_VNP આ\DM_DMD ચિંતનને\N_NN મનમાં\N_NN નથી\RP_NEG રાખતા\V_VAUX_VNP કે\CC_CCS પ્રકૃતિ\N_NN શબ્દનો\N_NN મનુષ્ય\N_NN માટે\PSP શા\PR_PRQ માટે\PSP પ્રયોગ\N_NN કર્યો\V_VM .\RD_PUNC
+GJPHD1571	મનુષ્ય\N_NN બે\QT_QTC પ્રકારના\N_NN હોય\V_VAUX છે\V_VAUX -\RD_PUNC મહ્દ\JJ અંશે\N_NN મનુષ્ય\N_NN ઊંઘમાં\N_NN જ\RP_RPD જીવતો\V_VAUX_VNP રહે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1572	આપણામાંથી\PR_PRP ઘણા\QT_QTF બધા\QT_QTF ચોવીસે\QT_QTC કલાક\N_NN ઊંઘ\N_NN લેતા\V_VAUX_VNP હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1573	તેઓ\PR_PRP ઊંઘમાં\N_NN ચાલે\V_VM છે\V_VAUX ,\RD_PUNC જુએ\V_VM છે\V_VAUX ,\RD_PUNC ખોરાક\N_NN લે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1574	કારણકે\CC_CCS તેમને\PR_PRP આ\DM_DMD વાતનું\N_NN કોઈ\DM_DMI મહત્ત્વ\N_NN ,\RD_PUNC ચિંતન\N_NN છે\V_VAUX જ\RP_RPD નહિ\RP_NEG કે\CC_CCS જીવનમાં\N_NN આવી\V_VM રહેલા\V_VAUX_VNP સમયમાં\N_NN શું\PR_PRQ કરવાનું\V_VAUX_VNP છે\V_VAUX ?\RD_PUNC
+GJPHD1575	આપણે\PR_PRP વિચારતા\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJPHD1576	એટલામાટે\PSP વ્યક્તિ\N_NN ચાલે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1577	તે\DM_DMD રોડ\N_NN પર\PSP ચાલે\V_VM છે\V_VAUX અને\CC_CCD બાજુમાંથી\N_NST હજારો\N_NN વાહનો\N_NN પસાર\JJ થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1578	તે\DM_DMD પોતાની\PR_PRF ઊંઘમાં\N_NN ચાલતો\V_VAUX_VNP રહે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1579	મનુષ્ય\N_NN એવી\JJ રાક્ષસવૃત્તિનો\N_NN થઈ\V_VM ગયો\V_VAUX કે\CC_CCS એને\DM_DMD એ\DM_DMD વાતનું\N_NN પણ\RP_RPD ભાન\N_NN નથી\RP_NEG કે\CC_CCS હું\PR_PRP કોની\PR_PRQ સાથે\PSP કેવા\DM_DMQ પ્રકારનો\N_NN વ્યવહાર\N_NN રાખું\V_VM ,\RD_PUNC મારા\PR_PRP જીવનનું\N_NN ચિંતન\N_NN ,\RD_PUNC વિચાર\N_NN કેવાં\DM_DMQ હોવાં\V_VAUX_VNP જોઈએ\V_VAUX .\RD_PUNC
+GJPHD1580	આ\DM_DMD ક્રિયાને\N_NN પ્રકૃતિ\N_NN અને\CC_CCD મનુષ્યને\N_NN શાસ્ત્રોમાં\N_NN બ્રહ્મ\N_NNP અને\CC_CCD માયા\N_NNP કહેવાઈ\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1581	માયાનો\N_NNP અર્થ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1582	જે\PR_PRL સુષુપ્તાવસ્થા\N_NN છે\V_VAUX તે\PR_PRL માયા\N_NNP .\RD_PUNC
+GJPHD1583	માયારૂપી\JJ દેવીએ\N_NN સમગ્ર\JJ મનુષ્યજાતિને\N_NN નિંદ્રાવસ્થામાં\N_NN જ\RP_RPD સ્થાપિત\JJ કરી\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1584	એટલામાટે\PSP તેઓ\PR_PRP પોતાના\PR_PRF જીવનને\N_NN વ્યર્થ\JJ -\RD_PUNC પ્રયોજન\N_NN વિના\PSP વિતાવી\V_VM રહ્યા\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1585	જીવનનું\N_NN કોઈ\DM_DMI ચિંતન\N_NN ,\RD_PUNC લક્ષ્ય\N_NN ,\RD_PUNC હેતુ\N_NN નથી\RP_NEG અને\CC_CCD જેના\PR_PRL જીવનનું\N_NN કોઈ\DM_DMI લક્ષ્ય\N_NN નથી\RP_NEG ,\RD_PUNC ચિંતન\N_NN નથી\RP_NEG જે\PR_PRL એ\DM_DMD વાત\N_NN વિશે\PSP વિચારતો\V_VAUX_VNP પણ\RP_RPD નથી\RP_NEG તે\DM_DMD માત્ર\RP_RPD માયાને\N_NNP વશીભૂત\JJ હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1586	માટે\PSP ધન\N_NN અને\CC_CCD નિંદ્રાને\N_NN માયા\N_NNP કહેવાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1587	અહીં\N_NST વ્યક્તિનું\N_NN ચિંતન\N_NN માત્ર\N_NN સ્વાર્થ\N_NN સંબંધિત\PSP જ\RP_RPD છે\V_VAUX તેને\DM_DMD જીવનનું\N_NN ચિંતન\N_NN નથી\RP_NEG .\RD_PUNC
+GJPHD1588	તે\DM_DMD એક\QT_QTC ક્ષણવાર\N_NN બેસીને\V_VAUX_VNP વિચારતો\V_VAUX_VNP નથી\RP_NEG કે\CC_CCS મારા\PR_PRP જીવનનું\N_NN લક્ષ્ય\N_NN ધ્યેય\N_NN શું\PR_PRQ છે\V_VAUX ?\RD_PUNC
+GJPHD1589	જ્યારે\N_NST વ્યક્તિના\N_NN મનમાં\N_NN આ\DM_DMD ભાવના\N_NN -\RD_PUNC વિચાર\N_NN જાગે\V_VM છે\V_VAUX કે\CC_CCS હું\PR_PRP ક્યાં\N_NST જઈને\V_VAUX_VNP શાંતિથી\RB બેસું\V_VM ...\RD_PUNC આ\DM_DMD હૉલ\N_NN એટલામાટે\PSP બનાવ્યો\V_VM છે\V_VAUX કે\CC_CCS અહીં\N_NST કોઈ\DM_DMI અવાજ\N_NN નહીં\RP_NEG કરે\V_VM .\RD_PUNC
+GJPHD1590	માણસ\N_NN શાંતિથી\RB બે\QT_QTC -\RD_PUNC પાંચ\QT_QTC મિનિટ\N_NN બેસી\V_VM શકે\V_VAUX ...\RD_PUNC બેસે\V_VM અને\CC_CCD વિચારે\V_VM કે\CC_CCS હું\PR_PRP શું\PR_PRQ છું\V_VAUX ?\RD_PUNC
+GJPHD1591	તૈતરિય\N_NNP ઉપનિષદમાં\N_NNP એક\QT_QTC જ\RP_RPD વાત\N_NN ,\RD_PUNC એક\QT_QTC ચિંતન\N_NN ,\RD_PUNC એક\QT_QTC વિચાર\N_NN એ\DM_DMD રાખ્યો\V_VM છે\V_VAUX કે\CC_CCS જે\PR_PRL ક્ષણથી\N_NN વ્યક્તિ\N_NN પોતાની\PR_PRF જાતને\N_NN ઓળખવાનો\V_VAUX_VNP પ્રયત્ન\N_NN કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1592	અને\CC_CCD પોતાની\PR_PRF જાતને\N_NN ઓળખવા\V_VAUX_VNP માટે\PSP બીજાની\JJ મદદની\N_NN જરૂર\N_NN નથી\RP_NEG પડતી\V_VAUX_VNP જ્યારે\N_NST માનવ\N_NN એવું\JJ ચિંતન\N_NN કરવા\V_VAUX_VNP લાગે\V_VM છે\V_VAUX તે\DM_DMD સમયે\N_NN માયાથી\N_NNP અલગ\JJ થવાની\V_VAUX_VNP શરૂઆત\N_NN કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1593	માયાથી\N_NNP દૂર\JJ થવાની\V_VAUX_VNP ક્રિયા\N_NN જ\RP_RPD પ્રકૃતિની\N_NN એકરૂપતા\N_NN સ્થાપિત\JJ કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1594	નિંદ્રા\N_NN અને\CC_CCD મૃત્યુમાં\N_NN ઘણુ\QT_QTF સામ્ય\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1595	મૃત્યુ\N_NN ચિરનિંદ્રા\N_NN છે\V_VAUX જ્યારે\N_NST મૃત્યુ\N_NN પહેલાં\N_NST નિંદ્રામાં\N_NN ડૂબેલા\V_VAUX_VNP હોઈએ\V_VAUX છીએ\V_VAUX .\RD_PUNC
+GJPHD1596	આપણે\PR_PRP માત્ર\RP_RPD કલ્પનાઓમાં\N_NN જ\RP_RPD ડૂબેલા\V_VAUX_VNP રહીએ\V_VM છીએ\V_VAUX કે\CC_CCS આવું\JJ હશે\V_VAUX તો\CC_CCD આમ\PSP થશે\V_VM અને\CC_CCD વ્યક્તિ\N_NN વધુને\QT_QTF વધુ\QT_QTF કલ્પનાઓમાં\N_NN જીવતો\V_VAUX_VNP હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1597	``\RD_PUNC સાધકનો\N_NN પ્રકૃતિ\N_NN સાથે\PSP શો\PR_PRQ સંબંધ\N_NN છે\V_VAUX ?\RD_PUNC ``\RD_PUNC
+GJPHD1598	પ્રકૃતિનો\N_NN સાથ\N_NN મળ્યા\V_VAUX_VNP વિના\PSP માનવ\N_NN સાધક\N_NN બની\V_VM શકતો\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJPHD1599	કારણકે\CC_CCS જ્યાં\N_NST સુધી\PSP તમે\PR_PRP માયાને\N_NNP છોડશો\V_VM નહિ\N_NN ત્યાં\N_NST સુધી\PSP પ્રકૃતિ\N_NN પાસે\PSP જઈ\V_VM શકશો\V_VAUX નહિ\RP_NEG .\RD_PUNC
+GJPHD1600	મનુષ્ય\N_NN પાસે\PSP કલ્પના\N_NN સિવાય\PSP કંઈ\DM_DMI નથી\RP_NEG કારણકે\CC_CCS આપણે\PR_PRP સૌ\JJ માયામાં\N_NNP રંગાયેલા\V_VAUX_VNP છીએ\V_VAUX .\RD_PUNC
+GJPHD1601	આપણા\PR_PRP જીવનનું\N_NN ચિંતન\N_NN આ\DM_DMD માયા\N_NNP છે\V_VAUX .\RD_PUNC
+GJPHD1602	આ\DM_DMD જીવન\N_NN એક\QT_QTC મહાભારતનું\N_NNP યુદ્ધ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1603	જેમાં\PR_PRL સહસ્ત્ર\QT_QTC કૌરવો\N_NNP સામે\PSP ઊભા\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1604	તમારી\PR_PRP પાસે\PSP ફક્ત\RP_RPD પાંચ\QT_QTC પાંડવો\N_NNP છે\V_VAUX .\RD_PUNC
+GJPHD1605	એ\DM_DMD પાંચની\QT_QTC મદદથી\N_NN તમારે\PR_PRP સો\QT_QTC પર\PSP વિજય\N_NN મેળવવાનો\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJPHD1606	જો\CC_CCD તમને\PR_PRP આ\DM_DMD ચિંતનનો\N_NN અર્થ\N_NN સમજાય\V_VM ,\RD_PUNC વિચાર\N_NN સમજાય\V_VM તો\CC_CCD આ\DM_DMD જીવન\N_NN સંગ્રામમાં\N_NN સફળતા\N_NN પ્રાપ્ત\JJ કરવાની\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJPHD1607	મનુષ્યના\N_NN આખા\JJ શરીરને\N_NN બાળી\V_VM નાખ્યા\V_VAUX_VNP પછી\PSP માત્ર\RP_RPD મુઠ્ઠી\N_NN રાખ\N_NN વધે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1608	આપણા\PR_PRP શરીરની\N_NN કિંમત\N_NN આ\DM_DMD જ\RP_RPD છે\V_VAUX .\RD_PUNC
+GJPHD1609	એટલામાટે\PSP અત્યાર\N_NST સુધી\PSP આપણું\PR_PRP જે\PR_PRL ચિંતન\N_NN ચાલી\V_VM આવી\V_VAUX રહ્યું\V_VAUX છે\V_VAUX તે\PR_PRL માત્ર\RP_RPD આપણને\PR_PRP મૃત્યુ\N_NN તરફ\PSP ધકેલે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1610	જ્યારે\N_NST આપણામાં\PR_PRP એ\DM_DMD ચિંતન\N_NN શરૂ\JJ થાય\V_VM છે\V_VAUX મારે\PR_PRP એ\DM_DMD રસ્તા\N_NN પર\PSP આગળ\PSP વધવું\V_VM છે\V_VAUX કે\CC_CCS જે\PR_PRL રસ્તા\N_NN ઉપર\PSP ચાલવાથી\V_VAUX_VNP પ્રકૃતિ\N_NN ,\RD_PUNC ઈશ્વર\N_NN અને\CC_CCD બ્રહ્મનો\N_NNP સાક્ષાત્કાર\N_NN કરી\V_VM શકું\V_VAUX ,\RD_PUNC ત્યાંથી\N_NST તમે\PR_PRP માયાથી\N_NNP મુક્ત\JJ બનો\V_VM છો\V_VAUX .\RD_PUNC
+GJPHD1611	તમે\PR_PRP જેટલા\JJ માયાથી\N_NNP વિખૂટા\JJ પડશો\V_VM તેટલા\JJ પ્રકૃતિથી\N_NN જોડાશો\V_VM અને\CC_CCD જેટલા\JJ પ્રકૃતિ\N_NN સાથે\PSP જોડાશો\V_VM તેટલા\JJ સાધક\N_NN બની\V_VM શકશો\V_VAUX .\RD_PUNC
+GJPHD1612	તમે\PR_PRP એવું\JJ માનો\V_VM છો\V_VAUX કે\CC_CCS રેશમની\N_NN ગાદી\N_NN પર\PSP બેસી\V_VM માયા\N_NNP જપી\V_VM લઈશું\V_VAUX પણ\RP_RPD એ\DM_DMD શક્ય\JJ નથી\RP_NEG .\RD_PUNC
+GJPHD1613	જ્યારે\N_NST તમે\PR_PRP માયાથી\N_NNP વિમુક્ત\JJ થઈ\V_VAUX_VNP પ્રકૃતિ\N_NN સાથે\PSP જોડાશો\V_VM અને\CC_CCD જ્યારે\N_NST બ્રહ્મને\N_NNP સાક્ષાત્કાર\N_NN કરી\V_VM શકશો\V_VAUX ત્યારે\N_NST અહેસાસ\N_NN થશે\V_VM કે\CC_CCS જીવન\N_NN શું\PR_PRQ છે\V_VAUX ?\RD_PUNC
+GJPHD1614	જ્યારે\N_NST `\RD_PUNC બુદ્ધ\N_NNP `\RD_PUNC પોતાના\PR_PRF પુત્ર\N_NN રાહુલ\N_NNP અને\CC_CCD પત્ની\N_NN યશોધરા\N_NNP બંનેને\JJ છોડીને\V_VAUX_VNP ચાલ્યા\V_VM ગયા\V_VAUX ત્યારે\N_NST તેમને\PR_PRP એક\QT_QTC નવું\JJ ચિંતન\N_NN શોધ્યું\V_VM .\RD_PUNC
+GJPHD1615	તેમણે\PR_PRP એ\DM_DMD શોધ્યું\V_VM કે\CC_CCS પોતાનામાં\PR_PRF સંપૂર્ણ\JJ પ્રકૃતિ\N_NN અને\CC_CCD પોતાની\PR_PRF જાતને\N_NN ઉતારી\V_VM શકે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1616	તેઓને\PR_PRP જ્યારે\N_NST બુદ્ધત્વ\N_NN પ્રાપ્ત\JJ થયું\V_VM અને\CC_CCD પાછા\RB પોતાના\PR_PRF રાજ્યમાં\N_NN ગયા\V_VM ત્યારે\N_NST સૌથી\JJ પહેલાં\N_NST પોતાના\PR_PRF મહેલમાં\N_NN ગયા\V_VM .\RD_PUNC
+GJPHD1617	ભગવાં\JJ વસ્ત્રો\N_NN પહેરેલા\V_VAUX_VNP તેઓ\PR_PRP મહેલમાં\N_NN પહોંચ્યા\V_VM તો\CC_CCD યશોધરા\N_NNP અને\CC_CCD રાહુલ\N_NNP સામે\PSP આવ્યાં\V_VM .\RD_PUNC
+GJPHD1618	કોણ\PR_PRQ સિદ્ધાર્થ\N_NNP ?\RD_PUNC
+GJPHD1619	હું\PR_PRP એટલામાટે\PSP તારી\PR_PRP પાસે\PSP આવ્યો\V_VM છું\V_VAUX કે\CC_CCS તું\PR_PRP મારી\PR_PRP સામે\PSP ઊભી\V_VM રહે\V_VAUX તોપણ\RP_RPD મારી\PR_PRP આંખોમાં\N_NN તારી\PR_PRP પ્રત્યે\PSP પત્નીના\N_NN ભાવ\N_NN ન\RP_NEG આવી\V_VM શકે\V_VAUX .\RD_PUNC
+GJPHD1620	હું\PR_PRP એ\DM_DMD સિદ્ધ\JJ કરવા\V_VAUX_VNP માગું\V_VM છું\V_VAUX કે\CC_CCS શું\PR_PRQ હું\PR_PRP મારી\PR_PRP જાતને\N_NN અંદર\N_NST ઉતારી\V_VM શક્યો\V_VAUX છું\V_VAUX .\RD_PUNC
+GJPHD1621	જો\CC_CCD મારી\PR_PRP જાતને\N_NN અંદર\N_NST ઉતારી\V_VM શક્યો\V_VAUX હોઉં\V_VAUX તો\CC_CCD મારી\PR_PRP આંખોમાં\N_NN તું\PR_PRP મારી\PR_PRP પત્ની\N_NN છે\V_VAUX એવો\JJ ભાવ\N_NN જાગ્રત\JJ થશે\V_VM નહિ\RP_NEG .\RD_PUNC
+GJPHD1622	જ્યારે\N_NST મૃત્યુ\N_NN પછી\PSP મારું\PR_PRP ચિંતન\N_NN પૂર્ણ\JJ થશે\V_VM ત્યારે\N_NST ચિંતન\N_NN પણ\RP_RPD સમાપ્ત\JJ કરી\V_VM દેવા\V_VAUX_VNP ઈચ્છું\V_VM છું\V_VAUX .\RD_PUNC
+GJPHD1623	જે\PR_PRL જાગ્યો\V_VM નથી\RP_NEG તે\PR_PRL પૂર્ણ\JJ માયાના\N_NNP ચિંતનમાં\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1624	જ્યારે\N_NST જાગવાની\V_VAUX_VNP ક્રિયાનો\N_NN પ્રારંભ\N_NN થશે\V_VM ,\RD_PUNC જ્યારે\N_NST તમે\PR_PRP પ્રકૃતિ\N_NN પાસે\PSP જવાનો\V_VAUX_VNP પ્રયત્ન\N_NN કરશો\V_VM ત્યારે\N_NST તમારા\PR_PRP અંદરની\JJ પ્રકૃતિ\N_NN જાગશે\V_VM તે\DM_DMD પ્રકૃતિરૂપી\JJ પુરુષની\N_NN ચેતનાનો\N_NN ઉદય\N_NN થશે\V_VM .\RD_PUNC
+GJPHD1625	અને\CC_CCD તે\DM_DMD પ્રકૃતિ\N_NN પુરુષ\N_NN જ\RP_RPD સ્વયં\PR_PRF `\RD_PUNC બ્રહ્મ\N_NNP `\RD_PUNC છે\V_VAUX .\RD_PUNC
+GJPHD1626	જેમાં\PR_PRL તમને\PR_PRP આનંદની\N_NN અનુભૂતિ\N_NN પ્રાપ્ત\JJ થશે\V_VM ત્યારે\N_NST તમે\PR_PRP બુદ્ધ\N_NNP બની\V_VM શકશો\V_VAUX .\RD_PUNC
+GJPHD1627	તમારામાંથી\PR_PRP કોઈ\DM_DMI પણ\RP_RPD બુદ્ધ\N_NNP બની\V_VM શકે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1628	આવું\JJ ચિંતન\N_NN વિચાર\N_NN કર્યા\V_VAUX_VNP પછી\PSP શક્ય\JJ છે\V_VAUX કે\CC_CCS તમે\PR_PRP સ્મશાનમાં\N_NN જઈને\V_VAUX_VNP ઊંઘી\V_VM શકશો\V_VAUX .\RD_PUNC
+GJPHD1629	એવું\JJ થશે\V_VM .\RD_PUNC
+GJPHD1630	એમાં\DM_DMD કોઈ\DM_DMI નવીન\JJ વાત\N_NN નથી\RP_NEG .\RD_PUNC
+GJPHD1631	જે\PR_PRL ઊંઘમાં\N_NN છે\V_VAUX તે\PR_PRL મરેલો\V_VAUX_VNP છે\V_VAUX તેનું\PR_PRP અંતિમ\JJ સ્થાન\N_NN સ્મશાન\N_NN જ\RP_RPD છે\V_VAUX .\RD_PUNC
+GJPHD1632	બુદ્ધને\N_NNP પણ\RP_RPD ઠોકર\N_NN વાગી\V_VM જ્યારે\N_NST તેણે\PR_PRP જોયું\V_VM કે\CC_CCS એક\QT_QTC યુવાન\JJ વ્યક્તિ\N_NN જઈ\V_VM રહ્યા\V_VAUX છે\V_VAUX ફરી\RB થોડી\QT_QTF વાર\N_NN પછી\PSP જોયું\V_VM કે\CC_CCS એક\QT_QTC વૃદ્ધ\JJ લાકડીના\N_NN ટેકે\N_NN જઈ\V_VM રહ્યો\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1633	બુદ્ધે\N_NNP પૂછ્યું\V_VM -\RD_PUNC આ\DM_DMD કોણ\PR_PRQ છે\V_VAUX ?\RD_PUNC
+GJPHD1634	સારથિએ\N_NNP કહ્યું\V_VM -\RD_PUNC એ\DM_DMD વૃદ્ધ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1635	બુદ્ધે\N_NNP પૂછ્યું\V_VM -\RD_PUNC એ\DM_DMD વૃદ્ધ\N_NN કેવી\DM_DMQ રીતે\N_NN થાય\V_VM છે\V_VAUX ?\RD_PUNC
+GJPHD1636	તેઓએ\PR_PRP જિંદગીમાં\N_NN આ\DM_DMD બધું\QT_QTF જોયું\V_VM જ\RP_RPD ન\RP_NEG હતું\V_VAUX ,\RD_PUNC તે\DM_DMD તો\RP_RPD એશઆરામમાં\N_NN ઉછર્યા\V_VM હતા\V_VAUX .\RD_PUNC
+GJPHD1637	તેમણે\PR_PRP વીસ\QT_QTC વર્ષ\N_NN સુધી\PSP ક્યારેય\N_NST મહેલ\N_NN બહાર\N_NST પગ\N_NN મૂક્યો\V_VM ન\RP_NEG હતો\V_VAUX .\RD_PUNC
+GJPHD1638	સારથિએ\N_NNP કહ્યું\V_VM -\RD_PUNC જે\PR_PRL જવાન\JJ છે\V_VAUX તે\PR_PRL વૃદ્ધ\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1639	બુદ્ધે\N_NNP ફરીથી\RB પૂછ્યું\V_VM -\RD_PUNC તો\PSP શું\PR_PRQ ?\RD_PUNC
+GJPHD1640	હું\PR_PRP પણ\RP_RPD વૃદ્ધ\JJ થઈ\V_VM જઈશ\V_VAUX .\RD_PUNC
+GJPHD1641	સારથિએ\N_NN કહ્યું\V_VM કે\CC_CCS -\RD_PUNC હા\PSP .\RD_PUNC
+GJPHD1642	થોડા\QT_QTF દૂર\JJ ગયા\V_VM તો\CC_CCD એક\QT_QTC શબને\N_NN લઈ\V_VM જતાં\V_VAUX_VNP જોયું\V_VM .\RD_PUNC
+GJPHD1643	સિદ્ધાર્થે\N_NNP પૂછ્યું\V_VM -\RD_PUNC આ\DM_DMD શું\PR_PRQ છે\V_VAUX ?\RD_PUNC
+GJPHD1644	સારથિ\N_NN -\RD_PUNC આ\DM_DMD વ્યક્તિ\N_NN મરી\V_VM ગયો\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1645	હવે\N_NST એને\DM_DMD ક્યાં\N_NST લઈ\V_VM જાય\V_VAUX છે\V_VAUX ?\RD_PUNC
+GJPHD1646	તેને\DM_DMD બાળવા\V_VAUX_VNP લઈ\V_VM જાય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1647	કેમ\DM_DMQ તે\PR_PRP મરી\V_VM ગયો\V_VAUX ?\RD_PUNC
+GJPHD1648	વૃદ્ધ\JJ થઈ\V_VM ગયો\V_VAUX પછી\PSP તે\PR_PRP મરી\V_VM ગયો\V_VAUX .\RD_PUNC
+GJPHD1649	સિદ્ધાર્થે\N_NNP આશ્ચર્યથી\JJ પૂછ્યું\V_VM -\RD_PUNC સારથી\N_NN ,\RD_PUNC શું\PR_PRQ મૃત્યુ\N_NN પછી\PSP બાળી\V_VM નાખવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX ?\RD_PUNC
+GJPHD1650	સારથી\N_NN -\RD_PUNC હા\PSP !\RD_PUNC બાળી\N_NN નાખ્યા\V_VAUX_VNP સિવાય\PSP કોઈ\DM_DMI રસ્તો\N_NN નથી\RP_NEG .\RD_PUNC
+GJPHD1651	તો\CC_CCD હું\PR_PRP પણ\RP_RPD વૃદ્ધ\JJ થઈ\V_VM જઈશ\V_VAUX અને\CC_CCD મરી\V_VM જઈશ\V_VAUX તો\CC_CCD ?\RD_PUNC
+GJPHD1652	તો\CC_CCD શું\PR_PRQ !\RD_PUNC
+GJPHD1653	સામાજિક\JJ પરંપરા\N_NN પ્રમાણે\PSP આપના\PR_PRP મૃતદેહને\N_NN બાળી\V_VM નાંખશે\V_VAUX .\RD_PUNC
+GJPHD1654	બુદ્ધને\N_NNP ઠોકર\N_NN વાગી\V_VM .\RD_PUNC
+GJPHD1655	મારે\PR_PRP આ\DM_DMD રીતે\N_NN નથી\RP_NEG મરવું\V_VAUX_VNP .\RD_PUNC
+GJPHD1656	હું\PR_PRP આ\DM_DMD રીતે\N_NN ચિતા\N_NN પર\PSP નહીં\RP_NEG ઊંઘુ\V_VM .\RD_PUNC
+GJPHD1657	હું\PR_PRP જીવતો\V_VAUX_VNP રહીશ\V_VM ,\RD_PUNC જાગીશ\V_VM અને\CC_CCD જગાડીશ\V_VM .\RD_PUNC
+GJPHD1658	આ\DM_DMD એક\QT_QTC ઠોકર\N_NN વાગી\V_VM અને\CC_CCD અહેસાસ\N_NN થયો\V_VM ત્યારે\N_NST ૨૭\QT_QTC દેશોમાં\N_NN બૌદ્ધ\N_NNP ધર્મ\N_NNP આજે\N_NST પણ\RP_RPD ચાલી\V_VM રહ્યો\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1659	એક\QT_QTC એકલો\JJ વ્યક્તિ\N_NN જેણે\PR_PRL ઠોકર\N_NN ખાધી\V_VM હતી\V_VAUX .\RD_PUNC
+GJPHD1660	પણ\CC_CCD આ\DM_DMD પ્રશ્ન\N_NN કહે\V_VM છે\V_VAUX કે\CC_CCS સૂક્ષ્મ\JJ જગત\N_NN અને\CC_CCD સ્થૂળ\JJ જગત\N_NN અર્થાત\PSP જાગૃતિમય\JJ જગત\N_NN ...\RD_PUNC જાગૃત\JJ વ્યક્તિ\N_NN જ\RP_RPD જગતમાં\N_NN રહી\V_VM શકે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1661	ઊંઘતો\V_VAUX_VNP વ્યક્તિ\N_NN જગત\N_NN રહી\V_VM શકતો\V_VAUX_VNP નથી\RP_NEG એટલે\PSP જ\RP_RPD તેને\DM_DMD જગતમાં\N_NN કહેવાયું\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1662	સંસારનો\N_NN અર્થ\N_NN થાય\V_VM છે\V_VAUX સમ\JJ -\RD_PUNC સાર\N_NN અથવા\CC_CCD હું\PR_PRP જેવો\JJ છું\V_VAUX કે\CC_CCS મને\PR_PRP જે\PR_PRL સારભૂત\JJ દેખાઈ\V_VM રહ્યું\V_VAUX છે\V_VAUX તે\PR_PRL સંસાર\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1663	જેમકે\CC_CCS_UT હું\PR_PRP કામુક\JJ છું\V_VAUX અને\CC_CCD કોઈ\PR_PRI સ્ત્રીને\N_NN જોતાં\V_VAUX_VNP મને\PR_PRP સારું\JJ લાગે\V_VM છે\V_VAUX તો\CC_CCD આપણે\PR_PRP કહીએ\V_VM છીએ\V_VAUX કે\CC_CCS સંસાર\N_NN મારો\PR_PRP છે\V_VAUX .\RD_PUNC
+GJPHD1664	સંસારમાં\N_NN ઘણું\QT_QTF બધું\QT_QTF છે\V_VAUX પણ\CC_CCD જ્યાં\N_NST આપણા\PR_PRP સમાન\JJ દેખાય\V_VM છે\V_VAUX તે\DM_DMD આપણને\PR_PRP સારું\JJ લાગે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1665	આપણને\PR_PRP અનુકૂળ\JJ વસ્તુ\N_NN જોઈને\V_VAUX_VNP ખુશી\N_NN થાય\V_VM છે\V_VAUX માટે\PSP તે\DM_DMD સંસારમાં\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1666	પરંતુ\CC_CCD મેં\PR_PRP અહીંયા\N_NST સંસાર\N_NN શબ્દની\N_NN જગ્યાએ\N_NN જગત\N_NN શબ્દનો\N_NN પ્રયોગ\N_NN કર્યો\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1667	ઈશ્વર\N_NN કૃપાથી\N_NN તમને\PR_PRP એ\DM_DMD ઠોકર\N_NN વાગે\V_VM .\RD_PUNC
+GJPHD1668	તમારી\PR_PRP કોઈ\DM_DMI અત્યંત\JJ પ્રિય\JJ ચીજ\N_NN નાશથી\N_NN તમને\PR_PRP એ\DM_DMD ઠોકર\N_NN વાગશે\V_VM ત્યારે\N_NST તમને\PR_PRP વાસ્તવિક્તાનો\N_NN ખ્યાલ\N_NN આવશે\V_VM .\RD_PUNC
+GJPHD1669	મેં\PR_PRP બુદ્ધનું\N_NN ઉદાહરણ\N_NN આપ્યું\V_VM છે\V_VAUX તે\PR_PRP જ્યારે\N_NST નિકળ્યા\V_VM ત્યારે\N_NST સંસારમાંથી\N_NN નિકળ્યા\V_VM હતા\V_VAUX પરંતુ\CC_CCD પરત\RB આવ્યા\V_VM તો\CC_CCD જગતમાં\N_NN પરત\RB આવ્યા\V_VM .\RD_PUNC
+GJPHD1670	કારણકે\CC_CCS તેમને\PR_PRP ભાન\N_NN થયું\V_VM ,\RD_PUNC ચેતના\N_NN જાગી\V_VM અને\CC_CCD જ્ઞાન\N_NN થયું\V_VM કે\CC_CCS તે\PR_PRP ઊંઘ\N_NN હતા\V_VAUX .\RD_PUNC
+GJPHD1671	સાડીઓગણીસ\QT_QTC વર્ષ\N_NN સુધી\PSP નિંદ્રામાં\N_NN રહ્યા\V_VM પછી\PSP ભાન\N_NN થયું\V_VM .\RD_PUNC
+GJPHD1672	ભાન\N_NN થતાં\V_VAUX_VNP જ\RP_RPD તેઓ\PR_PRP નવપરિણિત\JJ પત્ની\N_NN અને\CC_CCD પુત્ર\N_NN રાહુલને\N_NNP છોડી\V_VAUX_VNP બહાર\N_NST નીકળી\V_VM ગયા\V_VAUX .\RD_PUNC
+GJPHD1673	કદાચ\PSP તેમની\PR_PRP પાસે\PSP હતું\V_VAUX તેવી\JJ સુંદર\JJ પત્ની\N_NN ,\RD_PUNC ધન\N_NN ,\RD_PUNC દોલત\N_NN ,\RD_PUNC વૈભવ\N_NN તમારી\PR_PRP પાસે\PSP નહીં\RP_NEG હોય\V_VAUX .\RD_PUNC
+GJPHD1674	તમારા\PR_PRP કરતાં\V_VAUX_VNP તેમની\PR_PRP પાસે\PSP અનેકગણું\JJ વધારે\QT_QTF હતું\V_VAUX પરંતુ\CC_CCD તેમને\PR_PRP ભાન\N_NN થયું\V_VM .\RD_PUNC
+GJPHD1675	તમને\PR_PRP થતું\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJPHD1676	ક્યારેક\N_NST લોખંડના\N_NN કમાડ\N_NN બંધ\JJ રહે\V_VM તો\CC_CCD પાંચદસ\QT_QTC વર્ષમાં\N_NN કાટ\N_NN લાગી\V_VM જાય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1677	કાટ\N_NN લાગવાથી\V_VAUX_VNP દરવાજાને\N_NN બે\QT_QTC -\RD_PUNC ચાર\QT_QTC વાર\N_NN ધક્કો\N_NN મારવાથી\V_VAUX_VNP એ\DM_DMD હાલે\V_VM છે\V_VAUX પણ\CC_CCD ખુલતાં\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJPHD1678	પરંતુ\CC_CCD કોઈ\DM_DMI એવો\JJ વ્યક્તિ\N_NN હોય\V_VAUX કે\CC_CCS વારંવાર\PSP પંદર\QT_QTC ,\RD_PUNC વીસ\QT_QTC ,\RD_PUNC પચ્ચાસ\QT_QTC વાર\N_NN જોરથી\RB ધક્કા\N_NN મારે\V_VM તો\CC_CCD તેના\DM_DMD પર\PSP લાગેલો\V_VAUX_VNP કાટ\N_NN દૂર\JJ થાય\V_VM અને\CC_CCD કમાડ\N_NN (\RD_SYM દરવાજા\N_NN )\RD_SYM ખુલી\V_VM જાય\V_VAUX .\RD_PUNC
+GJPHD1679	દરવાજા\N_NN ખુલતાં\V_VAUX_VNP જ\RP_RPD બહારની\JJ તાજી\JJ હવા\N_NN અંદર\N_NST જશે\V_VM .\RD_PUNC
+GJPHD1680	તમે\PR_PRP તમારી\PR_PRP જિંદગીમાં\N_NN કમાડ\N_NN વીસ\QT_QTC -\RD_PUNC પચ્ચીસ\QT_QTC વર્ષથી\N_NN બંધ\JJ કરી\V_VM રાખ્યાં\V_VAUX છે\V_VAUX અને\CC_CCD કાટ\N_NN લાગી\V_VM ગયો\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1681	હવે\N_NST હું\PR_PRP કેટલી\QT_QTF વાર\N_NN ઠોકર\N_NN મારું\V_VM ?\RD_PUNC
+GJPHD1682	પણ\CC_CCD કમાડ\N_NN મજબૂત\JJ છે\V_VAUX એ\DM_DMD વાત\N_NN પણ\RP_RPD હું\PR_PRP જાણું\V_VM છું\V_VAUX .\RD_PUNC
+GJPHD1683	કદાચ\PSP મારા\PR_PRP પગ\N_NN ભાંગે\V_VM લોહીલુહાણ\N_NN થાય\V_VM પણ\RP_RPD એ\DM_DMD કમાડ\N_NN ઘણી\QT_QTF મુશ્કેલીથી\RB ખુલી\V_VM જાય\V_VAUX તો\CC_CCD મારું\PR_PRP સદ્દભાગ્ય\N_NN માનું\V_VM છું\V_VAUX કે\CC_CCS જે\PR_PRL ક્ષણે\N_NN એ\DM_DMD દરવાજા\N_NN ખુલી\V_VM ગયા\V_VAUX .\RD_PUNC
+GJPHD1684	તમે\PR_PRP જાગી\V_VM શક્યા\V_VAUX ...\RD_PUNC અને\CC_CCD જાગ્યા\V_VAUX_VNP પછી\PSP જે\PR_PRL જોશો\V_VM ...\RD_PUNC એ\DM_DMD જોવાની\V_VAUX_VNP ક્રિયા\N_NN તમારામાં\PR_PRP આનંદદાયક\JJ હશે\V_VAUX .\RD_PUNC
+GJPHD1685	તમે\PR_PRP કલ્પનામાં\N_NN જીવી\V_VM રહ્યા\V_VAUX છો\V_VAUX અને\CC_CCD તમને\PR_PRP કોઈ\DM_DMI કલ્પના\N_NN આવે\V_VM તો\RP_RPD તમે\PR_PRP ખૂબ\QT_QTF ખુશ\JJ થાઓ\V_VM છો\V_VAUX .\RD_PUNC
+GJPHD1686	ગુરુજી\N_NN કહે\V_VM છે\V_VAUX તમે\PR_PRP ચિંતા\N_NN કરશો\V_VM નહિ\RP_NEG આવનાર\V_VAUX_VNP સમય\N_NN તમારા\PR_PRP માટે\PSP ઘણો\QT_QTF સારો\JJ છે\V_VAUX .\RD_PUNC
+GJPHD1687	મારા\PR_PRP આશીર્વાદથી\N_NN તમે\PR_PRP ઘણા\QT_QTF ખુશ\JJ હશો\V_VAUX .\RD_PUNC
+GJPHD1688	વાસ્તવિકતાથી\N_NN તમે\PR_PRP દૂર\JJ રહો\V_VM છો\V_VAUX .\RD_PUNC
+GJPHD1689	જેનામાં\PR_PRL પડકાર\N_NN છે\V_VAUX ,\RD_PUNC કંઈક\DM_DMI કરી\V_VM બતાવવાની\V_VAUX_VNP ભાવના\N_NN છે\V_VAUX ,\RD_PUNC તે\PR_PRP જ\RP_RPD ઠોકર\N_NN ખાઈ\V_VM શકે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1690	જે\PR_PRL ઠોકર\N_NN ખાઈ\V_VM શકે\V_VAUX છે\V_VAUX તે\PR_PRL ઠોકર\N_NN મારી\V_VM પણ\RP_RPD શકે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1691	આખું\JJ બ્રહ્માંડ\N_NNP તેની\DM_DMD ઠોકરમાં\N_NN રહે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1692	જે\PR_PRL સંન્યાસી\N_NN છે\V_VAUX તેના\PR_PRP ચરણોમાં\N_NN રાજા\N_NN પણ\RP_RPD નમે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1693	નમે\V_VM છે\V_VAUX તો\CC_CCD સંન્યાસી\N_NN કહી\V_VM શકે\V_VAUX છે\V_VAUX કે\CC_CCS મારા\PR_PRP ચરણોથી\N_NN દૂર\JJ રહે\V_VM તું\PR_PRP !\RD_PUNC
+GJPHD1694	શું\PR_PRQ મને\PR_PRP આપીશ\V_VM ?\RD_PUNC
+GJPHD1695	પણ\CC_CCD તમે\PR_PRP એમ\PSP નથી\RP_NEG કહી\V_VM શકતા\V_VAUX .\RD_PUNC
+GJPHD1696	તમારામાં\PR_PRP એમ\PSP કહેવાની\V_VAUX_VNP ક્ષમતા\N_NN નથી\RP_NEG આવી\V_VM શકતી\V_VAUX_VNP .\RD_PUNC
+GJPHD1697	એવી\JJ જ\RP_RPD રીતે\N_NN જે\PR_PRL જાગૃત\JJ છે\V_VAUX તે\PR_PRL જ\RP_RPD આ\DM_DMD જગતનો\N_NN આનંદ\N_NN લઈ\V_VM શકે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1698	મેં\PR_PRP મારા\PR_PRP પ્રવચનમાં\N_NN એક\QT_QTC વાત\N_NN કહી\V_VM હતી\V_VAUX કે\CC_CCS ભગવાન\N_NN ,\RD_PUNC શ્રીકૃષ્ણના\N_NNP હજારો\N_NN વર્ષ\N_NN પછી\PSP બુદ્ધ\N_NNP જન્મ્યા\V_VM .\RD_PUNC
+GJPHD1699	જો\CC_CCD ધ્યાનથી\N_NN વિચારવામાં\V_VAUX_VNP આવે\V_VAUX તો\CC_CCD આપણા\PR_PRP કાળપુરુષની\N_NN એક\QT_QTC ક્ષણ\N_NN પચીસો\QT_QTC વર્ષની\N_NN હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1700	બુદ્ધના\N_NNP પચીસો\QT_QTC વર્ષ\N_NN પૂરું\JJ થયે\V_VAUX_VNP એક\QT_QTC નવી\JJ ચેતના\N_NN એક\QT_QTC નવું\JJ વ્યક્તિત્વ\N_NN જરૂર\PSP આવશે\V_VM .\RD_PUNC
+GJPHD1701	આપણે\PR_PRP તેને\DM_DMD ઓળખીએ\V_VM ,\RD_PUNC સમજીએ\V_VM એ\DM_DMD ઠોકરનો\N_NN અહેસાસ\N_NN કરી\V_VM શકીએ\V_VAUX અને\CC_CCD ગુરુ\N_NN પ્રત્યે\PSP કૃતજ્ઞ\JJ બનીએ\V_VM .\RD_PUNC
+GJPHD1702	જો\CC_CCD કોઈ\PR_PRI ગુરુ\N_NN તમારી\PR_PRP સામે\PSP હાથ\N_NN જોડે\V_VM ,\RD_PUNC વિનંતી\N_NN કરે\V_VM તો\CC_CCD તે\DM_DMD ગુરુ\N_NN નહીં\RP_NEG બની\V_VM શકે\V_VAUX .\RD_PUNC
+GJPHD1703	ગુરુનો\N_NN અર્થ\N_NN જ\RP_RPD એ\DM_DMD છે\V_VAUX કે\CC_CCS તમને\PR_PRP ઠોકર\N_NN મારે\V_VM .\RD_PUNC
+GJPHD1704	કબીરજીએ\N_NNP સ્પષ્ટ\JJ કહ્યું\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1705	ગુરુરૂપી\JJ કુંભાર\N_NN શિષ્યરૂપી\JJ ઘડાને\N_NN ટીપી\V_VAUX_VNP -\RD_PUNC ટીપીને\V_VAUX_VNP તેમાંથી\DM_DMD ખોટ\N_NN કાઢે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1706	તેને\DM_DMD વાંરવાર\PSP ટીપીને\V_VAUX_VNP અંદર\N_NST હાથ\N_NN રાખીને\V_VAUX_VNP બહારથી\N_NST ટીપે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1707	ટીપી\V_VAUX_VNP -\RD_PUNC ટીપીને\V_VAUX_VNP સુંદર\JJ ઘડો\N_NN બનાવે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1708	અને\CC_CCD ઘડો\N_NN બને\V_VM છે\V_VAUX તો\CC_CCD તેમાં\DM_DMD રાખેલું\V_VAUX_VNP પાણી\N_NN ખૂબ\QT_QTF ઠંડું\JJ અને\CC_CCD શુદ્ધ\JJ હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1709	અને\CC_CCD તે\DM_DMD સેંકડો\JJ લોકોની\N_NN તરસ\N_NN બુઝાવે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1710	જેમ\PSP તમે\PR_PRP છો\V_VAUX તેમ\PSP તે\DM_DMD ફક્ત\PSP માટીનો\N_NN પિંડ\N_NN બની\V_VM નથી\RP_NEG રહેતો\V_VAUX_VNP .\RD_PUNC
+GJPHD1711	એ\DM_DMD માટીના\N_NN પિંડમાંથી\N_NN કોડિયું\N_NN પણ\RP_RPD બની\V_VM શકે\V_VAUX છે\V_VAUX ઘડો\N_NN પણ\RP_RPD બની\V_VM શકે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1712	જો\CC_CCD તમારામાં\PR_PRP ઠોકર\N_NN ખાવાની\V_VAUX_VNP તૈયારી\N_NN હોય\V_VAUX તો\CC_CCD એક\QT_QTC દિવસ\N_NN આ\DM_DMD શરીર\N_NN માટીમાં\N_NN જ\RP_RPD ભળી\V_VM જશે\V_VAUX .\RD_PUNC
+GJPHD1713	`\RD_PUNC વાયુ\N_NNP પુરાણમાં\N_NNP `\RD_PUNC સ્પષ્ટ\JJ કહ્યું\V_VM છે\V_VAUX કે\CC_CCS વ્યક્તિ\N_NN પાંચ\QT_QTC વર્ષનો\N_NN હોય\V_VAUX કે\CC_CCS એંશી\QT_QTC વર્ષનો\N_NN હોય\V_VAUX પણ\CC_CCD તે\PR_PRP માટીનો\N_NN પીંડ\N_NN જ\RP_RPD છે\V_VAUX .\RD_PUNC
+GJPHD1714	જો\CC_CCD કુંભાર\N_NN મળે\V_VM અને\CC_CCD એ\DM_DMD માટીના\N_NN પીંડનું\N_NN સદ્દભાગ્ય\N_NN હોય\V_VAUX ,\RD_PUNC કુંભાર\N_NN તે\DM_DMD માટી\N_NN હાથમાં\N_NN લઈ\V_VAUX_VNP કોડિયું\N_NN કે\CC_CCS ઘડો\N_NN બનાવવાની\V_VAUX_VNP કોશિશ\N_NN કરે\V_VM .\RD_PUNC
+GJPHD1715	તે\DM_DMD માટી\N_NN ઉપર\PSP ઘા\N_NN કરતાં\V_VAUX_VNP જ\RP_RPD સમજી\V_VM જાય\V_VAUX છે\V_VAUX કે\CC_CCS આ\DM_DMD માટી\N_NN ઘા\N_NN સહન\N_NN કરી\V_VM શકશે\V_VAUX .\RD_PUNC
+GJPHD1716	જમીન\N_NN પર\PSP પડેલી\V_VAUX_VNP રેતને\N_NN ઉઠાવીને\V_VAUX_VNP એ\DM_DMD કોડિયું\N_NN બનાવી\V_VM શકતો\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJPHD1717	એટલામાટે\PSP જ્યારે\N_NST વિશ્વામિત્રએ\N_NNP ત્રિશંકુને\N_NNP શરીર\N_NN સાથે\PSP સ્વર્ગમાં\N_NN મોકલવાની\V_VAUX_VNP ઈચ્છા\N_NN કરી\V_VM તો\CC_CCD ઈન્દ્રએ\N_NNP તેમને\PR_PRP અટકાવીને\V_VAUX_VNP કહ્યું\V_VM કે\CC_CCS મનુષ્ય\N_NN શરીર\N_NN સાથે\PSP સ્વર્ગમાં\N_NN આવી\V_VM શકશે\V_VAUX નહિ\RP_NEG .\RD_PUNC
+GJPHD1718	જો\CC_CCD આપણા\PR_PRP શરીરને\N_NN ચીરી\V_VAUX_VNP -\RD_PUNC ફાડીને\V_VAUX_VNP જોવામાં\V_VAUX_VNP આવે\V_VAUX તો\CC_CCD મૂત્ર\N_NN ,\RD_PUNC વિષ્ટા\N_NN ,\RD_PUNC થૂંક\N_NN અને\CC_CCD ગંદકી\N_NN સિવાય\PSP કંઈ\DM_DMI ન\RP_NEG નીકળે\V_VM .\RD_PUNC
+GJPHD1719	જો\CC_CCD વિશ્વાસ\N_NN ન\RP_NEG આવે\V_VM તો\CC_CCD જોઈ\V_VM લો\V_VAUX કે\CC_CCS મનુષ્યના\N_NN મૃત્યુ\N_NN પછી\PSP થોડાક\QT_QTF કલાકો\N_NN પછી\PSP તેમાંથી\DM_DMD દુર્ગંધ\N_NN આવવા\V_VAUX_VNP લાગે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1720	તમે\PR_PRP ફક્ત\PSP ચોવીસ\QT_QTC કલાક\N_NN સ્નાન\N_NN ન\RP_NEG કરો\V_VM તો\CC_CCD પણ\RP_RPD શરીરમાંથી\N_NN દુર્ગંધ\N_NN આવવાની\V_VAUX_VNP શરૂ\JJ થઈ\V_VM જાય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1721	આપણા\PR_PRP શરીરમાં\N_NN એવું\JJ શું\PR_PRQ છે\V_VAUX કે\CC_CCS જેના\PR_PRL પર\PSP આપણે\PR_PRP ગર્વ\N_NN કરી\V_VM રહ્યા\V_VAUX છીએ\V_VAUX ?\RD_PUNC
+GJPHD1722	જગતને\N_NN છોડવાની\V_VAUX_VNP ક્રિયા\N_NN અથવા\CC_CCD શરીરમાં\N_NN રહેલી\V_VAUX_VNP દુર્ગંધ\N_NN છે\V_VAUX તેને\DM_DMD સમાપ્ત\JJ કરવાની\V_VAUX_VNP ક્રિયાને\N_NN `\RD_PUNC કુણ્ડલિની\N_NNP `\RD_PUNC કહે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1723	અંદર\N_NST જે\PR_PRL સુષુપ્તાવસ્થામાં\N_NN છે\V_VAUX તેને\DM_DMD જગાડવાની\V_VAUX_VNP ક્રિયાને\N_NN `\RD_PUNC કુણ્ડલિની\N_NNP જાગરણ\N_NNP `\RD_PUNC કહે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1724	ગુરુની\N_NN કૃપાથી\N_NN ,\RD_PUNC ઠોકર\N_NN લાગવાથી\V_VAUX_VNP ,\RD_PUNC ચેતનાથી\N_NN તેના\DM_DMD વિચારો\N_NN અને\CC_CCD વ્યવહારથી\N_NN તેમના\DM_DMD કહેવા\V_VAUX_VNP અનુસાર\PSP સૂક્ષ્મ\JJ જગતમાં\N_NN વ્યક્તિ\N_NN `\RD_PUNC કુણ્ડલિની\N_NNP `\RD_PUNC દ્વારા\PSP જાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1725	ગુરુ\N_NN કરે\V_VM તેવું\JJ કરવાની\V_VAUX_VNP જરૂર\N_NN નથી\RP_NEG ,\RD_PUNC ગુરુ\N_NN કહે\V_VM તેવું\JJ કરવાની\V_VAUX_VNP જરૂર\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1726	કારણકે\CC_CCS ગુરુનો\N_NN ભાવ\N_NN કંઈક\DM_DMI જુદો\JJ જ\RP_RPD હોય\V_VAUX છે\V_VAUX કદાચ\PSP તમે\PR_PRP સમજશો\V_VM પણ\RP_RPD નહિ\RP_NEG .\RD_PUNC
+GJPHD1727	તેને\DM_DMD આપણે\PR_PRP આજે\N_NST પણ\RP_RPD સમજી\V_VM શક્યા\V_VAUX નથી\RP_NEG ,\RD_PUNC કૃષ્ણને\N_NNP પાંચ\QT_QTC હજાર\N_NN વર્ષ\N_NN થઈ\V_VM ગયાં\V_VAUX છતાં\RP_RPD આજે\N_NST પણ\RP_RPD આપણે\PR_PRP ટીકા\N_NN કરીએ\V_VM છીએ\V_VAUX .\RD_PUNC
+GJPHD1728	કે\CC_CCS તે\PR_PRP તો\RP_RPD ગોપીઓ\N_NN સાથે\PSP રાસ\N_NN રમતો\V_VAUX_VNP હતો\V_VAUX .\RD_PUNC
+GJPHD1729	કારણકે\CC_CCS આપણામાં\PR_PRP દબાયેલી\V_VAUX_VNP વાસના\N_NN સિવાય\PSP કંઈ\DM_DMI નથી\RP_NEG કહેતી\V_VAUX_VNP .\RD_PUNC
+GJPHD1730	એ\DM_DMD સિવાય\PSP આપણે\PR_PRP કંઈ\DM_DMI વિચારી\V_VM શકતા\V_VAUX_VNP પણ\RP_RPD નથી\RP_NEG .\RD_PUNC
+GJPHD1731	કારણકે\CC_CCS તમે\PR_PRP સ્થૂળ\JJ છો\V_VAUX ,\RD_PUNC તેથી\PSP તમે\PR_PRP સૂક્ષ્મમાં\JJ ન\RP_NEG જઈ\V_VM શકો\V_VAUX .\RD_PUNC
+GJPHD1732	જ્યારે\N_NST તમે\PR_PRP સૂક્ષ્મમાં\JJ જશો\V_VM ત્યારે\N_NST તમારો\PR_PRP જોવાનો\V_VAUX_VNP ભાવ\N_NN કંઈક\DM_DMI જુદો\JJ હશે\V_VAUX ,\RD_PUNC ત્યારે\N_NST તમને\PR_PRP જોવાનો\V_VAUX_VNP આનંદ\N_NN આવશે\V_VM .\RD_PUNC
+GJPHD1733	સૂક્ષ્મ\JJ જગતમાં\N_NN અને\CC_CCD સ્થૂળ\JJ જગતમાં\N_NN કોઈ\DM_DMI મોટું\JJ અંતર\N_NN નથી\RP_NEG .\RD_PUNC
+GJPHD1734	તેના\DM_DMD માટે\PSP કોઈ\DM_DMI મંત્ર\N_NN નથી\RP_NEG .\RD_PUNC
+GJPHD1735	જીવન\N_NN અને\CC_CCD તેનું\DM_DMD રક્ષણ\N_NN એમાં\DM_DMD જ\RP_RPD આદિ\N_NN સમુદાયના\N_NN ધર્મનો\N_NN સમાવેશ\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1736	આદિ\N_NN સમુદાયના\N_NN ધર્મની\N_NN બાબતે\N_NN જે\PR_PRL સત્ય\N_NN છે\V_VAUX તે\PR_PRL તમામ\JJ ધર્મોને\N_NN લાગુ\JJ પાડી\V_VM શકાય\V_VAUX તેમ\PSP છે\V_VAUX .\RD_PUNC
+GJPHD1737	તમામ\JJ ધર્મોનો\N_NN સાર\N_NN આ\DM_DMD સચ્ચાઈમાં\N_NN સમાયેલો\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJPHD1738	ભારતીય\JJ સંસ્કૃતિ\N_NN અને\CC_CCD તેના\DM_DMD ઇતિહાસની\N_NN વાત\N_NN કરવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1739	ધર્મ\N_NN અને\CC_CCD સંસ્કૃતિઓના\N_NN સંદર્ભમાં\N_NN પ્રત્યેક\PSP ઘટનાઓનું\N_NN સૂક્ષ્મ\JJ ,\RD_PUNC બારીકાઈપૂર્વક\JJ અને\CC_CCD સત્ય\N_NN હકીકતોનું\N_NN સુચારું\JJ વર્ણન\N_NN કરવામાં\V_VAUX_VNP આવ્યું\V_VAUX છે\V_VAUX ખરું\RP_RPD !\RD_PUNC
+GJPHD1740	અહીં\N_NST પ્રશ્ન\N_NN એ\DM_DMD ઉપસ્થિત\JJ થાય\V_VM છે\V_VAUX કે\CC_CCS ધર્મના\N_NN રચયિતાઓ\N_NN જો\CC_CCD માનવ\N_NN માત્રના\RP_RPD ખરા\JJ હિતમાં\N_NN ,\RD_PUNC વૃદ્ધિ\N_NN અને\CC_CCD વિકાસ\N_NN ,\RD_PUNC સુખ\N_NN કે\CC_CCS દુ:ખમાં\N_NN માનવમૂલ્યો\N_NN ,\RD_PUNC રિવાજો\N_NN ,\RD_PUNC કર્મો\N_NN વગેરેનું\PSP પ્રસ્થાપન\N_NN કરે\V_VM તોજ\RP_RPD સાચા\JJ અર્થમાં\N_NN તે\DM_DMD ધર્મ\N_NN સદ્દધર્મ\N_NN બની\V_VM શકે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1741	સર્વસામાન્ય\JJ માનવમૂલ્યોનું\N_NN સ્થાપન\N_NN ,\RD_PUNC રક્ષણ\N_NN અને\CC_CCD સંવર્ધનથી\N_NN જ\RP_RPD સાચો\JJ ધર્મ\N_NN અને\CC_CCD સંસ્કૃતિનો\N_NN આવિર્ભાવ\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1742	ધર્માદિ\N_NN માનવ\N_NN માટે\PSP છે\V_VAUX .\RD_PUNC
+GJPHD1743	માનવ\N_NN ધર્માદિ\N_NN માટે\PSP નહીં\RP_NEG .\RD_PUNC
+GJPHD1744	માનવના\N_NN સર્વાંગી\JJ રક્ષણ\N_NN અને\CC_CCD સંવર્ધન\N_NN માટે\PSP ધર્મની\N_NN જરૂર\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1745	અહીં\N_NST મનોજગતમાં\N_NN સવાલ\N_NN એ\DM_DMD સળવળે\V_VM છે\V_VAUX કે\CC_CCS પ્રથમ\QT_QTO માનવ\N_NN કે\CC_CCS ધર્મ\N_NN !\RD_PUNC
+GJPHD1746	ધર્મની\N_NN રચના\N_NN માનવીએ\N_NN કરી\V_VM છે\V_VAUX કે\CC_CCS માનવીની\N_NN રચના\N_NN ધર્મએ\N_NN કરી\V_VM છે\V_VAUX ?\RD_PUNC
+GJPHD1747	લાખો\JJ વર્ષ\N_NN પૂર્વે\N_NST અતિ\JJ જંગલી\JJ અવસ્થામાં\N_NN જીવન\N_NN વ્યતિત\JJ કરતો\V_VAUX_VNP આદિ\JJ માનવ\N_NN ધીમે\RB ધીમે\RB માનવ\N_NN ટોળામાં\N_NN રહી\V_VM જીવન\N_NN ગુજારવા\V_VAUX_VNP લાગ્યો\V_VAUX .\RD_PUNC
+GJPHD1748	શિકાર\N_NN પ્રવૃત્તિ\N_NN કરીને\V_VAUX_VNP ખોરાક\N_NN મેળવતો\V_VAUX_VNP આદિમાનવ\N_NN ક્રમશ:\JJ પથ્થરોમાંથી\N_NN બનાવેલા\V_VAUX_VNP હથિયારોનો\N_NN ઉપયોગ\N_NN કરતો\V_VAUX_VNP હતો\V_VAUX .\RD_PUNC
+GJPHD1749	સમયાંતરે\N_NN ચક્રની\N_NN શોધ\N_NN થતા\V_VAUX_VNP અને\CC_CCD ફળો\N_NN ખાઈને\V_VAUX_VNP ફેંકી\V_VM દીધેલા\V_VAUX_VNP બીજમાંથી\N_NN ઉત્પન્ન\JJ થતા\V_VAUX_VNP છોડને\N_NN નિહાળીને\V_VAUX_VNP અચરજ\N_NN અનુભવતો\V_VAUX_VNP તે\DM_DMD બીજ\N_NN વાવીને\V_VAUX_VNP ખેતી\N_NN કરવા\V_VAUX_VNP લાગ્યો\V_VAUX .\RD_PUNC
+GJPHD1750	ત્યારબાદ\PSP સામુહિક\JJ જીવન\N_NN તરફ\PSP વળ્યો\V_VM .\RD_PUNC
+GJPHD1751	સમુદાયમાં\N_NN રહીને\V_VAUX_VNP જીવન\N_NN પસાર\JJ કરતા\V_VAUX_VNP તે\DM_DMD માનવી\N_NN સમૂહને\N_NN જંગલી\JJ જનાવરથી\N_NN રક્ષણ\N_NN મેળવવાના\V_VAUX_VNP હેતુથી\N_NN તે\PR_PRP નાના\JJ નાના\JJ ઝૂંપડાઓ\N_NN બનાવીને\V_VAUX_VNP રહેવા\V_VAUX_VNP લાગ્યો\V_VAUX .\RD_PUNC
+GJPHD1752	પાષણયુગમાંથી\N_NST પસાર\JJ થઈને\V_VAUX_VNP અંતે\N_NN સામૂહિક\JJ જીવન\N_NN જીવવા\V_VAUX_VNP માટેના\PSP અનેકવિધ\JJ નુસખાઓ\N_NN અજમાવતા\V_VAUX_VNP તે\PR_PRP આદિમ\JJ જૂથોએ\N_NN અંતે\N_NN સમૂહમાં\N_NN રહેવા\V_VAUX_VNP માટેના\PSP નીતિનિયમો\N_NN બનાવ્યા\V_VM .\RD_PUNC
+GJPHD1753	લાંબા\JJ સમયકાળ\N_NN બાદ\PSP અંતે\N_NN સમાજજીવન\N_NN માટેના\PSP ધારા\N_NN -\RD_PUNC ધોરણ\N_NN માટે\PSP ધર્મ\N_NN તરફ\N_NST વળ્યા\V_VM .\RD_PUNC
+GJPHD1754	આમ\PSP આદિમ\JJ જીવન\N_NN ગુજારતા\V_VAUX_VNP આદિમ\JJ સમુદાયોએ\N_NN અંતે\N_NN ધર્મનો\N_NN ઉદ્દભવ\N_NN કર્યો\V_VM હતો\V_VAUX .\RD_PUNC
+GJPHD1755	ઘણા\QT_QTF ધર્મો\N_NN એ\DM_DMD વાતને\N_NN વળગી\V_VM રહે\V_VAUX છે\V_VAUX કે\CC_CCS ઈશ્વરે\N_NN જ\RP_RPD પોતાના\PR_PRF ધર્મની\N_NN રચના\N_NN કરી\V_VM છે\V_VAUX માનવીએ\N_NN નહીં\RP_NEG .\RD_PUNC
+GJPHD1756	સારાંશરૂપે\N_NN કહી\V_VM શકાય\V_VAUX કે\CC_CCS ,\RD_PUNC ``\RD_PUNC આદિમ\JJ સમાજમાં\N_NN ધર્મનો\N_NN આરંભ\N_NN અને\CC_CCD અંત\N_NN ,\RD_PUNC જીવન\N_NN અને\CC_CCD તેના\PR_PRP સંરક્ષણથી\N_NN થતો\V_VAUX_VNP હતો\V_VAUX .\RD_PUNC ``\RD_PUNC
+GJPHD1757	આ\DM_DMD સત્ય\N_NN તમામ\JJ ધર્મને\N_NN લાગુ\JJ પડે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1758	સંસ્કૃતિ\N_NN ચિંતનકાર\N_NN કહે\V_VM છે\V_VAUX કે\CC_CCS ,\RD_PUNC આજે\N_NST ઠેકઠેકાણે\N_NN ધર્મની\N_NN સમીક્ષા\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1759	ધર્મની\N_NN સમીક્ષા\N_NN થઈ\V_VM શકે\V_VAUX ખરી\RP_RPD ?\RD_PUNC
+GJPHD1760	આજે\N_NST વિશ્વમાં\N_NN ધર્મની\N_NN સમીક્ષા\N_NN કરવાની\V_VAUX_VNP સહજ\JJ પ્રવૃત્તિ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1761	પરંતુ\CC_CCD તે\DM_DMD યોગ્ય\JJ નથી\RP_NEG .\RD_PUNC
+GJPHD1762	ખરી\JJ રીતે\N_NN તો\RP_RPD ,\RD_PUNC ધર્મ\N_NN એ\DM_DMD સમીક્ષાનો\N_NN વિષય\N_NN જ\RP_RPD હોઈ\V_VAUX શકે\V_VAUX નહીં\RP_NEG .\RD_PUNC
+GJPHD1763	આર્યધર્મ\N_NN મુજબ\PSP જ\RP_RPD તર્કસંગત\N_NN અને\CC_CCD વૈજ્ઞાનિક\N_NN દ્રષ્ટિકોણથી\N_NN ગહન\JJ અભ્યાસ\N_NN કરીએ\V_VM તો\CC_CCD ,\RD_PUNC સૌ\JJ પ્રથમ\QT_QTO બ્રાહ્મણધર્મની\N_NN ઉત્પત્તિ\N_NN માટે\PSP ``\RD_PUNC વેદ\N_NNP ``\RD_PUNC પ્રમાણભૂત\JJ મનાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1764	આ\DM_DMD વેદના\N_NNP ઉદ્દભવ\N_NN પ્રતિ\PSP તેની\DM_DMD રચના\N_NN બાબતે\N_NN વિચારવું\V_VAUX_VNP અતિ\JJ આવશ્યક\JJ છે\V_VAUX .\RD_PUNC
+GJPHD1765	આર્યધર્મ\N_NN મુજબ\PSP વેદોની\N_NNP ઉત્પત્તિ\N_NN અંગે\PSP શાસ્ત્રીય\JJ ગ્રંથો\N_NN ઉપરાંત\PSP અન્ય\JJ વૈશ્વિક\JJ વિચારકોના\N_NN મતો\N_NN અંગે\PSP સૂક્ષ્મતાપૂર્ણ\JJ વિચાર\N_NN વિમર્શ\N_NN કરવામાં\V_VAUX_VNP આવે\V_VM .\RD_PUNC
+GJPHD1766	વેદ\N_NNP ઈશ્વરપ્રેરિત\JJ છે\V_VAUX એનો\DM_DMD અર્થ\N_NN એવો\JJ નથી\RP_NEG કે\CC_CCS તે\DM_DMD કોઈ\DM_DMI દેહધારી\JJ માનવે\N_NN નહીં\RP_NEG પરંતુ\CC_CCD ઈશ્વરે\N_NN બનાવેલા\V_VAUX_VNP છે\V_VAUX ?\RD_PUNC
+GJPHD1767	વેદોનું\N_NNP મહત્ત્વ\N_NN દર્શાવવા\V_VAUX_VNP કે\CC_CCS ગૌરવ\N_NN જાળવી\V_VM રાખવા\V_VAUX_VNP એવી\JJ વાત\N_NN વહેતી\V_VAUX_VNP મુકાઈ\V_VM હોય\V_VAUX ,\RD_PUNC કે\CC_CCS પ્રચાર\N_NN પામી\V_VM હોય\V_VAUX ,\RD_PUNC તે\DM_DMD ભલે\PSP પરંતુ\CC_CCD હકીકતમાં\N_NN તો\RP_RPD એ\DM_DMD વાત\N_NN પણ\RP_RPD સાચી\JJ નથી\RP_NEG .\RD_PUNC
+GJPHD1768	કેમકે\CC_CCS વેદમાં\N_NNP કેટલાક\QT_QTF મંત્રો\N_NN અને\CC_CCD કેટલીક\QT_QTF ઋચાઓમાં\N_NN ઋષિઓના\N_NN નામો\N_NN આવે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1769	એ\DM_DMD મંત્રો\N_NN કે\CC_CCS ઋચાઓ\N_NN તો\RP_RPD તે\DM_DMD ઋષિઓએ\N_NN જ\RP_RPD રચેલી\V_VAUX_VNP છે\V_VAUX ,\RD_PUNC તે\DM_DMD સ્પષ્ટ\JJ છે\V_VAUX .\RD_PUNC
+GJPHD1770	વળી\PSP વેદની\N_NNP બધી\QT_QTF જ\RP_RPD ઋચાઓ\N_NN એટલી\JJ બધી\QT_QTF ઉચ્ચ\JJ જ્ઞાનથી\N_NN ભરેલી\V_VAUX_VNP અથવા\CC_CCD સારગર્ભિત\JJ છે\V_VAUX એવું\JJ પણ\RP_RPD નથી\RP_NEG .\RD_PUNC
+GJPHD1771	એ\DM_DMD ઋચાઓ\N_NN ઈશ્વરે\N_NN રચી\V_VM છે\V_VAUX એવું\JJ માનવું\V_VAUX_VNP ડહાપણભર્યું\JJ નથી\RP_NEG .\RD_PUNC
+GJPHD1772	ઈશ્વર\N_NN એવી\JJ લાલસાથી\N_NN ભરેલી\V_VAUX_VNP ,\RD_PUNC સાધારણ\JJ ઋષિઓને\N_NN શા\PR_PRQ માટે\PSP લખે\V_VM ?\RD_PUNC
+GJPHD1773	વેદો\N_NNP કોઈ\DM_DMI દેહધારી\JJ મનુષ્યની\N_NN રચના\N_NN નથી\RP_NEG .\RD_PUNC
+GJPHD1774	આ\DM_DMD વાત\N_NN વેદને\N_NNP લાગુ\JJ પડે\V_VM છે\V_VAUX ,\RD_PUNC તે\DM_DMD જ\RP_RPD વાત\N_NN બાઈબલ\N_NNP ,\RD_PUNC અવેસ્તા\N_NNP ,\RD_PUNC ગીતા\N_NNP વગેરેને\PSP પણ\RP_RPD લાગુ\JJ પડે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1775	૭\QT_QTC ટુંકા\JJ અને\CC_CCD આવા\JJ સેંકડો\V_VAUX_VNP પ્રકારના\N_NN આધાર\N_NN પુરાવાથી\N_NN એ\DM_DMD સ્પષ્ટ\JJ સાબિત\JJ થઈ\V_VM જાય\V_VAUX છે\V_VAUX કે\CC_CCS ,\RD_PUNC ``\RD_PUNC વેદ\N_NNP ``\RD_PUNC એ\DM_DMD ઈશ્વરસર્જિત\JJ નથી\RP_NEG ,\RD_PUNC પરંતુ\CC_CCD માનવસર્જિત\JJ રચનાઓ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1776	એમાં\DM_DMD શંકાને\N_NN સ્થાન\N_NN જ\RP_RPD નથી\RP_NEG .\RD_PUNC
+GJPHD1777	ઋષિઓ\N_NN -\RD_PUNC વૈદિક\JJ બ્રાહ્મણોએ\N_NN જ\RP_RPD વેદોની\N_NNP રચના\N_NN કરી\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1778	વૈદિક\JJ બ્રાહ્મણો\N_NN જ\RP_RPD ધર્મસૂત્રોના\N_NN આ\DM_DMD બધા\QT_QTF મન્ત્રોના\N_NN સર્જક\N_NN હતા\V_VAUX .\RD_PUNC
+GJPHD1779	તેમના\PR_PRP દ્વારા\PSP જ\RP_RPD આ\DM_DMD રચના\N_NN અને\CC_CCD પરંપરાઓ\N_NN પ્રસ્થાપિત\JJ કરાઈ\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1780	મન્ત્રોને\N_NN કંઠસ્થ\JJ કરી\V_VM તેનો\DM_DMD પ્રચાર\N_NN અને\CC_CCD પ્રસાર\N_NN કરવામાં\V_VAUX_VNP આવ્યો\V_VAUX હતો\V_VAUX .\RD_PUNC
+GJPHD1781	પરંતુ\CC_CCD ઉપરોક્ત\JJ લક્ષણો\N_NN દ્વારા\PSP આવો\JJ પ્રચાર\N_NN શા\PR_PRQ માટે\PSP કરવામાં\V_VAUX_VNP આવ્યો\V_VAUX છે\V_VAUX ?\RD_PUNC
+GJPHD1782	તે\DM_DMD ગહન\JJ અભ્યાસનો\N_NN વિષય\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1783	જો\CC_CCD વેદો\N_NNP બ્રહ્મારચિત\JJ અને\CC_CCD સંશયરહિત\JJ માનવામાં\V_VAUX_VNP આવે\V_VAUX તો\CC_CCD ,\RD_PUNC તેનું\DM_DMD ચોક્કસપણે\JJ નૈતિક\N_NN અને\CC_CCD આધ્યાત્મિક\JJ મૂલ્ય\N_NN હોવું\V_VAUX_VNP જ\RP_RPD જોઈએ\V_VAUX .\RD_PUNC
+GJPHD1784	પરંતુ\CC_CCD તે\DM_DMD બાબતે\N_NN તેને\DM_DMD સત્યની\N_NN કસોટી\N_NN પર\PSP ,\RD_PUNC વૈજ્ઞાનિક\JJ અને\CC_CCD તર્કસંગત\JJ દલીલો\N_NN સાથે\PSP અનિવાર્યપણે\JJ તેનો\DM_DMD વિચાર\N_NN કરી\V_VM અમલ\N_NN અવશ્યપણે\JJ કરવા\V_VAUX_VNP જોઈએ\V_VAUX .\RD_PUNC
+GJPHD1785	ઋગ્વેદની\N_NNP કેટલીક\QT_QTF ઋચાઓ\N_NN પર\PSP એક\QT_QTC દ્રષ્ટિપાત\N_NN કરીએ\V_VM .\RD_PUNC
+GJPHD1786	સવારે\N_NST અમે\PR_PRP ઈન્દ્ર\N_NNP અને\CC_CCD અગ્નિનું\N_NNP આહવાન\N_NN કરીએ\V_VM છીએ\V_VAUX .\RD_PUNC
+GJPHD1787	સૂર્ય\N_NNP ,\RD_PUNC વરુણ\N_NNP અને\CC_CCD અશ્વિનકુમારોને\N_NNP બોલાવીએ\V_VM છીએ\V_VAUX .\RD_PUNC
+GJPHD1788	હે\RP_INJ ઈન્દ્ર\N_NNP !\RD_PUNC આ\DM_DMD કાળા\JJ મુખવાળા\JJ ,\RD_PUNC ભયંકર\JJ ચીસો\N_NN નાખતા\V_VAUX_VNP પિશાચોનો\N_NN નાશ\N_NN કર\V_VM ,\RD_PUNC આ\DM_DMD બધા\QT_QTF રાક્ષસોને\N_NN સંહાર\V_VM .\RD_PUNC
+GJPHD1789	ઈન્દ્ર\N_NNP એના\DM_DMD ભક્ત\N_NN આર્યને\N_NN રક્ષે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1790	કૃષ્ણવર્માની\N_NNP ચામડી\N_NN એ\DM_DMD ઉતરડે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1791	અને\CC_CCD તેમની\PR_PRP રાખ\N_NN કરી\V_VM નાખે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1792	હે\RP_INJ ઈન્દ્રદેવ\N_NNP !\RD_PUNC અમારા\PR_PRP રક્ષણ\N_NN માટે\PSP અમોને\PR_PRP સંપદા\N_NN પ્રદાન\N_NN કર\V_VM .\RD_PUNC
+GJPHD1793	અમોને\PR_PRP સુખ\N_NN આપો\V_VM .\RD_PUNC
+GJPHD1794	આ\DM_DMD સોમરસનું\N_NN પાન\N_NN કરો\V_VM .\RD_PUNC
+GJPHD1795	હે\RP_INJ વરુણ\N_NNP !\RD_PUNC અમને\PR_PRP પાપોથી\N_NN મુક્ત\JJ કર\V_VM .\RD_PUNC
+GJPHD1796	સંકટોથી\N_NN અમારું\PR_PRP રક્ષણ\N_NN કરો\V_VM .\RD_PUNC
+GJPHD1797	હે\RP_INJ આદિત્ય\N_NNP !\RD_PUNC તું\PR_PRP અમારી\PR_PRP પાસે\PSP આવ\V_VM અને\CC_CCD આશીર્વાદ\N_NN આપ\V_VM .\RD_PUNC
+GJPHD1798	અમને\PR_PRP યુદ્ધમાં\N_NN વિજયી\JJ કરો\V_VM .\RD_PUNC
+GJPHD1799	તું\PR_PRP જ\RP_RPD સમૃદ્ધ\JJ છો\V_VAUX ,\RD_PUNC દાતા\N_NN છો\V_VAUX ,\RD_PUNC અમને\PR_PRP સંકટોમાંથી\N_NN પાર\N_NN કર\V_VM .\RD_PUNC
+GJPHD1800	તું\PR_PRP વીર્ય\N_NN છે\V_VAUX ,\RD_PUNC અમારામાં\PR_PRP વીર્ય\N_NN ધારણ\N_NN કરાવ\V_VM .\RD_PUNC
+GJPHD1801	તું\PR_PRP બળ\N_NN છે\V_VAUX ,\RD_PUNC અમારામાં\PR_PRP બળ\N_NN ધારણ\N_NN કરાવ\V_VM .\RD_PUNC
+GJPHD1802	વેદો\N_NNP પછીના\PSP સમયકાળમાં\N_NN અન્ય\N_NN વિવિધ\JJ શાસ્ત્રીય\JJ ગ્રંથોની\N_NN રચના\N_NN કરવામાં\V_VAUX_VNP આવી\V_VAUX હતી\V_VAUX .\RD_PUNC
+GJPHD1803	વૈદિક\JJ સાહિત્યમાં\N_NN વેદ\N_NNP ,\RD_PUNC બ્રાહ્મણગ્રંથો\N_NNP ,\RD_PUNC આરણ્યકો\N_NNP અને\CC_CCD ઉપનિષદ\N_NNP સાહિત્યનો\N_NN સમાવેશ\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1804	જ્યારે\N_NST ઉપરોક્ત\JJ ગ્રંથો\N_NN સિવાયના\PSP ગ્રંથોનો\N_NN સમાવેશ\N_NN લૌક્કિ\JJ સાહિત્યમાં\N_NN કરવામાં\V_VAUX_VNP આવ્યો\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1805	આવા\JJ શાસ્ત્રોમાં\N_NN વેદોનું\N_NNP સ્થાન\N_NN તે\DM_DMD ગ્રંથોની\N_NN નિમ્નસ્તરનું\N_NN બતાવવાની\V_VAUX_VNP કોશિશ\N_NN થઈ\V_VM હોય\V_VAUX તેમ\PSP લાગે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1806	સ્મૃતિઓ\N_NNP બાદ\PSP પુરાણો\N_NNP રચાયા\V_VM .\RD_PUNC
+GJPHD1807	જેમાં\PR_PRL અનેક\JJ દેવ\N_NN -\RD_PUNC દેવીઓના\N_NN ગુણગાન\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1808	આ\DM_DMD પુરાણોને\N_NNP પણ\RP_RPD વેદો\N_NNP કરતા\V_VAUX_VNP શ્રેષ્ઠ\JJ બતાવ્યા\V_VM .\RD_PUNC
+GJPHD1809	ત્યારબાદ\PSP તંત્રસાહિત્ય\N_NN રચાયું\V_VM .\RD_PUNC
+GJPHD1810	જેમાં\PR_PRL આ\DM_DMD તંત્રોનો\N_NN દાવો\N_NN છે\V_VAUX કે\CC_CCS તે\DM_DMD વેદોથી\N_NN પણ\RP_RPD શ્રેષ્ઠ\JJ છે\V_VAUX .\RD_PUNC
+GJPHD1811	વેદોએ\N_NNP અમુક\PSP અંશે\N_NN સમાજના\N_NN વિકાસના\N_NN દ્વાર\N_NN ખુલ્લા\JJ રાખ્યા\V_VM હતા\V_VAUX ,\RD_PUNC પણ\CC_CCD સ્મૃતિઓએ\N_NN વેદના\N_NNP બિનપ્રગતિશીલ\JJ તત્ત્વો\N_NN લઈ\V_VM લીધા\V_VAUX .\RD_PUNC
+GJPHD1812	આવા\JJ સિદ્ધાંતોને\N_NN પૂર્ણપણે\JJ સમર્થન\N_NN કરતા\V_VAUX_VNP પુરાણોને\N_NNP વેદો\N_NNP કરતા\V_VAUX_VNP ઉચ્ચ\JJ દરજ્જો\N_NN આપે\V_VM .\RD_PUNC
+GJPHD1813	આ\DM_DMD બ્રહ્માંડની\N_NN રચના\N_NN કોણે\PR_PRQ કરી\V_VM છે\V_VAUX ?\RD_PUNC
+GJPHD1814	આ\DM_DMD ક્યારે\N_NST રચવામાં\V_VAUX_VNP આવ્યું\V_VAUX ?\RD_PUNC
+GJPHD1815	આ\DM_DMD સૂર્યના\N_NNP કિરણો\N_NN ત્રાંસા\JJ કેમ\DM_DMQ છે\V_VAUX ?\RD_PUNC
+GJPHD1816	તે\DM_DMD નીચા\JJ હતા\V_VAUX કે\CC_CCS ઊંચા\JJ ?\RD_PUNC
+GJPHD1817	હે\RP_INJ અગ્નિ\N_NNP !\RD_PUNC અમારા\PR_PRP શરીરમાં\N_NN જે\PR_PRL કાંઈ\DM_DMI કચાશ\N_NN કે\CC_CCS ખામી\N_NN હોય\V_VAUX તેનું\DM_DMD તું\PR_PRP પૂર્ણ\JJ કરજે\V_VM .\RD_PUNC
+GJPHD1818	અમોને\PR_PRP ચારેબાજુઓથી\N_NST સુંદર\JJ વિચારો\N_NN પ્રાપ્ત\JJ થાઓ\V_VM .\RD_PUNC
+GJPHD1819	હે\RP_INJ અગ્નિ\N_NNP !\RD_PUNC અમને\PR_PRP બુદ્ધિમાન\JJ બનાવ\V_VM .\RD_PUNC
+GJPHD1820	વિશ્વમાં\N_NN અનેક\JJ ધર્મોની\N_NN રચના\N_NN કરવામાં\V_VAUX_VNP આવી\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1821	તેમાં\DM_DMD ધર્મ\N_NN એટલે\PSP શું\PR_PRQ ?\RD_PUNC
+GJPHD1822	તેની\DM_DMD સ્પષ્ટ\JJ વ્યાખ્યાઓ\N_NN કરાઈ\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1823	એક\QT_QTC ચિંતનકાર\N_NN અનુસાર\PSP ધર્મ\N_NN એટલે\PSP ,\RD_PUNC જેણે\PR_PRL ઐહિક\JJ અને\CC_CCD પારમાર્થિક\JJ બન્ને\JJ વાતોનો\N_NN સુંદર\JJ વિચાર\N_NN કર્યો\V_VM હોય\V_VAUX .\RD_PUNC
+GJPHD1824	``\RD_PUNC ઐહિક\JJ અને\CC_CCD પારમાર્થિક\JJ ``\RD_PUNC બન્ને\JJ વાતોની\N_NN જરૂર\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1825	બન્ને\JJ વિચારો\N_NN એકબીજા\PR_PRC સાથે\PSP સંકળાયેલા\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJPHD1826	ભારતીય\JJ સંસ્કૃતિ\N_NN ઐહિક\JJ અને\CC_CCD પારમાર્થિક\JJ બન્નેને\JJ જુદા\JJ ગણતી\V_VAUX_VNP નથી\RP_NEG .\RD_PUNC
+GJPHD1827	ઐહિક\JJ અને\CC_CCD પારમાર્થિક\JJ બન્ને\JJ સાથે\PSP જ\RP_RPD જોઈએ\V_VAUX .\RD_PUNC
+GJPHD1828	જેનાથી\PR_PRL લૌક્કિ\JJ અને\CC_CCD પારમાર્થિક\JJ કલ્યાણની\N_NN સિદ્ધિ\N_NN પ્રાપ્ત\JJ થાય\V_VM તે\DM_DMD ધર્મ\N_NN .\RD_PUNC
+GJPHD1829	સ્વામીવિવેકાનંદે\N_NNP કહ્યું\V_VM છે\V_VAUX કે\CC_CCS ,\RD_PUNC ઈહલોક\N_NN અને\CC_CCD પરલોક\N_NN બે\QT_QTC બચ્ચાઓને\N_NN બીવડાવવાના\V_VAUX_VNP શબ્દો\N_NN છે\V_VAUX ,\RD_PUNC બધું\QT_QTF અહીં\N_NST જ\RP_RPD છે\V_VAUX .\RD_PUNC
+GJPHD1830	સાચા\JJ ધર્મમાં\N_NN પોથી\N_NN -\RD_PUNC વિદ્યાને\N_NN પ્રવેશવાનો\N_NN કશો\DM_DMI અધિકાર\N_NN નથી\RP_NEG .\RD_PUNC
+GJPHD1831	મનુષ્ય\N_NN મૃત્યુ\N_NN પામીને\V_VAUX_VNP સ્વર્ગ\N_NN જાય\V_VAUX છે\V_VAUX ,\RD_PUNC એ\DM_DMD બચ્ચાની\N_NN વાર્તા\N_NN જ\RP_RPD છે\V_VAUX .\RD_PUNC
+GJPHD1832	પ્રાણીમાત્ર\N_NN પ્રત્યે\PSP સહાનુભૂતિ\N_NN રાખો\V_VM .\RD_PUNC
+GJPHD1833	સત્યના\N_NN પાયા\N_NN પર\PSP ઊભા\V_VM રહેવાથી\V_VAUX_VNP જે\PR_PRL આનંદ\N_NN મળે\V_VM છે\V_VAUX ,\RD_PUNC તેની\DM_DMD તુલના\N_NN બીજા\JJ કોઈ\DM_DMI પણ\RP_RPD પ્રકારના\N_NN આનંદ\N_NN સાથે\PSP કરી\V_VM શકાય\V_VAUX નહીં\RP_NEG -\RD_PUNC બેકન\N_NNP .\RD_PUNC
+GJPHD1834	ધર્મ\N_NN એટલે\PSP વ્યક્તિની\N_NN અંદર\N_NST રહેલા\V_VAUX_VNP સદ્ગુણોને\N_NN વિકસિત\JJ કરી\V_VM પ્રગટ\JJ કરી\V_VM આપવાની\V_VAUX_VNP પ્રક્રિયા\N_NN .\RD_PUNC
+GJPHD1835	જે\PR_PRL માનવજીવન\N_NN સાથે\PSP સત્ય\N_NN ,\RD_PUNC અહિંસા\N_NN ,\RD_PUNC પ્રેમ\N_NN ,\RD_PUNC દયા\N_NN ,\RD_PUNC કરુણાના\N_NN ગુણો\N_NN ભર્યા\V_VM છે\V_VAUX તે\DM_DMD ધર્મ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1836	ધર્મ\N_NN એ\DM_DMD જીવન\N_NN મંજિલ\N_NN ઉજાળનાર\V_VAUX_VNP પ્રદીપ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1837	``\RD_PUNC સૌ\JJ પ્રથમ\QT_QTO લૌક્કિ\JJ સમાનતા\N_NN અને\CC_CCD સુંદરતા\N_NN દીપાવો\V_VM ,\RD_PUNC ``\RD_PUNC પછી\PSP તેનાથી\DM_DMD આગળના\JJ પદ\N_NN સાધવાનો\V_VAUX_VNP પ્રયાસ\N_NN આવશ્યક\JJ ગણાશે\V_VM .\RD_PUNC
+GJPHD1838	શિશુ\N_NN પ્રથમ\QT_QTO તો\RP_RPD ડગ\N_NN માંડતા\V_VAUX_VNP અને\CC_CCD પછી\PSP ધીમે\RB ધીમે\RB ચાલતા\V_VAUX_VNP અને\CC_CCD અંતે\N_NN ઝડપથી\RB દોડી\V_VM શકે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1839	પણ\CC_CCD તે\PR_PRP પ્રથમ\QT_QTO દોડી\V_VM ન\RP_NEG શકે\V_VAUX .\RD_PUNC
+GJPHD1840	એક\QT_QTC હાથમાં\N_NN બે\QT_QTC લાડુ\N_NN રાખવાની\V_VAUX_VNP નીતિ\N_NN ન\RP_NEG ચાલી\V_VM શકે\V_VAUX ?\RD_PUNC
+GJPHD1841	તે\DM_DMD યોગ્ય\JJ કહી\V_VM શકાય\V_VAUX ખરી\RP_RPD !\RD_PUNC
+GJPHD1842	કારણકે\CC_CCS જ્યાં\N_NST માણસને\N_NN માણસ\N_NN ગણવામાં\V_VAUX_VNP આવતો\V_VAUX_VNP ન\RP_NEG હોય\V_VAUX ત્યાં\N_NST પારમાર્થિક્તાની\JJ વાત\N_NN જ\RP_RPD કરવી\V_VAUX_VNP એ\DM_DMD માનવીઓને\N_NN અન્ય\JJ માર્ગે\N_NN લઈ\V_VM જવાની\V_VAUX_VNP કપટભરી\JJ ચાલ\N_NN હોય\V_VAUX તેવી\JJ અનુભૂતિ\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1843	વોલ્ટેયરના\N_NNP મતાનુસાર\PSP ,\RD_PUNC ધર્મ\N_NN એ\DM_DMD તો\RP_RPD દશ\QT_QTC -\RD_PUNC બાર\QT_QTC બદમાશોએ\N_NN ભેગા\JJ મળી\V_VM સમાજને\N_NN લૂંટવા\V_VAUX_VNP માટે\PSP કરેલો\V_VAUX_VNP કાયદો\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1844	નૈતિકતાનો\N_NN પ્રશ્ન\N_NN માત્ર\RP_RPD એવો\JJ નથી\RP_NEG કે\CC_CCS લોકો\N_NN સારાપણાને\N_NN સમજે\V_VM ,\RD_PUNC એથી\PSP વિશેષ\JJ તો\RP_RPD ,\RD_PUNC લોકો\N_NN સારા\JJ બને\V_VM એવી\JJ પણ\RP_RPD આશા\N_NN રાખવામાં\V_VAUX_VNP આવે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1845	જે\PR_PRL યોગ્ય\JJ હોય\V_VAUX એને\DM_DMD જીવનમાં\N_NN ઉતારવું\V_VAUX_VNP જોઈએ\V_VAUX .\RD_PUNC
+GJPHD1846	જે\PR_PRL સારું\JJ અને\CC_CCD ઉચિત\JJ છે\V_VAUX ,\RD_PUNC એની\DM_DMD વ્યાખ્યા\N_NN કરવી\V_VAUX_VNP એનું\DM_DMD નામ\N_NN સદાચાર\N_NN .\RD_PUNC
+GJPHD1847	આ\DM_DMD સદાચાર\N_NN એ\DM_DMD ધર્મ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1848	જ્યાં\N_NST સુધી\PSP કોઈ\DM_DMI પ્રેરક\JJ શક્તિ\N_NN સદાચારની\N_NN સાથે\PSP જોડાયેલી\V_VAUX_VNP હોતી\V_VAUX નથી\RP_NEG ,\RD_PUNC ત્યાં\N_NST સુધી\PSP સદાચાર\N_NN નિષ્ક્રિય\JJ હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1849	જે\PR_PRL બાબત\N_NN સદાચારને\N_NN પ્રેરકશક્તિ\N_NN આપે\V_VM છે\V_VAUX ,\RD_PUNC તે\DM_DMD નિસંદેહ\JJ ``\RD_PUNC ધર્મ\N_NN ``\RD_PUNC છે\V_VAUX .\RD_PUNC
+GJPHD1850	ધર્મ\N_NN એ\DM_DMD એક\QT_QTC ઊર્જા\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1851	ધર્મ\N_NN પ્રેરણાનું\N_NN સર્જન\N_NN કરે\V_VM છે\V_VAUX ,\RD_PUNC આ\DM_DMD પ્રેરણાઓ\N_NN સબળ\JJ હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1852	ધર્મની\N_NN પ્રેરણાશક્તિ\N_NN વ્યવહારમાં\N_NN સદાચારની\N_NN ભાવનાને\N_NN જાળવી\V_VM રાખે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1853	તે\DM_DMD એક\QT_QTC અલૌકિક\JJ સર્વોચ્ચ\JJ સત્તા\N_NN હતી\V_VAUX ધર્મનો\N_NN ઉદેશ\N_NN તત્કાલીન\JJ તમામ\JJ સંસ્થાઓ\N_NN ,\RD_PUNC રાજ્યો\N_NN ,\RD_PUNC પરિવારને\N_NN પવિત્ર\JJ રાખવાનો\V_VAUX_VNP હતો\V_VAUX .\RD_PUNC
+GJPHD1854	એરિસ્ટોટલ\N_NNP કહે\V_VM છે\V_VAUX કે\CC_CCS ,\RD_PUNC સારું\JJ જીવન\N_NN એક\QT_QTC કઠિન\JJ કાર્ય\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1855	પણ\CC_CCD જ્યારે\N_NST સારા\JJ જીવનને\N_NN માટે\PSP સાંપ્રત\JJ માપદંડોને\N_NN ઓળંગીને\V_VAUX_VNP જીવન\N_NN જીવવું\V_VAUX_VNP હોય\V_VAUX તો\CC_CCD ,\RD_PUNC મુક્તિ\N_NN અદમ્ય\JJ શક્તિ\N_NN વિના\PSP કઈ\DM_DMI રીતે\N_NN થઈ\V_VM શકે\V_VAUX ?\RD_PUNC
+GJPHD1856	ધર્મ\N_NN શીલ\N_NN ,\RD_PUNC સદાચાર\N_NN ,\RD_PUNC નિષ્ઠા\N_NN અને\CC_CCD વિજ્ઞાન\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1857	તેની\DM_DMD બીજી\JJ બાજુ\N_NST સમાનતા\N_NN અને\CC_CCD બંધુતા\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1858	``\RD_PUNC કર્મકાંડી\N_NN અને\CC_CCD ક્રિયાકાંડી\N_NN ધર્મ\N_NN તો\RP_RPD ,\RD_PUNC માણસમાં\N_NN અજ્ઞાન\N_NN અને\CC_CCD અંધશ્રદ્ધાનો\N_NN ભય\N_NN ફેલાવે\V_VM છે\V_VAUX .\RD_PUNC ``\RD_PUNC
+GJPHD1859	જે\PR_PRL અસમાનતાની\N_NN ઈંટો\N_NN પર\PSP ચણાયેલો\N_NN છે\V_VAUX કે\CC_CCS જેના\PR_PRL પાયામાં\N_NN સૂક્ષ્મ\JJ રીતે\N_NN ગરીબી\N_NN અને\CC_CCD બેકારી\N_NN છૂપાયેલી\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJPHD1860	નિસ્વાર્થીપણું\N_NN એ\DM_DMD ધર્મ\N_NN અને\CC_CCD રાજનીતિનું\N_NN આભૂષણ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1861	અને\CC_CCD દેશની\N_NN સાચી\JJ મૂડી\N_NN -\RD_PUNC પ્રતિષ્ઠા\N_NN ``\RD_PUNC શિષ્ટાચાર\N_NN ``\RD_PUNC છે\V_VAUX .\RD_PUNC
+GJPHD1862	પ્રિયદર્શી\JJ સમ્રાટ\JJ અશોકના\N_NNP મતાનુસાર\PSP ધર્મ\N_NN એટલે\PSP ?\RD_PUNC
+GJPHD1863	ધર્મ\N_NN ઓછામાં\QT_QTF ઓછું\QT_QTC દુઃખ\N_NN આપે\V_VM ,\RD_PUNC ને\CC_CCD વધુમાં\QT_QTF વધુ\QT_QTF સુખ\N_NN આપવામાં\V_VAUX_VNP રહેલો\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJPHD1864	કરુણા\N_NN ,\RD_PUNC દાન\N_NN ,\RD_PUNC સત્ય\N_NN અને\CC_CCD વિચારોમાં\N_NN સાચો\JJ ધર્મ\N_NN રહેલો\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJPHD1865	કરુણા\N_NN છતાં\RP_RPD વ્યવહારુ\JJ અને\CC_CCD જાગ્રત\JJ અંત:કરણ\N_NN દ્વારા\PSP વડીલોને\N_NN માન\N_NN ,\RD_PUNC આદર\N_NN આપવો\V_VAUX_VNP ,\RD_PUNC
+GJPHD1866	પશુહિંસા\N_NN -\RD_PUNC જીવહિંસા\N_NN રોકીને\V_VAUX_VNP તેને\DM_DMD માટે\PSP વૈદકીય\JJ સારવાર\N_NN કરવી\V_VAUX_VNP ,\RD_PUNC સર્વ\JJ જીવોને\N_NN અભયદાન\N_NN ,\RD_PUNC જીવમાત્ર\N_NN માટે\PSP આદર\N_NN ,\RD_PUNC શાંતિ\N_NN અને\CC_CCD પ્રેમભર્યા\N_NN સદાચરણ\N_NN પ્રત્યેનો\PSP વિજય\N_NN એટલે\PSP ધર્મ\N_NN વિજય\N_NN .\RD_PUNC
+GJPHD1867	સમાજમાં\N_NN નિર્દયતા\N_NN ,\RD_PUNC નિષ્ઠુરતા\N_NN અટકાવવી\V_VAUX_VNP .\RD_PUNC
+GJPHD1868	અમર્યાદા\N_NN ક્ષમાશીલતા\N_NN ન\RP_NEG કેળવવી\V_VAUX_VNP .\RD_PUNC
+GJPHD1869	સ્વામી\N_NN વિવેકાનંદના\N_NNP મતાનુસાર\PSP ``\RD_PUNC ધર્મ\N_NN ``\RD_PUNC એટલે\PSP ?\RD_PUNC
+GJPHD1870	બીજાઓનું\JJ ભલુ\JJ કરવું\V_VAUX_VNP એ\DM_DMD ધર્મ\N_NN છે\V_VAUX ,\RD_PUNC પીડા\N_NN પહોંચાડવી\V_VAUX_VNP એ\DM_DMD પાપ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1871	સામર્થ્ય\N_NN અને\CC_CCD મરદાનગી\N_NN એ\DM_DMD ધર્મ\N_NN છે\V_VAUX ,\RD_PUNC દુર્બળતા\N_NN અને\CC_CCD કાયરતા\N_NN એ\DM_DMD પાપ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1872	સ્વતંત્રતા\N_NN એ\DM_DMD ધર્મ\N_NN છે\V_VAUX ,\RD_PUNC પરતંત્રતા\N_NN એ\DM_DMD પાપ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1873	બીજાઓને\JJ ચાહવા\V_VAUX_VNP એ\DM_DMD ધર્મ\N_NN છે\V_VAUX ,\RD_PUNC અને\CC_CCD માનવને\N_NN ધિક્કારવા\V_VAUX_VNP એ\DM_DMD પાપ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1874	પોતાનામાં\PR_PRP શ્રદ્ધા\N_NN રાખવી\V_VAUX_VNP એ\DM_DMD ધર્મ\N_NN છે\V_VAUX ,\RD_PUNC પોતાનામાં\PR_PRF સંશય\N_NN સેવવો\V_VAUX_VNP એ\DM_DMD પાપ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1875	પશુમાંથી\N_NN ઊંચે\JJ ચડાવીને\V_VAUX_VNP મનુષ્ય\N_NN અને\CC_CCD મનુષ્યમાંથી\N_NN ઊંચે\JJ ચડાવીને\V_VAUX_VNP ,\RD_PUNC ઈશ્વર\N_NN બનાવવાનો\V_VAUX_VNP વિચાર\N_NN .\RD_PUNC
+GJPHD1876	આપણે\PR_PRP હંમેશા\PSP ``\RD_PUNC લાગણીવેડાને\N_NN ``\RD_PUNC કર્તવ્ય\N_NN સ્થાન\N_NN પચાવી\V_VM પાડવા\V_VAUX_VNP દઈએ\V_VM છીએ\V_VAUX .\RD_PUNC
+GJPHD1877	અને\CC_CCD આપણી\PR_PRP જાતને\N_NN મનાવીએ\V_VM છીએ\V_VAUX કે\CC_CCS આપણા\PR_PRP સાચા\JJ પ્રેમ\N_NN સાચી\JJ શક્તિ\N_NN સદાચારમાં\N_NN અને\CC_CCD પવિત્રતામાં\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1878	ધર્મથી\N_NN પ્રેરાઈને\V_VAUX_VNP કર્મ\N_NN કરીએ\V_VM છીએ\V_VAUX .\RD_PUNC
+GJPHD1879	કર્મ\N_NN તર્ક\N_NN અને\CC_CCD વિવેક\N_NN વડે\PSP સુસંગત\JJ હોવું\V_VAUX_VNP જોઈએ\V_VAUX .\RD_PUNC
+GJPHD1880	જો\CC_CCS આ\DM_DMD જન્મમાં\N_NN જ\RP_RPD તમે\PR_PRP મુક્તિ\N_NN ન\RP_NEG મેળવી\V_VM શકો\V_VAUX તો\CC_CCD ,\RD_PUNC આવતા\V_VAUX_VNP જન્મમાં\N_NN કે\CC_CCS તે\DM_DMD પછીના\JJ જન્મોમાં\N_NN તમે\PR_PRP તે\DM_DMD મેળવશો\V_VM એની\DM_DMD શી\PR_PRQ ખાતરી\N_NN !\RD_PUNC
+GJPHD1881	માનવજાગૃતિ\N_NN હિત\N_NN અને\CC_CCD કલ્યાણ\N_NN કરતા\V_VAUX_VNP બીજો\JJ મોટો\JJ કોઈ\DM_DMI ધર્મ\N_NN નથી\RP_NEG .\RD_PUNC
+GJPHD1882	આ\DM_DMD શરીર\N_NN કરતા\V_VAUX_VNP પવિત્ર\JJ કોઈ\DM_DMI તીર્થસ્થળ\N_NN નથી\RP_NEG .\RD_PUNC
+GJPHD1883	માનવધર્મનું\N_NN આચરણ\N_NN સાચા\JJ ભાવથી\N_NN કરવામાં\V_VAUX_VNP આવે\V_VAUX એ\DM_DMD જ\RP_RPD સમગ્ર\JJ માનવજાતના\N_NN હિતમાં\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1884	પ્રથમ\QT_QTO તો\RP_RPD આ\DM_DMD દેશમાં\N_NN લોકોમાં\N_NN રહેલી\V_VAUX_VNP સુષુપ્ત\JJ શક્તિઓને\N_NN જાગ્રત\JJ કરીને\V_VAUX_VNP તેમને\DM_DMD પગભર\JJ બનાવો\V_VM .\RD_PUNC
+GJPHD1885	અર્થાત\PSP ,\RD_PUNC તેઓને\PR_PRP સારો\JJ ખોરાક\N_NN ,\RD_PUNC સારા\JJ કપડાં\N_NN અને\CC_CCD ઉપભોગના\N_NN યોગ્ય\JJ સાધનો\N_NN મેળવતા\V_VAUX_VNP શિખવો\V_VM .\RD_PUNC
+GJPHD1886	ગુણોને\N_NN ઉજાગર\JJ કરીને\V_VAUX_VNP જીવનસંગ્રામ\N_NN માટે\PSP સમર્થ\JJ બનાવો\V_VM .\RD_PUNC
+GJPHD1887	``\RD_PUNC ધર્મ\N_NN અને\CC_CCD નૈતિકતાનો\N_NN સંબંધ\N_NN ખૂબ\QT_QTF ઊંડો\JJ છે\V_VAUX .\RD_PUNC ``\RD_PUNC
+GJPHD1888	ધર્મ\N_NN અને\CC_CCD નૈતિક્તા\N_NN તો\RP_RPD માનવ\N_NN જીવનના\N_NN મૌલિક\JJ પ્રશ્નો\N_NN સાથે\PSP સંકળાયેલા\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJPHD1889	જેમાં\PR_PRL જન્મ\N_NN ,\RD_PUNC જીવન\N_NN ,\RD_PUNC મૃત્યુ\N_NN ,\RD_PUNC લગ્ન\N_NN વગેરેનો\PSP સમાવેશ\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1890	ધર્મ\N_NN જીવનના\N_NN પ્રસંગોને\N_NN પવિત્ર\JJ બનાવે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1891	જ્યારે\N_NST નૈતિકતા\N_NN જીવન\N_NN માટેના\PSP નિયમો\N_NN બનાવે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1892	જ્યારે\N_NST ધર્મ\N_NN જીવનના\N_NN પ્રસંગોને\N_NN પવિત્ર\JJ બનાવે\V_VM છે\V_VAUX ,\RD_PUNC ત્યારે\N_NST સમાજે\N_NN જે\PR_PRL નિયમો\N_NN ઘડેલા\V_VAUX_VNP હોય\V_VAUX છે\V_VAUX તેને\DM_DMD પણ\RP_RPD પવિત્રતા\N_NN આપે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1893	મનુષ્ય\N_NN ધર્મ\N_NN માટે\PSP ઝગડશે\V_VM ,\RD_PUNC ધર્મ\N_NN માટે\PSP મરી\V_VM ફીટશે\V_VM ,\RD_PUNC ધર્મ\N_NN માટે\PSP બધું\QT_QTF જ\RP_RPD કરવા\V_VAUX_VNP તૈયાર\JJ થશે\V_VM ,\RD_PUNC પણ\RP_RPD ધર્મ\N_NN માટે\PSP જીવવા\V_VAUX_VNP તૈયાર\JJ થશે\V_VM નહીં\RP_NEG .\RD_PUNC
+GJPHD1894	જે\PR_PRC લોકો\N_NN અનન્ય\JJ ભાવે\N_NN મારું\PR_PRP સ્મરણ\N_NN કરતા\V_VAUX_VNP મને\PR_PRP ભજે\V_VM છે\V_VAUX ,\RD_PUNC એવા\JJ નિત્ય\JJ મારામાં\PR_PRP જ\RP_RPD મગ્ન\JJ રહેનાર\V_VAUX_VNP ભક્તોના\N_NN યોગક્ષેમનો\N_NN ભાર\N_NN હું\PR_PRP ઉઠાવું\V_VM છું\V_VAUX .\RD_PUNC
+GJPHD1895	જીવનની\N_NN પવિત્રતા\N_NN બનાવી\V_VM રાખવી\V_VAUX_VNP ,\RD_PUNC જીવનને\N_NN પૂર્ણતા\N_NN પ્રતિ\PSP લઈ\V_VM જવું\V_VAUX_VNP ,\RD_PUNC નિર્વાણ\N_NN પ્રાપ્ત\JJ કરવો\V_VAUX_VNP .\RD_PUNC
+GJPHD1896	``\RD_PUNC કર્મને\N_NN ``\RD_PUNC જ\RP_RPD માનવજીવનના\N_NN નૈતિક\JJ સંસ્થાનનો\N_NN મુખ્ય\JJ આધાર\N_NN માનવો\V_VAUX_VNP ,\RD_PUNC નૈતિકતાનું\N_NN અનિવાર્ય\JJ સ્થાન\N_NN રહેલું\V_VAUX_VNP હોય\V_VAUX તે\DM_DMD ધર્મ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1897	સદધર્મ\N_NN એટલે\PSP મનના\N_NN મેલને\N_NN દૂર\JJ કરી\V_VM મનને\N_NN નિર્મળ\JJ બનાવવું\V_VAUX_VNP તે\DM_DMD .\RD_PUNC
+GJPHD1898	જે\PR_PRL મનુષ્ય\N_NN વચ્ચેની\JJ તમામ\JJ ભેદભાવકારી\JJ દિવાલોનો\N_NN ઘ્વંશ\N_NN -\RD_PUNC દૂર\JJ કરી\V_VM નાખે\V_VM ,\RD_PUNC કોઈ\PR_PRI માણસનું\N_NN જન્મથી\N_NN નહીં\RP_NEG પણ\CC_CCD કર્મથી\N_NN તેનું\DM_DMD મૂલ્યાંકન\N_NN કરવામાં\V_VAUX_VNP આવે\V_VM .\RD_PUNC
+GJPHD1899	કોઈ\DM_DMI પણ\RP_RPD રાષ્ટ્રને\N_NN માટે\PSP રાષ્ટ્રીય\JJ ધર્મ\N_NN અનિવાર્ય\JJ છે\V_VAUX ,\RD_PUNC રાષ્ટ્રીય\JJ ગ્રંથ\N_NN પણ\RP_RPD અનિવાર્ય\JJ છે\V_VAUX .\RD_PUNC
+GJPHD1900	રાષ્ટ્રને\N_NN ટકાવી\V_VAUX_VNP રાખવા\V_VAUX_VNP માટે\PSP ,\RD_PUNC સંતુલિત\JJ વૃદ્ધિ\N_NN અને\CC_CCD વિકાસ\N_NN માટે\PSP ,\RD_PUNC માનવવિકાસ\N_NN માટે\PSP તે\DM_DMD આવશ્યક\JJ છે\V_VAUX જ\RP_RPD .\RD_PUNC
+GJPHD1901	પણ\CC_CCD આ\DM_DMD બાબતે\N_NN ગહન\JJ વિચારણા\N_NN જરૂરી\JJ છે\V_VAUX .\RD_PUNC
+GJPHD1902	રાષ્ટ્રીય\JJ ધર્મ\N_NN એટલે\PSP રાષ્ટ્ર\N_NN પ્રત્યેની\PSP નિષ્ઠા\N_NN અને\CC_CCD વફાદારી\N_NN .\RD_PUNC
+GJPHD1903	પુસ્તકોના\N_NN થોથામાત્રથી\N_NN કે\CC_CCS પાંડિત્ય\N_NN પ્રદર્શનથી\N_NN રાષ્ટ્ર\N_NN પ્રતિ\PSP વફાદારી\N_NN જાગૃત\JJ ન\RP_NEG થઈ\V_VM શકે\V_VAUX .\RD_PUNC
+GJPHD1904	સદકર્મ\N_NN અને\CC_CCD સદગુણોયુક્ત\JJ સમતાપૂર્ણ\JJ પરિશ્રમ\N_NN રાષ્ટ્રને\N_NN સહર્ષ\N_NN સમર્પિત\JJ કરવામાં\V_VAUX_VNP આવે\V_VAUX તે\DM_DMD ખરો\JJ રાષ્ટ્રધર્મ\N_NN .\RD_PUNC
+GJPHD1905	રાષ્ટ્રપ્રેમ\N_NN એ\DM_DMD જ\RP_RPD રાષ્ટ્રધર્મ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1906	સાથે\PSP સાથે\PSP રાષ્ટ્રના\N_NN વૃદ્ધિ\N_NN -\RD_PUNC વિકાસ\N_NN ,\RD_PUNC સમાનતા\N_NN ,\RD_PUNC માનવતા\N_NN ,\RD_PUNC બંધુતા\N_NN ,\RD_PUNC ત્યાગ\N_NN ,\RD_PUNC સહિષ્ણુતા\N_NN ,\RD_PUNC જીવમાત્ર\N_NN પ્રતિ\PSP કરુણા\N_NN વગેરે\PSP જેવા\JJ માનવીય\JJ મૂલ્યો\N_NN દ્વારા\PSP રાષ્ટ્રને\N_NN એકસૂત્રમાં\N_NN બાંધતા\V_VAUX_VNP કાયદા\N_NN -\RD_PUNC કાનૂનોનું\N_NN લેખિત\JJ સ્વરૂપ\N_NN એટલે\CC_CCD જ\RP_RPD રાષ્ટ્રીય\JJ ગ્રંથ\N_NN .\RD_PUNC
+GJPHD1907	રાષ્ટ્રને\N_NN પ્રગતિના\N_NN પંથ\N_NN પ્રતિ\PSP પ્રયાણ\N_NN કરનાર\V_VAUX_VNP અને\CC_CCD હ્રષ્ટપુષ્ટ\JJ કરીને\V_VAUX_VNP વિશ્વમાં\N_NN રાષ્ટ્રને\N_NN મહાન\JJ અને\CC_CCD સમૃદ્ધ\JJ બનાવનાર\V_VAUX_VNP કાયદા\N_NN -\RD_PUNC કાનૂનનું\N_NN મૂળ\JJ આલેખન\N_NN એટલે\PSP રાષ્ટ્રીય\JJ ગ્રંથ\N_NN .\RD_PUNC
+GJPHD1908	રાષ્ટ્રીય\JJ એટલે\PSP મારાપણાની\N_NN ઉદાત્ત\JJ ભાવના\N_NN .\RD_PUNC
+GJPHD1909	રાષ્ટ્ર\N_NN સમસ્તની\JJ સંયુક્ત\JJ શક્તિ\N_NN ,\RD_PUNC પોતીકો\JJ લાગે\V_VM તેવો\JJ ,\RD_PUNC માનવમાત્રનું\N_NN જેમાં\PR_PRL ચોક્કસ\PSP સ્થાન\N_NN હોય\V_VAUX તેને\DM_DMD રાષ્ટ્રીય\JJ કહી\V_VM શકાય\V_VAUX .\RD_PUNC
+GJPHD1910	જોકે\CC_CCS તે\DM_DMD નોંધનીય\JJ છે\V_VAUX કે\CC_CCS ,\RD_PUNC દરેક\JJ દેશમાં\N_NN એક\QT_QTC કરતા\V_VAUX_VNP વધુ\QT_QTF ધર્મો\N_NN હોય\V_VAUX ,\RD_PUNC અલગ\JJ અલગ\JJ ધર્મ\N_NN પાળતી\V_VAUX_VNP પ્રજા\N_NN હોય\V_VAUX તેથી\PSP સ્પષ્ટ\JJ જ\RP_RPD છે\V_VAUX કે\CC_CCS પ્રત્યેક\JJ ધર્મે\N_NN અલગ\JJ ધર્મગ્રંથો\N_NN હોવાના\V_VAUX_VNP જ\RP_RPD .\RD_PUNC
+GJPHD1911	પણ\CC_CCD ,\RD_PUNC રાષ્ટ્ર\N_NN તો\RP_RPD એક\QT_QTC જ\RP_RPD હોઈ\V_VAUX શકે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1912	આથી\PSP ધર્મગ્રંથો\N_NN રાષ્ટ્રીય\JJ ગ્રંથો\N_NN બનાવવા\V_VAUX_VNP તે\DM_DMD તો\RP_RPD રાષ્ટ્ર\N_NN પર\PSP કુઠારાઘાત\N_NN કરવા\V_VAUX_VNP બરાબર\PSP છે\V_VAUX .\RD_PUNC
+GJPHD1913	કોઈ\DM_DMI ધર્મના\N_NN ધર્મગ્રંથ\N_NN માટે\PSP કોઈ\DM_DMI પુસ્તક\N_NN રહે\V_VM તે\DM_DMD યોગ્ય\JJ છે\V_VAUX .\RD_PUNC
+GJPHD1914	આથી\PSP તે\DM_DMD બાબત\N_NN તદ્દન\PSP સહજ\JJ અને\CC_CCD સ્પષ્ટ\JJ જ\RP_RPD છે\V_VAUX કે\CC_CCS જેના\PR_PRL દ્વારા\PSP રાષ્ટ્રનો\N_NN વહીવટ\N_NN અને\CC_CCD સંચાલન\N_NN થતું\V_VAUX_VNP હોય\V_VAUX તેને\DM_DMD રાષ્ટ્રીય\JJ ગ્રંથ\N_NN કહી\V_VM શકાય\V_VAUX .\RD_PUNC
+GJPHD1915	જે\PR_PRL તર્ક\N_NN ,\RD_PUNC ન્યાય\N_NN ,\RD_PUNC વિજ્ઞાન\N_NN ,\RD_PUNC વિકાસ\N_NN સંગત\JJ છે\V_VAUX .\RD_PUNC
+GJPHD1916	રાષ્ટ્ર\N_NN એક\QT_QTC સંગઠન\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1917	તે\DM_DMD એક\QT_QTC વ્યવસ્થા\N_NN અને\CC_CCD નિયંત્રણનું\N_NN એક\QT_QTC વ્યવસ્થાતંત્ર\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1918	રાજ્યની\N_NN આંતરિક\JJ જાળવણી\N_NN અને\CC_CCD તે\DM_DMD સુસંગત\JJ જતન\N_NN માટેની\PSP કામગીરીની\N_NN તુષ્ટિ\N_NN માટેની\PSP તમામ\JJ ઔપચારિક\JJ સ્વરૂપની\N_NN સંસ્થાકીય\JJ વ્યવસ્થા\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1919	વ્યક્તિ\N_NN કરતા\V_VAUX_VNP રાષ્ટ્ર\N_NN એ\DM_DMD સજીવ\JJ તત્ત્વ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1920	માટે\PSP રાષ્ટ્રના\N_NN પ્રત્યેક\JJ નાગરિકે\N_NN સ્વસુખ\N_NN ,\RD_PUNC આયુ\N_NN અને\CC_CCD સર્વસ્વ\JJ રાષ્ટ્રને\N_NN સમર્પિત\JJ કરી\V_VM દેવું\V_VAUX_VNP જોઈએ\V_VAUX .\RD_PUNC
+GJPHD1921	દરેક\JJ નાગરિક\N_NN સ્વદેશના\N_NN અંગરૂપ\N_NN હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1922	રાજ્ય\N_NN એ\DM_DMD કાનૂની\JJ નિયમોની\N_NN મર્યાદામાં\N_NN રહીને\V_VAUX_VNP કાર્યો\N_NN કરવા\V_VAUX_VNP માટે\PSP વ્યવસ્થિત\JJ સંગઠિત\JJ થયેલો\V_VAUX_VNP માનવસમૂહ\N_NN છે\V_VAUX -\RD_PUNC વિનોગ્રાડોફ\N_NNP
+GJPHD1923	`\RD_PUNC રાષ્ટ્રવાદ\N_NN ત્યારે\N_NST જ\RP_RPD ઔચિત્ય\N_NN ગ્રહણ\N_NN કરી\V_VM શકે\V_VAUX કે\CC_CCS ,\RD_PUNC જ્યારે\N_NST તમામ\JJ લોકો\N_NN જાતિ\N_NN -\RD_PUNC જ્ઞાતિ\N_NN તથા\CC_CCD ઊંચ\N_NN -\RD_PUNC નીચના\N_NN ભેદભાવ\N_NN ભૂલાવી\V_VM તેમનામાં\PR_PRP રહેલી\V_VAUX_VNP સામાજિક\JJ ભાતૃત્વની\N_NN ભાવનાને\N_NN સ્થાન\N_NN આપે\V_VM .\RD_PUNC ``\RD_PUNC
+GJPHD1924	હાલ\N_NST રાષ્ટ્રીય\JJ એકતા\N_NN માટે\PSP સામાજિક\JJ ક્રાંતિની\N_NN આવશ્યક્તા\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1925	માત્ર\RP_RPD બાપ\N_NN -\RD_PUNC દાદાની\N_NN ,\RD_PUNC કાલ્પનિક\JJ શાસ્ત્રો\N_NN વિશેની\PSP મોટાઈ\N_NN કે\CC_CCS બડાઈ\N_NN હાંકનાર\V_VAUX_VNP વ્યક્તિ\N_NN જગતમાં\N_NN હાંસીપાત્ર\JJ બને\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1926	પૂર્વજોમાં\N_NN રહેલી\V_VAUX_VNP અમાનવીય\JJ ,\RD_PUNC ભેદભાવકારી\JJ અને\CC_CCD કલ્પનાભરી\JJ અસંખ્ય\JJ ક્ષતિઓનો\N_NN ધ્વંશ\N_NN કરી\V_VM ,\RD_PUNC માનવધર્મના\N_NN માર્ગ\N_NN પર\PSP પ્રયાણ\N_NN કરવાથી\V_VAUX_VNP જ\RP_RPD સાચા\JJ અર્થમાં\N_NN રાષ્ટ્રીય\JJ પ્રેમ\N_NN જાગૃત\JJ થશે\V_VM અને\CC_CCD રાષ્ટ્ર\N_NN પ્રતિ\PSP નિષ્ઠા\N_NN અને\CC_CCD વફાદારી\N_NN વધશે\V_VM .\RD_PUNC
+GJPHD1927	સાથે\PSP સાથે\PSP ``\RD_PUNC ભાવાત્મક\JJ એકતાનું\N_NN સર્જન\N_NN અને\CC_CCD દર્શન\N_NN થશે\V_VM .\RD_PUNC ``\RD_PUNC
+GJPHD1928	માત્ર\RP_RPD ભેદભાવકારી\JJ ધર્મના\N_NN સિદ્ધાંતોનું\N_NN અનુસરણ\N_NN કરવાથી\V_VAUX_VNP તો\RP_RPD રાષ્ટ્રીય\JJ અને\CC_CCD ભાવાત્મક\JJ એકતા\N_NN ખંડિત\JJ થશે\V_VM ,\RD_PUNC કોમવાદના\N_NN અજગર\N_NN ભરડામાં\N_NN રાષ્ટ્ર\N_NN છિન્નભિન્ન\JJ થઈ\V_VM જશે\V_VAUX .\RD_PUNC
+GJPHD1929	હું\PR_PRP ભારતીય\JJ છું\V_VAUX .\RD_PUNC
+GJPHD1930	સાંસ્કૃતિક\JJ ,\RD_PUNC ભૌગોલિક\JJ અને\CC_CCD રાજકીય\JJ પરિબળોના\N_NN સંયુક્તપણે\JJ થયેલા\V_VAUX_VNP સુભગ\JJ સમન્વયને\N_NN લીધે\PSP રાષ્ટ્રનું\N_NN નિર્માણ\N_NN થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1931	દેશપ્રેમ\N_NN ,\RD_PUNC રાષ્ટ્રગૌરવ\N_NN ,\RD_PUNC રાષ્ટ્રભાવના\N_NN ,\RD_PUNC રાષ્ટ્ર\N_NN પ્રતિ\PSP અનુરાગભાવ\N_NN ,\RD_PUNC જેવા\JJ ગુણોને\N_NN લીધે\PSP રાષ્ટ્રીયતા\N_NN જાગ્રત\JJ થાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1932	રાષ્ટ્રના\N_NN સંવિધાનને\N_NN સંપૂર્ણપણે\JJ વફાદાર\JJ રહેવાથી\V_VAUX_VNP રાષ્ટ્રીયતા\N_NN ઉદ્દભવે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1933	રાષ્ટ્રીયતા\N_NN એ\DM_DMD ચોક્કસપણે\JJ સીમાબદ્ધ\JJ વિચારધારા\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1934	આ\DM_DMD શબ્દપ્રયોગ\N_NN કોઈ\DM_DMI ચોક્કસ\JJ સરહદ\N_NN સિમિત\JJ પ્રદેશનું\N_NN સૂચન\N_NN કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1935	એ\DM_DMD પ્રદેશની\N_NN ,\RD_PUNC પ્રદેશને\N_NN લગતી\V_VAUX_VNP અને\CC_CCD પ્રદેશના\N_NN હિતમાં\N_NN રહેલી\V_VAUX_VNP વિચારધારા\N_NN તે\DM_DMD રાષ્ટ્રીયતા\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1936	તે\DM_DMD સમગ્ર\JJ સ્વદેશીઓને\N_NN અસર\N_NN કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1937	આ\DM_DMD શબ્દ\N_NN ``\RD_PUNC રાષ્ટ્ર\N_NN ``\RD_PUNC પરથી\PSP બન્યો\V_VM છે\V_VAUX ,\RD_PUNC જેનો\PR_PRL અર્થ\N_NN ``\RD_PUNC રાષ્ટ્રને\N_NN લાગતું\V_VAUX_VNP ,\RD_PUNC રાષ્ટ્ર\N_NN ઉચિત\JJ ``\RD_PUNC એવો\JJ થઈ\V_VM શકે\V_VAUX .\RD_PUNC
+GJPHD1938	કારણકે\CC_CCS રાષ્ટ્રીયતા\N_NN સાથે\PSP ભાષા\N_NN ,\RD_PUNC ભૌગોલિક\JJ સ્થાન\N_NN ,\RD_PUNC આદર્શ\N_NN ,\RD_PUNC આર્થિકતા\N_NN ,\RD_PUNC આકાંક્ષાઓ\N_NN ,\RD_PUNC અસ્તિત્વ\N_NN વગેરેની\PSP એકતા\N_NN અભિન્ન\JJ રીતે\N_NN જોડાયેલી\V_VAUX_VNP હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1939	આ\DM_DMD બધા\QT_QTF તત્ત્વો\N_NN દ્વારા\PSP જાહેર\JJ થતી\V_VAUX_VNP સમગ્ર\JJ દેશવાસીઓની\N_NN પ્રબળ\JJ ઉર્જાશક્તિ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1940	રાષ્ટ્રની\N_NN એકતા\N_NN માટે\PSP તે\DM_DMD અનિવાર્ય\JJ કહી\V_VM શકાય\V_VAUX .\RD_PUNC
+GJPHD1941	સ્વદેશની\N_NN લાક્ષણિક્તાઓ\N_NN -\RD_PUNC વિશેષતાઓ\N_NN અને\CC_CCD ગૌરવ\N_NN તથા\CC_CCD ઐશ્વર્યનું\N_NN પ્રગટીકરણ\N_NN એ\DM_DMD રાષ્ટ્રીયતા\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1942	જેમાં\PR_PRL વિજય\N_NN એ\DM_DMD આનંદની\N_NN અનુભૂતિ\N_NN કરાવે\V_VM જ્યારે\N_NST પરાજય\N_NN અને\CC_CCD દુર્દશા\N_NN હતાશા\N_NN ,\RD_PUNC નિરાશા\N_NN ,\RD_PUNC ક્રોધના\N_NN આવેગો\N_NN પેદા\JJ કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1943	સ્વદેશરક્ષાના\N_NN લલકારમાં\N_NN જોમ\N_NN -\RD_PUNC ઉત્સાહનો\N_NN સુભગ\JJ સમન્વય\N_NN સર્જાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1944	અન્ય\JJ રાષ્ટ્રની\N_NN પ્રગતિ\N_NN પ્રત્યે\PSP ઈર્ષાભાવ\N_NN પણ\RP_RPD પ્રગટ\JJ થતો\V_VAUX_VNP હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1945	તેમાં\DM_DMD સામાન્ય\JJ રીતે\N_NN દિલો\N_NN -\RD_PUNC દિમાગનો\N_NN ધબકાર\N_NN ધમધમતો\V_VAUX_VNP હોય\V_VAUX તેવા\JJ ભાવ\N_NN અનુભવાતા\V_VAUX_VNP હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1946	જોકે\CC_CCS રાષ્ટ્રીયતાની\N_NN સંકલ્પનામાં\N_NN પરિવર્તન\N_NN થતું\V_VAUX_VNP રહે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1947	ભારતના\N_NNP અનુસંધાને\N_NN પડોશી\N_NN રાષ્ટ્રો\N_NN પ્રતિ\PSP સીમાઓ\N_NN વધારવાની\V_VAUX_VNP નથી\RP_NEG પરંતુ\CC_CCD સ્વદેશની\N_NN સરહદોમાં\N_NN સુખ\N_NN ,\RD_PUNC શાંતિ\N_NN અને\CC_CCD પ્રગતિ\N_NN સાથે\PSP સાથે\PSP ``\RD_PUNC વિશ્વ\N_NN એક\QT_QTC કુટુંબ\N_NN છે\V_VAUX ``\RD_PUNC એવી\JJ ઉદાત્ત\JJ ભાવનાનું\N_NN નિર્માણ\N_NN કરવાનું\V_VAUX_VNP છે\V_VAUX .\RD_PUNC
+GJPHD1948	આમ\PSP ભારતીય\JJ રાષ્ટ્રીયતા\N_NN અફર\JJ ,\RD_PUNC અટલ\JJ ,\RD_PUNC અતૂટ\JJ ,\RD_PUNC અચલ\JJ અને\CC_CCD અદ્વિતીય\JJ છે\V_VAUX .\RD_PUNC
+GJPHD1949	સમાન\JJ ધ્યેય\N_NN પહેલા\N_NST અને\CC_CCD ભારતીય\JJ છેલ્લા\JJ જોવા\V_VAUX_VNP માગું\V_VM છું\V_VAUX .\RD_PUNC
+GJPHD1950	અને\CC_CCD બીજું\JJ કશું\DM_DMI જ\RP_RPD નહિ\RP_NEG પણ\RP_RPD માત્ર\RP_RPD ભારતીય\JJ જ\RP_RPD જોવા\V_VAUX_VNP માગું\V_VM છું\V_VAUX .\RD_PUNC
+GJPHD1951	``\RD_PUNC એક\QT_QTC વ્યક્તિ\N_NN બીજી\JJ વ્યક્તિ\N_NN પ્રત્યે\PSP આદર\N_NN ,\RD_PUNC પ્રેમ\N_NN ,\RD_PUNC અને\CC_CCD એકતાની\N_NN ઈચ્છા\N_NN દાખવે\V_VM એવી\JJ વૃત્તિનું\N_NN નામ\N_NN ભાતૃભાવ\N_NN કે\CC_CCS ભાઈચારો\N_NN છે\V_VAUX .\RD_PUNC ``\RD_PUNC
+GJPHD1952	``\RD_PUNC ઈશ્વરની\N_NN પવિત્ર\JJ પ્રતિજ્ઞા\N_NN અનુસાર\PSP આપણે\PR_PRP એક\QT_QTC શરીરના\N_NN રૂપમાં\N_NN સાથે\PSP ગૂંથાયેલા\V_VAUX_VNP છીએ\V_VAUX અને\CC_CCD એટલામાટે\PSP જ\RP_RPD આપણે\PR_PRP એકબીજાની\PR_PRC ભલાઈની\N_NN ચિંતા\N_NN કરીએ\V_VM છીએ\V_VAUX .\RD_PUNC
+GJPHD1953	આ\DM_DMD ભાવ\N_NN એ\DM_DMD જ\RP_RPD ભાઈચારાનું\N_NN મૂળ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1954	ભાઈચારાથી\N_NN સામાજિક્તા\N_NN મજબૂત\JJ બને\V_VM છે\V_VAUX અને\CC_CCD તેનાથી\DM_DMD પ્રત્યેક\JJ વ્યક્તિમાં\N_NN એક\QT_QTC એવી\JJ પ્રભાવશાળી\JJ લાગણી\N_NN પેદા\JJ થાય\V_VM છે\V_VAUX કે\CC_CCS .\RD_PUNC
+GJPHD1955	તેને\DM_DMD ભાઈચારાની\N_NN વૃત્તિ\N_NN સહજતાથી\RB સચેત\JJ કરે\V_VM છે\V_VAUX કે\CC_CCS ,\RD_PUNC તે\PR_PRL અન્ય\JJ વ્યક્તિની\N_NN સમાન\JJ છે\V_VAUX જે\PR_PRL બીજાઓનું\JJ સન્માન\N_NN કરે\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1956	બીજાઓનું\JJ કલ્યાણ\N_NN એને\PR_PRP માટે\PSP સ્વાભાવિક\JJ બની\V_VM જાય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1957	``\RD_PUNC રાષ્ટ્રવાદનું\N_NN મૂળ\JJ સ્વરૂપ\N_NN ઉત્તમ\JJ ,\RD_PUNC ઉમદા\JJ ,\RD_PUNC ઉદાર\JJ ,\RD_PUNC ઉપકાર\N_NN ,\RD_PUNC ઉત્તેજન\N_NN ,\RD_PUNC ઉત્સાહ\N_NN ,\RD_PUNC ઉદ્યોગ\N_NN ,\RD_PUNC ઉત્કૃષ્ટ\JJ એમ\PSP અષ્ટ\JJ ઉકારથી\N_NN ઉમંગયુક્ત\JJ હોવું\V_VAUX_VNP આવશ્યક\JJ છે\V_VAUX .\RD_PUNC ``\RD_PUNC
+GJPHD1958	જો\CC_CCD એમ\PSP ન\RP_NEG બની\V_VM શકે\V_VAUX તો\CC_CCD રાષ્ટ્રવાદ\N_NN સંકુચિત\JJ ,\RD_PUNC ઉગ્ર\JJ અને\CC_CCD વિકૃત\JJ બની\V_VM શકે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1959	જ્યારે\N_NST ચિંતનકારના\N_NN મતાનુસાર\N_NN રાષ્ટ્ર\N_NN એટલે\PSP રાષ્ટ્રની\N_NN વાંશિક\JJ પરંપરાની\N_NN અને\CC_CCD સંસ્કૃતિની\N_NN સમજણ\N_NN .\RD_PUNC
+GJPHD1960	બંધુત્વની\N_NN ભાવના\N_NN પર\PSP રાષ્ટ્ર\N_NN રચાય\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1961	આ\DM_DMD બંધુત્વની\N_NN લાગણી\N_NN શું\PR_PRQ છે\V_VAUX ?\RD_PUNC
+GJPHD1962	ટૂંકમાં\N_NN કહીએ\V_VM તો\CC_CCD ,\RD_PUNC તે\DM_DMD એકત્વની\N_NN ભાવનાની\N_NN સંયુક્ત\JJ લાગણી\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1963	ભારતીયતા\N_NN એ\DM_DMD એક\QT_QTC અતૂટ\JJ વિશ્વાસ\N_NN છે\V_VAUX ,\RD_PUNC ભારતીયોની\JJ ઓળખાણ\N_NN છે\V_VAUX ,\RD_PUNC ભારતીયપણાની\N_NN ઉદાત્ત\JJ ભાવના\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1964	તેનો\DM_DMD કોઈ\DM_DMI પણ\RP_RPD ધર્મની\N_NN સાથે\PSP સંબંધ\N_NN નથી\RP_NEG .\RD_PUNC
+GJPHD1965	બસ\PSP !\RD_PUNC પોતાના\PR_PRF દેશના\N_NN કાયદા\N_NN -\RD_PUNC કાનૂન\N_NN કે\CC_CCS બંધારણને\N_NN પૂર્ણપણે\JJ વફાદાર\JJ રહેવું\V_VAUX_VNP .\RD_PUNC
+GJPHD1966	આથી\PSP કોઈ\DM_DMI પણ\RP_RPD વ્યક્તિ\N_NN કોઈ\DM_DMI પણ\RP_RPD મનુષ્ય\N_NN પ્રતિ\PSP અન્યાય\N_NN ,\RD_PUNC દુરાચાર\N_NN ,\RD_PUNC શોષણ\N_NN ન\RP_NEG કરે\V_VM જે\PR_PRL ભારતીય\JJ એકતા\N_NN અને\CC_CCD અખંડિતતાને\N_NN હાનિ\N_NN પહોંચાડે\V_VM .\RD_PUNC
+GJPHD1967	સ્વતંત્રતા\N_NN એ\DM_DMD સમાજ\N_NN વ્યવસ્થાનો\N_NN અતિ\JJ મહત્ત્વનો\JJ એવો\JJ દ્વિતીય\JJ સિદ્ધાંત\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1968	તે\DM_DMD માનવતાવાદી\N_NN ભાવનના\N_NN રૂપે\N_NN એક\QT_QTC જીવંત\JJ શક્તિ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1969	માનવ\N_NN આચરણના\N_NN નિયમોમાંનો\N_NN એક\QT_QTC નિયમ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1970	તે\DM_DMD લોકશાહી\N_NN જનતંત્રની\N_NN આધારશિલા\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1971	તે\DM_DMD એક\QT_QTC વ્યક્તિ\N_NN અને\CC_CCD સમાજ\N_NN વચ્ચે\N_NST સંતુલન\N_NN -\RD_PUNC સમાનતા\N_NN સ્થાપિત\JJ કરવાનું\V_VAUX_VNP મહત્ત્વનું\JJ સાધન\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1972	આથી\PSP દરેક\JJ મનુષ્યે\N_NN સ્વતંત્રતા\N_NN પ્રતિ\PSP સકારાત્મક\JJ દ્રષ્ટિકોણ\N_NN અપનાવવો\V_VAUX_VNP આવશ્યક\JJ છે\V_VAUX .\RD_PUNC
+GJPHD1973	માનવમાત્ર\N_NN એ\DM_DMD રીતે\N_NN પોતાના\PR_PRF કાર્યો\N_NN કરે\V_VM ,\RD_PUNC જેમાં\PR_PRL અન્યોની\JJ ભલાઈ\N_NN પણ\RP_RPD થતી\V_VAUX_VNP હોય\V_VAUX .\RD_PUNC
+GJPHD1974	ખરા\JJ અર્થમાં\N_NN સ્વતંત્રતા\N_NN એટલેકે\CC_CCS ,\RD_PUNC ``\RD_PUNC અન્ય\JJ માનવીઓને\N_NN પોતાની\PR_PRF ગુલામીમાં\N_NN ન\RP_NEG રાખવા\V_VAUX_VNP કે\CC_CCS પછી\PSP પોતે\PR_PRF પણ\RP_RPD અન્યનો\JJ ગુલામ\N_NN ન\RP_NEG રહે\V_VAUX .\RD_PUNC ``\RD_PUNC
+GJPHD1975	સારા\JJ કાર્યો\N_NN મારફત\PSP સ્વતંત્ર\JJ જીવન\N_NN માટે\PSP વ્યક્તિ\N_NN માત્ર\RP_RPD દ્વારા\PSP કરવામાં\V_VAUX_VNP આવતું\V_VAUX_VNP કર્મ\N_NN એ\DM_DMD સ્વતંત્રતા\N_NN કહી\V_VM શકાય\V_VAUX .\RD_PUNC
+GJPHD1976	છતાં\RP_RPD કોઈ\DM_DMI પણ\RP_RPD સ્વતંત્રતા\N_NN નિરંકુશ\JJ કે\CC_CCS અનિયંત્રિત\JJ નથી\RP_NEG હોતી\V_VAUX_VNP .\RD_PUNC
+GJPHD1977	માટે\PSP દરેક\JJ માણસ\N_NN એ\PR_PRP રીતે\N_NN વ્યવહાર\N_NN કરે\V_VM કે\CC_CCS સ્વકાર્યમાં\N_NN સામાજિક\JJ પ્રગતિ\N_NN -\RD_PUNC વિકાસમાં\N_NN તે\DM_DMD મહત્ત્વનું\JJ યોગદાન\N_NN આપી\V_VM શકે\V_VAUX .\RD_PUNC
+GJPHD1978	પ્રત્યેક\JJ માણસ\N_NN સ્વતંત્ર\JJ રહેવામાં\V_VAUX_VNP જ\RP_RPD માનતો\V_VAUX_VNP હોય\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1979	તો\CC_CCD પ્રથમ\QT_QTO તો\RP_RPD તેઓએ\PR_PRP જ\RP_RPD ઉદાર\JJ વાણી\N_NN ,\RD_PUNC વર્તન\N_NN અને\CC_CCD વ્યવહારને\N_NN પ્રાથમિકતા\N_NN આપવી\V_VAUX_VNP જોઈએ\V_VAUX .\RD_PUNC
+GJPHD1980	ઉદાર\JJ સમાજરચના\N_NN પ્રસ્થાપના\N_NN માટે\PSP નિષ્ઠાપૂર્વક\JJ પ્રયત્નો\N_NN કરવા\V_VAUX_VNP આવશ્યક\JJ છે\V_VAUX .\RD_PUNC
+GJPHD1981	તે\DM_DMD માટે\PSP ધર્માન્ધતા\N_NN ,\RD_PUNC પ્રદેશવાદ\N_NN ,\RD_PUNC ધાર્મિક\JJ પાખંડ\N_NN ,\RD_PUNC ઉચ્ચ\JJ નીચના\N_NN ભેદભર્યા\JJ ખોટા\JJ ખ્યાલો\N_NN ,\RD_PUNC સાંપ્રદાયિકતા\N_NN વગેરેનો\PSP ત્યાગ\N_NN કરવો\V_VAUX_VNP અનિવાર્ય\JJ બની\V_VM રહે\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1982	તે\DM_DMD માટે\PSP સદીઓથી\N_NN ચાલી\V_VM આવતી\V_VAUX_VNP દમનની\N_NN પરાકાષ્ઠા\N_NN અને\CC_CCD તે\DM_DMD દ્વારા\PSP ઉત્પન્ન\JJ થયેલી\V_VAUX_VNP ઉદાસીનતા\N_NN -\RD_PUNC નિષ્ક્રિયતા\N_NN વગેરેનો\PSP જડમૂળથી\N_NN ત્યાગ\N_NN કરવો\V_VAUX_VNP જરૂરી\JJ છે\V_VAUX .\RD_PUNC
+GJPHD1983	માનવમાત્રના\N_NN વાણી\N_NN વિચાર\N_NN કે\CC_CCS પછી\PSP કાર્યની\N_NN સ્વતંત્રતાના\N_NN હકને\N_NN રૂંધવામાં\V_VAUX_VNP આવે\V_VAUX તે\DM_DMD આસુરી\JJ વૃત્તિ\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1984	વિચારોનો\N_NN પ્રચાર\N_NN -\RD_PUNC પ્રસાર\N_NN કરો\V_VM ,\RD_PUNC ગામડે\N_NN ગામડે\N_NN જાઓ\V_VM ,\RD_PUNC ઘેર\N_NN ઘેર\N_NN ફરો\V_VM ,\RD_PUNC તોજ\RP_RPD ખરું\JJ કામ\N_NN થશે\V_VM .\RD_PUNC
+GJPHD1985	નહિતર\RP_NEG આત્મસંતુષ્ટ\JJ રહી\V_VM પથારીમાં\N_NN પડ્યા\V_VAUX_VNP પડ્યા\V_VAUX_VNP ઘંટ\N_NN વગાડ્યા\V_VAUX_VNP કરીએ\V_VM એ\DM_DMD તો\RP_RPD ચોખ્ખી\JJ બિમારી\N_NN જ\RP_RPD છે\V_VAUX ,\RD_PUNC મરકી\N_NN જ\RP_RPD છે\V_VAUX .\RD_PUNC
+GJPHD1986	સ્વતંત્ર\JJ થાઓ\V_VM અને\CC_CCD સ્વતંત્ર\JJ નિર્ણય\N_NN લેતા\V_VAUX_VNP શીખો\V_VM .\RD_PUNC
+GJPHD1987	અમે\PR_PRP દુર્બળ\JJ છીએ\V_VAUX ,\RD_PUNC અમે\PR_PRP દીન\JJ છીએ\V_VAUX ,\RD_PUNC આ\DM_DMD બધી\QT_QTF નાસ્તિક્તા\N_NN છે\V_VAUX .\RD_PUNC
+GJPHD1988	હવે\N_NST અમે\PR_PRP નિર્ભય\JJ સ્થિતિ\N_NN પ્રાપ્ત\JJ કરી\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1989	બૌદ્ધધર્મનો\N_NNP પ્રચાર\N_NN અને\CC_CCD પ્રસાર\N_NN તથાગત\JJ ગૌતમ\N_NNP બુદ્ધનો\N_NNP માનવીય\JJ અને\CC_CCD સમાનતાકારી\JJ ધમ્મ\N_NN અને\CC_CCD સંદેશો\N_NN પ્રિયદર્શી\JJ સમ્રાટ\JJ અશોકે\N_NNP ભારતવર્ષ\N_NNP અને\CC_CCD ભારતવર્ષની\N_NNP બહાર\N_NST ફેલાવ્યો\V_VM હતો\V_VAUX .\RD_PUNC
+GJPHD1990	આ\DM_DMD ધમ્મ\N_NN ચીનમાં\N_NNP ઈ.સ.\N_NN પૂર્વે\N_NST બીજા\JJ શતકમાં\QT_QTC પહોંચ્યા\V_VM હતા\V_VAUX .\RD_PUNC
+GJPHD1991	કાશ્મિરમાં\N_NNP વસતા\V_VAUX_VNP એક\QT_QTC બૌદ્ધ\JJ સાધુ\N_NN ``\RD_PUNC કશ્યપ\N_NNP માતંગે\N_NNP ``\RD_PUNC એવું\JJ સ્વપ્નું\N_NN સેવ્યુ\V_VM કે\CC_CCS ,\RD_PUNC તેમની\PR_PRP આસપાસના\N_NST વિસ્તારોમાં\N_NN રહેતી\V_VAUX_VNP પ્રજા\N_NN માત્ર\RP_RPD જ્ઞાનના\N_NN અભાવે\N_NN દુ:ખી\JJ થઈ\V_VM રહી\V_VAUX છે\V_VAUX .\RD_PUNC
+GJPHD1992	અને\CC_CCD મને\PR_PRP ગૌતમ\N_NNP બુદ્ધ\N_NNP આદેશ\N_NN આપે\V_VM છે\V_VAUX કે\CC_CCS તેઓને\PR_PRP ઘમ્મજ્ઞાન\N_NN આપ\V_VM .\RD_PUNC
+GJPHD1993	તે\DM_DMD ભિખ્ખુ\N_NN અસંખ્ય\JJ ઘમ્મગ્રંથો\N_NN લઈને\V_VAUX_VNP હાડ\N_NN થીજવી\V_VM નાખે\V_VM તેવી\JJ ``\RD_PUNC કારાકોરમની\N_NNP ``\RD_PUNC બરફથી\N_NN ઢંકાયેલી\V_VAUX_VNP ગિરિમાળાઓ\N_NN ,\RD_PUNC અનેક\JJ ઘાટો\N_NN ઓળંગીને\V_VAUX_VNP છેક\PSP ``\RD_PUNC ચીન\N_NNP ``\RD_PUNC પહોંચ્યા\V_VM .\RD_PUNC
+GJPHD1994	ત્યાં\N_NST પહોંચીને\V_VAUX_VNP માનવતા\N_NN ,\RD_PUNC સહિષ્ણુતા\N_NN ,\RD_PUNC પ્રેમ\N_NN ,\RD_PUNC ભાઈચારા\N_NN વગેરેથી\PSP યુક્ત\JJ બૌદ્ધધર્મનું\N_NNP સહજ\JJ જ્ઞાન\N_NN આપી\V_VM ઘમ્મનો\N_NN ફેલાવો\N_NN કર્યો\V_VM .\RD_PUNC
+GJPHD1995	જેમાં\PR_PRL અનેક\JJ સદીઓ\N_NN વીતી\V_VM ગઈ\V_VAUX હોવા\V_VAUX_VNP છતાં\RP_RPD પણ\RP_RPD હજુ\N_NST તે\DM_DMD અકબંધ\JJ અતૂટ\JJ છે\V_VAUX .\RD_PUNC
+GJPHD1996	ત્યારબાદ\PSP જાવા\N_NNP ,\RD_PUNC સુમાત્રા\N_NNP તેમજ\CC_CCD બીજી\JJ તરફ\PSP છેક\PSP સીરિયા\N_NNP સુધી\PSP ધમ્મના\N_NN સંસ્કારકાર્યમાં\N_NN મહત્ત્વનું\JJ પ્રદાન\N_NN કર્યું\V_VM .\RD_PUNC
+GJPHD1997	પુરાતત્ત્વ\N_NN સંશોધક\N_NN ``\RD_PUNC બીલના\N_NNP ``\RD_PUNC મતાનુસાર\N_NN બાઈબલના\N_NNP નવા\JJ કરાર\N_NN કરતા\V_VAUX_VNP પણ\RP_RPD ``\RD_PUNC સાતસોગણું\JJ ``\RD_PUNC ભારતવર્ષનું\N_NNP બૌદ્ધ\JJ સાહિત્ય\N_NN ચીની\JJ ભાષામાં\N_NN રચાયું\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1998	ઈ.સ.ની\N_NN સાતમી\QT_QTO સદી\N_NN સુધી\PSP ભારતવર્ષનું\N_NNP બૌદ્ધ\JJ સાહિત્ય\N_NN ચીની\JJ ભાષામાં\N_NN રચાયું\V_VM છે\V_VAUX .\RD_PUNC
+GJPHD1999	ઈ.સ.ની\N_NN સાતમી\QT_QTO સદી\N_NN સુધી\PSP ભારતવર્ષમાંથી\N_NNP બૌદ્ધ\JJ સાધુઓ\N_NN નિયમિતપણે\JJ ચીનમાં\N_NNP જતા\V_VAUX_VNP -\RD_PUNC આવતા\V_VAUX_VNP હતા\V_VAUX .\RD_PUNC
+GJPHD2000	ચીનમાંથી\N_NNP પણ\RP_RPD સતત\JJ આવાગમન\N_NN થતું\V_VAUX_VNP હતું\V_VAUX .\RD_PUNC

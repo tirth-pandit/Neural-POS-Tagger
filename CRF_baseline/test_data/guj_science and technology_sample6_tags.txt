@@ -1,0 +1,99 @@
+તેના_DM_DMD ખેતરાઉ_JJ વિસ્તારનો_N_NN ૪૪૦૦૦_N_NN ચોરસકિલોમીટર_N_NN ક્ષેત્રમાં_N_NN પ્રતિ_PSP ચોરસકિલોમીટર_N_NN ૭૦૦થી_N_NN ૯૦૦_QT_QTC માણસ_N_NN જેટલા_PR_PRL પ્રમાણમાં_N_NN વસ્તીની_N_NN ગીચતા_N_NN સર્જાઈ_V_VM છે_V_VAUX ._RD_PUNC  ._.
+કબૂતર_N_NN માટે_PSP Visual_N_NN field_N_NN દ્રષ્ટિફલક_N_NN ૭૦_QT_QTC અંશથી_N_NN ૮૦_QT_QTC અંશનો_N_NN હોય_V_VAUX એટલું_JJ જ_RP_RPD નહિ_RP_NEG ,_RD_PUNC પણ_RP_RPD ૬૦૦_N_NN મીટર_N_NN છેટેની_N_NN વસ્તુને_N_NN તે_DM_DMD ઓળખી_V_VAUX_VNP લે_V_VAUX ._RD_PUNC  ._.
+હવે_N_NST તો_RP_RPD માઈક્રોવેવ_N_NN સેન્સિંગ_N_NN ઉપગ્રહ_N_NN વિકસાવાઈ_N_NN રહ્યો_V_VAUX છે_V_VAUX અને_CC_CCD તેને_DM_DMD ભ્રમણકક્ષામાં_N_NN મૂકવાનું_N_NN આયોજન_N_NN ચાલી_N_NN રહ્યું_V_VAUX છે_V_VAUX ._RD_PUNC  ._.
+નાઈલની_N_NN શાખા_N_NN ભૂરીનાઈલ_N_NN નદી_N_NN તેના_DM_DMD અંકુશ_N_NN હેઠળ_PSP છે_V_VAUX ._RD_PUNC  ._.
+આ_DM_DMD નુક્શાન_N_NN સરવાળે_PSP જોકે_CC_CCS અનુકૂલનના_N_NN દૃષ્ટિકોણે_N_NN લાભમાં_N_NN ફેરવાયું_V_VM છે_V_VAUX ._RD_PUNC  ._.
+ઘરવપરાશની_N_NN વીજળીના_N_NN પીળા_N_NN વાયર_N_NN જેવી_JJ દેખાતી_V_VAUX_VNP એ_DM_DMD વેલ_N_NN પરોપજીવી_V_VM છે_V_VAUX ._RD_PUNC  ._.
+કલાકો_N_NN બાદ_JJ સૂર્યોદય_N_NN થતાં_V_VAUX_VNP પ્રકાશનાં_N_NN (_RD_SYM ૭૦૦_QT_QTC નેનોમીટરનાં_N_NN )_RD_SYM લાલ_JJ કિરણો_N_NN પ્રસરે_V_VM ,_RD_PUNC એટલે_PSP તેમને_PR_PRP `_RD_PUNC જોતાવેંત_N_NN `_RD_PUNC ફાયટોક્રોમ્સ_N_NN ફરી_V_VM પ્રકાશસંશ્લેષણની_N_NN ક્રિયાને_N_NN સ્વિચ_N_NN -_RD_PUNC ઓન_N_NN કરે_V_VM છે_V_VAUX ._RD_PUNC  ._.
+વિવિધ_JJ અવાજો_N_NN દ્વારા_PSP રિપોર્ટ_N_NN જણાવ્યા_V_VAUX_VNP પછી_PSP રાતવાસો_N_NN પણ_RP_RPD ત્યાં_N_NST જ_RP_RPD કરે_V_VM છે_V_VAUX ._RD_PUNC  ._.
+એ_DM_DMD બન્નેને_N_NN જોડી_V_VM વર્તુળાકાર_N_NN ભાગ_N_NN પર_PSP વિવિધ_JJ પ્રકારની_N_NN ગણતરીઓ_N_NN તથા_CC_CCD માપ_N_NN આંકેલાં_N_NN હતાં_V_VAUX ._RD_PUNC  ._.
+કાજિયાને_QT_QTO તેઓ_PR_PRP દોરી_V_VM બાંધી_V_VAUX તેમજ_CC_CCD ગળામાં_N_NN સાંકડી_N_NN રિંગ_N_NN પહેરાવી_N_NN માછલીના_N_NN શિકાર_N_NN માટે_PSP છોડી_V_VM મૂકે_V_VAUX છે_V_VAUX ._RD_PUNC  ._.
+પ્રદૂષણ_N_NN અને_CC_CCD તેનાથી_DM_DMD થતી_V_VAUX_VNP બીમારીને_N_NN કારણે_PSP કામદારની_N_NN ગેરહાજરી_N_NN અને_CC_CCD તેના_DM_DMD મેડિકલ_N_NN બિલો_N_NN પાછળ_PSP બીજો_JJ એક_QT_QTC અબજ_N_NN ડોલરનો_N_NN ખર્ચ_N_NN -_RD_PUNC ખોટ_N_NN રહેલા_V_VAUX_VNP છે_V_VAUX ._RD_PUNC  ._.
+અને_CC_CCD તે_DM_DMD કારણે_PSP તેમની_DM_DMD ખ્યાતિ_N_NN ઈંગ્લેન્ડ_N_NNP અને_CC_CCD અમેરિકા_N_NNP સુધી_PSP પહોંચી_V_VM ._RD_PUNC  ._.
+આ_DM_DMD છોડના_N_NN એકાદ_JJ પાંદડાં_N_NN પર_PSP વરસાદનું_N_NN ટીપું_N_NN પડે_V_VM તો_RP_RPD માત્ર_RP_RPD એ_PR_PRP નહિ_RP_NEG ,_RD_PUNC પરંતુ_CC_CCD નજીકના_JJ તમામ_JJ અને_CC_CCD વારાફરતી_PSP ત્યારપછીના_N_NN તમામ_JJ પર્ણો_N_NN બીડાય_V_VM છે_V_VAUX ._RD_PUNC  ._.
+આમ_PSP તરંગ_N_NN માટે_PSP તેની_DM_DMD આવૃત્તિ_N_NN એ_DM_DMD તેનો_DM_DMD મૂળભૂત_JJ ગુણધર્મ_V_VM છે_V_VAUX ._RD_PUNC  ._.
+વનસ્પતિને_N_NN આંખ_N_NN ,_RD_PUNC કાન_N_NN ,_RD_PUNC જીભ_N_NN ,_RD_PUNC નાક_N_NN કે_CC_CCS ત્વચા_N_NN નહિ_RP_NEG ,_RD_PUNC છતાં_RP_RPD જ્ઞાનેન્દ્રિયો_N_NN પાંચે_QT_QTC પાંચ_QT_QTC -_RD_PUNC આ_DM_DMD શીર્ષક_N_NN વાંચ્યા_V_VAUX_VNP પછી_PSP સહેજે_PSP અજાણ્યા_N_NN લાગતા_N_NN માહિતીલેખનો_N_NN આરંભ_N_NN કેટલીક_QT_QTF જાણીતી_JJ માહિતી_N_NN સાથે_PSP :_RD_PUNC મનુષ્યને_N_NN તેમજ_CC_CCD મનુષ્યેતર_N_NN પ્રાણી_N_NN -_RD_PUNC પંખીઓને_N_NN ચોતરફી_JJ પર્યાવરણનો_N_NN ચિતાર_N_NN મેળવી_V_VAUX_VNP આપતી_V_VAUX_VNP પાંચ_QT_QTC જ્ઞાનેન્દ્રિયો_N_NN છે_V_VAUX ._RD_PUNC  ._.
+ગેલીલિયોએ_N_NNP તેમાં_DM_DMD ઓર_PSP વધારો_N_NN કરવા_V_VAUX_VNP કમર_N_NN કસી_V_VAUX ._RD_PUNC  ._.
+રામનને_N_NNP વિજ્ઞાન_N_NN પ્રત્યે_PSP ભારે_JJ અભિરૂચિ_N_NN હતી_V_VAUX ._RD_PUNC  ._.
+તેની_DM_DMD નિરીક્ષણશક્તિ_N_NN ભારે_JJ સતેજ_JJ હતી_V_VAUX ._RD_PUNC  ._.
+વિવિધ_JJ વિદ્યાશાખાઓ_N_NN જેવીકે_CC_CCS_UT ખેતીવાડી_N_NN ,_RD_PUNC વનવિજ્ઞાન_N_NN ,_RD_PUNC જળવિજ્ઞાન_N_NN ,_RD_PUNC ભૂ-વિજ્ઞાન_N_NN ,_RD_PUNC સમુદ્ર_N_NN વિજ્ઞાન_N_NN ,_RD_PUNC નગર_N_NN આયોજન_N_NN વગેરે_PSP ક્ષેત્રોના_N_NN સંશોધકો_N_NN અને_CC_CCD વૈજ્ઞાનિકોના_N_NN જ્ઞાન_N_NN કૌશલનો_N_NN પૂરેપૂરો_N_NN ઉપયોગ_N_NN કરવામાં_V_VAUX_VNP આવે_V_VAUX છે_V_VAUX ._RD_PUNC  ._.
+આમ_PSP ભારતનો_N_NNP સમગ્ર_JJ વિસ્તાર_N_NN ૨૨_QT_QTC દિવસમાં_N_NN આવરી_N_NN લેવાતો_N_NN હતો_V_VAUX ._RD_PUNC  ._.
+એ_DM_DMD વખતે_N_NN મુખરજીના_N_NN મનમાં_N_NN રામનનું_N_NNP નામ_N_NN યાદ_N_NN આવ્યું_V_VAUX ._RD_PUNC  ._.
+તે_PR_PRL મહેનતુ_N_NN અને_CC_CCD સખત_N_NN પરિશ્રમ_N_NN કરવામાં_V_VAUX_VNP માનનાર_N_NN માનવી_N_NN હતો_V_VAUX ._RD_PUNC  ._.
+તાજેતરમાં_N_NN હાથ_N_NN ધરાયેલા_N_NN સંશોધનો_N_NN અને_CC_CCD પૃથક્કરણો_N_NN વડે_PSP ૨૦_QT_QTC વર્ષના_N_NN ગાળા_N_NN માટેના_PSP વિવિધ_JJ પર્યાવરણીય_N_NN દૃશ્યાંકનો_N_NN હેઠળ_N_NN વસ્તીનું_N_NN કદ_N_NN ,_RD_PUNC ઉત્પાદન_N_NN ,_RD_PUNC વપરાશ_N_NN અને_CC_CCD અનાજના_N_NN સંગ્રહ_N_NN વિશેની_PSP ગણતરી_N_NN માટેનું_PSP એક_QT_QTC મોડેલ_N_NN ઊભું_V_VM કરી_V_VAUX_VNP શકાયું_V_VAUX છે_V_VAUX ._RD_PUNC  ._.
+શહેરીકરણનું_CC_CCD આ_DM_DMD વલણ_N_NN અત્યાર_N_NST સુધી_PSP વિકાસગામી_JJ વિશ્વમાં_N_NN વધુ_JJ તીવ્ર_JJ બની_V_VM રહ્યું_V_VAUX છે_V_VAUX ._RD_PUNC  ._.
+ભારતમાં_N_NNP અંતરિક્ષ_N_NN યુગના_N_NN પ્રણેતા_N_NN (_RD_SYM સ્વ_N_NN ._RD_PUNC )_RD_SYM ડૉ._N_NN વિક્રમ_N_NN સારાભાઈ_N_NN તથા_CC_CCD રિમોટ_N_NN સેન્સિંગના_N_NN પિતામહ_N_NN સમાન_JJ ડૉ._N_NN પિશારોટી_N_NNP આ_DM_DMD બન્ને_JJ મહાનુભાવોનું_N_NN મુખ્ય_JJ કાર્યક્ષેત્ર_N_NN અમદાવાદ_N_NN હતું_N_NN ._N_NN  ._.
+નીતિનિર્ણાયકો_N_NN માટે_PSP મહત્તમ_JJ પરિણામ_N_NN મેળવવા_V_VAUX_VNP માટે_PSP માત્ર_RP_RPD ૧૯૯૦નો_N_NN દાયકો_N_NN રહ્યો_V_VAUX છે_V_VAUX ._RD_PUNC  ._.
+આ_DM_DMD એજન્સીએ_N_NN સમસ્ત_N_NN દેશની_N_NN તમામ_JJ ઉજ્જડ_N_NN અને_CC_CCD ખરાબાની_N_NN જમીનોનાં_N_NN અને_CC_CCD હિમાચ્છાદિત_JJ વિસ્તારોના_N_NN નકશાઓ_N_NN તૈયાર_JJ કરવાનો_V_VAUX_VNP આવો_JJ જ_RP_RPD એક_QT_QTC બીજો_JJ રાષ્ટ્રીય_JJ પ્રોજેક્ટ_N_NN પૂર્ણ_JJ કર્યો_V_VM છે_V_VAUX ._RD_PUNC  ._.
+પરિણામે_PSP કુલ_JJ વસ્તી_N_NN આજના_JJ હિસાબે_PSP બમણી_JJ થઈ_V_VM જ_RP_RPD જવાની_V_VAUX ._RD_PUNC  ._.
+સૌથી_JJ મોટું_JJ એમ્પરર_N_NN છે_V_VAUX ,_RD_PUNC એટલે_PSP તેને_DM_DMD `_RD_PUNC શહેનશાહના_N_NN `_RD_PUNC અંગ્રેજી_N_NN પર્યાય_N_NN તરીકેનું_PSP બિરુદવાચક_N_NN નામ_N_NN એનાયત_N_NN કરાયું_V_VM છે_V_VAUX ._RD_PUNC  ._.
+ત્યાં_N_NST એમની_PR_PRP પોતાની_PR_PRF નવી_JJ શોધો_N_NN વિશેનાં_N_NN ભાષણો_N_NN સાંભળીને_N_NN લોકો_N_NN મંત્રમુગ્ધ_N_NN બની_V_VM ગયા_V_VAUX ._RD_PUNC  ._.
+ઉત્તરઅમેરિકાનો_N_NN રેટલસ્નેક_N_NN નામનો_N_NN સાપ_N_NN અંધારી_N_NN ગુફામાં_N_NN પોતાના_PR_PRF મસ્તકની_N_NN ત્વચાના_N_NN અમુક_JJ ભાગને_N_NN વરતાતી_N_NN ગરમીના_N_NN આધારે_N_NN ઉંદરને_N_NN `_RD_PUNC દેખી_V_VM `_RD_PUNC શકે_V_VAUX છે_V_VAUX ._RD_PUNC  ._.
+આપણે_PR_PRP ત્યાં_N_NST ભાદરવાએ_N_NN શરૂ_JJ કરીને_V_VAUX_VNP માગશર_N_NN સુધી_PSP કેટલાક_QT_QTF છોડ_N_NN પર_PSP તેના_DM_DMD ગૂંચળાદાર_N_NN જથ્થા_N_NN વધુ_JJ પ્રમાણમાં_N_NN જોવા_V_VAUX_VNP મળે_V_VM છે_V_VAUX ._RD_PUNC  ._.
+દરેક_JJ તાંતણા_N_NN સંસર્ગને_N_NN પોતે_PR_PRF જ_RP_RPD સ્પર્શેન્દ્રિય_N_NN છે_V_VAUX ,_RD_PUNC જે_PR_PRL નજીવા_N_NN સંસર્ગને_N_NN પણ_RP_RPD તરત_PSP પામી_V_VM જાય_V_VAUX છે_V_VAUX ._RD_PUNC  ._.
+ઉપરાંત_PSP પર્ણશાખા_N_NN કમાનાકારે_N_NN જમીન_N_NN તરફ_PSP વળી_V_VAUX_VNP જાય_V_VAUX છે_V_VAUX ,_RD_PUNC માટે_PSP વરસાદી_N_NN પાણીને_N_NN નિતારી_N_NN દેવાનો_N_NN ઉદ્દેશ_N_NN સિદ્ધ_JJ થાય_V_VM છે_V_VAUX ._RD_PUNC  ._.
+મસ્તકમાં_N_NN સેંકડો_QT_QTC લીટરના_N_NN હિસાબે_PSP રહેલો_V_VAUX_VNP Spermaceti_N_NN /_RD_SYM સ્પર્માસેટી_N_NN હતો_V_VAUX ._RD_PUNC  ._.
+વિશ્વના_N_NN વૈજ્ઞાનિકોને_N_NN પોતાની_PR_PRF નૂતન_JJ શોધથી_N_NN પ્રભાવિત_JJ કરનાર_V_VAUX_VNP રામને_N_NN જીવતા_N_NN રહ્યા_V_VAUX ત્યાં_N_NST સુધી_PSP વિજ્ઞાનની_N_NN સેવામાં_N_NN યોગદાન_N_NN આપવાનું_N_NN ચાલુ_JJ રાખ્યું_V_VAUX ._RD_PUNC  ._.
+આમ_PSP ધ્વનિવિજ્ઞાનના_N_NN તેઓ_DM_DMD પ્રકાંડ_N_NN પંડિત_N_NN ગણાવા_N_NN લાગ્યા_V_VAUX ._RD_PUNC  ._.
+એને_DM_DMD લઈને_V_VAUX_VNP અનાજના_N_NN ઉત્પાદનમાં_N_NN એકંદર_PSP ચોખ્ખો_N_NN વધારો_N_NN પ્રતિ_PSP વર્ષ_N_NN એક_QT_QTC ટકા_N_NN કરતાં_V_VAUX_VNP યે_RP_RPD ઓછો_QT_QTF રહે_V_VAUX છે_V_VAUX ._RD_PUNC  ._.
+બીજા_JJ રંગો_N_NN વાતાવરણ_N_NN ,_RD_PUNC ધુમ્મસ_N_NN ,_RD_PUNC વાતાવરણ_N_NN ઊડતી_V_VAUX_VNP રજકણોને_N_NN લઈને_V_VAUX_VNP પેદા_JJ થાય_V_VM છે_V_VAUX ._RD_PUNC  ._.
+તેની_DM_DMD જગ્યા_N_NN બદલાઈ_N_NN નહોતી_RP_NEG ._RD_PUNC  ._.
+બીજું_JJ લીલો_N_NN અને_CC_CCD લીલાશ_N_NN પડતો_V_VAUX_VNP પીળો_N_NN રંગ_N_NN પારખી_V_VAUX_VNP શકે_V_VAUX છે_V_VAUX અને_CC_CCD ત્રીજું_N_NN લાલ_JJ રંગ_N_NN પારખવામાં_N_NN સક્રિય_V_VM છે_V_VAUX ._RD_PUNC  ._.
+વનસ્પતિની_N_NN નેત્રેન્દ્રિયના_N_NN અંગ_N_NN તરીકે_PSP અહીં_N_NST ભલે_PSP આંખ_N_NN નથી_RP_NEG ,_RD_PUNC છતાં_RP_RPD રંગપરખ_N_NN થાય_V_VM છે_V_VAUX ._RD_PUNC  ._.
+(_RD_SYM ૨_QT_QTC )_RD_SYM ભૂસ્તરવિદ્યા_N_NN અને_CC_CCD ભૂસ્વરૂપ_N_NN વિદ્યા_N_NN (_RD_SYM Geomorphology_RD_RDF )_RD_SYM  ._.
+રામને_N_NNP તે_PR_PRL લેખ_N_NN છાપવા_N_NN માટે_PSP લંડનની_N_NN વિજ્ઞાનને_N_NN લગતી_V_VAUX_VNP પત્રિકા_N_NN પ્રસિદ્ધ_JJ કરતી_V_VAUX_VNP સંસ્થામાં_N_NNP મોકલી_V_VM આપ્યો_V_VAUX ._RD_PUNC  ._.
+ફોટોટ્રોપિન્સને_N_NN એ_DM_DMD કિરણો_N_NN નજીકમાં_N_NN ક્યાંક_N_NST પરખાય_N_NN ,_RD_PUNC એટલે_PSP તેઓ_DM_DMD થડ_N_NN -_RD_PUNC દાંડીમાં_N_NN રાસાયણિક_JJ સિગ્નલો_N_NN વહેતાં_V_VAUX_VNP મૂકે_V_VAUX છે_V_VAUX ._RD_PUNC  ._.
+ભવિષ્યમાં_N_NN ,_N_NN ઈજિપ્તે_N_NN હવે_N_NN શું_N_NN પોતાની_N_NN જાતે_N_NN વધુ_N_NN અનાજ_N_NN પેદા_N_NN કરી_N_NN લેવું_N_NN રહ્યું_N_NN ?_N_NN  ._.
+ઉપરોક્ત_N_NN મોડેલમાં_N_NN દર્શાવ્યા_N_NN મુજબ_PSP અનાજના_N_NN ઉત્પાદનમાં_N_NN દર_N_NN એક_QT_QTC ટનની_N_NN ઘટને_N_NN પગલે_N_NN બે_QT_QTC મૃત્યુ_N_NN થાય_V_VM છે_V_VAUX ._RD_PUNC  ._.
+લંબાઈ_N_NN લગભગ_PSP ૨૦_QT_QTC મીટર_N_NN અને_CC_CCD વજન_N_NN આશરે_N_NN ૫૦_QT_QTC મેટ્રિકટન_N_NN હોય_V_VAUX છે_V_VAUX ._RD_PUNC  ._.
+ટકાઉ_RP_INJ -_RD_PUNC શાશ્વત_N_NN વિકાસના_N_NN કેન્દ્રોમાં_N_NN તેઓ_DM_DMD બંને_JJ રહેલા_V_VAUX_VNP છે_V_VAUX ._RD_PUNC  ._.
+વિકાસગામી_JJ વિશ્વમાં_N_NN ચેપી_N_NN રોગોનાં_N_NN ફેલાવાના_N_NN બનાવોમાં_N_NN ઉપરોક્ત_N_NN આંકડાઓનું_N_NN મહત્ત્વ_N_NN પ્રતિબિંબિત_JJ થાય_V_VM છે_V_VAUX ._RD_PUNC  ._.
+છોડને_N_NN ત્યારે_N_NST ખાતરી_N_NN થાય_V_VM છે_V_VAUX કે_CC_CCS શિકાર_N_NN બારીક_JJ કદનો_N_NN નથી_RP_NEG ,_RD_PUNC માટે_PSP સામસામાં_N_NN પાંદડાં_N_NN ૦.૧_N_NN સેકન્ડમાં_N_NN બીડાયા_N_NN પછી_PSP બન્ને_JJ વચ્ચે_N_NST રહી_V_VAUX_VNP જતી_V_VAUX_VNP નજીવી_JJ ફાટ_N_NN દ્વારા_PSP એ_DM_DMD શિકાર_N_NN નીકળી_V_VM શકવાનો_V_VAUX_VNP નથી_RP_NEG ._RD_PUNC  ._.
+પિતા_N_NN પાસે_PSP એટલા_JJ પૈસા_N_NN નહોતા_RP_NEG કે_CC_CCS તેઓ_DM_DMD પુત્રને_N_NN આગળ_PSP ભણાવી_N_NN શકે_V_VAUX ;_RD_PUNC જેથી_PSP ગેલીલિયોને_N_NNP વિશ્વવિદ્યાલયમાંથી_N_NN નીકળી_V_VM જવું_V_VAUX_VNP પડ્યું_V_VAUX ._RD_PUNC  ._.
+રામને_N_NNP ક્યારેય_N_NNP પોતાની_PR_PRF તંદુરસ્તી_N_NN વિશે_N_NN દરકાર_N_NN કરી_V_VAUX_VNP નહોતી_RP_NEG ._RD_PUNC  ._.
+રામન_N_NNP ડેક_N_NN પર_PSP ઊભા_V_VM હતા_V_VAUX ._RD_PUNC  ._.
+આ_DM_DMD રીતે_N_NN ૨,૦૦૦ની_N_NN સાલ_N_NN સુધીમાં_PSP કેટલા_QT_QTF લાખ_N_NN જેટલા_PR_PRL પ્રમાણમાં_N_NN આવી_JJ જાતિ_N_NN -_RD_PUNC પ્રજાતિઓની_N_NN સામે_PSP સમૂળગા_JJ વિનાશનો_N_NN ખતરો_N_NN તોળાયો_V_VM છે_V_VAUX ._RD_PUNC  ._.
+અનેકવિધ_JJ ડેટા_N_NN અને_CC_CCD ફોટોગ્રાફ_N_NN ઈત્યાદિ_PSP જાણકારીનું_N_NN આ_DM_DMD ભૂમિકેન્દ્ર_N_NN અહીં_N_NST જ_RP_RPD પ્રોસેસિંગ_N_NN કરીને_V_VAUX_VNP દેશના_N_NN અને_CC_CCD દેશ_N_NN બહારના_N_NN જુદા_JJ જુદા_JJ ઉપભોક્તાઓને_N_NN તેમની_DM_DMD જરૂરિયાત_N_NN પ્રમાણે_PSP નારસાના_N_NN ડેટા_N_NN કેન્દ્ર_N_NN (_RD_SYM NRSA_RD_RDF DATA_N_NN CENTRE_N_NN -_RD_PUNC NDC_N_NN )_RD_SYM મારફતે_PSP પહોંચાડવામાં_N_NN આવે_V_VM છે_V_VAUX ._RD_PUNC  ._.
+તેને_N_NN જોઈ_N_NN જવા_N_NN પોતાના_N_NN પ્રાધ્યાપક_N_NN શ્રી_N_NN જ્હોન્સને_N_NN વિનંતી_N_NN કરી_N_NN ._N_NN  ._.
+તેમના_DM_DMD શોધ_N_NN -_RD_PUNC સંશોધનનો_N_NN વિષય_N_NN એ_DM_DMD જ_RP_RPD હતો_V_VAUX ._RD_PUNC  ._.
+જમીનનું_N_NN ધોવાણ_N_NN અને_CC_CCD જમીનનું_N_NN રણમાં_N_NN રૂપાંતર_N_NN દર્શાવે_V_VM છે_V_VAUX કે_CC_CCS આ_DM_DMD સમસ્યા_N_NN કૃષિ_N_NN માટેના_PSP અર્ધસામાજિક_JJ માળખાનો_N_NN નોંધપાત્ર_JJ અભાવ_N_NN ,_RD_PUNC ખાસ_JJ કરીને_V_VAUX_VNP તેના_DM_DMD સાધનોના_N_NN પાયાના_N_NN ટેકાના_N_NN અભાવને_N_NN આભારી_JJ છે_V_VAUX ._RD_PUNC  ._.
+કદાચ_PSP તે_PR_PRL ઘટવા_N_NN માંડશે_V_VAUX ._RD_PUNC  ._.
+અચાનક_N_NN તેની_DM_DMD નજર_N_NN એક_QT_QTC તારલા_N_NN પર_PSP સ્થિર_N_NN થઈ_V_VM ._RD_PUNC  ._.
+સરેરાશ_PSP ૪૫૦_N_NN નેનોમીટરનાં_N_NN ભૂરા_N_NN અને_CC_CCD ૭૦૦_QT_QTC નેનોમીટરનાં_N_NN લાલ_JJ પ્રકાશકિરણો_N_NN વચ્ચેનો_JJ ભેદ_N_NN તેઓ_DM_DMD પારખી_V_VAUX_VNP શકે_V_VAUX છે_V_VAUX ._RD_PUNC  ._.
+ધારો_V_VAUX કે_CC_CCS બે_QT_QTC -_RD_PUNC ત્રણ_QT_QTC વખત_N_NN સિગ્નલ_N_NN બદલાયા_N_NN પછી_PSP યે_RP_RPD અખરોટ_N_NN પર_PSP એકે_QT_QTC ય_RP_RPD મોટરનું_N_NN પૈડું_N_NN ફરી_V_VM ન_RP_NEG વળે_V_VM તો_RP_RPD કાગડો_N_NN અખરોટની_N_NN જગ્યા_N_NN બદલે_PSP છે_V_VAUX ._RD_PUNC  ._.
+હવે_N_NST ,_RD_PUNC લાકડાને_N_NN એક_QT_QTC ઊંચા_JJ સ્થાન_N_NN પર_PSP ગોઠવીને_N_NN જુદા_JJ જુદા_JJ પ્રકારની_N_NN ગોળીઓને_N_NN એ_DM_DMD ખાંચામાંથી_N_NN ગબડાવી_N_NN ,_RD_PUNC તેમના_DM_DMD જમીન_N_NN પર_PSP પડવાનો_N_NN નોંધ્યો_V_VAUX ._RD_PUNC  ._.
+બંગાળની_N_NN ખાડીના_N_NN પાણીનો_N_NN રંગ_N_NN ગાઢો_JJ વાદળી_N_NN નથી_RP_NEG ,_RD_PUNC તે_PR_PRL સફેદ_JJ પડતો_V_VAUX_VNP છે_V_VAUX ._RD_PUNC  ._.
+તેણે_PR_PRP યંત્ર_N_NN -_RD_PUNC વિજ્ઞાનની_N_NN પોતાની_PR_PRF શોધ_N_NN -_RD_PUNC રફતાર_N_NN તેજ_N_NN બનાવી_V_VAUX_VNP ,_RD_PUNC કાર્ય_N_NN અને_CC_CCD શક્તિના_N_NN સંબંધ_N_NN વિશે_N_NN કેટલાંક_QT_QTF નવાં_JJ તારણો_N_NN રજૂ_N_NN કર્યાં_V_VAUX ._RD_PUNC  ._.
+આ_DM_DMD શહેરો_N_NN શહેરી_JJ બગાડ_N_NN ,_RD_PUNC ઔદ્યોગિક_JJ પ્રદૂષણ_N_NN સર્જતા_N_NN કચરા_N_NN અને_CC_CCD લોકોના_N_NN ભરાવા_N_NN જેવી_JJ સમસ્યાઓનો_N_NN માંડમાંડ_N_NN ઉકેલ_N_NN લાવી_N_NN રહ્યા_V_VAUX છે_V_VAUX ._RD_PUNC  ._.
+પ્રકાશ_N_NN આકૃતિના_N_NN માધ્યમ_N_NN પર_PSP પડે_V_VM છે_V_VAUX અને_CC_CCD આકૃતિ_N_NN જેવો_JJ પડછાયો_N_NN તૈયાર_JJ થાય_V_VM છે_V_VAUX ._RD_PUNC  ._.
+રામનને_N_NNP `_RD_PUNC ધ્વનિનો_N_NN `_RD_PUNC અભ્યાસ_N_NN કરવાનો_V_VAUX_VNP શોખ_N_NN હતો_V_VAUX ._RD_PUNC  ._.
+આમ_PSP છતાં_RP_RPD તેને_DM_DMD જચી_N_NN ગયેલું_V_VAUX_VNP પ્રિય_N_NN ભોજન_N_NN અખરોટ_N_NN છે_V_VAUX ._RD_PUNC  ._.
+આન્ધ્રપ્રદેશના_V_VAUX અને_CC_CCD અનંતપુર_N_NN જીલ્લામાં_N_NNP મગફળીના_N_NN પાક_N_NN અને_CC_CCD ચોખાના_N_NN ઉત્પાદનના_N_NN વિસ્તારો_N_NN ૧૯૭૪માં_QT_QTC અને_CC_CCD પંજાબના_N_NN ઘઉં_N_NN પકવતા_N_NN પતિયાળા_N_NN જીલ્લાનો_N_NN ૧૯૭૫માં_QT_QTC રિમોટ_N_NN સેન્સિંગથી_N_NN અભ્યાસ_N_NN કરવામાં_V_VAUX_VNP આવ્યો_V_VAUX હતો_V_VAUX ._RD_PUNC  ._.
+કોઈ_PR_PRI વ્યક્તિ_N_NN તેની_DM_DMD બહુ_QT_QTF નજીક_JJ રહીને_V_VAUX_VNP પસાર_JJ થાય_V_VM ત્યારે_N_NST તે_DM_DMD છોડ_N_NN બધાં_QT_QTF પર્ણો_N_NN તત્કાળ_N_NN બીડી_N_NN દે_V_VAUX છે_V_VAUX અને_CC_CCD થોડી_N_NN વાર_N_NN બાદ_PSP ફરી_RB પ્રસારે_V_VM છે_V_VAUX ._RD_PUNC  ._.
+આના_DM_DMD પહેલાં_N_NST કૉપરનિકસે_N_NN પણ_RP_RPD બ્રહ્માંડનાં_N_NN ગ્રહો_N_NN નક્ષત્રો_N_NN વિશે_PSP એક_QT_QTC આગવું_N_NN સંશોધન_N_NN રજૂ_N_NN કરી_V_VAUX_VNP ખગોળ_N_NN વિજ્ઞાનનો_N_NN વિકાસ_N_NN કર્યો_V_VM હતો_V_VAUX ._RD_PUNC  ._.
+રામને_N_NNP પરિશ્રમ_N_NNP કરીને_V_VAUX_VNP સંશોધન_N_NN લેખ_N_NN લખ્યો_V_VM ._RD_PUNC  ._.
+કિલ્લાઓ_N_NN બાંધવામાં_N_NN ,_RD_PUNC લશ્કરી_JJ કામમાં_N_NN એ_DM_DMD સાધન_N_NN વિશેષ_JJ ઉપયોગી_JJ સાબિત_JJ થયું_V_VM ._RD_PUNC  ._.
+મૃતદેહની_N_NN ભાળ_N_NN મેળવીને_V_VAUX_VNP આવેલો_N_NN મહાકાગ_N_NN વહેલી_JJ સવારે_N_NN ટીમનું_N_NN નેતૃત્વ_N_NN લે_V_VM છે_V_VAUX ._RD_PUNC  ._.
+માતાઓની_N_NN કલબ_N_NN જેવી_JJ સ્થાનિક_JJ સંસ્થાઓ_N_NN સાથે_PSP અને_CC_CCD તે_DM_DMD દ્વારા_PSP કામગીરી_N_NN પાર_N_NN પાડવી_V_VAUX ._RD_PUNC  ._.
+આ_DM_DMD સંસ્થા_N_NN મારફતે_PSP ભારત_N_NNP અને_CC_CCD આસપાસના_N_NST પાડોશી_N_NN દેશોના_N_NN ભૂમિસંપત્તિ_N_NN અંગેના_PSP સંશોધન_N_NN કરતા_V_VAUX_VNP વૈજ્ઞાનિકોને_N_NN રિમોટ_N_NN સેન્સિંગથી_N_NN મેળવાયેલા_V_VAUX_VNP ફોટાના_N_NN અર્થઘટન_N_NN કરવાની_V_VAUX_VNP વૈજ્ઞાનિક_N_NN તાલીમ_N_NN આપવાની_V_VAUX_VNP શરૂઆત_N_NN થઈ_V_VM છે_V_VAUX ._RD_PUNC  ._.
+રિમોટ_N_NN સેન્સિંગ_N_NN ટેકનોલોજીનો_N_NN વિકાસ_N_NN ઝડપથી_RB થઈ_V_VM રહ્યો_V_VAUX છે_V_VAUX ._RD_PUNC  ._.
+એમણે_PR_PRP પોતાના_PR_PRF ઘરમાં_N_NN જ_RP_RPD પ્રયોગશાળા_N_NN બનાવી_V_VAUX_VNP અને_CC_CCD એમાં_DM_DMD કામ_N_NN કરતા_V_VAUX_VNP હતા_V_VAUX ._RD_PUNC  ._.
+ગેલીલિયોની_N_NN અભ્યાસ_N_NN તથા_CC_CCD મનન_N_NN કરવાની_V_VAUX_VNP લગની_N_NN એવી_JJ હતી_V_VAUX કે_CC_CCS કોઈ_DM_DMI ડિગ્રી_N_NN વિના_PSP પણ_RP_RPD તેણે_PR_PRP મેળવેલા_V_VAUX_VNP જ્ઞાનની_N_NN વાતો_N_NN ચારે_QT_QTC તરફ_PSP થવા_V_VAUX_VNP લાગી_V_VAUX ._RD_PUNC  ._.
+૧૯૯૦માં_N_NN તેનો_DM_DMD દર_N_NN ૨.૯_QT_QTC ટકા_N_NN છે_V_VAUX ._RD_PUNC  ._.
+૧૯૨૮માં_N_NN એને_DM_DMD સાબિત_JJ કરવા_V_VAUX_VNP માટે_PSP એમણે_PR_PRP પારાના_N_NN દીવાનો_N_NN ઉપયોગ_N_NN કર્યો_V_VM ._RD_PUNC  ._.
+અકબંધ_JJ રહેલી_V_VAUX_VNP ચાંચનો_N_NN ઢગલો_N_NN પણ_RP_RPD આગળ_PSP જાય_V_VAUX છે_V_VAUX ._RD_PUNC  ._.
+આ_DM_DMD કામગીરી_N_NN માટે_PSP રામને_N_NN કેટલાંક_QT_QTF નવાં_JJ યંત્રોની_N_NN પણ_RP_RPD શોધ_N_NN કરી_V_VAUX_VNP હતી_V_VAUX ._RD_PUNC  ._.
+બીજી_JJ રીતે_N_NN જોઈએ_V_VAUX તો_RP_RPD એમ_PSP કહી_V_VM શકાય_V_VAUX કે_CC_CCS માનવ_N_NN સંખ્યામાં_N_NN થતો_V_VAUX_VNP વધારો_N_NN વસ્તીવધારો_N_NN દર_N_NN કરતાં_V_VAUX_VNP વધુ_JJ મહત્ત્વનો_JJ છે_V_VAUX ._RD_PUNC  ._.
+સરેરાશ_PSP ૧૮_QT_QTC મીટર_N_NN (_RD_SYM ૫૯_N_NN ફીટ_N_NN )_RD_SYM લાંબી_JJ અને_CC_CCD ૪૪_N_NN ટન_N_NN જેટલું_JJ વજન_N_NN ધરાવતી_V_VAUX_VNP સ્પર્મવ્હેલને_N_NN નીચલા_JJ જડબામાં_N_NN ૨૦થી_N_NN ૨૫_QT_QTC દાંત_N_NN હોય_V_VAUX છે_V_VAUX ._RD_PUNC  ._.
+તેથી_PSP આટલા_JJ બધા_QT_QTF મોટા_JJ પાયા_N_NN પરના_PSP વસ્તીવધારાને_N_NN ,_RD_PUNC ટૂંકા_JJ ગાળામાં_N_NN સમાવી_V_VM લઈ_V_VAUX_VNP શકે_V_VAUX તેવી_JJ સ્થિતિમાં_N_NN નથી_RP_NEG ._RD_PUNC  ._.
+ગેલીલિયોએ_N_NNP વિચાર્યું_V_VM કે_CC_CCS એ_DM_DMD તારો_PR_PRP જમીનથી_N_NN ખાસ્સો_N_NN દૂર_JJ છે_V_VAUX ._RD_PUNC  ._.
+તેની_DM_DMD વસ્તી_N_NN ૮૫.૩_N_NN કરોડ_N_NN લોકોની_N_NN છે_V_VAUX ._RD_PUNC  ._.
+આ_DM_DMD સમુદ્રી_JJ બરફ_N_NN /_RD_SYM sea_N_NN ice_N_NN એમ્પરર_N_NN પેંગ્વિનનો_N_NN આવાસ_N_NN છે_V_VAUX ._RD_PUNC  ._.
+અહીં_N_NST બેકારી_N_NN અને_CC_CCD અપૂરતી_N_NN રોજીનું_N_NN પ્રમાણ_N_NN કમ_QT_QTC સે_PSP કમ_QT_QTC ૪૦_QT_QTC ટકા_N_NN જેટલું_JJ ઊચું_N_NN રહ્યું_V_VAUX છે_V_VAUX ._RD_PUNC  ._.
+કેમકે_CC_CCS સાધનો_N_NN ઘણાં_QT_QTF સીમિત_JJ છે_V_VAUX અને_CC_CCD આ_DM_DMD બાબત_N_NN નીતિ_N_NN નિર્ધારિત_N_NN કરનારાઓએ_N_NN બરાબર_PSP સમજી_V_VM લેવાની_N_NN જરૂર_N_NN રહી_V_VM છે_V_VAUX ._RD_PUNC  ._.
+એકનો_N_NN સંબંધ_N_NN ભૌતિકવિજ્ઞાન_N_NN સાથે_PSP છે_V_VAUX ,_RD_PUNC બીજાનો_N_NN શરીરવિજ્ઞાન_N_NN અને_CC_CCD ત્રીજાનો_N_NN સંબંધ_N_NN માનવ_N_NN મસ્તિષ્ક_N_NN સાથેનો_PSP છે_V_VAUX ._RD_PUNC  ._.
+સૂર્યોદયના_N_NN પ્રારંભથી_N_NN માંડીને_V_VAUX_VNP સૂર્ય_N_NN બરાબર_PSP પ્રકાશિત_JJ થઈ_V_VM રહે_V_VAUX ત્યાં_N_NST સુધી_PSP તેઓ_DM_DMD સૂર્યને_N_NN અને_CC_CCD આજુબાજુના_N_NN નિસર્ગને_N_NN નિહાળી_N_NN રહેતા_V_VAUX_VNP ._RD_PUNC  ._.
+તેના_DM_DMD સઘળા_N_NN સાધનો_N_NN પણ_RP_RPD અત્રે_PSP જ_RP_RPD બનાવાયા_N_NN હતાં_V_VAUX ._RD_PUNC  ._.
+શારીરિક_JJ વજન_N_NN બધી_QT_QTF સ્પીસિસનાં_N_NN પેંગ્વિનો_N_NN કરતા_N_NN વધારે_N_NN (_N_NN ૪૫_N_NN કિલોગ્રામ_N_NN )_N_NN છે_N_NN ._N_NN  ._.
+ત્યારે_N_NST તે_DM_DMD પરિસ્થિતિ_N_NN ઉલટાવવાનો_N_NN સૌથી_JJ વધુ_JJ ઉત્પાદક_N_NN માર્ગ_N_NN ચોક્કસપણે_JJ વસ્તીવધારામાં_N_NN ઝડપી_V_VM ઘટાડામાં_N_NN રહેલો_V_VAUX_VNP છે_V_VAUX ._RD_PUNC  ._.
+ગેલીલિયોએ_N_NNP બીજો_JJ પ્રયોગ_N_NN કર્યો_V_VM ._RD_PUNC  ._.
