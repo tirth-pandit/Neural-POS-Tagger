@@ -21,9 +21,8 @@ Team Details:
 Overview:
 
 Baseline Model: <br />
-	HMM:<br />
-
-	CRF:
+	HMM<br />
+	CRF
 
 Neural Model:
 	1. Dual Embedding + LSTM
